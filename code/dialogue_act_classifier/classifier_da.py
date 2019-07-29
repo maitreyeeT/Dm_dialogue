@@ -4,14 +4,13 @@ from keras.layers import Dense, Dropout
 from keras.models import Sequential
 from keras.optimizers import Adam
 from keras.callbacks import EarlyStopping
-from sklearn.decomposition import PCA
+from sklearn.decomposition import FastICA
 from sklearn.metrics import confusion_matrix
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
 from gensim.models import KeyedVectors
 import numpy as np
-from dialog_acts import DialogueActSample
+from dataReductionAndSampling import DialogueActSample
 import pandas as pd
-import nltk
 
 class DaClassifier():
     def __init__(self):
@@ -27,15 +26,21 @@ class DaClassifier():
 
         self.utt_we, self.acts_de = [], []
 
-        self.classifier = Sequential([Dense(units=200, activation='relu'),  # input_dim=100-n_removed_cmps,
+        self.classifier = Sequential([Dense(units=300, activation='relu'),  # input_dim=100-n_removed_cmps,
                                       Dropout(.5),
-                                      Dense(units=150, activation='relu'),
+                                      Dense(units=200, activation='relu'),
                                       Dropout(.5),
                                       Dense(units=26, activation='sigmoid')])
+
+        self.transformer = FastICA(n_components=7)
 
     #encodes the classes in the dataset, encoding here:we encode the 20 classes into n-1 or 19 classes.
     # Becuase the classes start at 0. (-1 says that first dimnesion is not
     # known and the second states that the array should be one dimnesion.)
+    #generate the train and test samples for x i.e utterances and y i.e classes
+
+    #first we over and under-sample the features such that we can reduce the bias in the training data
+    #for graphical presentation of data that extract the principle values from the numerical dataset.
 
     def classesEncod(self,sampled_data):
         resampled_annotate = sampled_data
@@ -44,7 +49,6 @@ class DaClassifier():
         classes = self.classes_encoder.fit_transform(classes_int).toarray()
         return classes
 
-    #for graphical presentation of data that extract the principle values from the numerical dataset.
 
     def average_words(self, tokens, noise=0.):
 
@@ -67,10 +71,19 @@ class DaClassifier():
             return mean_we
         else:
             return None
-    #generate the train and test samples for x i.e utterances and y i.e classes
+
+    def pca_transform(self,data, n_removed_cmps):
+        pc_y = self.transformer.transform(data)
+        pc_y[:, :n_removed_cmps] = 0
+
+        x = self.transformer.inverse_transform(pc_y)
+        return x
+
+
     def traintestgenerate(self, df_cleaned):
         classesx = self.classesEncod(df_cleaned)
-        utt = df_cleaned.utterance.values
+        utt = [str(a).lower().strip() for a in df_cleaned.utterance.values]
+
         for i in range(len(utt)):
             u = utt[i]
             a = classesx[i]
@@ -94,16 +107,26 @@ class DaClassifier():
         np.random.shuffle(dataset)
 
         self.utt_we, self.acts_de = dataset[:, :size_utt], dataset[:, size_utt:]
-        perc_train = .5
 
-        idx_train = int(self.utt_we.shape[0] * perc_train)
+        perc_train = .6
 
-        x_train, x_test = self.utt_we[:idx_train, :], self.utt_we[idx_train:, :]
+
+        defaulr_rm_cmps = 1
+
+        transform = self.pca_transform(self.transformer.fit(self.utt_we),defaulr_rm_cmps)
+        utt_we_x = transform(self.utt_we)
+
+        idx_train = int(utt_we_x.shape[0] * perc_train)
+
+        x_train, x_test = utt_we_x[:idx_train, :], utt_we_x[idx_train:, :]
 
         y_train, y_test = self.acts_de[:idx_train, :], self.acts_de[idx_train:, :]
         yield x_train,x_test,y_train,y_test
     #perform the classification and print the log, some metrics to perform the classification is provided here
     #the classification neural layer is defined in the __init__ function.
+
+
+
     def classifier_n(self, frmtraintest):
         data_toClassify = frmtraintest
 
@@ -120,7 +143,7 @@ class DaClassifier():
                                epochs=100,
                                batch_size=10,
                                verbose=2,
-                               callbacks=[])
+                               callbacks=[EarlyStopping(patience=5)])
         # its for logging, and showing results
 
     #analyse the results of the neural network
