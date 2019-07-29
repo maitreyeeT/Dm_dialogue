@@ -7,29 +7,49 @@ import re
 class DialogueActSample():
 
     def __init__(self):
-        self.filepath = '/home/maitreyee/Development/Dm_develop/data/cleaned_corpora_for_DA_annotation2.csv'
-        self.lookups = [('(^.*answer.*$)', 'answer'),('(^.*answe.*$)', 'answer'),('(^.*question.*$)', 'question'),
-                      ('(^.*greeting.*$)', 'greeting'),('(^.*thanking.*$)', 'thanking'),
-                        ('(^.*turn.*$)', 'turnmanagement'), ('(^.*suggest.*$)', 'suggest'),
-                        ('(^.*goodbye.*$)', 'greeting'), ('(^.*agreement.*$)', 'agreement'),('(^.*agree.*$)', 'agreement'),
-                        ('(^.*disagreement.*$)', 'disagreement'), ('(^.*instruct.*$)', 'instruct'),
-                        ('(^.*inform.*$)', 'inform'),('(^.*apology.*$)', 'apology'),('(^.*apologize.*$)', 'apology')
-                      ,('(^.*correct.*$)', 'correction'),('(^.*selfcorrection.*$)', 'correction'),
-                      ('(^.*retraction.*$)', 'correction'),('(^.*decline.*$)', 'reject'),('(^.*accept.*$)', 'accept'),
-                      ('(^.*feedback.*$)', 'feedback'),('(^.*allo.*$)', 'feedback'),('(^.*auto.*$)', 'feedback'),
-                      ('(^.*address.*$)', 'address'),('(^.*opening.*$)', 'interactionstructuring'),
-                      ('(^.*introduction.*$)', 'interactionstructuring'),('(^.*selferror)','error'),
-                      ('(^.*pausing.*$)', 'request'),('(^.*nan.*$)', 'question'),('(^.*completion.*$)', 'correction'),
-                      ('(^.*goodbye.*$)', 'greeting'),('(^.*confirm.*$)', 'confirm'),('(^.*disconfirm.*$)', 'disconfirm')]
+        self.filepath = '/home/maitreyee/Development/Dm_develop/code/dialogue_act_classifier/da_annotation3.csv'
+        self.lookups = [('(^.*answer.*$)', 'answer'),('(^.*answe.*$)', 'answer'),
+                        ('(^.*question.*$)', 'question'),
+                        ('(^.*greeting.*$)', 'socialobligation'),('(^.*thanking.*$)', 'socialobligation'),
+                        ('(^.*goodbye.*$)', 'socialobligation'),('(^.*compliment.*$)', 'socialobligation'),
+                        ('(^.*completion.*$)', 'socialobligation'),
+                        ('(^.*turn.*$)', 'turnmanagement'),
+                        ('(^.*suggest.*$)', 'suggest'),
+                        ('(^.*agreement.*$)', 'accept'),('(^.*agree.*$)', 'accept'),
+                        ('(^.*disagreement.*$)', 'reject'),
+                        ('(^.*instruct.*$)', 'instruct'),
+                        ('(^.*inform.*$)', 'inform'),
+                        ('(^.*apology.*$)', 'apology'),('(^.*apologize.*$)', 'apology')
+                      , ('(^.*correct.*$)', 'correction'),('(^.*selfcorrection.*$)', 'correction'),
+                        ('(^.*retraction.*$)', 'correction'),
+                        ('(^.*elicitation.*$)', 'correction'),
+                        ('(^.*decline.*$)', 'reject'),
+                        ('(^.*accept.*$)', 'accept'),
+                        ('(^.*negative.*$)', 'negativefeedback'),('(^.*allonegative.*$)', 'negativefeedback'),
+                        ('(^.*autonegative.*$)', 'negativefeedback'),
+                        ('(^.*allo.*$)', 'feedback'),
+                        ('(^.*auto.*$)', 'feedback'),
+                        ('(^.*address.*$)', 'accept'),
+                        ('(^.*opening.*$)', 'interactionstructuring'),
+                        ('(^.*interaction.*$)', 'interactionstructuring'),
+                        ('(^.*introduction.*$)', 'interactionstructuring'),
+                        ('(^.*selferror)','error'),('(^.*misspeaking)','error'),
+                        ('(^.*retract)','error'),
+                        ('(^.*nan.*$)', 'error'), ('(^.*error.*$)', 'error'),
+                        ('(^.*pausing.*$)', 'stalling'),
+                        ('(^.*stalling.*$)', 'stalling'),
+                        ('(^.*confirm.*$)', 'confirm'),
+                        ('(^.*disconfirm.*$)', 'disconfirm')]
 
 
 
 
 
     def readAndconvert_data(self):
-        dataset = pd.read_csv(self.filepath, sep=',')
-        dataset['utterance'] = dataset['utterancetext'].astype(str).str.lower()
-        dataset['commfunct'] = dataset['communicativefunction'].astype(str).str.lower().str.strip()
+        dataset = pd.read_csv(self.filepath, sep='\t')
+        dataset['utterance'] = dataset['Utterance text'].astype(str).str.lower().dropna()
+        dataset['commfunct'] = dataset['communicativefunction'].astype(str)\
+            .str.lower().str.strip().dropna()
         return zip(dataset.utterance,dataset.commfunct)
 
 
@@ -49,7 +69,7 @@ class DialogueActSample():
 
 
     def samplingFeatures(self, df):
-        sample_size = 400
+        sample_size = 600
         sampled_clz = []
         reading_df = df
         for clz in reading_df.commfunct.unique():
@@ -75,3 +95,7 @@ if __name__ == '__main__':
     modification.to_csv('./cleaned.csv', sep='\t')
     cleaned = pd.read_csv('./cleaned.csv', sep='\t')
     sampled = classifier.samplingFeatures(cleaned)
+    sampled.commfunct.value_counts().plot.bar()
+    import matplotlib.pyplot as plt
+    plt.show()
+
