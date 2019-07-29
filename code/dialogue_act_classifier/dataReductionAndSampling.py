@@ -42,12 +42,9 @@ class DialogueActSample():
                         ('(^.*disconfirm.*$)', 'disconfirm')]
 
 
-
-
-
     def readAndconvert_data(self):
         dataset = pd.read_csv(self.filepath, sep='\t')
-        dataset['utterance'] = dataset['Utterance text'].astype(str).str.lower().dropna()
+        dataset['utterance'] = dataset['utterance'].astype(str).str.lower().dropna()
         dataset['commfunct'] = dataset['communicativefunction'].astype(str)\
             .str.lower().str.strip().dropna()
         return zip(dataset.utterance,dataset.commfunct)
@@ -69,7 +66,7 @@ class DialogueActSample():
 
 
     def samplingFeatures(self, df):
-        sample_size = 600
+        sample_size = 5000
         sampled_clz = []
         reading_df = df
         for clz in reading_df.commfunct.unique():

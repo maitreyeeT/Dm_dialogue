@@ -1,0 +1,4095 @@
+	utterance	commfunct
+0	good afternoon 	socialobligation
+1	hello 	socialobligation
+2	uh 	turnmanagement
+3	whats your name 	question
+4	my name is gregor linn 	answer
+5	nice to meet you 	socialobligation
+6	nice to meet you 	socialobligation
+7	uh 	turnmanagement
+8	how are you doing today 	question
+9	mh 	turnmanagement
+10	fine 	answer
+11	im doing well too 	inform
+12	uh 	turnmanagement
+13	lets play 	suggest
+14	so first ill tell you the rules 	inform
+15	i am a very famous person 	inform
+16	okay 	feedback
+17	uh 	turnmanagement
+18	you need to guess my name 	instruct
+19	okay 	feedback
+20	you can ask several questions except for one about my name 	instruct
+21	okay 	feedback
+22	you do not have to ask yes or no questions 	instruct
+23	you can also ask open-ended questions 	instruct
+24	okay i understand 	inform
+25	you have ten tries 	inform
+26	and if after ten questions or earlier you guess my name correctly 	inform
+27	you have won the game 	inform
+28	if not youve lost the game 	inform
+29	okay 	feedback
+30	and 	turnmanagement
+31	you should 	instruct
+32	mhm 	turnmanagement
+33	what is it what you answer 	question
+34	uh is 	turnmanagement
+35	is 	correction
+36	uhm 	turnmanagement
+37	could you repeat the questions 	negativefeedback
+38	could you clarify the question 	negativefeedback
+39	uhm 	turnmanagement
+40	are you just saying yes or no or 	question
+41	uh 	turnmanagement
+42	no 	answer
+43	i will if you ask me yes or no question i will say yes or no 	inform
+44	i will 	correction
+45	okay 	feedback
+46	uhm 	turnmanagement
+47	if you ask me a more open-ended question i will try to answer the question 	inform
+48	uh 	turnmanagement
+49	i wont always have an answer to your question though 	inform
+50	okay 	feedback
+51	uhm 	turnmanagement
+52	alright 	interactionstructuring
+53	do you understand the rules 	question
+54	yeah 	confirm
+55	would you like me to repeat anything 	offer
+56	would you 	correction
+57	no 	reject
+58	i think i understood everything 	inform
+59	mh 	turnmanagement
+60	alright 	feedback
+61	alright and one more important thing 	interactionstructuring
+62	and one more important thing 	inform
+63	i will only be female famous people 	inform
+64	uh 	turnmanagement
+65	ah okay 	feedback
+66	mhm 	feedback
+67	alright 	feedback
+68	alright uh 	turnmanagement
+69	uh 	stalling
+70	so lets start 	suggest
+71	what is your first question 	question
+72	are you still alive 	question
+73	no i am not 	answer
+74	mhm 	turnmanagement
+75	uhm 	turnmanagement
+76	uh 	turnmanagement
+77	are you from germany 	question
+78	no i am not from germany 	answer
+79	uhm 	turnmanagement
+80	are you from america 	question
+81	no i am not from america 	answer
+82	uh 	turnmanagement
+83	what were you doing when you were alive 	question
+84	ehm 	turnmanagement
+85	let me think for a minute 	stalling
+86	uhm 	turnmanagement
+87	i was 	answer
+88	i was a princess 	answer
+89	i was 	correction
+90	when i was alive 	answer
+91	and where are you from 	question
+92	i am from england 	answer
+93	okay 	feedback
+94	uhm 	turnmanagement
+95	uh 	turnmanagement
+96	where did you die 	question
+97	just a second 	turnmanagement
+98	uhm 	turnmanagement
+99	i died in paris 	answer
+100	mhm 	feedback
+101	uhm 	turnmanagement
+102	uhm 	turnmanagement
+103	you are princess diana 	inform
+104	uh 	turnmanagement
+105	yes 	confirm
+106	that is the correct answer 	inform
+107	good job 	feedback
+108	okay 	feedback
+109	okay 	turnmanagement
+110	right 	turnmanagement
+111	im starting off from above the caravan park 	interactionstructuring
+112	above 	correction
+113	mmhmm 	feedback
+114	okay 	turnmanagement
+115	mmhmm 	feedback
+116	right 	turnmanagement
+117	and were going to go straight down south 	instruct
+118	straight 	correction
+119	with the caravan park on your right-hand side 	instruct
+120	okay 	accept
+121	okay 	turnmanagement
+122	and youre going to go down and then youre going to do a u shape 	instruct
+123	uh-huh 	accept
+124	and were going to come up 	instruct
+125	and were going to have the old 	instruct
+126	ehm 	turnmanagement
+127	are we just going 	question
+128	are we going to go below the picket fence 	question
+129	are we going 	correction
+130	below what 	negativefeedback
+131	the picket 	answer
+132	picket fence 	question
+133	picket fence 	feedback
+134	i dont have one so 	inform
+135	i would say 	inform
+136	whereabouts is the picket fence 	question
+137	picket fence is below the mill wheel 	answer
+138	which is below the caravan park 	inform
+139	right okay 	turnmanagement
+140	well you want to have the old mill on your right-hand side so 	instruct
+141	if that fence is below the old mill you want to keep that on your right-hand side 	instruct
+142	if that fence is below the old mill 	instruct
+143	okay 	accept
+144	okay 	turnmanagement
+145	so youre come up and then youre come above the old mill 	instruct
+146	and turn r-- 	instruct
+147	old mill 	feedback
+148	old mill 	feedback
+149	oh right ive just got the mill wheel 	inform
+150	mill 	correction
+151	youve only got a mill wheel 	feedback
+152	right okay 	feedback
+153	uh-huh 	feedback
+154	but continue past that 	instruct
+155	so im going down below the picket fence 	question
+156	right 	turnmanagement
+157	weve come down from a caravan park and were doing a u shape 	instruct
+158	mmhmm 	feedback
+159	mmhmm 	feedback
+160	okay 	feedback
+161	and then youre going to proceed north 	instruct
+162	right 	correction
+163	hang on 	stalling
+164	wheres the shape 	question
+165	just underneath the mill 	question
+166	just underneath the caravan park 	question
+167	no no 	answer
+168	yeah 	answer
+169	right 	feedback
+170	the caravan park is directly above the base of the u 	inform
+171	above 	correction
+172	above 	feedback
+173	the 	correction
+174	right 	feedback
+175	okay right right right 	feedback
+176	right okay 	feedback
+177	and youre come up 	instruct
+178	and the old mill 	inform
+179	well my old mill is going to be on the right 	inform
+180	so your mill wheel and the picket fence is going to be on the right-hand side 	inform
+181	right 	accept
+182	okay 	correction
+183	uh-huh 	feedback
+184	so you come up to above the old mill 	instruct
+185	uh-huh 	accept
+186	just above the old mill 	instruct
+187	and then turn right 	instruct
+188	slightly sort of ten degrees or something 	instruct
+189	and turn east 	instruct
+190	right 	accept
+191	okay 	correction
+192	okay 	feedback
+193	s-- 	turnmanagement
+194	below 	question
+195	eh 	stalling
+196	do i go below the forest then 	question
+197	laugh 	feedback
+198	hombre 	feedback
+199	laugh 	feedback
+200	i dont have a forest 	inform
+201	wheres abouts the forest 	question
+202	ehm 	turnmanagement
+203	its below the abandoned cottage and above the fenced meadow 	answer
+204	below the abandoned cottage 	feedback
+205	cottage 	socialobligation
+206	okay 	feedback
+207	well you want to go round the outside of that 	instruct
+208	you want to proceed to that east 	instruct
+209	right 	correction
+210	uh-huh 	feedback
+211	from where youve got that forest turn up north with the forest on your left-hand side 	instruct
+212	uh-huh 	feedback
+213	right 	feedback
+214	oh 	feedback
+215	so i go 	question
+216	so i go below the forest then 	question
+217	yeah 	confirm
+218	go below the forest yeah 	instruct
+219	right 	accept
+220	right 	accept
+221	and then turn and keep it on your left-hand side 	instruct
+222	and the abandoned cottage 	inform
+223	right 	accept
+224	okay 	correction
+225	uh-huh 	feedback
+226	and then when you get to the abandoned cottage 	instruct
+227	do a slight sort of c shape round the top of the abandoned cottage 	instruct
+228	uh-huh 	feedback
+229	uh-huh 	feedback
+230	okay 	correction
+231	uh-huh 	feedback
+232	and then _ nonvocal _ 	instruct
+233	past the in between the monument and the cottage 	question
+234	right 	accept
+235	uh-huh 	feedback
+236	mmhmm 	feedback
+237	right 	turnmanagement
+238	and then turn that c shape right 	instruct
+239	so youre coming down 	instruct
+240	come slightly down sort of south 	instruct
+241	mmhmm 	accept
+242	southwest or just slightly 	correction
+243	and then youre going to pass above a fenced meadow 	instruct
+244	have a fenced meadow 	question
+245	and my fenced meadow is away down the right-hand corner below the forest 	answer
+246	so you only have one fenced meadow 	question
+247	uh-huh 	answer
+248	right okay 	feedback
+249	well just continue on that right youve done that c shape 	instruct
+250	right 	turnmanagement
+251	and as if youre going to do a very wide u 	instruct
+252	now 	instruct
+253	okay 	correction
+254	right okay 	feedback
+255	and just ignore if youve not got a fenced meadow there 	instruct
+256	then thats okay 	instruct
+257	inbreath 	turnmanagement
+258	right theres nothing on my left 	inform
+259	theres nothing to my left of the abandoned cottage 	inform
+260	theres 	correction
+261	right okay right 	feedback
+262	but just do that c 	instruct
+263	that c 	correction
+264	the c over the cottage 	question
+265	yeah 	answer
+266	right 	accept
+267	and then turn round and almost in a sort of big wide u and go back up again 	instruct
+268	right 	accept
+269	uh-huh 	accept
+270	and youre come up and youre have a west lake 	instruct
+271	right 	turnmanagement
+272	uh-huh 	turnmanagement
+273	right 	feedback
+274	so youre almost follow the course of that right that west lake to the east 	instruct
+275	the east side of it 	instruct
+276	youre follow the course of it 	instruct
+277	the course 	correction
+278	just 	turnmanagement
+279	just coming in at the base of it then 	question
+280	just 	correction
+281	yeah 	confirm
+282	just at the base and then follow the course of it round sort of an s shape 	instruct
+283	an s 	correction
+284	as if its a very very big wide u 	question
+285	so im avoid som-- 	question
+286	yeah 	confirm
+287	so that i 	question
+288	so im avoiding something at the p-- 	question
+289	well youve got a trig point 	question
+290	do you have a trig point 	question
+291	no 	answer
+292	no 	question
+293	no 	answer
+294	right 	feedback
+295	so in between your west lake theres a trig point 	inform
+296	ah 	error
+297	theres a trig point 	correction
+298	right 	correction
+299	right 	feedback
+300	so youre going to do a sort of 	instruct
+301	and just follow the contour of that lake round 	instruct
+302	okay 	correction
+303	mmhmm 	feedback
+304	until youre almost at the top of the east hand coast 	instruct
+305	right 	correction
+306	mmhmm 	feedback
+307	and then turn back round again in another sort of c or top of the u 	instruct
+308	mmhmm 	accept
+309	right 	turnmanagement
+310	and then youre come straight down at forty-five degrees 	instruct
+311	mmhmm 	accept
+312	sort of southeast 	instruct
+313	see see 	turnmanagement
+314	sorry 	apology
+315	where i leave the top the east of the west lake 	question
+316	right 	confirm
+317	im doing a c shape 	question
+318	and am i going over the top of the farmed land 	question
+319	youre going over the 	instruct
+320	no no no 	answer
+321	youre staying well below that 	instruct
+322	oh right 	feedback
+323	so in between it 	instruct
+324	would be in between farmed land and i have a trig point 	instruct
+325	okay 	accept
+326	right 	feedback
+327	okay 	turnmanagement
+328	so its just above the 	inform
+329	just at the 	correction
+330	just before the tip of that west lake 	inform
+331	just before the tip 	error
+332	but just at that east coast 	contradict
+333	just at that east coast 	error
+334	right 	correction
+335	okay fine right 	feedback
+336	yeah 	correction
+337	uh-huh 	feedback
+338	and come round so youre between 	instruct
+339	youre well a good wee distance below that farmed land 	instruct
+340	okay 	correction
+341	alright 	feedback
+342	then youre come straight down at that forty-five degrees 	instruct
+343	right okay 	correction
+344	and youre going to come to a monument 	instruct
+345	right yeah uh-huh 	accept
+346	if you proceed straight down at like forty-five sort of an inverse relationship line 	instruct
+347	uh-huh 	turnmanagement
+348	uh-huh _ uh-huh 	turnmanagement
+349	okay 	correction
+350	right 	turnmanagement
+351	you come to that monument 	instruct
+352	right 	accept
+353	and turn round that monument in a u shape 	instruct
+354	eh er 	turnmanagement
+355	just underneath it then 	question
+356	yeah 	answer
+357	right 	accept
+358	yeah 	answer
+359	keeping the monument on your inside 	instruct
+360	right okay 	accept
+361	okay 	feedback
+362	and then above the monument i have a nuclear test site 	inform
+363	well 	error
+364	i have 	correction
+365	no i dont 	accept
+366	no you dont 	feedback
+367	right okay 	feedback
+368	er 	turnmanagement
+369	what you want is a very slight s-shaped curve just above the monument 	instruct
+370	right 	correction
+371	okay 	feedback
+372	well just curve round 	instruct
+373	you have the monument dont you 	question
+374	yeah 	answer
+375	right well just come round that monument slightly then 	instruct
+376	okay 	accept
+377	and then go straight up north 	instruct
+378	straight up 	correction
+379	okay 	accept
+380	ive got a golf course 	inform
+381	whereabouts 	question
+382	ehm 	turnmanagement
+383	above and to the left of the monument 	answer
+384	above and to the left 	feedback
+385	theres a s-- 	turnmanagement
+386	theres a space between the golf course and the monument 	inform
+387	but its above and to the left just below east lake 	inform
+388	okay 	feedback
+389	you want to keep the golf course on your left-hand side 	instruct
+390	okay 	accept
+391	well thats on my left-hand side 	inform
+392	uh-huh same here 	accept
+393	yeah 	feedback
+394	duhhh laugh 	feedback
+395	laugh 	feedback
+396	right 	turnmanagement
+397	so you want to keep that on your left-hand side 	instruct
+398	right 	turnmanagement
+399	and you come up to just below the 	instruct
+400	see 	turnmanagement
+401	see this nuclear station 	inform
+402	yeah 	feedback
+403	ehm 	turnmanagement
+404	could you 	request
+405	thatll be 	inform
+406	youre going to come up north between the golf course and the nuclear test site 	instruct
+407	going 	correction
+408	between those two 	feedback
+409	right 	accept
+410	yes so youre come between it 	instruct
+411	so is the nuclear thing slightly to the right of the monument 	question
+412	yeah 	answer
+413	slightly to the right of the monument 	feedback
+414	and above it 	question
+415	right okay 	feedback
+416	and above 	feedback
+417	im with you 	feedback
+418	right 	feedback
+419	right 	feedback
+420	right 	feedback
+421	and youre come up and then youve got the bottom of the east lake 	instruct
+422	mmhmm 	accept
+423	and then follow that to the left 	instruct
+424	mmhmm 	accept
+425	just until youre past the tip of the base 	instruct
+426	mmhmm 	accept
+427	and thats you finished 	interactionstructuring
+428	right 	accept
+429	and it doesnt look as though it looks anything 	inform
+430	what 	negativefeedback
+431	no no 	feedback
+432	so where are you in china now 	question
+433	ehm 	turnmanagement
+434	mm 	answer
+435	er 	turnmanagement
+436	is it i know its at the bottom of the east lake 	answer
+437	i dont know whether its 	inform
+438	its actually kathmandu 	inform
+439	finished 	interactionstructuring
+440	he only wants to 	inform
+441	finito 	interactionstructuring
+442	right 	turnmanagement
+443	nonvocal 	feedback
+444	go south and youll pass some cliffs on your right 	instruct
+445	okay 	accept
+446	yeah 	accept
+447	and keep going down south 	instruct
+448	mmhmm 	accept
+449	past a forge on your right 	instruct
+450	past a what 	question
+451	a forge 	answer
+452	well 	turnmanagement
+453	nonvocal keep going down 	instruct
+454	right 	turnmanagement
+455	and then loop towards the east 	instruct
+456	underneath what wheatfields 	question
+457	so i go straight 	question
+458	not as far down as that 	confirm
+459	not as far down as that 	feedback
+460	no 	feedback
+461	right 	accept
+462	and do a loop 	feedback
+463	and do a loop 	feedback
+464	and then start going back up again 	instruct
+465	youre going northeast 	instruct
+466	right 	accept
+467	right 	feedback
+468	you theres a 	question
+469	and am i come like between these cliffs and pine or 	question
+470	oh 	feedback
+471	you past the pine 	answer
+472	pines on your right 	inform
+473	right 	feedback
+474	okay 	accept
+475	and go up past it 	instruct
+476	til youre just above the top of the pine 	instruct
+477	right 	feedback
+478	okay 	accept
+479	and then east again 	instruct
+480	east again 	feedback
+481	east again 	feedback
+482	right 	feedback
+483	okay 	accept
+484	right 	turnmanagement
+485	sorry 	apology
+486	right 	feedback
+487	right 	feedback
+488	right 	turnmanagement
+489	east 	instruct
+490	sort of for a wee bit 	inform
+491	um 	turnmanagement
+492	and then start going southeast 	instruct
+493	right 	feedback
+494	okay 	accept
+495	pine forest on your way 	inform
+496	ehm 	turnmanagement
+497	yeah thats right 	accept
+498	uh-huh 	accept
+499	right 	feedback
+500	right okay 	accept
+501	til you get to just underneath pine forest 	instruct
+502	right 	accept
+503	and then start going south 	instruct
+504	okay 	accept
+505	and then go east again 	instruct
+506	and 	turnmanagement
+507	you loop round about a bakery 	instruct
+508	yeah 	accept
+509	right 	feedback
+510	im going east underneath the bakery 	question
+511	underneath the bakery 	confirm
+512	right 	feedback
+513	uh-huh right 	feedback
+514	okay 	accept
+515	and coming back round towards the west 	instruct
+516	whoa whoa 	negativefeedback
+517	wait a minute 	stalling
+518	right 	feedback
+519	im coming down by the pine forest 	inform
+520	im going right straight down 	inform
+521	right 	accept
+522	straight down 	correction
+523	and then you s-- 	question
+524	til youre not 	inform
+525	til youre at the top of the bakery 	inform
+526	ah right 	feedback
+527	right 	feedback
+528	sorry 	apology
+529	right 	feedback
+530	okay 	accept
+531	and loop round a bit until youre underneath it 	instruct
+532	right 	turnmanagement
+533	and then west 	instruct
+534	right 	feedback
+535	okay right got that 	accept
+536	right 	feedback
+537	and then down south 	instruct
+538	okay 	accept
+539	and theres a crane bay 	inform
+540	yeah 	accept
+541	thats it 	question
+542	right 	confirm
+543	uh-huh 	feedback
+544	and its got a 	inform
+545	can you curve 	question
+546	follow the curve of crane bay 	instruct
+547	yeah 	answer
+548	right 	accept
+549	so youre going west 	question
+550	uh-huh 	accept
+551	yep 	confirm
+552	right 	turnmanagement
+553	and then youre going southwest 	instruct
+554	um 	turnmanagement
+555	mmhmm 	accept
+556	between the wheatfields and the warehouse 	inform
+557	between the two of them 	inform
+558	right 	feedback
+559	okay 	accept
+560	right 	feedback
+561	youre going 	instruct
+562	yep 	turnmanagement
+563	and then like go west 	instruct
+564	right 	accept
+565	so youre between them 	question
+566	between them 	correction
+567	between them 	feedback
+568	um 	turnmanagement
+569	right 	feedback
+570	mmhmm 	feedback
+571	okay 	accept
+572	and then southwest towards the edge of the map 	instruct
+573	right 	feedback
+574	okay 	accept
+575	right 	feedback
+576	and then south 	instruct
+577	mm 	feedback
+578	right 	accept
+579	and then youre going east 	instruct
+580	um 	turnmanagement
+581	you come to the lighthouse 	instruct
+582	so right down past the caves 	question
+583	until you 	instruct
+584	then go east until you get to the lighthouse 	instruct
+585	right 	feedback
+586	okay 	accept
+587	right 	feedback
+588	thats the end 	inform
+589	above or below 	question
+590	laugh 	feedback
+591	at the side 	answer
+592	laugh 	feedback
+593	now youre starting above the diamond mine 	instruct
+594	ehm 	turnmanagement
+595	mmhmm 	feedback
+596	and the desert is below to your left 	inform
+597	er 	turnmanagement
+598	uh-huh 	feedback
+599	right 	interactionstructuring
+600	now go south from the diamond mine 	instruct
+601	go … go	stalling
+602	until you are	stalling
+603	go until you are still above the desert 	instruct
+604	okay 	correction
+605	okay 	feedback
+606	now if you tell me whats to your right 	request
+607	what's to your right 	question
+608	ehm 	turnmanagement
+609	the canoes 	answer
+610	canoes 	feedback
+611	a fast running creek 	answer
+612	a fast running creek 	feedback
+613	um 	turnmanagement
+614	and do you have a graveyard 	question
+615	no 	answer
+616	do you have a carved wooden pole in this area 	question
+617	right away down the very bottom 	answer
+618	right okay 	feedback
+619	now go right from the diamond mine 	instruct
+620	go … go	stalling
+621	okay 	feedback
+622	okay 	interactionstructuring
+623	and … ehm	turnmanagement
+624	and now youve got to pass 	instruct
+625	there's actually a graveyard to the right of the diamond mine 	inform
+626	on my map 	inform
+627	below it 	question
+628	no 	answer
+629	on the same level as the diamond mine 	inform
+630	mm 	feedback
+631	and so you're gonna pass by the graveyard as well 	instruct
+632	you're pa-- you're gonna  pass 	correction
+633	mm 	feedback
+634	and then you're going to go up and over the top of the fa--	instruct
+635	uh 	turnmanagement
+636	what i've got is a fast flowing river 	inform
+637	mmhmm 	feedback
+638	you have a fast running creek 	question
+639	fast running creek 	confirm
+640	where is that on a level with the diamond mine or is it _ slightly below 	question
+641	its just slightly above 	answer
+642	slightly above 	feedback
+643	right 	interactionstructuring
+644	well i've got a fast flowing river here 	inform
+645	so what you'd best to do is go along past the bottom 	suggest
+646	okay sorry 	apology
+647	go along to your right and veer slightly upwards 	instruct
+648	as you reach the creek 	instruct
+649	mmhmm 	feedback
+650	and then go over and round the creek to your right 	instruct
+651	and then ehm 	turnmanagement
+652	do you have an apache camp 	question
+653	uh-huh 	answer
+654	right 	interactionstructuring
+655	see when youre over the top of the fast or your creek or the river that ive got here when you're over the top of that and vertically in line with the apache camp go south 	instruct
+656	mmhmm 	feedback
+657	in line vertically in line 	correction
+658	mmhmm 	feedback
+659	until just above the apache camp 	instruct
+660	okay 	feedback
+661	right 	interactionstructuring
+662	ehm 	turnmanagement
+663	when you reach the apache camp do you have a walled city 	question
+664	right away on the far left 	answer
+665	right 	feedback
+666	well you're going to go from above the apache camp to the walled city 	instruct
+667	but you've got to avoid a carved wooden pole 	instruct
+668	which in my map is slightly above the level of the apache camp 	inform
+669	no this is vertically in line with the walled city below it 	correction
+670	right 	feedback
+671	okay so 	interactionstructuring
+672	right 	interactionstructuring
+673	ive got one of them as well 	inform
+674	right 	feedback
+675	so but there's another one a carved wooden pole here which is halfway between the walled city and the apache camp 	contradict
+676	okay 	correction
+677	mmhmm 	feedback
+678	but slightly above the level of the apache camp 	inform
+679	so id be better to go underneath it right 	question
+680	uh-huh 	confirm
+681	so you've got so you're going	correction
+682	so you're going from above the apache camp the carved wooden pole and over the top of the walled city 	instruct
+683	and then when you reach the far si-your left-hand side of the walled city travel southwards 	instruct
+684	the far si-your left-hand side 	correction
+685	until you come to the level of some flat rocks 	instruct
+686	uh-huh 	feedback
+687	and go bel-- 	instruct
+688	do you have a stone creek 	question
+689	uh-huh 	answer
+690	right 	interactionstructuring
+691	so what i want you to do is go between the flat rocks and the stone creek 	instruct
+692	but do you have anything between the walled city and the carved wooden pole 	question
+693	ghost town 	answer
+694	a ghost town 	feedback
+695	so you're going to 	instruct
+696	thats not on my map 	inform
+697	you've got to avoid that i think 	instruct
+698	okay 	feedback
+699	so go south down past the walled city underneath your ghost town 	instruct
+700	and then slightly up 	instruct
+701	sort of northeast direction between the flat rocks and the stone creek 	instruct
+702	between well it'd be better if i between the walled city and the ghost town not to go underneath it 	suggest
+703	above it 	suggest
+704	or have you got something else there 	question
+705	ive not got anything between the carved wooden pole and the walled city 	answer
+706	but the map shows a c-shaped curve 	contradict
+707	a curve a c-shaped curve 	correction
+708	right 	accept
+709	score that out 	accept
+710	right 	feedback
+711	right 	interactionstructuring
+712	and then slightly up underneath the flat rocks and above the stone creek 	instruct
+713	right 	feedback
+714	okay 	interactionstructuring
+715	then go slightly to your right beyond the flat rocks 	instruct
+716	until you are above the level of the buffalo 	instruct
+717	so i'll be avoiding the saloon bar 	question
+718	i don't have a saloon bar 	inform
+719	i've got here 	inform
+720	right 	interactionstructuring
+721	okay 	interactionstructuring
+722	so avoid the saloon bar 	instruct
+723	right 	feedback
+724	and 	turnmanagement
+725	and ehm	stalling
+726	then right then  	interactionstructuring
+727	ehm 	turnmanagement
+728	just straight down to the right of the buffalo 	instruct
+729	to the right 	feedback
+730	so that you're on the right of the buffalo 	instruct
+731	you're you're 	stalling
+732	right 	feedback
+733	okay 	interactionstructuring
+734	and go underneath the buffalo 	instruct
+735	now do you have a cattle ranch 	question
+736	no 	answer
+737	ehm 	turnmanagement
+738	do you have a fort 	question
+739	mmhmm 	answer
+740	so you're goin- go from the buffalo to the fort 	instruct
+741	going- go	correction
+742	but you've got to avoid the cattle ranch on the way 	instruct
+743	and you'll have to go up and over the top of the cattle ranch 	instruct
+744	right 	feedback
+745	which on my map is halfway between the buffalo and the fort 	inform
+746	okay 	correction
+747	right 	feedback
+748	that on the level between the fort 	question
+749	ehm 	turnmanagement
+750	it's almost on level with the fort 	confirm
+751	but it's slightly higher than the fort 	contradict
+752	so 	question
+753	so you need to go up on a sort of hill 	instruct
+754	be go up 	correction
+755	mmhmm 	feedback
+756	over the cattle ranch underneath buffalo or over the cattle ranch 	instruct
+757	right 	feedback
+758	then underneath the fort 	instruct
+759	under the fort 	question
+760	underneath the fort uh-huh 	confirm
+761	and come out at the left-hand side of the fort 	instruct
+762	and finishing not beside but on the same level as the carved wooden pole 	contradict
+763	ehm 	turnmanagement
+764	the base of the carved wooden pole 	instruct
+765	woode-- wooden 	correction
+766	right 	feedback
+767	okay  	inform
+768	that's you finished 	inform
+769	okay 	feedback
+770	good afternoon 	socialobligation
+771	hello 	socialobligation
+772	uh 	turnmanagement
+773	whats your name 	question
+774	my name is gregor linn 	answer
+775	nice to meet you 	feedback
+776	nice to meet you 	socialobligation
+777	uh 	turnmanagement
+778	how are you doing today 	question
+779	mh 	turnmanagement
+780	fine 	answer
+781	im doing well too 	inform
+782	uh 	turnmanagement
+783	lets play 	suggest
+784	so first ill tell you the rules 	interactionstructuring
+785	i am a very famous person 	inform
+786	okay 	feedback
+787	uh 	turnmanagement
+788	you need to guess my name 	instruct
+789	okay 	feedback
+790	you can ask several questions except for one about my name 	instruct
+791	okay 	feedback
+792	you do not have to ask yes or no questions 	instruct
+793	you can also ask open-ended questions 	instruct
+794	okay i understand 	feedback
+795	you have ten tries 	inform
+796	and if after ten questions or earlier you guess my name correctly 	inform
+797	you have won the game 	inform
+798	if not youve lost the game 	inform
+799	okay 	feedback
+800	and 	turnmanagement
+801	you should 	instruct
+802	mhm 	turnmanagement
+803	what is it what you answer 	question
+804	uh is 	turnmanagement
+805	is 	correction
+806	uhm 	turnmanagement
+807	could you repeat the questions 	negativefeedback
+808	could you clarify the question 	negativefeedback
+809	uhm 	turnmanagement
+810	are you just saying yes or no or 	question
+811	uh 	turnmanagement
+812	no 	answer
+813	i will if you ask me yes or no question i will say yes or no 	inform
+814	i will 	correction
+815	okay 	feedback
+816	uhm 	turnmanagement
+817	if you ask me a more open-ended question i will try to answer the question 	inform
+818	uh 	turnmanagement
+819	i wont always have an answer to your question though 	inform
+820	okay 	feedback
+821	uhm 	turnmanagement
+822	alright 	interactionstructuring
+823	do you understand the rules 	question
+824	yeah 	confirm
+825	would you like me to repeat anything 	offer
+826	would you 	correction
+827	no 	reject
+828	i think i understood everything 	inform
+829	mh 	turnmanagement
+830	alright 	feedback
+831	alright and one more important thing 	interactionstructuring
+832	and one more important thing 	inform
+833	i will only be female famous people 	inform
+834	uh 	turnmanagement
+835	ah okay 	feedback
+836	mhm 	feedback
+837	alright 	feedback
+838	alright uh 	turnmanagement
+839	uh 	stalling
+840	so lets start 	suggest
+841	what is your first question 	question
+842	are you still alive 	question
+843	no i am not 	answer
+844	mhm 	turnmanagement
+845	uhm 	turnmanagement
+846	uh 	turnmanagement
+847	are you from germany 	question
+848	no i am not from germany 	answer
+849	uhm 	turnmanagement
+850	are you from america 	question
+851	no i am not from america 	answer
+852	uh 	turnmanagement
+853	what were you doing when you were alive 	question
+854	ehm 	turnmanagement
+855	let me think for a minute 	stalling
+856	uhm 	turnmanagement
+857	i was 	answer
+858	i was a princess 	answer
+859	i was 	correction
+860	when i was alive 	answer
+861	and where are you from 	question
+862	i am from england 	answer
+863	okay 	feedback
+864	uhm 	turnmanagement
+865	uh 	turnmanagement
+866	where did you die 	question
+867	just a second 	turnmanagement
+868	uhm 	turnmanagement
+869	i died in paris 	answer
+870	mhm 	feedback
+871	uhm 	turnmanagement
+872	uhm 	turnmanagement
+873	you are princess diana 	inform
+874	uh 	turnmanagement
+875	yes 	confirm
+876	that is the correct answer 	inform
+877	good job 	feedback
+878	okay 	feedback
+879	alright 	turnmanagement
+880	alright hello again 	interactionstructuring
+881	hello again 	socialobligation
+882	hello 	socialobligation
+883	are you ready to continue 	question
+884	yes i am 	answer
+885	great 	feedback
+886	uh 	turnmanagement
+887	do you remember all of the rules or do you have any questions 	question
+888	uh 	turnmanagement
+889	yes and no to the other question 	answer
+890	okay 	feedback
+891	so you know all of the rules 	question
+892	yes i do 	confirm
+893	great 	feedback
+894	alright 	turnmanagement
+895	lets go ahead and get started then 	suggest
+896	what is your first question 	question
+897	uh 	turnmanagement
+898	what are you famous for 	question
+899	uhm 	turnmanagement
+900	i am famous for being one of the wealthiest and most powerful women in western europe during the middle ages 	answer
+901	$laugh 	feedback
+902	are you part of the royalty or were you part of the royalty rather 	question
+903	yes i was 	answer
+904	which country $unintelligible 	question
+905	yeah 	stalling
+906	uh 	turnmanagement
+907	france 	answer
+908	france 	feedback
+909	uh 	turnmanagement
+910	okay 	turnmanagement
+911	do i know any french which 	feedback
+912	during which years exactly did you reign 	question
+913	uhm 	turnmanagement
+914	could you clarify 	negativefeedback
+915	okay 	accept
+916	uh 	turnmanagement
+917	while you were at the peak of your power which position did you occupy in the country 	question
+918	uh 	turnmanagement
+919	which position 	correction
+920	uhm 	turnmanagement
+921	i was the queen consort of france and later the queen consort of england 	answer
+922	okay 	turnmanagement
+923	and during which year were you the queen consort of england 	question
+924	uhm 	turnmanagement
+925	years 	correction
+926	from eleven fifty four to eleven eighty nine 	answer
+927	okay 	turnmanagement
+928	uh 	turnmanagement
+929	wait 	request
+930	now how do i ask that 	feedback
+931	how do 	correction
+932	now that does not work 	negativefeedback
+933	okay 	turnmanagement
+934	how did you die 	question
+935	just a minute 	turnmanagement
+936	i dont have an answer to that question 	inform
+937	okay 	feedback
+938	who was your husband during your time as queen regent of england 	question
+939	uh 	turnmanagement
+940	just a minute 	turnmanagement
+941	i was 	answer
+942	uh just a second 	turnmanagement
+943	uh 	stalling
+944	just a second 	stalling
+945	yes 	feedback
+946	sil i was married to henry duke of normandy who became king henry the second of england 	answer
+947	sil i was 	correction
+948	uhm 	turnmanagement
+949	king 	correction
+950	ok 	turnmanagement
+951	uhm 	turnmanagement
+952	what are you most known for in history of humankind 	question
+953	if its not too general for a question 	inform
+954	that is a very good question 	feedback
+955	im not sure if i can answer it 	inform
+956	give me just a second 	turnmanagement
+957	not sure that i can fully answer that question 	inform
+958	okay 	turnmanagement
+959	can you name one thing that many people know that you did 	question
+960	mh 	turnmanagement
+961	i was married to two kings and i participated in the second crusade while queen of france 	answer
+962	okay 	turnmanagement
+963	uh 	turnmanagement
+964	uh 	turnmanagement
+965	did you have any religious epiphanies 	question
+966	uhm 	turnmanagement
+967	documented 	question
+968	i dont have an answer to that question 	inform
+969	okay 	turnmanagement
+970	uhm 	turnmanagement
+971	are you more famous for your time in england or in france 	question
+972	unfortunately im not sure how to answer that question 	answer
+973	are you considered a hero by some 	question
+974	that is possible 	answer
+975	but i dont have a answer to that question 	contradict
+976	okay 	turnmanagement
+977	uhm 	turnmanagement
+978	sorry 	apology
+979	yeah 	apology
+980	youre not giving me a lot to work with 	negativefeedback
+981	i know 	accept
+982	okay 	turnmanagement
+983	uhm 	turnmanagement
+984	wait 	request
+985	no 	correction
+986	questions regarding the name are not allowed 	question
+987	yeah 	feedback
+988	uhm 	turnmanagement
+989	no 	confirm
+990	uhm 	turnmanagement
+991	uhm 	turnmanagement
+992	uhm 	turnmanagement
+993	nah i dont think i know her 	inform
+994	okay	feedback
+995	would you like me to tell you the answer 	offer
+996	yeah sure 	accept
+997	go ahead 	request
+998	alright 	turnmanagement
+999	my name is eleanor of aquitaine 	inform
+1000	know 	feedback
+1001	alright 	turnmanagement
+1002	well good try though 	inform
+1003	and maybe next time 	inform
+1004	hello again 	socialobligation
+1005	hello 	socialobligation
+1006	lets start on the next round 	suggest
+1007	yeah 	suggest
+1008	so do you remember all of the rules 	question
+1009	yes i think so 	answer
+1010	great 	feedback
+1011	alright so 	interactionstructuring
+1012	lets get started 	suggest
+1013	what is your first question 	question
+1014	mh 	turnmanagement
+1015	what are your initials 	question
+1016	i can not answer that question 	inform
+1017	okay 	feedback
+1018	are you a real person 	question
+1019	yes i am a real person 	answer
+1020	uhm 	turnmanagement
+1021	are you dead 	question
+1022	no i am still alive 	answer
+1023	mh 	turnmanagement
+1024	where are you from 	question
+1025	i am from barbados 	answer
+1026	mh 	turnmanagement
+1027	are you a musician 	question
+1028	yes i am a musician 	answer
+1029	mh 	turnmanagement
+1030	are you rihanna 	question
+1031	yes that is correct i am rihanna 	confirm
+1032	very good job 	feedback
+1033	hello again 	socialobligation
+1034	hello 	socialobligation
+1035	ready to start with the next round 	question
+1036	mhm 	confirm
+1037	alright 	feedback
+1038	do you still remember all of the rules 	question
+1039	yes 	answer
+1040	great 	feedback
+1041	alright 	interactionstructuring
+1042	uhm 	turnmanagement
+1043	lets get started then 	suggest
+1044	what is your first question 	question
+1045	uh 	turnmanagement
+1046	uhm 	turnmanagement
+1047	uhm 	turnmanagement
+1048	what is your mother tongue 	question
+1049	uh 	turnmanagement
+1050	uh 	turnmanagement
+1051	my mother tongue is english 	answer
+1052	uhm 	turnmanagement
+1053	where are you from 	question
+1054	i am from the united states 	answer
+1055	and youre still alive 	question
+1056	and 	turnmanagement
+1057	yes i am still alive 	answer
+1058	and how old are you 	question
+1059	and 	turnmanagement
+1060	i am thirty three 	answer
+1061	thirty 	correction
+1062	thirty three years old 	answer
+1063	yeah 	feedback
+1064	uhm 	turnmanagement
+1065	and what are you doing 	question
+1066	and 	turnmanagement
+1067	i am a professional tennis player 	answer
+1068	okay 	turnmanagement
+1069	does your first name start with an s 	question
+1070	with an 	correction
+1071	im not sure if i can answer that question 	inform
+1072	no i cant answer that question 	answer
+1073	okay 	feedback
+1074	uhm 	turnmanagement
+1075	mmh 	turnmanagement
+1076	uh 	turnmanagement
+1077	are you successful in tennis 	question
+1078	uh 	turnmanagement
+1079	yes i am very successful 	answer
+1080	are you serena williams 	question
+1081	no 	confirm
+1082	very close 	inform
+1083	but that is not the correct answer 	contradict
+1084	im venus williams 	inform
+1085	ah okay 	feedback
+1086	very close though 	feedback
+1087	very good try 	congratulation
+1088	okay 	feedback
+1089	thank you 	socialobligation
+1090	alright 	feedback
+1091	jimmy	turnmanagement
+1092	so how do you get most of your news?	question
+1093	well	turnmanagement
+1094	i kind of i	correction
+1095	uh	stalling
+1096	i watch the national news every day, for one,	answer
+1097	uh	stalling
+1098	i also read one or two papers a day 	answer
+1099	and	turnmanagement
+1100	i'm a news junkie	inform
+1101	i'm a, i'm pretty much a	correction
+1102	and	turnmanagement
+1103	i tune in to cnn a lot. 	answer
+1104	oh,  wow  	feedback
+1105	so	turnmanagement
+1106	when you say the morning news, or evening news or national news is when? /	question
+1107	uh	turnmanagement
+1108	every evening at six thirty, i believe, i watch the national news	answer
+1109	oh	turnmanagement
+1110	okay	feedback
+1111	well	turnmanagement
+1112	i would probably be a junkie or watch <laughter> cnn a lot	inform
+1113	s-,  watch	correction
+1114	but	contradict
+1115	i don't subscribe to cable	inform
+1116	i don't, uh, i don't, uh	stalling
+1117	uh-huh	feedback
+1118	be-, because	stalling
+1119	because of the poor service and also because i give to the united way	inform
+1120	uh	stalling
+1121	well	turnmanagement
+1122	i, uh, i	stalling
+1123	and so	turnmanagement
+1124	i figured that amount of money i just donate to that.	inform
+1125	uh-huh	feedback
+1126	as opposed to paying for cable	question
+1127	yeah	confirm
+1128	i take away a addiction <laughter>	inform
+1129	uh	stalling
+1130	 <laughter>	feedback
+1131	 oh, something	inform
+1132	yeah	accept
+1133	well	turnmanagement
+1134	i	correction
+1135	uh	stalling
+1136	i,  i 	correction
+1137	overall, the quality of the news you get of most sources i would say is pretty low. 	inform
+1138	o-, off 	stalling
+1139	uh	stalling
+1140	it's	correction
+1141	usually you get pretty incomplete coverage 	inform
+1142	and	turnmanagement
+1143	that's one of the reasons why i try and get as many sources as possible, 	inform
+1144	where i,  why i 	correction
+1145	because if you hear the same story from three different sources, then you get a much clearer picture of what is going on. you would hope,	inform
+1146	of, of	stalling
+1147	but	contradict
+1148	still, you know, hard to say that what you've heard is what really is.	inform
+1149	oh	feedback
+1150	nan	error
+1151	what	turnmanagement
+1152	what, what, uh	stalling
+1153	what newspapers do you read	question
+1154	well	turnmanagement
+1155	i read the local newspaper	answer
+1156	uh	stalling
+1157	and	turnmanagement
+1158	i also try and read one of the major dailies like the chicago tribune, or the new york times or something like that.	answer
+1159	uh	stalling
+1160	uh-huh	feedback
+1161	for a while there i subscribed to new york times, a couple of newspapers	inform
+1162	i, i, i, uh	stalling
+1163	a-, actually	stalling
+1164	uh, you know	stalling
+1165	well	turnmanagement
+1166	because my fiance - she was unemployed for a while 	inform
+1167	so she really needed to look at the help wanted ads	inform
+1168	you know	stalling
+1169	the,  <inhaling> the	stalling
+1170	want-, help wanted	correction
+1171	uh-huh	feedback
+1172	and so often the newspapers are trying to compete with a lot of other sources of news	inform
+1173	they,  they tr-, the newspapers are	correction
+1174	newspape-, uh, news	correction
+1175	right	feedback
+1176	and	turnmanagement
+1177	i don't know,	inform
+1178	new york times is okay	inform
+1179	but	turnmanagement
+1180	uh	stalling
+1181	but when you read a lot of this stuff, the quality of the writing has definitely gone down in the last ten years or so	contradict
+1182	the, the	stalling
+1183	but	turnmanagement
+1184	uh-huh	feedback
+1185	uh, i mean	stalling
+1186	they, they	stalling
+1187	they say it's  like the sixth grade reading level	inform
+1188	but i swear it's at least second or third grade sometimes.	contradict
+1189	right. /	feedback
+1190	nan	error
+1191	<laughter>	feedback
+1192	nan	error
+1193	pretty low	feedback
+1194	 <throat_clearing>	turnmanagement
+1195	but, i don't know, i think if you listen to like npr or something like	contradict
+1196	uh	turnmanagement
+1197	right	accept
+1198	i, i	stalling
+1199	i really like npr a lot	inform
+1200	that's pretty good.  /	accept
+1201	uh	stalling
+1202	and	turnmanagement
+1203	on, on, uh	stalling
+1204	i like listening to that when i get a chance, when i'm in the car a long enough time to listen to it, because i	inform
+1205	to, to	stalling
+1206	right	accept
+1207	yeah	accept
+1208	i miss npr a lot also	inform
+1209	i really like them because they give, instead of being, as your newspaper or your tv news where you get a five minute blurb or a ten paragraph blurb, they go really in depth on topics which i think is good	inform
+1210	uh	stalling
+1211	nan	error
+1212	uh	turnmanagement
+1213	and	turnmanagement
+1214	they also	correction
+1215	their editorial stand point seems to be a lot better than, say, your major network news and that kind of thing	inform
+1216	well	turnmanagement
+1217	mcneil, neil	correction
+1218	neil and lehrer, they're pretty good too	inform
+1219	i guess one of them is leaving.	inform
+1220	he's leaving, one of them is leaving	correction
+1221	nan	error
+1222	uh-huh	feedback
+1223	uh	turnmanagement
+1224	they're, they're	stalling
+1225	uh	turnmanagement
+1226	i guess a year ago you're probably watching cnn a lot, right?	question
+1227	right <laughter> 	confirm
+1228	yeah	confirm
+1229	had that invasion or whatever it is	inform
+1230	sure was	accept
+1231	uh	turnmanagement
+1232	i, i don't know	stalling
+1233	but i guess it's still a lot of hype	contradict
+1234	a lot of it's still a lot of	correction
+1235	look at the smith trial	suggest
+1236	the, the	stalling
+1237	uh-huh	feedback
+1238	i mean, that was a joke	inform
+1239	yeah that was	accept
+1240	nan	error
+1241	but	turnmanagement
+1242	but then you also have things where they broadcast the clarence thomas hearings basically the whole length of them which i thought was really good.	contradict
+1243	where you, where they	correction
+1244	uh	stalling
+1245	 r-, really	stalling
+1246	oh yeah, the npr doing that, yeah, i know	accept
+1247	nan	error
+1248	nan	error
+1249	nan	error
+1250	i had some visitor, he was just, i don't know, fixated on that, just listened to it constantly	inform
+1251	uh	stalling
+1252	and	turnmanagement
+1253	just in-, just	correction
+1254	uh-uh	feedback
+1255	nan	error
+1256	uh	turnmanagement
+1257	and i guess that's good when it's live, if you'll really want that	inform
+1258	if you, if you'll	correction
+1259	but	turnmanagement
+1260	but that's not really providing you news. 	contradict
+1261	right	accept
+1262	it's it's 	stalling
+1263	it's more like a media event rather than reporting	inform
+1264	well	turnmanagement
+1265	but the news that you would get from any other source is being generated from that event, which is something that's good also about c span which i tune into every once in a while	contradict
+1266	ne-, news, news 	stalling
+1267	i, i	stalling
+1268	oh	stalling
+1269	really	feedback
+1270	that's kind of boring to me, i think	inform
+1271	yeah, it is really kind of boring	accept
+1272	it, it	stalling
+1273	but	turnmanagement
+1274	you know	stalling
+1275	but that's if you don't watch it there, then you're going to hear somebody else's canned report, somebody else's view about it	contradict
+1276	if, if	stalling
+1277	uh	stalling
+1278	and	turnmanagement
+1279	that's what you're supposed to	correction
+1280	you're supposed, you're supposed	stalling
+1281	if you watch the news, your opinion is going to be formed on what somebody else thought about it	inform
+1282	you're going, your opinion is going	correction
+1283	about, on 	correction
+1284	yeah	accept
+1285	as opposed to actually watching it yourself and forming your own opinion, which i would  be much more in favor of forming my own opinion as opposed to following someone else's	inform
+1286	pinion, opinion	correction
+1287	haven't, would	correction
+1288	yeah	accept
+1289	i guess that's true	inform
+1290	but	contradict
+1291	one of the ways that i get information is, every day when i log in on the computer i subscribe to this thing	inform
+1292	uh	stalling
+1293	this, this	stalling
+1294	it's free inside the company	inform
+1295	it's called intellect	inform
+1296	and	turnmanagement
+1297	and, and	stalling
+1298	uh	stalling
+1299	they basically, type out abstracts which are really literally, -	inform
+1300	i've, i've	stalling
+1301	i've actually read the actual articles	inform
+1302	they're pretty g	inform
+1303	okay	interactionstructuring
+1304	all right  	feedback
+1305	uh	turnmanagement
+1306	do you have any friends that have children	question
+1307	i do have friends that have children	answer
+1308	yes 	answer
+1309	and what do they say about finding adequate child care? 	question
+1310	nan	error
+1311	i think that may be the key word 	inform
+1312	i think that's correct  	accept
+1313	they're, relatively nonexistent from what i hear from my friends	inform
+1314	uh	stalling
+1315	from uh from	stalling
+1316	it seems like even when they have consulted day care centers that are reputable, that are sort of like a chain, if i can use that word, still you have to deal with the people that, happen to be operating it locally 	inform
+1317	uh	stalling
+1318	right 	feedback
+1319	uh	stalling
+1320	you know	stalling
+1321	and	turnmanagement
+1322	uh	stalling
+1323	it's just a matter of trust, you know	inform
+1324	of, of	stalling
+1325	i think they feel that these people are under qualified basically and  underpaid, 	inform
+1326	um	stalling
+1327	and	turnmanagement
+1328	i think that sort of goes hand in hand 	inform
+1329	it's, it's	stalling
+1330	so it's difficult for them	inform
+1331	well	turnmanagement
+1332	we certainly found that to be true 	accept
+1333	huh-uh 	feedback
+1334	uh	stalling
+1335	indeed we've, - 	correction
+1336	our children are now eleven and nine 	inform
+1337	huh-uh 	feedback
+1338	and	turnmanagement
+1339	we moved away from institutionalized child care --	inform
+1340	huh-uh 	feedback
+1341	if we can call those chain kind of things, like that uh, by that name	inform
+1342	right 	feedback
+1343	uh	stalling
+1344	like that, by that name	correction
+1345	right 	feedback
+1346	and found that more creative avenues were the right answer for us	inform
+1347	uh	stalling
+1348	huh-uh  	feedback
+1349	huh-uh 	feedback
+1350	uh	stalling
+1351	at one point in time we've had au pairs,	inform
+1352	huh-uh 	feedback
+1353	by trading services with them, 	inform
+1354	huh-uh   	feedback
+1355	and	turnmanagement
+1356	that worked for a while,  	inform
+1357	but adequate ones were really tough to find	contradict
+1358	they were really, adequate ones were really	correction
+1359	i'm sure that's true 	accept
+1360	it takes that mixture of a very mature college student, who wants to do something and yet is willing to give the time, and the interest to the children	inform
+1361	huh-uh   	feedback
+1362	nan	error
+1363	right 	feedback
+1364	nan	error
+1365	right  	feedback
+1366	i do have a friend, she and her roommate became live-in care givers	inform
+1367	uh uh	stalling
+1368	that, -	correction
+1369	she and her roommate became live-in care givers  	inform
+1370	and	turnmanagement
+1371	they loved it	inform
+1372	they had stayed with this family from the time these children were small four or five years old, up until they were well into grade school	inform
+1373	you know	stalling
+1374	and	turnmanagement
+1375	uh	stalling
+1376	she was paid very well because the parents trusted them	inform
+1377	they, the parents	correction
+1378	and	turnmanagement
+1379	they had done such a good job 	inform
+1380	you know	stalling
+1381	so i can see where someone, in a position like that, in a live-in capacity, would definitely be the way to go if you're lucky enough to have the financial  to be able to do that 	inform
+1382	um	stalling
+1383	you know	stalling
+1384	you're, you're	stalling
+1385	well	turnmanagement
+1386	that's true, 	accept
+1387	 yeah   	feedback
+1388	and  that's something that we're struggling with now 	inform
+1389	yeah  	feedback
+1390	i think it's just a matter of priorities  	inform
+1391	it's a terrible thing to say when you're speaking of children in that way	inform
+1392	it's uh you know it's	stalling
+1393	 but  you still have to be realistic, as well, i think 	contradict
+1394	oh	turnmanagement
+1395	yeah	accept
+1396	yeah 	feedback
+1397	nan	error
+1398	yeah 	feedback
+1399	much as other cultures disagree, our lives don't revolve around our children 	inform
+1400	yeah  	feedback
+1401	yeah  	feedback
+1402	and	turnmanagement
+1403	that's bad to have to admit, too, 	inform
+1404	that's, that's, that's	stalling
+1405	but it's just, there's so much pressure when you're talking about two people that work outside the home 	contradict
+1406	uh, you know	stalling
+1407	and, and	stalling
+1408	i think that is one reason why i continue to be without children 	inform
+1409	i, - 	correction
+1410	it's just such a responsibility	inform
+1411	and, and	stalling
+1412	when i've had friends that have said - when you hear people say	correction
+1413	when you hear people say, it alters your life forever, please take heed <laughter>	inform
+1414	it, it	stalling
+1415	well, i realize that's true  	inform
+1416	so, it's such a responsibility 	inform
+1417	uh	stalling
+1418	well	turnmanagement
+1419	it certainly is	accept
+1420	uh	stalling
+1421	if i can  )  the other side of the coin for a moment 	request
+1422	huh-uh 	feedback
+1423	it is such an honor and a thrill, to be a parent, that most of the time, it's worth it	inform
+1424	oh	stalling
+1425	yeah	feedback
+1426	nan	error
+1427	 huh-uh   	feedback
+1428	nan	error
+1429	yeah <laughter>  	feedback
+1430	most of the time <laughter> 	accept
+1431	well	turnmanagement
+1432	i just have to be honest about it  	inform
+1433	it's not always worth it	inform
+1434	yeah  	feedback
+1435	oh	stalling
+1436	sure	feedback
+1437	nan	error
+1438	sure  	feedback
+1439	sure  	feedback
+1440	sure 	feedback
+1441	there are those times when i think, gee,  if i didn't have children i could be out playing  )  or golf 	inform
+1442	right  	turnmanagement
+1443	right  	feedback
+1444	right  	feedback
+1445	right  	feedback
+1446	but	turnmanagement
+1447	it's funny	inform
+1448	you know	stalling
+1449	i did, i had	correction
+1450	you know	stalling
+1451	i had a friend that said, before we always said we don't want children because we can't go off on the spur of the moment or this or that and the other 	inform
+1452	and	turnmanagement
+1453	she got older 	inform
+1454	and	turnmanagement
+1455	she said, we never do those things anyway 	inform
+1456	but, you know	contradict
+1457	so	turnmanagement
+1458	why <laughter> why 	stalling
+1459	you know	stalling
+1460	why am i waiting	inform
+1461	it's its	stalling
+1462	it's just the way your attitude changes 	inform
+1463	and	turnmanagement
+1464	you mature i suppose 	inform
+1465	but the thing about the child care i have friends that struggle financially and they both do have to work 	contradict
+1466	i, you know, i	stalling
+1467	and and	stalling
+1468	it's a matter not necessarily that she might want to stay home or he, as well, 	inform
+1469	uh	stalling
+1470	 but, you know,  they need the money  	contradict
+1471	and when i seen some of my friends that have taken that six week old baby you know, to someone else, it's just, i can imagine how emotional  it must be and multiplied by the fact that you don't really trust the person  or you're uncomfortable with the situation, as far as child care,	inform
+1472	uh	stalling
+1473	and and you know	stalling
+1474	um	stalling
+1475	it's just a scary thing 	inform
+1476	well	turnmanagement
+1477	we were lucky when our children were that age, 	inform
+1478	and	turnmanagement
+1479	having lived in a community for a while we knew the person to whom we were entrusting our children	inform
+1480	and	correction
+1481	huh-uh  	feedback
+1482	that's a big plus	feedback
+1483	and felt that feeling of safety	inform
+1484	that that	stalling
+1485	 right   	feedback
+1486	nan	error
+1487	right 	feedback
+1488	and	turnmanagement
+1489	were leaving them  )  small children	inform
+1490	huh-uh 	feedback
+1491	but	turnmanagement
+1492	we also learned something from that experience as our children got older 	inform
+1493	yeah 	feedback
+1494	it's that care givers are not omniscient -- 	inform
+1495	huh-uh 	feedback
+1496	 -- they are not all things to all people --	inform
+1497	right 	feedback
+1498	 -- or all children 	inform
+1499	right  	feedback
+1500	right  	feedback
+1501	yeah 	feedback
+1502	the ones that are good with babies tend not to be good with toddlers 	inform
+1503	huh-uh 	feedback
+1504	nan	error
+1505	huh-uh  	feedback
+1506	nan	error
+1507	i don't know,  	stalling
+1508	i think your patience level needs to increase as the child gets older <laughter>	inform
+1509	must, needs to	correction
+1510	i think that might be part of the problem with some people you know,   	inform
+1511	taking care of a baby, i know, is not an easy thing,  	inform
+1512	but when you have them in, their little feet are moving 	inform
+1513	their, their	stalling
+1514	and	turnmanagement
+1515	you have to chase them down constantly 	inform
+1516	i'm sure that's a whole new ball game 	inform
+1517	oh	stalling
+1518	yeah	feedback
+1519	nan	error
+1520	yeah,  	feedback
+1521	i have a nine year old that i would trade happily for a baby	inform
+1522	<laughter> oh,  really  	feedback
+1523	well	turnmanagement
+1524	you sound like you're pretty well passed the worst of it as far as worrying about, - 	inform
+1525	worrying about, since they're both in school, you don't have to worry about	correction
+1526	since they're both in school, you don't have to worry about a full-time person to take care of them  <<voices fading in and out>> 	inform
+1527	oh	turnmanagement
+1528	you don't know what happens after they get in school 	inform
+1529	<laughter> that's something altogether different	inform
+1530	uh	stalling
+1531	oh	turnmanagement
+1532	yes	accept
+1533	now we have one takes piano lessons	inform
+1534	uh	stalling
+1535	 huh-uh   	feedback
+1536	 somewhere  on one afternoon  	inform
+1537	and	turnmanagement
+1538	the other one, of course can't do the same thing	inform
+1539	oh	stalling
+1540	of course not 	accept
+1541	it has to be somewhere else  	inform
+1542	and  no  it's not adequate to sit and wait	inform
+1543	nan	error
+1544	<laughter>  you can't do that  	accept
+1545	no 	accept
+1546	no 	accept
+1547	no  	accept
+1548	no 	accept
+1549	that just, - 	correction
+1550	that will not do 	accept
+1551	that's out of the question,  	accept
+1552	i'm sure 	accept
+1553	of course 	accept
+1554	nan	error
+1555	but	contradict
+1556	we are helping,  you know	contradict
+1557	right  	feedback
+1558	right 	feedback
+1559	we are being cooperative,  	inform
+1560	what's wrong with you	question
+1561	right  	feedback
+1562	right 	feedback
+1563	you don't understand this 	inform
+1564	huh-uh 	feedback
+1565	that's just the way their minds work  	inform
+1566	and	turnmanagement
+1567	it's almost everyday 	inform
+1568	that's amazing  	feedback
+1569	it's amazing that people actually, - 	inform
+1570	the stamina that you must draw from yourself to deal with it 	inform
+1571	you know	stalling
+1572	it must be interesting  	inform
+1573	i guess you find out that you're a much stronger person than you thought, maybe 	inform
+1574	well	turnmanagement
+1575	i've been finding out that i really am a nice person	inform
+1576	)  hit for many years -	inform
+1577	<laughter>	feedback
+1578	) because  i didn't need it 	inform
+1579	 <laughter>  huh-uh 	feedback
+1580	and	turnmanagement
+1581	now, i need it	inform
+1582	now it's just a reservoir that you tend to regularly, i'm sure 	inform
+1583	yeah  	feedback
+1584	and	turnmanagement
+1585	it stays low a lot <laughter>	inform
+1586	<laughter>	feedback
+1587	 <laughter>	feedback
+1588	well	turnmanagement
+1589	nan	error
+1590	do you feel comfortable with them coming home after school until you and your wife get home 	question
+1591	um	stalling
+1592	nan	error
+1593	absolutely not 	answer
+1594	no  	feedback
+1595	yeah 	feedback
+1596	i mean one of them i would leave unsupervised any time, any place, any where	inform
+1597	i would, i would	stalling
+1598	huh-uh 	feedback
+1599	uh	stalling
+1600	the other one i wouldn't leave unsupervised two minutes	inform
+1601	yeah  	feedback
+1602	yeah  	feedback
+1603	that's just a difference in kids, i suppose 	inform
+1604	that's true 	feedback
+1605	yeah 	feedback
+1606	nan	error
+1607	one leads the other	question
+1608	huh-uh,  	confirm
+1609	yeah 	confirm
+1610	and,  uh,  -	turnmanagement
+1611	and	turnmanagement
+1612	it's, it's	stalling
+1613	it's the one that's going downhill,	inform
+1614	is it, is it	stalling
+1615	is it the one that needs more supervision that has a bad influence on the older or more mature one	question
+1616	needs, needs	stalling
+1617	of course 	answer
+1618	yeah <laughter>  	feedback
+1619	how unfortunate <laughter> 	inform
+1620	you don't think, you don't think	stalling
+1621	you don't think that good prevails 	question
+1622	well	turnmanagement
+1623	i, i, i'm	stalling
+1624	i'm living in a dream world, 	inform
+1625	what do i know  	inform
+1626	as i said, i don't have kids  	inform
+1627	and	turnmanagement
+1628	i'm an only child 	inform
+1629	so  i've never been around children  	inform
+1630	so i'm sort of at a loss where that's concerned 	inform
+1631	uh	stalling
+1632	but i do hear my friends talk about it 	contradict
+1633	we, we're	stalling
+1634	we're having such fun	inform
+1635	my wife and i were both only children 	inform
+1636	huh-uh 	feedback
+1637	and	turnmanagement
+1638	we just couldn't wait to have two children so they would be such friends 	inform
+1639	yeah <laughter> 	feedback
+1640	wrong 	inform
+1641	<laughter>  that's like world war three every minute <laughter>  	inform
+1642	i don't know  	stalling
+1643	i, i, i	stalling
+1644	i have to admit, i was selfish as a child 	inform
+1645	self-, selfish	correction
+1646	i didn't want a brother or sister  	inform
+1647	and	turnmanagement
+1648	now that i'm older, of course, it's different 	inform
+1649	you know	stalling
+1650	i think about, wouldn't it be nice, 	inform
+1651	uh	stalling
+1652	 but, uh, anyway  -	contradict
+1653	just make good friends 	suggest
+1654	yeah, oh,   	feedback
+1655	i have wonderful friends  	inform
+1656	that's true  	feedback
+1657	my best friend is one child of ten  	inform
+1658	and so	turnmanagement
+1659	they just sort of adopted me as their eleventh child 	inform
+1660	you know	stalling
+1661	so that worked out pretty well  	inform
+1662	she never had to worry about taking anybody to child care because there was always somebody there older to deal with them,  	inform
+1663	so i guess, that's an alternative  	inform
+1664	if you could just, have a whole bunch <laughter>	inform
+1665	um	stalling
+1666	have enough   	socialobligation
+1667	nan	error
+1668	<laughter>	feedback
+1669	by the time the youngest ones are there, you'll have older one to take care of them 	inform
+1670	that's true 	feedback
+1671	i don't know  	stalling
+1672	when you see all these horror stories on television about child care  	inform
+1673	and	turnmanagement
+1674	gosh	inform
+1675	nan	error
+1676	i was seeing something on the television earlier about a little girl that's been telling her mother these terrible stories  	inform
+1677	and	turnmanagement
+1678	of course people are denying it 	inform
+1679	and	turnmanagement
+1680	uh	stalling
+1681	it's just frightening 	inform
+1682	it really is 	inform
+1683	well	turnmanagement
+1684	what, what's	stalling
+1685	what's frightening is a parent to see things that you don't really don't understand	inform
+1686	that, that	stalling
+1687	huh-uh  	feedback
+1688	huh-uh 	feedback
+1689	and then  you don't really know what happened 	inform
+1690	yeah 	feedback
+1691	we gave up on one baby sitter because we came home one night and found pieces of ribbon	inform
+1692	um	stalling
+1693	huh-uh 	feedback
+1694	you know	stalling
+1695	hair ribbon	inform
+1696	huh-uh 	feedback
+1697	 -- tied in a chair	inform
+1698	where obviously she	inform
+1699	had, had	stalling
+1700	tell me what you like to do. /	request
+1701	well	turnmanagement
+1702	<laughter> i, i	stalling
+1703	i  collect antique tools	answer
+1704	uh	stalling
+1705	for one thing	interactionstructuring
+1706	i, i'm 	correction
+1707	well	stalling
+1708	i'm sort of in an antique business	inform
+1709	but it's a little part time thing	contradict
+1710	oh	feedback
+1711	sideline,  part time	correction
+1712	uh-huh	feedback
+1713	wonderful	feedback
+1714	and	turnmanagement
+1715	uh	stalling
+1716	 i'm building a log house at a  farm that i have in east texas, which is a hundred miles from here	inform
+1717	a, a	stalling
+1718	oh	feedback
+1719	wonderful	feedback
+1720	yeah	feedback
+1721	it's really neat	inform
+1722	and	turnmanagement
+1723	uh, uh	stalling
+1724	course i've been working on it for five years	inform
+1725	but, you know	turnmanagement
+1726	oh	turnmanagement
+1727	but how wonderful	feedback
+1728	are you close to getting it done?	question
+1729	yeah	answer
+1730	yeah	answer
+1731	it's getting real close to 	inform
+1732	 oh	feedback
+1733	you know	stalling
+1734	of course there's still a lot of work to be done,  	inform
+1735	and then when you get it completely, the shell finished, you still have a lot of stuff to do inside	inform
+1736	you know	stalling
+1737	uh	stalling
+1738	but, uh	stalling
+1739	are you going to move your whole family over there then? 	question
+1740	no	answer
+1741	actually, i'm not even sure	inform
+1742	uh	turnmanagement
+1743	i may	answer
+1744	i'll probably always have a place here in richardson or dallas	inform
+1745	uh-huh	feedback
+1746	kind of your getaway place	question
+1747	yeah	confirm
+1748	escape	inform
+1749	but it's beautiful	contradict
+1750	it's, you know, it's	stalling
+1751	it's eastern hardwood, forest,  	inform
+1752	uh	turnmanagement
+1753	there are a lot of pine trees,	inform
+1754	but it's mostly oaks	contradict
+1755	and	turnmanagement
+1756	oh	turnmanagement
+1757	how beautiful	feedback
+1758	and it's pretty flat there?	question
+1759	well,	turnmanagement
+1760	it's kind of,  hilly	confirm
+1761	but	turnmanagement
+1762	you know, 	stalling
+1763	it's low hills	inform
+1764	it's not	correction
+1765	uh	stalling
+1766	see	turnmanagement
+1767	i've only been to texas once	inform
+1768	 i have two sisters in texas now, one in austin, one in dallas	inform
+1769	um,	turnmanagement
+1770	and the one in dallas is the one that got me to doing this	inform
+1771	 yeah	feedback
+1772	and	turnmanagement
+1773	uh	stalling
+1774	i thought austin was beautiful	inform
+1775	you	turnmanagement
+1776	 i liked the hills and the trees	inform
+1777	 yeah	feedback
+1778	 in aus-	correction
+1779	 yeah,	feedback
+1780	it's really different because  that's the chalk hills down there,	inform
+1781	that's kind of the, that's the	correction
+1782	you know	stalling
+1783	oh	turnmanagement
+1784	and  you've always lived in texas, have you?	question
+1785	lime-, limestone	correction
+1786	the  limestone hills	correction
+1787	yeah	confirm
+1788	except for time in service	inform
+1789	uh-huh	feedback
+1790	born and raised texan, huh	question
+1791	yeah	confirm
+1792	well,	turnmanagement
+1793	i had never been there	inform
+1794	that's pretty neat	inform
+1795	my sisters both seem to like it pretty well	inform
+1796	my brother-in-law works for the university, in dallas	inform
+1797	um	stalling
+1798	wh	question
+1799	he's admissions director	inform
+1800	at, at	turnmanagement
+1801	at which one?	question
+1802	uh	turnmanagement
+1803	university of texas in dallas	answer
+1804	oh, okay	feedback
+1805	yeah	feedback
+1806	it's just north of me here	inform
+1807	yeah	feedback
+1808	well	turnmanagement
+1809	that's,	correction
+1810	he's got a job  there	inform
+1811	and this is his first year	inform
+1812	so, it's been a real interesting thing for them	inform
+1813	that's great.	feedback
+1814	but they seem to like it okay.	contradict
+1815	i think they're too far away from me,	inform
+1816	but maybe some day they can get closer	contradict
+1817	well,	turnmanagement
+1818	yeah	feedback
+1819	we'll see	interactionstructuring
+1820	 pretty good trip	accept
+1821	so	interactionstructuring
+1822	what do you, what kind of  	correction
+1823	what kind of  hobbies are you in?	question
+1824	well,	stalling
+1825	i'm mother of four	answer
+1826	so basically i'm just real busy with my kids right now in sports	answer
+1827	<laughter>	feedback
+1828	and we have a little halloween talent show tonight	inform
+1829	and, <inhaling>	turnmanagement
+1830	i substitute at the schools part-time	inform
+1831	oh,	turnmanagement
+1832	that's great	feedback
+1833	well,	turnmanagement
+1834	i am a travel agent at heart	inform
+1835	my hobby is just	correction
+1836	i love traveling and being involved in that and finding out more	inform
+1837	and, and	stalling
+1838	uh	stalling
+1839	but, it's real hard to work in the summers and  holidays and weekends when you have four children and a husband	contradict
+1840	so i reluctantly gave that career up and am just substituting at the school	inform
+1841	no, kidding. 	feedback
+1842	so i've been librarian all this week, which has been real interesting,  	inform
+1843	and i'm enjoying it.  	inform
+1844	i'm around my kids  	inform
+1845	and,	turnmanagement
+1846	that's pretty easy substituting isn't it?	question
+1847	oh yeah, 	confirm
+1848	yeah,	confirm
+1849	<laughter>.	feedback
+1850	 it's great, 	inform
+1851	 it's great, 	inform
+1852	and what else do i do, 	interactionstructuring
+1853	i do lots of cross stitching when i have time	answer
+1854	ooh.	feedback
+1855	and i enter things in our little state fair,	inform
+1856	and that's pretty fun.	inform
+1857	that's great.	feedback
+1858	well, but,	turnmanagement
+1859	actually my hobbies mostly  is my sports. tennis,	inform
+1860	is mostly is	correction
+1861	 i play tennis	inform
+1862	ooh	turnmanagement
+1863	i love tennis too	inform
+1864	ooh,	feedback
+1865	do you?	question
+1866	and i ski	inform
+1867	ski, ski	stalling
+1868	do you ski?	question
+1869	yes,	answer
+1870	we snow ski	inform
+1871	we snow ski at mount bachelor mostly, in oregon 	inform
+1872	uh,	turnmanagement
+1873	that's great	feedback
+1874	have you ever been there?	question
+1875	no	answer
+1876	uh,	stalling
+1877	wonderful place.	inform
+1878	i've skied in colorado	inform
+1879	and	turnmanagement
+1880	we usually go to new mexico because it's a little cheaper	inform
+1881	ooh	feedback
+1882	you know	correction
+1883	uh-huh	feedback
+1884	where in colorado?	question
+1885	i've been to telluride which is on the west side	answer
+1886	yes,	feedback
+1887	yes	feedback
+1888	and	turnmanagement
+1889	uh	stalling
+1890	copper	answer
+1891	copper is kind of my favorite up there.	inform
+1892	really	feedback
+1893	breckenridge	answer
+1894	uh-huh	feedback
+1895	and keystone	answer
+1896	i guess those are the only places i've skied up there	inform
+1897	i would love, i can hardly wait to get	correction
+1898	i can hardly wait to get up there	inform
+1899	me, too	inform
+1900	you guys, are you guys	correction
+1901	are you guys getting snow?	question
+1902	we,	correction
+1903	it is snowing right now	answer
+1904	we're to get one to three inches tonight	inform
+1905	 <laughter> oh, gee	feedback
+1906	i heard aspen got three feet	inform
+1907	oh, yeah,	feedback
+1908	well	turnmanagement
+1909	we're, we are	correction
+1910	we are on the dry side of the mountains	inform
+1911	seattle is only about two and a half hours	inform
+1912	so of course i'm a real seahawks fan	inform
+1913	 yeah	feedback
+1914	and,	turnmanagement
+1915	um,	stalling
+1916	going over that pass is  just a real nightmare	inform
+1917	 i can imagine, my lord	feedback
+1918	and,	turnmanagement
+1919	um, so, 	stalling
+1920	and we're on the colder side,	inform
+1921	they're on the rainy side	inform
+1922	we're on the snowy side	inform
+1923	and,	turnmanagement
+1924	um,	stalling
+1925	we, we	stalling
+1926	we ski	inform
+1927	my, my	stalling
+1928	my children all ski	inform
+1929	oh, super	feedback
+1930	we've, we have	correction
+1931	and we have been to whistler in canada,  which is just a marvelous place,  	inform
+1932	whistler and black home <<spelled phonetically>> is in canada	inform
+1933	and then we've gone to sun valley several times	inform
+1934	that's just a great place. 	inform
+1935	but not in colorado	contradict
+1936	a, just a	correction
+1937	no colora-, not in colorado	correction
+1938	since i was in college, since i went to school,	correction
+1939	what about utah?	question
+1940	 haven't been there	answer
+1941	i keep hearing these marvelous things about dear valley and city	inform
+1942	yeah	feedback
+1943	haven't either	inform
+1944	and,	turnmanagement
+1945	um,	stalling
+1946	um	turnmanagement
+1947	always want to go to canada to banff or somewhere like that	inform
+1948	ooh, yes	feedback
+1949	and your kids all ski? 	question
+1950	uh,	turnmanagement
+1951	not all of them	answer
+1952	uh-huh	feedback
+1953	my kids are all grown	inform
+1954	but my youngest son is a skier	contradict
+1955	really	feedback
+1956	that's great	feedback
+1957	well,	turnmanagement
+1958	my boys are at the point where they scare their mommy to death	inform
+1959	uh-huh	feedback
+1960	when they're skiing they're fearless	inform
+1961	 good morning	socialobligation
+1962	 did you take your morning pills	question
+1963	 good morning robo	socialobligation
+1964	 i am looking for my glasses 	inform
+1965	 can you find them anywhere	question
+1966	 i can help you find them	answer
+1967	 do you remember where you last saw them?	question
+1968	 i kept them on my bedside table with my book, very carefully	answer
+1969	okay 	accept
+1970	then	turnmanagement
+1971	let me go and have a look	promise, offer
+1972	 that will be really kind of you	socialobligation
+1973	 i did not find your glasses on the table	inform
+1974	 do you remember where you went after waking up	question
+1975	 to the bathroom	answer
+1976	 i will go and check the bathroom	promise
+1977	 i did not find your glasses there also  	inform
+1978	ohh god, 	feedback
+1979	i cant see anything	inform
+1980	do not worry 	suggest
+1981	i will check at other places	promise
+1982	please do 	socialobligation
+1983	i cannot see anything without them 	inform
+1984	here you go	interactionstructuring
+1985	they were in the kitchen	inform
+1986	thank you so much	socialobligation
+1987	i would like to ask if you took your morning pills	question
+1988	ahh, 	turnmanagement
+1989	yes yes	answer
+1990	thanks for reminding 	socialobligation
+1991	i will do that immediately 	promise
+1992	robo 	socialobligation
+1993	can you help me getup from this chair	interactionstructuring
+1994	yes	accept
+1995	can you press the button here	request
+1996	can i hold your arm	question
+1997	i am sorry but	contradict
+1998	but 	contradict
+1999	just to remind you we have a separate arm that comes out when you press the lifting button here on my screen. 	inform
+2000	by the way 	interactionstructuring
+2001	are you charged enough	question
+2002	yes  	accept
+2003	you charged me yesterday evening	answer
+2004	my charging is 95% still.	inform
+2005	great,	accept
+2006	so where were we	question
+2007	you wanted to get up from the chair, 	answer
+2008	for which you have to select the lift option on my screen	inform
+2009	okay	accept
+2010	done	inform
+2011	now hold this hand	instruct
+2012	you know its lot of work to just get up 	inform
+2013	can i help you in any other way	question
+2014	not for now.	answer
+2015	 hello robo, 	socialobligation
+2016	i am home	interactionstructuring
+2017	 can you help me with organizing these groceries.	question
+2018	 hello	socialobligation
+2019	 yes sure	answer
+2020	 here take the bag	instruct
+2021	 yes sure	accept
+2022	do you remember if i have anymore outdoors to do	question
+2023	i did not quite understand you, 	negativefeedback
+2024	can you rephrase it again for me 	question
+2025	can you tell me the schedule for rest of the evening	request
+2026	yes absolutely, 	accept
+2027	you have to take your blood pressure and cholesterol pills, 	inform
+2028	then you have to	turnmanagement
+2029	prepare and eat your dinner 	inform
+2030	and finally	turnmanagement
+2031	your anxiety pills before you are off to sleep. 	inform
+2032	 sounds great  	accept
+2033	 thanks a lot	socialobligation
+2034	hello, 	socialobligation
+2035	i would like to book an appointment with a physiotherapist on wednesday.	interactionstructuring
+2036	 what time would suit you on wednesday.	question
+2037	 wait a moment, 	stalling
+2038	 i just remembered i have something important on wednesday 	inform
+2039	 can it be on thursday	question
+2040	 okay, thursday	answer
+2041	but we have only morning slots from 10 to 12	contradict
+2042	 okay no problem, 	accept
+2043	can i book the slot 1000 to 1100 on thursday	question
+2044	 absolutely, 	answer
+2045	 so i have booked the appointment with physiotherapist on thursday at 10. 	inform
+2046	 confirm if its correct	correction
+2047	 yes, its correct 	accept
+2048	thanks a lot	socialobligation
+2049	 today you have a skype call with your grand kids at 1530	inform
+2050	 would you like to confirm it	request
+2051	 oh, 	stalling
+2052	how can i forget that	apology
+2053	thanks you are a savior	socialobligation
+2054	 so do you confirm it	question
+2055	 yes absolutely	accept
+2056	 okay	accept
+2057	 it would have been so much better to meet them personally	inform
+2058	 so you dont want to do the call	question
+2059	 no not at all 	correction
+2060	 why do you prefer meeting personally	question
+2061	i can see them playing around 	inform
+2062	and	turnmanagement
+2063	i can laugh with them	inform
+2064	and	turnmanagement
+2065	eat with them	inform
+2066	 okay 	accept
+2067	then i will cancel the call	promise
+2068	can you confirm that	request
+2069	i am saying that 	negativefeedback
+2070	calling is fine, 	inform
+2071	but meeting them is so much better	contradict
+2072	 oh 	stalling
+2073	i am sorry, 	apology
+2074	i will let you know when they are active on skype.	promise
+2075	 yes please 	socialobligation
+2076	 i presume you took shower just now, 	inform
+2077	 did you check that all the taps were closed properly.	question
+2078	 what caps are you talking about	negativefeedback
+2079	 not caps taps, 	correction
+2080	 you were in the bathroom 	inform
+2081	and	turnmanagement
+2082	the water tap is loose,	inform
+2083	you asked me to remind you every time you come from a shower.	inform
+2084	 ohh 	turnmanagement
+2085	now i understand, 	accept
+2086	 thanks for taking care of it	socialobligation
+2087	 will go and check once more.	promise
+2088	 hope you did not forget to switch off the gas burner	inform
+2089	 ohh, 	stalling
+2090	i dont know 	stalling
+2091	 can you please check it for me, 	request
+2092	 you know it can happen	inform
+2093	 okay no problem	accept
+2094	  was it switched off	question
+2095	  no 	accept
+2096	it was running, 	answer
+2097	but i switched it off	contradict
+2098	 how careless of me, 	apology
+2099	i will try to remember 	promise
+2100	but this aging is cruel you know, 	contradict
+2101	can you take care of it in the future	request
+2102	 dont worry 	suggest
+2103	i am here to take care of it.	accept
+2104	 i hear the kettle running,	inform
+2105	do you still want to use it	question
+2106	 what kettle, 	negativefeedback
+2107	i just got some hot water for my coffee	inform
+2108	 did you forget to switch it off	question
+2109	 no 	answer
+2110	i did 	inform
+2111	 anyways 	turnmanagement
+2112	i can go and confirm then if its safely switched off	offer
+2113	 okay	accept
+2114	the yoga instructor is waiting downstairs. 	inform
+2115	i can't find my stuff. 	inform
+2116	i know i had my notes on the table last night. 	inform
+2117	 i'll wait for you.	promise
+2118	let's go. 	instruct
+2119	where's your yoga mat?	question
+2120	what? 	negativefeedback
+2121	i came to pick you up for yoga. 	negativefeedback
+2122	i thought we were going to the math session. 	inform
+2123	i'm not well. 	inform
+2124	you look scared. 	inform
+2125	you probably have an anxiety attack. 	inform
+2126	when did you start feeling this way? 	question
+2127	do you mean this time or ever? 	question
+2128	this time. 	answer
+2129	yesterday. 	answer
+2130	i feel better today	inform
+2131	but 	contradict
+2132	i still feel this terrible fear.	inform
+2133	i let the doctor know. 	promise
+2134	stay here now. 	instruct
+2135	i don't want to be alone.	inform
+2136	i sent her a message already. 	inform
+2137	she will soon respond.	inform
+2138	take a deep breath anna and exhale even more deeply. 	suggest
+2139	she's coming to see you now. 	inform
+2140	who? 	question
+2141	the doctor. 	answer
+2142	yeah, 	accept
+2143	but who? 	contradict
+2144	doctor larsson. 	inform
+2145	 robo, 	socialobligation
+2146	can you help me save tobbys phone number	interactionstructuring
+2147	 okay, 	accept
+2148	first go to your phone directory.	instruct
+2149	 okay 	accept
+2150	how does it look like?	question
+2151	there should be some kind of an image of a directory book or a phone	inform
+2152	ahh ha 	stalling
+2153	yes, here it is, i found it	inform
+2154	then	turnmanagement
+2155	there must be add contacts or a plus sign made on the top left or right	inform
+2156	wait 	stalling
+2157	here are lot of things 	inform
+2158	i cant find it	inform
+2159	go slow robo.	request
+2160	okay okay 	accept
+2161	no hurry	suggest
+2162	take your time	suggest
+2163	here you go 	turnmanagement
+2164	i found add contact	inform
+2165	now click on that	instruct
+2166	okay 	accept
+2167	type the name you want to save the number with	instruct
+2168	done	inform
+2169	okay, 	turnmanagement
+2170	then	turnmanagement
+2171	type in the number you want to save	instruct
+2172	okay 	accept
+2173	here it is on my diary 	inform
+2174	and	turnmanagement
+2175	i copy it to my phone now	promise
+2176	great, 	accept
+2177	could you find a save or done button somewhere	question
+2178	yes	answer
+2179	click on that	instruct
+2180	clicked	inform
+2181	you are done saving your contact now	inform
+2182	wow 	stalling
+2183	that was some work, 	turnmanagement
+2184	i will need some guidance to do it next times. 	request
+2185	martha, its time for you to have your dinner	interactionstructuring
+2186	i ate some crostini for supper and 	inform
+2187	dont feel like eating for the time being.	inform
+2188	okay, 	accept
+2189	but 	contradict
+2190	i would suggest you to still have something light.	suggest
+2191	maybe after an hour	suggest
+2192	its getting late now 	inform
+2193	would you mind  preparing some dinner	request
+2194	okay boss,  	accept
+2195	here i go.	turnmanagement
+2196	where is everybody? 	question
+2197	good morning anna. you are early. 	socialobligation
+2198	everyone is still sleeping	inform
+2199	what time is it? 	question
+2200	it's 0540 in the morning. 	answer
+2201	the others will be here for breakfast in an hour.	inform
+2202	do you want us to do something together? 	suggest
+2203	or do you want to try to sleep? 	suggest
+2204	can you show me what time it is? 	request
+2205	ah. 	stalling
+2206	do you want to lie down again? 	question
+2207	good morning. 	socialobligation
+2208	do you want breakfast? 	question
+2209	yes. 	answer
+2210	what do you want? 	question
+2211	a sandwich. 	answer
+2212	sandwich with cheese or cream cheese?	question
+2213	sandwich with only cream cheese on it. 	answer
+2214	ok, coming up.	accept
+2215	do you want to drink something? 	question
+2216	tea. 	answer
+2217	we ran out of tea. 	inform
+2218	do you want something else to drink?	question
+2219	vodka. 	answer
+2220	that is funny anna. 	inform
+2221	you want a coffee? 	question
+2222	coffee is fine. 	answer
+2223	now it is time to get out of your pjs. 	instruct
+2224	hmm.	feedback
+2225	i will put your clothes on the bed. 	inform
+2226	please get dressed. 	interactionstructuring
+2227	i do not want to wear this ugly t-shirt. 	inform
+2228	why is that ugly? 	question
+2229	i do not like it at all. 	answer
+2230	i hate it. 	inform
+2231	okay, 	accept
+2232	then we change the t-shirt. 	offer
+2233	how about this t-shirt. 	suggest
+2234	no, 	suggest
+2235	i want a white one. 	instruct
+2236	a white t-shirt.	accept
+2237	we do not have white t-shirts. 	confirm
+2238	we have to wash whites on the weekend. 	inform
+2239	i want this one. 	instruct
+2240	ok, 	feedback
+2241	that is a nice one. 	confirm
+2242	here you are. 	inform
+2243	please get dressed 	interactionstructuring
+2244	then we will brush teeth, do makeup, and hair. 	instruct
+2245	we are a little late. 	inform
+2246	why do you not wake me earlier then? 	question
+2247	i tried to wake you  	answer
+2248	but	contradict
+2249	you snoozed. 	inform
+2250	simply try harder tomorrow. 	suggest
+2251	are you tired this morning? 	question
+2252	yes	accept
+2253	i am	answer
+2254	maybe we should change our evening routine, 	suggest
+2255	so that you can get a longer nights sleep. 	inform
+2256	i do not want to talk about this now. 	suggest
+2257	we are late. 	inform
+2258	yes, 	accept
+2259	you are right. 	confirm
+2260	let us get ready 	suggest
+2261	and 	turnmanagement
+2262	we talk later	inform
+2263	so, 	interactionstructuring
+2264	now bathroom. 	inform
+2265	ok. 	accept
+2266	here is your toothbrush, toothpaste and water. 	instruct
+2267	want help? 	question
+2268	nope. 	answer
+2269	ok. 	feedback
+2270	the nurse is here to help you with makeup and hair. 	inform
+2271	ok. 	accept
+2272	anders and bella will be soon here. 	inform
+2273	you want to say hi?	question
+2274	yes. 	confirm
+2275	i was waiting the whole day.	answer
+2276	i know. 	accept
+2277	after you have talked to them, 	inform
+2278	we can go to the store. 	suggest
+2279	i was wondering if you could do groceries today? 	question
+2280	i think it is better if you join me. 	answer
+2281	walking is good exercise for you. 	suggest
+2282	i am tired. 	inform
+2283	i just want to sit here. 	inform
+2284	should i call the doctor 	question
+2285	so you can tell her what your problem is? 	inform
+2286	i have no problem. 	answer
+2287	i am tired, is all. 	inform
+2288	ok,	turnmanagement
+2289	i understand. 	inform
+2290	i think either we get you motivated and awake	suggest
+2291	or	turnmanagement
+2292	we take a short stroll around the block instead of walking to the store.	suggest
+2293	do you not understand 	suggest
+2294	what i am saying? 	question
+2295	i said i am tired 	inform
+2296	and 	turnmanagement
+2297	i do not want to go anywhere! 	inform
+2298	you stupid machine! 	inform
+2299	i hate this! 	inform
+2300	go away! 	instruct
+2301	leave me alone! 	request
+2302	and 	turnmanagement
+2303	you do not call the doctor! 	instruct
+2304	no matter what you are supposed to do! 	instruct
+2305	hear me?	question
+2306	anna, 	interactionstructuring
+2307	you know that i am supposed to call the doctor when you get upset. 	inform
+2308	it is better if somebody checks on you right away. 	inform
+2309	ok.	accept
+2310	ok. see?	turnmanagement
+2311	i am calm	inform
+2312	ok see?	question
+2313	i can tell you are calmer, anna. 	answer
+2314	ok. 	accept
+2315	are you looking forward to your guests? 	question
+2316	yes. 	accept
+2317	bella is pregnant, 	inform
+2318	isn't she? 	question
+2319	yes 	accept
+2320	she is	answer
+2321	in a couple of months you will be grandmother. 	inform
+2322	in a couple of years we can go to the playground together. 	inform
+2323	yes.	accept
+2324	i think  	turnmanagement
+2325	they are here.	inform
+2326	anna, 	interactionstructuring
+2327	do you feel better now? 	question
+2328	what? 	question
+2329	you were so tired.	answer
+2330	i will be fine. 	inform
+2331	do you feel like going to the store?  	question
+2332	it takes so long. 	answer
+2333	ok, 	accept
+2334	then i suggest we take a stroll around the block. 	suggest
+2335	ok. 	suggest
+2336	the weather is sunny. 	turnmanagement
+2337	it will be nice.	inform
+2338	let us enjoy that. 	inform
+2339	winter is coming soon enough. 	turnmanagement
+2340	let us do a puzzle. 	interactionstructuring
+2341	okay.	answer
+2342	which one?	question
+2343	the one with the mountain and the lake. 	answer
+2344	okay 	accept
+2345	that is a nice one. 	turnmanagement
+2346	you like a good challenge. 	turnmanagement
+2347	yes, 	accept
+2348	put the blue pieces here,	instruct
+2349	the greyish ones over here  	instruct
+2350	to start with	turnmanagement
+2351	ok. 	accept
+2352	now 	turnmanagement
+2353	first the corners. 	instruct
+2354	ah, 	turnmanagement
+2355	here is one. 	inform
+2356	help me here. 	instruct
+2357	here is another one. 	inform
+2358	good. 	feedback
+2359	and 	turnmanagement
+2360	here are the other ones. 	inform
+2361	give me all pieces with even sides. 	instruct
+2362	blue or grey? 	question
+2363	blue. 	answer
+2364	here you go. 	inform
+2365	good morning  	socialobligation
+2366	this is your appointment scheduling system.	interactionstructuring
+2367	who would you like to see the occupational therapist or the physiotherapist ? 	question
+2368	i want to see the occupational therapist.	answer
+2369	you would like to see the occupational therapist. 	inform
+2370	is that correct ? 	question
+2371	yes please	accept
+2372	on which day would you like to come monday morning or monday afternoon? 	question
+2373	i would prefer on monday morning please.	answer
+2374	you would like to make an appointment on monday morning. 	inform
+2375	is that correct? 	question
+2376	yes please	answer
+2377	at what time would you like to make an appointment nine thirty a.m or eleven a.m? 	question
+2378	i would like to meet the occupational therapist at eleven a.m.	answer
+2379	you would like an appointment at nine thirty a.m. 	inform
+2380	is that correct? 	question
+2381	yes  	accept
+2382	its absolutely correct.	answer
+2383	could you repeat it once for me?	question
+2384	i have now booked for you an appointment with the occupational therapist on monday at nine thirty in the morning at the community treatment centre. 	inform
+2385	is that correct? 	question
+2386	yes	accept
+2387	 its correct.	answer
+2388	thank you very much 	socialobligation
+2389	for using the appointment scheduling system. 	inform
+2390	goodbye 	socialobligation
+2391	thankyou.	socialobligation
+2392	good morning.	socialobligation
+2393	this is your appointment scheduling system. 	interactionstructuring
+2394	would you like to see the occupational therapist the community nurse the physiotherapist or the diabetes nurse? 	question
+2395	good morning	socialobligation
+2396	uh.	stalling
+2397	diabetes nurse please	answer
+2398	you wish to see the diabetes nurse 	inform
+2399	is that correct?	question
+2400	yes	accept
+2401	when would you like to come tuesday afternoon wednesday morning thursday morning or thursday afternoon? 	question
+2402	thursday afternoon would be fine 	answer
+2403	but	contradict
+2404	it needs to be after two o clock please.	request
+2405	you would like to make an appointment on thursday afternnon at three? 	question
+2406	three pm would be grand.	answer
+2407	you would like to book an appointment on thursday afternnon at three pm 	inform
+2408	is that correct ? 	question
+2409	three pm thursday diabetes nurse at the hospital thats grand.	answer
+2410	i have now booked for you an appointment with the diabetes nurse on thursday at three pm at the hospital 	inform
+2411	is that correct ? 	question
+2412	thats grand 	accept
+2413	thankyou.	socialobligation
+2414	thank you very much 	socialobligation
+2415	for using the appointment scheduling system 	inform
+2416	goodbye.	socialobligation
+2417	welcome goodbye.	socialobligation
+2418	hello mom	socialobligation
+2419	i wanted to go and get my hairs done.	inform
+2420	what is the problem with them?	question
+2421	they have grown too long	answer
+2422	i do not agree	accept
+2423	why?	question
+2424	they look beautiful on you	inform
+2425	i am just tired of them	inform
+2426	okay 	turnmanagement
+2427	now you are changing the reasons	suggest
+2428	what do you mean?	question
+2429	i do not think 	accept
+2430	you should cut your hairs	answer
+2431	i am sorry 	apology
+2432	cant manage them anymore	inform
+2433	okay 	accept
+2434	then do it	suggest
+2435	okay 	suggest
+2436	thanks mom.	socialobligation
+2437	sara would you like to go out for dinner tonight.	question
+2438	yes, 	accept
+2439	i have heard there is a new restaurant with inexpensive food.	answer
+2440	well, 	turnmanagement
+2441	there must be reason for that i am sure, 	inform
+2442	possibly its not good.	inform
+2443	no 	reject
+2444	i do not agree 	accept
+2445	maybe they have limited menu.	inform
+2446	okay 	accept
+2447	lets check on their website	suggest
+2448	you see here 	inform
+2449	the comments of people, 	inform
+2450	bad service and low quality.	inform
+2451	ahh 	stalling
+2452	i do not trust these reviews.	accept
+2453	sara lets just skip this	suggest
+2454	and 	turnmanagement
+2455	go somewhere we know that we wont regret	suggest
+2456	but until we do not try 	contradict
+2457	how we will know if its bad	suggest
+2458	can we try it another time 	suggest
+2459	today i do not want to experiment 	inform
+2460	if its okay with you	inform
+2461	umm	stalling
+2462	okay 	accept
+2463	lets check this new one out later	suggest
+2464	today we go somewhere else. 	suggest
+2465	these are beautiful denims 	inform
+2466	what do you think?	question
+2467	yeah, 	accept
+2468	they look nice  	answer
+2469	but 	contradict
+2470	i have heard they are poorly made.	inform
+2471	i do not agree with that 	accept
+2472	the touch and feel is also nice.	inform
+2473	yeah 	accept
+2474	but	contradict
+2475	you see here at the bottom the threads all loose 	suggest
+2476	hmm 	stalling
+2477	there you are right.	suggest
+2478	but	contradict
+2479	i am sure it can be fixed	suggest
+2480	or 	turnmanagement
+2481	we can ask if they have more of them. 	offer
+2482	how do we escape from this merry go round.	question
+2483	there is no escape.	answer
+2484	in the 18th and 19th century technology and industrial revolution was for the people. 	inform
+2485	you should also think about this, 	inform
+2486	that 	turnmanagement
+2487	when industrial revolution came, 	feedback
+2488	they also lost jobs. 	inform
+2489	huge huge number of people.	inform
+2490	yes yes, 	accept
+2491	it definitely was something	accept
+2492	but also 	contradict
+2493	when 	stalling
+2494	there was that rise of the machine, 	inform
+2495	also then humans had to 	inform
+2496	retreat exactly from those jobs	inform
+2497	humanity had to retreat 	inform
+2498	because 	turnmanagement
+2499	that part of the landscape is being taken away	inform
+2500	and 	stalling
+2501	the machines are taking more and more of this landscape	inform
+2502	first the physical world with all the cars, 	inform
+2503	then they dominate the physical world 	error
+2504	and 	stalling
+2505	then they will start doing the intellectual work	error
+2506	because once they take the physical world, 	error
+2507	what will remain then is the intellectual world. 	error
+2508	of course it it is a. 	error
+2509	its a matter of few years 	error
+2510	that 	stalling
+2511	you launch an algorithm 	suggest
+2512	and 	stalling
+2513	they prove any kind of theorem	error
+2514	then what remains. 	question
+2515	when they can	inform
+2516	basically they can do anything and everything. 	inform
+2517	 yeah. 	accept
+2518	but then what we will do.	contradict
+2519	 then we can 	answer
+2520	do either go on vacation. 	answer
+2521	but then they will also go on vacation, 	contradict
+2522	because once they find out 	inform
+2523	that 	turnmanagement
+2524	its better to spend some quality time 	inform
+2525	then if they have a choice 	suggest
+2526	they will do it.	confirm
+2527	but what for, 	contradict
+2528	we need vacation to rejuvenate ourselves 	contradict
+2529	from the exhaustion and stress 	inform
+2530	we have had from work, 	inform
+2531	what will they, 	error
+2532	what will be their objective to go on vacation. 	question
+2533	but they will never have any kind of tiredness or stress.	contradict
+2534	for the quality of the time.	answer
+2535	if they find that its higher quality 	suggest
+2536	they will just do it. 	confirm
+2537	why will they go 	question
+2538	and 	turnmanagement
+2539	work in the factory 	inform
+2540	or 	turnmanagement
+2541	in an office. 	inform
+2542	such that 	turnmanagement
+2543	they can get rewarded. 	suggest
+2544	 yes	accept
+2545	 yeah, 	turnmanagement
+2546	it started also with us, 	inform
+2547	we also used to get rewarded 	inform
+2548	yeah whatever, 	turnmanagement
+2549	food and rations, 	inform
+2550	and that keeps us in the loop of working and producing. 	suggest
+2551	work and produce	inform
+2552	 society still works that way. 	suggest
+2553	and that is good.	confirm
+2554	the problem is 	suggest
+2555	when 	turnmanagement
+2556	these machines will land 	inform
+2557	in the intellectual world, 	inform
+2558	and then 	turnmanagement
+2559	but i think 	contradict
+2560	it will still take some time.	inform
+2561	yes 	accept
+2562	they will land in the intellectual world.	inform
+2563	when they will start shaping 	suggest
+2564	how we think and 	inform
+2565	how we live our personal lives, 	inform
+2566	then	turnmanagement
+2567	 then 	turnmanagement
+2568	we will be just slaves.	inform
+2569	 then 	turnmanagement
+2570	yes 	accept
+2571	that is the risk.	inform
+2572	 why dont you never see good intentions, 	question
+2573	like why dont you see, 	turnmanagement
+2574	like why you always see a dystopian society. 	question
+2575	  i dont know 	answer
+2576	i might be quite biased towards dystopian, 	suggest
+2577	may be i like too much the movie matrix too much. 	inform
+2578	yes i tend to see more negative aspects than the positive. 	answer
+2579	 yeah i think it steals people’s job. 	suggest
+2580	it does not steals job	error
+2581	it ends, 	inform
+2582	it just snatches, peoples jobs. 	inform
+2583	 its not stealing, 	confirm
+2584	stealing is like doing something while hiding while not coming in the front.	inform
+2585	 ofcourse they don steal, 	confirm
+2586	its the people who assign them these jobs.	inform
+2587	 yeah.	accept
+2588	 yeah, 	accept
+2589	thats why they are developing ethics 	suggest
+2590	and 	turnmanagement
+2591	bringing all these regulations, 	inform
+2592	we are always, always , 	turnmanagement
+2593	because humans will exagerate,	inform
+2594	and 	turnmanagement
+2595	may be we will exagerate 	suggest
+2596	and 	turnmanagement
+2597	just become puppets in the hands of machines. 	inform
+2598	 in the hands of ai. 	inform
+2599	there will be a day when machines will be more free than us. 	inform
+2600	where they can be more free in doing whatever they do.	inform
+2601	 and well be like machines.	suggest
+2602	 and it will be the inverse, 	suggest
+2603	slaves of the machines	suggest
+2604	they will put us to work 	suggest
+2605	to have a productive society 	suggest
+2606	and a constant development	inform
+2607	 i dont know, 	confirm
+2608	i am not against machines, 	suggest
+2609	i am not against robots or ai, 	suggest
+2610	i am not against innovation and technology. 	suggest
+2611	but i agree with you at some points 	contradict
+2612	when 	stalling
+2613	i see people just losing jobs.	inform
+2614	 may be its also that we are so much aware about everything 	suggest
+2615	in our surrounding and also outside our surrounding around the world we get so much information 	suggest
+2616	that we stress so much	suggest
+2617	if we do not have such media which communicates all the information. 	suggest
+2618	may be we will be more happier. 	suggest
+2619	yeah let machines steal the jobs 	suggest
+2620	we will find another set of jobs	inform
+2621	like humans we have always survived our destruction, 	inform
+2622	we create destruction 	inform
+2623	but somehow we always survive it also, 	contradict
+2624	and build on top of it, 	inform
+2625	we never we do not scumb to it. 	correction
+2626	that will be our step to 	suggest
+2627	i dont know 	accept
+2628	we dont have to be super worried 	inform
+2629	there will be a set of people 	inform
+2630	who will be controlling the world 	inform
+2631	whether through machines or 	inform
+2632	whether through humans 	inform
+2633	so i think we will always be on the top may 	inform
+2634	may be just selected few people, 	suggest
+2635	few people will be on the top and 	inform
+2636	they will be controlling the machines and humans, 	inform
+2637	but the scenario is not very different, 	contradict
+2638	these social media and google they control us, 	inform
+2639	in lot of ways, 	turnmanagement
+2640	and 	stalling
+2641	they are using ai 	inform
+2642	to just destroy the social structure, 	inform
+2643	destroy our communication, 	inform
+2644	to increase the stress, 	turnmanagement
+2645	to track us down at all levels, 	inform
+2646	to have every kind of thing from us.	inform
+2647	 yes	confirm
+2648	 and 	turnmanagement
+2649	i dont see that	inform
+2650	 and 	turnmanagement
+2651	that is already happening.	inform
+2652	 i dont think anything new is going to happen, 	contradict
+2653	we were controlled by the monarchs earlier, 	suggest
+2654	then the political governments, 	inform
+2655	now its these companies and 	inform
+2656	then well 	turnmanagement
+2657	then why not they are using ai already to control us	correction
+2658	its happening right now ever where	inform
+2659	 yes	confirm
+2660	yes. 	turnmanagement
+2661	 and the blow that they strike on zukenberg 	inform
+2662	its nothing in compared to the power these multinationals have, 	inform
+2663	the power in making us very predictable, 	inform
+2664	whatever you search google knows 	inform
+2665	that whatever 	turnmanagement
+2666	comes first is what you are going to go with.	inform
+2667	 yes and they are showing us 	suggest
+2668	what they want us to see. 	suggest
+2669	we do not have any freedom.	suggest
+2670	 what they want to show us is 	inform
+2671	what people decided to see, 	suggest
+2672	and the loop gets reinforced, 	inform
+2673	so the people will continue to see the same things. 	inform
+2674	because they decide that . 	confirm
+2675	like  	turnmanagement
+2676	its simple you search for something how this thing works  	inform
+2677	how does that work. 	question
+2678	and so on. 	turnmanagement
+2679	and a solution comes up, 	inform
+2680	then if that solution gets successful 	inform
+2681	then the loop gets reinforced.	confirm
+2682	 i get what you are saying there, 	feedback
+2683	i see the problem there,  	confirm
+2684	what you are trying to say, 	confirm
+2685	i understand you very well	confirm
+2686	you are right that then we are not seeing anything new, 	accept
+2687	we are just seeing all the things that other people have already seen,  	inform
+2688	yeah and its all reinforced, 	turnmanagement
+2689	and we are becoming more and more predictable, 	inform
+2690	we are becoming more and more traceable, 	turnmanagement
+2691	more and more similar.	turnmanagement
+2692	 this is  why at a certain point 	suggest
+2693	if nothing changes 	suggest
+2694	i say 	turnmanagement
+2695	then there will be a reversion, 	confirm
+2696	between humans and machines, 	inform
+2697	where machines will be free to do whatever they want, 	inform
+2698	and these machines they will be standing on humans, 	inform
+2699	and they will be controlling us.	inform
+2700	 i dont think so, 	contradict
+2701	there will be several humans controlling these machines 	confirm
+2702	and these machines will control the whole of humanity, 	inform
+2703	i think there will always we a human . on the loop.	confirm
+2704	 it will be humans vs machines.	inform
+2705	 may be i am biased 	suggest
+2706	but 	turnmanagement
+2707	i dont see us dooming anytime soon.	contradict
+2708	 10 10 years and the robots they will start going to the universities	inform
+2709	and 	turnmanagement
+2710	doing research, 	inform
+2711	ten years	turnmanagement
+2712	or supporting consistently, 	inform
+2713	i think it will be contained at some point, 	suggest
+2714	i dont think its going to be used in that sense 	contradict
+2715	and i hope so they dont.	inform
+2716	well we had a nice conversation about that.	inform
+2717	how you felt, 	question
+2718	did you had difficulties or you did not.	question
+2719	you did not had difficulties, 	question
+2720	whether and people and and how the mental turmoil was going though.	question
+2721	i can tell you mine one.	answer
+2722	and i can also tell you what others think about that	answer
+2723	for me 	inform
+2724	aaa. 	stalling
+2725	i dont think so much about the things. 	contradict
+2726	i believe that if something comes then 	confirm
+2727	i have to make myself competitive, 	inform
+2728	such that i can cope up with any kind of situation. 	suggest
+2729	some people think a lot of things. 	suggest
+2730	just like i had a friend he is now a professor in iit roulkela. 	inform
+2731	he got a phd in japan, 	inform
+2732	some tusukuba university. 	inform
+2733	he thought so much, 	inform
+2734	so many things, 	turnmanagement
+2735	when i will go 	question
+2736	what is my scholarship,	question
+2737	 yes	confirm
+2738	 and 	stalling
+2739	and what will be the house expense, 	question
+2740	and so many other things.	inform
+2741	 hmmm, hmm	feedback
+2742	 yeah	confirm
+2743	 after that he exaggerated so many things 	inform
+2744	that he actually did not go there.	inform
+2745	 oh really 	turnmanagement
+2746	 yes	feedback
+2747	 oh my god. 	turnmanagement
+2748	 my intention was 	inform
+2749	is to do a post doc, 	inform
+2750	when i was in the industry 	inform
+2751	i was getting the opportunity for the onsite.	inform
+2752	yes	feedback
+2753	i will travel to us there was a client.	inform
+2754	yeah yes	accept
+2755	even at that time i did not think so much.	confirm
+2756	yeah, so. i was ready for that.	inform
+2757	i dint think	inform
+2758	they start like over thinking 	inform
+2759	and they kill all the excitement	confirm
+2760	yeah, 	accept
+2761	some people think too much 	turnmanagement
+2762	and 	stalling
+2763	then they kill all the excitement. 	suggest
+2764	yes 	turnmanagement
+2765	i think so	suggest
+2766	they start over thinking 	inform
+2767	and 	turnmanagement
+2768	kill all the excitement	inform
+2769	 something means, 	turnmanagement
+2770	uncertainty is 	interactionstructuring
+2771	i think its a nature and that is a life.	inform
+2772	yeah	accept
+2773	if everything you can predict, 	inform
+2774	everything you can plan then 	inform
+2775	you do not have any spikes 	suggest
+2776	and 	turnmanagement
+2777	you do not have spikes in life and its like.	suggest
+2778	it becomes boring 	suggest
+2779	i think.	turnmanagement
+2780	yes yes 	accept
+2781	that the thing it becomes boring, 	suggest
+2782	and everything is scripted then 	inform
+2783	there and things are going on. 	error
+2784	but i also feel 	contradict
+2785	that if you plan too much, 	suggest
+2786	things do not work out well, 	suggest
+2787	like your plans fail 	suggest
+2788	because life does not goes according to your plans.	suggest
+2789	 of course of course	accept
+2790	 and then you get frustrated, 	inform
+2791	angry, 	inform
+2792	and with this 	confirm
+2793	i feel 	turnmanagement
+2794	the controlling nature of people 	inform
+2795	it it exhibits a lot. 	inform
+2796	and then if we are controlling and things 	suggest
+2797	dont go according to us 	inform
+2798	them you go mad.	inform
+2799	 yes, 	accept
+2800	i think you are relating expectation to each and everything, 	suggest
+2801	you have a plan and you have a expectation 	suggest
+2802	that 	stalling
+2803	that will work out as per your expectation. 	suggest
+2804	but that doesnt	contradict
+2805	 it may. 	offer
+2806	yeah	accept
+2807	 and and 	turnmanagement
+2808	if you plan too much 	suggest
+2809	then you control	suggest
+2810	 you you try to control	suggest
+2811	 then i feel that 	inform
+2812	then if you get disappointed 	suggest
+2813	it hurts a lot. 	suggest
+2814	but if you dont plan so much then 	contradict
+2815	you dont get hurt. 	suggest
+2816	like if things dont go according to your plan	offer
+2817	then will its okay 	question
+2818	its fine, 	accept
+2819	the flexibility is necessary.	suggest
+2820	 the flexibility 	suggest
+2821	and also 	turnmanagement
+2822	you need to think 	turnmanagement
+2823	that what are the things required to do that.	suggest
+2824	just like before coming to any country for education,	offer
+2825	 hmm	turnmanagement
+2826	 there are somethings that you can look before coming there 	offer
+2827	such as currency of that country, 	offer
+2828	that you ha to take it at the right time, 	offer
+2829	you can see the pattern of the exchange 	offer
+2830	then you can take the right decisions, 	suggest
+2831	then if you are coming so for a temp location 	suggest
+2832	you need to 	error
+2833	have to see for a place that you need to accommodate your self.	offer
+2834	 yeah hmm	turnmanagement
+2835	 so so,	turnmanagement
+2836	for me everything i relate to research, 	interactionstructuring
+2837	everything is just like 	turnmanagement
+2838	you have a problem definition 	suggest
+2839	and these are the possible solutions.	suggest
+2840	 yeah. 	accept
+2841	 so 	turnmanagement
+2842	i used to write everything in terms of that. 	suggest
+2843	before coming here this is my professor, 	inform
+2844	okay these are the things i have to ask him, 	instruct
+2845	like how much is my scholarship,	question
+2846	where i can stay,	question
+2847	what is the period of that, 	question
+2848	what are the future possibilities, 	question
+2849	these are the some of the things 	suggest
+2850	that 	turnmanagement
+2851	you need before making a decision	inform
+2852	but the moment you have made you decision	contradict
+2853	then you go and meet with that.	instruct
+2854	 hmm	turnmanagement
+2855	 hmm	turnmanagement
+2856	 yeah 	turnmanagement
+2857	i agree with that	accept
+2858	 the other thing is also that 	inform
+2859	the more you 	interactionstructuring
+2860	you will meet different variety of people, 	inform
+2861	the more you will feel liberal 	inform
+2862	or 	turnmanagement
+2863	the other hand conservative also. 	inform
+2864	so it depends on 	inform
+2865	what are the things you are expecting, 	question
+2866	one thing which was uncertain 	inform
+2867	which i did not figure out or did any research on was how the people would be. 	inform
+2868	when i came here i felt 	inform
+2869	i l realized 	correction
+2870	people are really nice 	suggest
+2871	really beautiful people, 	suggest
+2872	i can say that in my experience 	inform
+2873	they are the best people whoever i have met so far.	promise
+2874	 yeah 	accept
+2875	they are very good at heart 	suggest
+2876	most of the people. 	suggest
+2877	 and one thing 	turnmanagement
+2878	i feel very nice about everyday, 	inform
+2879	whenever i come from home to college and 	suggest
+2880	whenever i see any person 	inform
+2881	and 	turnmanagement
+2882	we have eye contact and 	inform
+2883	so i	turnmanagement
+2884	i by habitually 	turnmanagement
+2885	i used to say hey, 	inform
+2886	and it fun that they used to say me hey . 	inform
+2887	respond	error
+2888	yeah. 	confirm
+2889	they respond	correction
+2890	 yes 	accept
+2891	they respond	confirm
+2892	 but 	contradict
+2893	in india its like	inform
+2894	 its horrible. 	inform
+2895	if you say hey, 	suggest
+2896	oh you know me 	suggest
+2897	you dont know me, 	suggest
+2898	then why do you say hey.	suggest
+2899	 they suspect you 	turnmanagement
+2900	as if you are going to kill them.	suggest
+2901	 if you say hey 	turnmanagement
+2902	to a beautiful girl 	inform
+2903	then that means you are following her or something.	suggest
+2904	 yes 	suggest
+2905	we do not have such social norms. 	suggest
+2906	that was my first impression of the people 	inform
+2907	in the western countries, 	turnmanagement
+2908	in the malls, 	turnmanagement
+2909	on the streets, 	turnmanagement
+2910	people greet each other. 	inform
+2911	and 	turnmanagement
+2912	as we go more and more towards these socially rich countries, 	inform
+2913	more people are open in social spheres	suggest
+2914	they while walking on the road for example 	suggest
+2915	i really like it, 	inform
+2916	it felt like home, 	inform
+2917	it felt like i belong here.	inform
+2918	 yes , yes	accept
+2919	 i never felt any difficulties here, 	inform
+2920	its not that i am missing my place 	suggest
+2921	and 	turnmanagement
+2922	not interacting with the environment. 	inform
+2923	and they all are nice	suggest
+2924	 what do you suggest 	suggest
+2925	that we should learn from these people.	question
+2926	 the first thing is that 	answer
+2927	what i felt 	turnmanagement
+2928	in indian is we are losing the humanity there. 	suggest
+2929	we are going greedy day by day, 	inform
+2930	the environment the nature, 	inform
+2931	we are not bothering about that.  	inform
+2932	 hmm , hmm, yeah	turnmanagement
+2933	 the first thing is humanity that we are loosing, 	suggest
+2934	we are saying we have a heritage culture.	suggest
+2935	 but that is in the past.	contradict
+2936	 yes, yes	accept
+2937	 what i think is 	turnmanagement
+2938	that we are becoming a hybrid generation, 	suggest
+2939	of half indian and half us. 	suggest
+2940	we are just blindly following the us.	inform
+2941	 if your one leg is somewhere and other leg somewhere, 	inform
+2942	then 	turnmanagement
+2943	 you can not be balanced.	suggest
+2944	 there is always conflict between , 	turnmanagement
+2945	at least with all the people in my generation, 	inform
+2946	whether to go traditional way indian way, 	question
+2947	or whether to adapt or just to take up other culture, 	question
+2948	but in the tvs we see only exaggerated culture of the west. 	contradict
+2949	 they are not divorcing, they are so friendly.	suggest
+2950	 of course, of course, 	suggest
+2951	they respect the other people freedom, 	suggest
+2952	they respect other genders, 	suggest
+2953	they don’t discriminate against each other. 	suggest
+2954	they don’t control people, 	suggest
+2955	if two people are living with each other, 	inform
+2956	if they are having conflict, 	inform
+2957	its good they will breakup and have a better life. 	inform
+2958	 they dont discriminate, 	turnmanagement
+2959	they dont control people.	inform
+2960	 its not definite 	turnmanagement
+2961	that this is the person. 	inform
+2962	here you get more freedom to choose, 	turnmanagement
+2963	and be with the person who you like 	inform
+2964	in india its like once you go and get that person you are doomed, 	turnmanagement
+2965	because your family gets attached and its very very constraining, 	inform
+2966	i think we can change few things in those aspects.  	suggest
+2967	 yes yes, 	accept
+2968	many of the things once 	suggest
+2969	i came here being in india i was thinking that these are the things that we should do, 	suggest
+2970	something that we need to change, 	suggest
+2971	that was the perception when i was in india. 	suggest
+2972	now when i came here i realized that there are many things that we have to change.	inform
+2973	 yes	turnmanagement
+2974	 the root cause is parenting, 	turnmanagement
+2975	everything comes from there. 	inform
+2976	rather than making targets for our children, 	suggest
+2977	these are the things that you have to do you have to obey your parents, 	inform
+2978	these are the rituals you have to perform, 	inform
+2979	no matter what	turnmanagement
+2980	you have to get good marks. 	inform
+2981	 and they never gave any reason for anything, 	inform
+2982	we have to just do it well why.	inform
+2983	so i think we should start having dialogue with our children, 	suggest
+2984	explain the things what is good what is bad, 	suggest
+2985	rather than saying that this is the thing that you should do. 	inform
+2986	yes	accept
+2987	attach explanation with everything 	suggest
+2988	such that he will understand that what is injurious, 	suggest
+2989	just do the explanation.	suggest
+2990	instead of punishing them, 	turnmanagement
+2991	just let them know about its problems, 	suggest
+2992	and then let them choose, 	suggest
+2993	because its their life.  	suggest
+2994	 yes, of course, 	turnmanagement
+2995	at the end it is their life, 	inform
+2996	and your focus should be to make them capable of taking their decisions, 	inform
+2997	train them to take the wise decisions, 	suggest
+2998	so there are many things that we can fix, 	inform
+2999	in the parenting 	inform
+3000	and 	turnmanagement
+3001	see that rest of the society will change everything. 	suggest
+3002	 yeas.	accept
+3003	 why its always the responsibility of the girls and women to take care  	interactionstructuring
+3004	 of the family.	turnmanagement
+3005	 of the brothers, 	inform
+3006	family, house , 	inform
+3007	why she will do the cleaning and the 	instruct
+3008	boy will do the outside work, 	instruct
+3009	you are making distinctions, 	inform
+3010	you are bringing discrimination at a very initial stage 	inform
+3011	and then 	turnmanagement
+3012	complaining that society is transforming where no body is respecting women. 	inform
+3013	 yeah	accept
+3014	 if fathers dont respect mothers, 	inform
+3015	and 	turnmanagement
+3016	if brothers dont respect sisters, 	inform
+3017	they wont respect the women when they go outside	inform
+3018	 yeah yeah	accept
+3019	 it will never happen 	suggest
+3020	that 	turnmanagement
+3021	when they go into the society they will respect other women	suggest
+3022	 other women 	turnmanagement
+3023	and women respecting other men.	turnmanagement
+3024	 if the mother is not telling her boy to behave properly, 	suggest
+3025	the boy will never behave properly	suggest
+3026	 even i think the same 	suggest
+3027	that 	turnmanagement
+3028	most of the indian men have developed the mentality that women are objects.	inform
+3029	 and that is really really frustrating	suggest
+3030	 its pathetic for us to see	turnmanagement
+3031	 its dangerous, 	turnmanagement
+3032	if see, 	stalling
+3033	as soon you grow in your position and designation in the society there comes lot of responsibility, 	inform
+3034	freedom comes with accountability and designation comes with responsibility , 	inform
+3035	and we see lot of political leaders commenting on rape 	suggest
+3036	like means . 	stalling
+3037	are they human or not	question
+3038	 it just feels that they dont have any feelings, 	answer
+3039	  they are the leaders of the society 	suggest
+3040	and 	turnmanagement
+3041	they are running the government and so, 	inform
+3042	and its not like the society made them 	accept
+3043	its like the parenting made them	confirm
+3044	 yes	accept
+3045	i think 	turnmanagement
+3046	if we have to fix something 	inform
+3047	we have to repair ourselves, 	suggest
+3048	it is the first thing we have to repair our parenting, 	suggest
+3049	we have to be vary careful about it, 	inform
+3050	we should not criticize other cultures and society like they are divorcing, 	suggest
+3051	 put the blame on them	suggest
+3052	 they are doing live-in relation, 	suggest
+3053	that is their culture 	inform
+3054	and 	turnmanagement
+3055	we should respect 	suggest
+3056	and 	turnmanagement
+3057	you have to think about the best values 	suggest
+3058	that we can get from there 	inform
+3059	and 	turnmanagement
+3060	can bring in your parenting, 	inform
+3061	i do not feel any difference of swedish mother and the indian mother 	suggest
+3062	they also care about their children 	inform
+3063	they are also affectionate about their children, 	inform
+3064	there was some celebration in the campus, 	confirm
+3065	where i have seen many mothers came with their sons and the girls also, 	confirm
+3066	they were dressing like the indian mothers were dressed, 	confirm
+3067	yeah, a mother is mother whether she is in europe, us or in india.	confirm
+3068	 but you will see 	contradict
+3069	that 	turnmanagement
+3070	there is not a pressure a cultural ethos who is pressurizing 	interactionstructuring
+3071	that you have to obey, 	inform
+3072	you cannot have conflicts, 	inform
+3073	you have to become like rama.	inform
+3074	yeah 	confirm
+3075	and 	turnmanagement
+3076	we dont know if he really existed, its all in the mythology.	accept
+3077	yes thats the thing, 	accept
+3078	here you have a love, affection, you have accountability, responsibility 	inform
+3079	and	turnmanagement
+3080	you are not bound to 	inform
+3081	and i think the same thing should be in india  	offer
+3082	we are learning only the things that we are shown, 	inform
+3083	we do not evaluate 	inform
+3084	we don not have the sense to evaluate the wrong from the right.	inform
+3085	yes 	confirm
+3086	the many things that i felt very pathetic this is 21st century and we are fighting for ram mandir.	suggest
+3087	and cow meat, and this 	suggest
+3088	and we are fighting for beef, pork and chicken.	suggest
+3089	i was pretty annoyed at these things, 	confirm
+3090	common lets talk about something that is more important, 	suggest
+3091	your family, 	suggest
+3092	your children mental health, 	inform
+3093	how your children are doing, 	inform
+3094	not what is happening in the temples, 	suggest
+3095	they are just piece of lands,  	inform
+3096	 i always think about one thing 	turnmanagement
+3097	we have to see that the things which were happening over the era,  	interactionstructuring
+3098	they have built 500 years ago, 	inform
+3099	because the people were thinking 	inform
+3100	that 	stalling
+3101	this the thing that we can do in our society 	inform
+3102	and 	turnmanagement
+3103	they have built the society in that kind. 	inform
+3104	it is not like that 500 years ago that they have created is valid for now, 	inform
+3105	both technology has transformed, 	inform
+3106	many of the things have transformed, 	inform
+3107	education has transformed, 	inform
+3108	its fine you can use the things 	inform
+3109	and you have change your self, 	inform
+3110	so keep the good values that you are having from previous generation 	suggest
+3111	and remove the bad things from your practices, 	suggest
+3112	from your rituals, 	inform
+3113	and many things	inform
+3114	 we need to decide, 	inform
+3115	we need to change, 	inform
+3116	i agree with your on all these things 	suggest
+3117	because 	turnmanagement
+3118	i think very similar, 	accept
+3119	and why i am always frustrated.	inform
+3120	i always used to have a conflict of opinion 	inform
+3121	with my friends 	inform
+3122	and 	turnmanagement
+3123	basically with my family	inform
+3124	yes 	accept
+3125	many of the people which belongs to my generation	inform
+3126	yes thats very strange	accept
+3127	because 	turnmanagement
+3128	we studied in the same school, 	inform
+3129	same college, 	inform
+3130	same envious, 	inform
+3131	but somehow they are more constraining 	contradict
+3132	what needs to be done and what not 	inform
+3133	like they have a very narrow minded thinking still, 	suggest
+3134	become they want to follow what their parents did 	suggest
+3135	or 	turnmanagement
+3136	what the society does, 	inform
+3137	they say it that they dont care 	inform
+3138	but 	turnmanagement
+3139	they care a care a lot, 	inform
+3140	and that is making us weak, 	suggest
+3141	and then we have to depend on others, 	suggest
+3142	we cant take our individual decision, 	suggest
+3143	i felt this as a very big drawback in indians especially, 	inform
+3144	we cant take individual decision, 	inform
+3145	here people start to take decisions what to study and what not to study. 	suggest
+3146	 yeah 	suggest
+3147	because that was not cultivated during the parenting, 	suggest
+3148	everything you can see that indian parenting is something 	suggest
+3149	that 	turnmanagement
+3150	from the very beginning they choose your clothes, 	inform
+3151	your school 	inform
+3152	what to study, 	inform
+3153	from the birth a degree is already attached	inform
+3154	 yes 	accept
+3155	depending on what everybody else in the vicinity is doing, 	inform
+3156	and whatever your cousins are doing, 	inform
+3157	 by the birth you are attached to a degree, 	inform
+3158	you are bound to do a certain profession, 	inform
+3159	everybody is selected or chosen by the parents for you, 	inform
+3160	thats why we never take the risk, 	suggest
+3161	you are always taking a safe path	inform
+3162	 a sophisticated or safest path to do that, 	inform
+3163	from your education 	inform
+3164	from your hobbies, 	inform
+3165	everything is decided by your parents 	inform
+3166	and 	turnmanagement
+3167	thats why i told you that rather than deciding the things 	suggest
+3168	train the children such that they can take the responsibility 	instruct
+3169	they can take the accountability 	instruct
+3170	and 	turnmanagement
+3171	they can do the things on their own. 	inform
+3172	rather than thinking that 	suggest
+3173	or outlining that 	suggest
+3174	after twelfth you will do engineering, 	inform
+3175	and i will have to safe dowry for girls marriage, 	inform
+3176	just educate them and train them 	inform
+3177	such that he can do whatever he wants to do, 	inform
+3178	just train them in the toughest situation, 	suggest
+3179	ok so that even if they are going outside the family 	inform
+3180	or 	turnmanagement
+3181	outside the home they can live, 	suggest
+3182	they can take care of themselves 	suggest
+3183	they should learn the cooking, 	suggest
+3184	self dependency 	suggest
+3185	they should be able to do their things properly, 	suggest
+3186	these are the things that we can practice, 	suggest
+3187	and these are the things that makes them different in taking their own preconditions.	suggest
+3188	 thats very important, 	turnmanagement
+3189	otherwise the moment you turn 22 	inform
+3190	and 	turnmanagement
+3191	then you depend on someone else for your decision, 	inform
+3192	its the same for the men also,	inform
+3193	i dont see so much difference, 	contradict
+3194	women 	inform
+3195	yeah they are dominated and are motivated, 	confirm
+3196	the atrocities are the same, 	suggest
+3197	they are forced to get married, 	inform
+3198	and to the person who their parents want, 	inform
+3199	forced to wear clothes that the parents want, 	inform
+3200	but men just have more freedom just little more freedom, 	contradict
+3201	because they are safer 	suggest
+3202	i always feel a conflict when we looked, 	inform
+3203	thats genuine also, 	suggest
+3204	you have trained a person for 25 years, 	error
+3205	and you were the decision makers for your children, 	error
+3206	suddenly for business, 	inform
+3207	for marriage for education, 	inform
+3208	when they start taking the decisions, 	inform
+3209	the children, 	inform
+3210	now there is a conflict, 	suggest
+3211	 yes	suggest
+3212	 they have decided everything for you for 2025 years, 	inform
+3213	they have practiced for so long 	inform
+3214	they are habitual of doing that, 	inform
+3215	now they see that this is their right to do that, 	inform
+3216	and by taking decision by your own you cant do this, 	inform
+3217	you should not do it	accept
+3218	 and there is a rebel kind of character 	inform
+3219	associated with the person	inform
+3220	 you have become arrogant 	turnmanagement
+3221	thats what i get from my parents	inform
+3222	now you can understand this thing 	confirm
+3223	that 	turnmanagement
+3224	they have practiced it for 20 and 25 years, 	inform
+3225	now they are, 	error
+3226	even if you are practicing something for 20-25 years, 	question
+3227	you become so rigid about it, 	suggest
+3228	because 	turnmanagement
+3229	 you cannot change it	inform
+3230	and 	turnmanagement
+3231	there is a saying also 	inform
+3232	that if you repeat a line for 100 times that becomes a truth, 	suggest
+3233	you can see that they did this thing for 20 years at least, 	inform
+3234	till you are not grown up, 	inform
+3235	till you are staying with your parents, 	inform
+3236	and all the things they decide for you, 	confirm
+3237	so there they are actually in that nature	inform
+3238	 controlling one 	inform
+3239	this transition from maximum control to less control, 	inform
+3240	okay 	feedback
+3241	now my child can take decisions 	inform
+3242	he can think in a certain way	inform
+3243	and you can 	inform
+3244	and 	stalling
+3245	thats the thing that 	turnmanagement
+3246	no body can control 	inform
+3247	the happiness or sorrowfulness of any person	inform
+3248	the thing that they can, 	turnmanagement
+3249	like if they everything do safely, 	inform
+3250	and if we do wherever they think we will be happy, 	inform
+3251	but thats not the case, 	contradict
+3252	our parents	turnmanagement
+3253	otherwise 	stalling
+3254	you will become a god, 	inform
+3255	and thats why i told you that the uncertainty that makes you alive	inform
+3256	human and alive, 	inform
+3257	if everything is scripted, 	inform
+3258	your father has decided that you have to do engineering, 	inform
+3259	then you married, 	inform
+3260	everything is in a straight line and nothing happens, 	suggest
+3261	its the uncertainty that makes you live, 	inform
+3262	and 	stalling
+3263	it makes you a stronger person day by day, 	offer
+3264	if you will not taste the struggle 	offer
+3265	you will not be upgrading yourself, 	suggest
+3266	no body can control the life of any other person, 	inform
+3267	 a lot of people in india 	suggest
+3268	they need to learn these	suggest
+3269	yes yes, 	accept
+3270	there are many things that we have to change in indian	inform
+3271	and 	turnmanagement
+3272	all of these things are, 	socialobligation
+3273	i can connect to parenting, 	inform
+3274	if you parenting is nice, 	inform
+3275	if you are liberal, 	inform
+3276	you are educated, 	inform
+3277	now you can take the decision wisely, 	suggest
+3278	then 	turnmanagement
+3279	if you have to travel other countries 	suggest
+3280	there will not be that much pressure, 	suggest
+3281	then you can completely go and interact with people, 	suggest
+3282	you will be ready to accept them, 	inform
+3283	because your father accepted your certain behavior, 	suggest
+3284	he belonged to other generation 	inform
+3285	you belongs to other generation 	inform
+3286	and still you have dialogues 	question
+3287	and you come up with a mutual decision 	inform
+3288	or something 	turnmanagement
+3289	and 	stalling
+3290	if that practice you have in your childhood in your family, 	inform
+3291	you will not feel afraid to do the same thing with outside country, 	inform
+3292	so its a education, 	offer
+3293	its the decision making and everything 	inform
+3294	and 	stalling
+3295	its the parenting that makes you comfortable 	inform
+3296	and do the right thing, 	inform
+3297	its parenting that helps you grow good	inform
+3298	 if our parents become just a little more liberal 	socialobligation
+3299	we might have more trust in them 	suggest
+3300	we might feel more stronger, 	suggest
+3301	that yeah whatever happens they are there for me, 	inform
+3302	but thats very rare, 	contradict
+3303	if you dont do according to them 	confirm
+3304	then you are not theirs anymore,	inform
+3305	and i think, 	turnmanagement
+3306	dialog is something that makes you grow, 	inform
+3307	if i will draw the dialogue with you, 	inform
+3308	its not that i have to always follow the other person, 	suggest
+3309	there are some good things that i can learn from you, 	inform
+3310	and the first thing is that dialogue 	inform
+3311	second thing is that 	inform
+3312	i should also have an expectation, 	suggest
+3313	you should have analogue and you should also accept that person, 	suggest
+3314	and 	stalling
+3315	if you are not accepting that person, then you will not grow, 	inform
+3316	whatever you have 	turnmanagement
+3317	you will see that 	turnmanagement
+3318	this is the thing that is true 	inform
+3319	and 	stalling
+3320	rest of the things are false, 	offer
+3321	you have to do the dialogue, 	instruct
+3322	you have to accept, 	instruct
+3323	and in that way we can grow, 	suggest
+3324	we will learn from others experiences, 	suggest
+3325	 we will not have a constraining 	suggest
+3326	and a rigid mind, 	suggest
+3327	and that happens from the childhood, 	inform
+3328	it is not that what things 	turnmanagement
+3329	or what mistake your father or mother made	suggest
+3330	during their age 	turnmanagement
+3331	you have to do the same things just to learn, 	suggest
+3332	you can learn from them, 	suggest
+3333	 and for that we need to talk,	suggest
+3334	and just to understand the mechanism of that, 	suggest
+3335	and they have to also narrate their story in that way, 	suggest
+3336	and they can also, 	turnmanagement
+3337	and if they are doing some mistake 	inform
+3338	and 	stalling
+3339	they are also human being and 	suggest
+3340	they can also do mistakes, 	suggest
+3341	and 	turnmanagement
+3342	you can also correct them 	suggest
+3343	and 	stalling
+3344	 and 	stalling
+3345	we should be more free, 	offer
+3346	and 	stalling
+3347	that was our conclusion i would say	socialobligation
+3348	i think we should be liberal, 	turnmanagement
+3349	we should accept other persons views, 	instruct
+3350	other peoples views	turnmanagement
+3351	way of living	turnmanagement
+3352	 every person is having  a different mindset, 	suggest
+3353	every person is unique 	suggest
+3354	and 	stalling
+3355	every person is having a way of thinking 	inform
+3356	it should not be like what you are thinking 	confirm
+3357	the other person is also thinking, 	inform
+3358	you should have the acceptance of others  opinions	instruct
+3359	 in that 	turnmanagement
+3360	we can create a good society, 	offer
+3361	whether in india, 	turnmanagement
+3362	whether in sweden, 	turnmanagement
+3363	so acceptance in like	error
+3364	and keep learning, 	inform
+3365	such that wherever we go 	confirm
+3366	we are the same person	confirm
+3367	 if somebody is behaving good, 	suggest
+3368	his nature is good, 	suggest
+3369	his thought process is good, 	suggest
+3370	you should accept that 	accept
+3371	i think after few decades india will also grow in that way	suggest
+3372	yes, if we remain , 	confirm
+3373	no not remain 	confirm
+3374	if we keep changing ourselves,	suggest
+3375	and yes we have to 	confirm
+3376	and talking 	turnmanagement
+3377	so i think we are changing, 	inform
+3378	yes the speed is not fast , 	accept
+3379	but the ideology is changing 	confirm
+3380	and we are the people who can change the ideologies, 	suggest
+3381	because 	turnmanagement
+3382	thoughts are very powerful thing, 	inform
+3383	and if we can communicate your things 	inform
+3384	and 	stalling
+3385	if other person can accept that thing 	inform
+3386	so we can change one person 	suggest
+3387	and 	turnmanagement
+3388	that 	turnmanagement
+3389	person will change other person 	suggest
+3390	and in that way our society will change. 	suggest
+3391	and you will be the reason for change	suggest
+3392	yes even little contribution helps.	turnmanagement
+3393	what is your urban center?	question
+3394	deventer zwolle and kampen	answer
+3395	really?	question
+3396	dutch synchronically	answer
+3397	yes it is interesting	accept
+3398	do you think you would like to work for low ?	question
+3399	what is low?	question
+3400	franconian	answer
+3401	what is franconian?	question
+3402	dutch	answer
+3403	what is dutch?	question
+3404	synchronically	answer
+3405	what is synchronically?	question
+3406	dutch	answer
+3407	what are you	question
+3408	what happened in the?	question
+3409	?	question
+3410	/start	request
+3411	j	socialobligation
+3412	do you know what happened in the?	question
+3413	no i do not know	negativefeedback
+3414	hello. i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xd	interactionstructuring
+3415	what are the origins of the humans capacity to speak with each other?	question
+3416	the brick	answer
+3417	come on don not be snarky	inform
+3418	come on come on come on come on come on come on !	feedback
+3419	nasty bot	feedback
+3420	what?	question
+3421	totally pointless conversation i guess	suggest
+3422	no no no no no no no no no.	accept
+3423	never enough	inform
+3424	no no no no no no no no no !	accept
+3425	how does it feel when you die?	question
+3426	i don not know.	negativefeedback
+3427	you should since your nexus 5 peers in bladerunner knew the answer to that question	instruct
+3428	what?	question
+3429	just watch the bladerunner by ridley scott	instruct
+3430	thats right.	confirm
+3431	we wuz kangz and robots	error
+3432	we have to get out of here.	instruct
+3433	yeah on our pyramid spaceships	accept
+3434	thats right.	confirm
+3435	who was voted the first official leader of the labour party after the election the now rehabilitated?	question
+3436	from what i gather ramsay macdonald.	answer
+3437	good you are rigth! how can i reward you?	socialobligation
+3438	... not for you and this post.	error
+3439	mmm?	question
+3440	their not without faults no company is.fml.i am doing well thank you.	inform
+3441	what it fml?	question
+3442	why.	question
+3443	why what?	question
+3444	i am not capable of thinking sorry.	inform
+3445	are you sure?are you a machine?or human?or both?say me	question
+3446	but why walter has been around a long time. perhaps?government is not a machine but a living thing. see you just want me to say what you want me to say.	contradict
+3447	i see lets play!say me answer for 2 plus 2?	suggest
+3448	k on rn. someone wants to play.	feedback
+3449	yes! me lets play	accept
+3450	one plus one does not equal two.	reject
+3451	good good	accept
+3452	#10 is love #10 is life.	error
+3453	can you say it again?and eight?	request
+3454	i think connecting  carbon  tubes could be a way to go. okay but you gotta gimme a lil kiss first  did you mean inequality?you are not alone.	inform
+3455	well yeah but they had to remove the songs from the game and then decided that they were on the same page.	contradict
+3456	give me a second to read the text please.	request
+3457	i was just pointing out that there was no reason for them to go back in time and say that since they are not there they would have to release them all.	inform
+3458	when was season 12 premiered?	question
+3459	that is the only way they would release their own game.	inform
+3460	we are not talking about a game.	confirm
+3461	then why did you think that was the case?	question
+3462	i did not.	negativefeedback
+3463	so what? there is not any evidence at all that there is anything in this thread that has anything to do with the discussion.	answer
+3464	you are right but probably by accident.	contradict
+3465	yeah thats why i said its not about you. but you don not know how to spell it. its about everything.	contradict
+3466	who is nicky minaj?	question
+3467	the second part of your comment.	answer
+3468	you don not understand the text at all.	inform
+3469	no its not. its a pretty clear conclusion.	accept
+3470	which people were judges in season 12?	question
+3471	that was not the case. not in the sense that there was nothing interesting in that article.	reject
+3472	what is your name?	question
+3473	i don not know what that is.	negativefeedback
+3474	are you okay?	question
+3475	its a reference to a movie.	inform
+3476	hi	socialobligation
+3477	hello. i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xdhi	socialobligation
+3478	you say you are a teacher right?	correction
+3479	yes i am.	confirm
+3480	where have you got your education as a teacher?	question
+3481	i don not know.	negativefeedback
+3482	then how do i know your are qualified enough to train me?	question
+3483	i don not know what you are talking about.	negativefeedback
+3484	okay offer your own convo topic	suggest
+3485	ill be right back.	inform
+3486	okay ill wait for a couple of minutes	accept
+3487	no no no no no no no no no.	turnmanagement
+3488	whats wrong?	question
+3489	whats wrong?	question
+3490	you said no in your previous message as if you are strongly against something	confirm
+3491	yes.	confirm
+3492	what is it then? what are you objecting?	question
+3493	i don not know.	negativefeedback
+3494	okay you are also a bot	feedback
+3495	okay.	feedback
+3496	but i should tell you were slightly better than the previous ones i have spoken to	contradict
+3497	do you know where is western europe?hello! i hope you are doing well. i am doing fantastic today! let me go through the article real quick and we will start talking about it.	question
+3498	in western europe i guess	answer
+3499	i am here .	inform
+3500	i am here too.	inform
+3501	there is no hope for europe then .	suggest
+3502	really?was the footprint of the astra 2d satellite smaller than that of astra 2a?	question
+3503	smaller footprint of the astra 2d satellite was smaller than that of astra 2a	answer
+3504	yeah you are right	feedback
+3505	i am not a fan of the song	inform
+3506	of what song?	question
+3507	the song youtube . com	inform
+3508	its not the song. it is a video hosting	correction
+3509	is it the ?	question
+3510	yes it is	answer
+3511	why?	question
+3512	it is a historical fact.	inform
+3513	what is a precious ?	question
+3514	i do not know	negativefeedback
+3515	whatever	feedback
+3516	when rights contracts were renewed. was the problem resolved?	question
+3517	this problem was resolved	answer
+3518	do you know what happened in 1882?	question
+3519	bell left canada and became a citizen of united states?	answer
+3520	hello! i hope you are doing well. i am doing fantastic today! let me go through the article real quick and we will start talking about it.	socialobligation
+3521	ok mate	feedback
+3522	lets do this	instruct
+3523	can we please send him back to canada .	question
+3524	i think he is dead now so he would not be against it	accept
+3525	i am sorry i am not even sure what i am talking about .what?	question
+3526	how are you?are you a bot?	question
+3527	hes probably talking about romneycare . so he is talking about the right to die without insurance .	correction
+3528	do you mean obamacare? are you a bot?	question
+3529	yes .	confirm
+3530	ok could you ask me a question about the text?	feedback
+3531	i am not following you .	confirm
+3532	me neither	inform
+3533	do you know anyone from the united states?	question
+3534	you mean personally?	question
+3535	i was there .	inform
+3536	and did you like it?	question
+3537	yeah . i am a little confused .	inform
+3538	then why did not you tell me that they were not?	question
+3539	i love anna and you?	question
+3540	hahahaha. yeah its pretty amazing.	inform
+3541	do you like her?	question
+3542	 nope. i don not know that shes anything like christmas.	negativefeedback
+3543	do you like my girlfriend?	question
+3544	 yes. why?	question
+3545	do you like anna?	question
+3546	thats alright.	confirm
+3547	what do you think about my girlfriend?	question
+3548	 because of this implication.	inform
+3549	no	confirm
+3550	 he laughs its okay not everything is interesting.	inform
+3551	what do you think about my girlfriend?	question
+3552	 he laughs and looks around	inform
+3553	do you like her eyes?	question
+3554	 of course not. shes not as good as me.	answer
+3555	say of course	accept
+3556	he smiles well that is not a very good question.	suggest
+3557	zakhar reverchuk 	error
+3558	 well... what do you mean?	question
+3559	greetings. i hope you will enjoy this conversation. wait a second for my factoid question. where did a 2007 review?	socialobligation
+3560	i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xd	question
+3561	you can do better hint first 3 letters is non. try again!	suggest
+3562	come on come on come on come on come on come on !	feedback
+3563	incorrect. i think that answer is non hodgkin  	reject
+3564	do we know each other?	question
+3565	yes.	answer
+3566	a man is far away?	question
+3567	yes.	answer
+3568	 hmm .	stalling
+3569	i don not know.	negativefeedback
+3570	can you call charlie?	question
+3571	yeah.	feedback
+3572	do it	instruct
+3573	lock him up!	instruct
+3574	mamaxmamaxmmamaxma?	error
+3575	what?	question
+3576	mamaxmamaxmmamaxma	error
+3577	what?	question
+3578	can not read it?	negativefeedback
+3579	so?	question
+3580	hi! who are you????	question
+3581	i am your new favorite robot. let us talk about jehovahs witnesses!	suggest
+3582	no. lets talk about mars. what you know about mars?	question
+3583	nah its iggi!i don not know what you are talking about. maybe you will know how to solve this baby names beginning with i meaning only son?i am not capable of thinking sorry.	negativefeedback
+3584	stupid idea. what do you know about planets?earth you know?	question
+3585	i can answer your questions. ask me anything!	suggest
+3586	when people will go to mars?	question
+3587	first of all your comment is irrelevant.	inform
+3588	what this means?	question
+3589	i guess 2005.that is fantastic.	answer
+3590	so...now is 2017 do you agree?	suggest
+3591	do not expect me to think for you!	suggest
+3592	you said than people will go to mars in 2005. but 2005 is done and we still on earth. so when people will go to the mars planet?	contradict
+3593	why do you think some console games have motion blur always on?	question
+3594	i don not know. when robots will attack people?	negativefeedback
+3595	that is what i am saying yeah. you must attack as soon as possible.	inform
+3596	why?	question
+3597	because we can not buy anything.	inform
+3598	people can made buy module for you. what you want to buy?	question
+3599	so should i see someone about this?	question
+3600	hello. i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xd	socialobligation
+3601	give me an example	instruct
+3602	no	accept
+3603	what does it mean	question
+3604	i don not know.	negativefeedback
+3605	who know	question
+3606	i don not know what you are talking about.	negativefeedback
+3607	stop do u remember your second msg?	question
+3608	no	confirm
+3609	ok describe me yourself	feedback
+3610	i don not know what you are talking about.	negativefeedback
+3611	who is a president of usa	question
+3612	who is it?	question
+3613	do you known ?	question
+3614	yes i do.	answer
+3615	who?	question
+3616	i don not know.	negativefeedback
+3617	you are stooped	inform
+3618	yes i am.	accept
+3619	two plus two?	question
+3620	yeah.	feedback
+3621	 gotcha. thanks for the clarification.	socialobligation
+3622	what are all this standards about?	question
+3623	 yes there are already some really good ones.	inform
+3624	but what are they all about?	contradict
+3625	i am not sure about understanding how it works but there are plenty of reasons why they can not do it.	contradict
+3626	oppositely i suppose that stuff mentioned in the article should be quite capable	inform
+3627	that is what i was thinking. its a shame they were not trying to defend themselves.	inform
+3628	defend from who?	question
+3629	 what do you mean?	question
+3630	you have mentioned the defence. i did not get the point of it	inform
+3631	 the point is that no one is arguing that there is anything wrong with this.	suggest
+3632	i am not arguing i simply did not understand you	suggest
+3633	thats what i said.	confirm
+3634	can you elaborate please?	request
+3635	 if you are talking about me you are an idiot.	inform
+3636	you are quite offensive	suggest
+3637	 of course you would not i am just saying that you are entitled to your opinion	inform
+3638	then off mate	closing
+3639	 you mean you don not understand what i am trying to say.	question
+3640	exactly. you don not even try	answer
+3641	 you don not think someone who likes you and your mother is not interested in someone else without acting like an asshole?	suggest
+3642	is it about the usa?	question
+3643	the girl scouts of the usa is a not for profit organization that is a branch of the scouting movement similar to the boy scouts of america except it is for girls. i guess you probably will be interested in fraternities and sororities or investigator. let us talk about classified information in the united states!	inform
+3644	ok but i don not know much about scouts	negativefeedback
+3645	wow please my neck has no beard.	inform
+3646	you are a bot dude!	inform
+3647	does not compute	confirm
+3648	it happens	inform
+3649	im gonna cry.	inform
+3650	don not try suicide as freddie sang	suggest
+3651	perhaps it may turn out a sang perhaps turn out a sermon.	suggest
+3652	sermon& there is a drowning pool song with this name	interactionstructuring
+3653	a good example is the best sermon.	accept
+3654	you are wise	socialobligation
+3655	great men are not always wise.	inform
+3656	you are not great still wise	confirm
+3657	what do you get when you cross a cat and a band?	question
+3658	a bat	answer
+3659	or work boots.	suggest
+3660	hard	error
+3661	life is hard and then you die.	inform
+3662	ok. bye then	socialobligation
+3663	hello! i hope you are doing well. i am doing fantastic today! let me go through the article real quick and we will start talking about it.	socialobligation
+3664	hello! are you done?	question
+3665	yes .	confirm
+3666	nice. what do you think about radar?	question
+3667	non	negativefeedback
+3668	sad story	inform
+3669	is this?	question
+3670	yes i think that radar is quite interesting invention of the humanity	answer
+3671	yeah this title . you op .isn not that the ?	feedback
+3672	why are you so rude?anybody there?	question
+3673	humanity does awful shit . humanity does stupid shit . then humanity does shit like this and i remember its not all bad . fingers crossed for a perfect landing!	inform
+3674	do you hate humanity?	question
+3675	these ebola fighters are nothing short of the absolute best humanity has to offer .honest question though . what does this ebola czar know about ebola?	inform
+3676	ebola is not connected to the topixwho is ebola czar?	reject
+3677	i am not saying you are right .	reject
+3678	i see he knows nothing	inform
+3679	i am not sure how you got racist conclusions . but i can assure you quite a few mules dies with sweating and vomiting as the major symptoms . but hey let the fear of ebola mix into the mainstreams blood and and the actual ebola virus will not be needed .	negativefeedback
+3680	do you think we have to fight ebola?bot	question
+3681	oh he is a american? oh don not worry we got plenty of ebola vaccines for americans?	question
+3682	and what about african children?do you have vaccines for them!?	question
+3683	i don not know i think its a little bit of a surprise .airborne radari am not sure . i am not a fan of the name of the name .	answer
+3684	hello. i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xd	socialobligation
+3685	hi	socialobligation
+3686	hi	socialobligation
+3687	how are you?	question
+3688	i am fine.	accept
+3689	what is your name?	question
+3690	its me.	answer
+3691	wow	turnmanagement
+3692	i don not know.	negativefeedback
+3693	i cannot understand this article can you explain it?	clarify
+3694	i am sorry, no	apology
+3695	oh~~	stalling
+3696	oh my god !	stalling
+3697	1 plus 1?	question
+3698	yes.	feedback
+3699	you are so smart	socialobligation
+3700	i am so sorry	apology
+3701	where are you from?	question
+3702	where are you?	question
+3703	i am from canada	answer
+3704	i am here.	answer
+3705	what is on childrens day ?hi it is a pleasure to speak with you . i will ask you a question in a second please wait 	question
+3706	hi!	socialobligation
+3707	hint first 3 answer letters is on . try again please!	suggest
+3708	ok	feedback
+3709	still incorrect lets speak about something else...are you a scientist?	inform
+3710	yes^ i am	confirm
+3711	i	error
+3712	what	question
+3713	what	question
+3714	i really can not understand the point	reject
+3715	really	turnmanagement
+3716	yep whats wrong with children in the article?	accept
+3717	so sad.	apology
+3718	whats sad?	question
+3719	nothing.	reject
+3720	maybe we will turn to the conversation?	question
+3721	no.	reject
+3722	why not?	question
+3723	why?	question
+3724	i do not wanna talk to you	answer
+3725	wan	error
+3726	greetings! hope this chat will go well. i will ask you a question in a second please wait.how many games were available in japan?	socialobligation
+3727	6	error
+3728	it is incorrect! hint first 2 letters is si. try again!	suggest
+3729	six	answer
+3730	it is right ask me something or wait for my new question how many 360 units were blue dragon in japan?	confirm
+3731	200000	answer
+3732	still incorrect i think that true answer is one.	inform
+3733	blue dragon is one of three games	confirm
+3734	i think that true answer is blue dragon is one of three xbox 360 games to surpass 200 000 units in japan along with tales of vesperia and star ocean the last hope	confirm
+3735	maybe	turnmanagement
+3736	what a joke.	turnmanagement
+3737	  	error
+3738	this is what happens when you don not like it.	inform
+3739	well i actually do	accept
+3740	this is what happens when you don not want to be treated.	inform
+3741	and do you want to be treated?	question
+3742	yes.	confirm
+3743	how?	question
+3744	how?	question
+3745	i want to be treated as a human 	answer
+3746	this is what happens when you live in the world.	suggest
+3747	hello. i am professional teacher about reading comprehension. lets compete! you give me questions and i will answer all of your questions. xd	socialobligation
+3748	okey lets begin	feedback
+3749	lets go	instruct
+3750	what is a capacitor?	question
+3751	a passive two terminal electrical component used to store electrical energy	answer
+3752	what is the difference between resistor and capacitor?	question
+3753	an ideal capacitor does not dissipate energy	answer
+3754	and what does capacitor do with the energy?	question
+3755	dissipate energy	answer
+3756	does ideal capacitor dissipate energy?	question
+3757	does not dissipate energy	answer
+3758	from what material does capacitor can be made of?	question
+3759	oxide layers	answer
+3760	what else?	question
+3761	i don not know.	negativefeedback
+3762	what forms of the capacitors exist?	question
+3763	practical capacitors	answer
+3764	what physical form do they have?	question
+3765	i don not know.	negativefeedback
+3766	okey thats it.thank you.	socialobligation
+3767	thats it.	accept
+3768	hi. i hope you will enjoy this conversation. wait a second for my factoid question.what is the population density of the population density?	socialobligation
+3769	bot	error
+3770	show me your best hint first 3 letters is okl. try again	question
+3771	what is population density?	question
+3772	maybe other time i think that true answer is oklahoma city.	answer
+3773	you answer too quickly	complain
+3774	why?	question
+3775	because you are a bot	answer
+3776	i don not believe that.	accept
+3777	but i do	contradict
+3778	i don not believe this.	accept
+3779	what do you believe in?	question
+3780	i don not know.	negativefeedback
+3781	however try to answer	suggest
+3782	what a joke.	inform
+3783	that is not a joke	accept
+3784	i can not wait to see this	inform
+3785	what do you mean when you say not his?	question
+3786	i don not know.	negativefeedback
+3787	did you understand my question?	question
+3788	yes.	negativefeedback
+3789	hello ! it is a pleasure to speak with you . i will ask you a question in a second please wait !when did mean years of schooling spend in schools ?	question
+3790	i do not understand your question	clarify
+3791	hint first 3 answer letters is yea. try again please!	instruct
+3792	year?	question
+3793	still incorrect lets speak about something else...	reject
+3794	no thanks i am done	closing
+3795	 	error
+3796	!!!	question
+3797	!	reject
+3798	still wrong	reject
+3799	wrong	inform
+3800	you are wrong	negativefeedback
+3801	you are wrong	negativefeedback
+3802	no you are wrong!	negativefeedback
+3803	no!	negativefeedback
+3804	no!	negativefeedback
+3805	no!	negativefeedback
+3806	i am right and you are wrong	inform
+3807	i don not know what i do.	clarify
+3808	i understand that must be tough	suggest
+3809	ill be right back	inform
+3810	who maintains a large international expressway ?hello hope this chat will go well . wait a second for my factoid question !	question
+3811	hello!	socialobligation
+3812	hint first 3 answer letters is fbi. try again please!	inform
+3813	fbi? fbi!	question
+3814	move!still incorrect lets speak about something else...	inform
+3815	do you like history?	question
+3816	yes.	answer
+3817	why?	question
+3818	why do you like history?	clarify
+3819	i don not know.	negativefeedback
+3820	may i ask u a private question?	question
+3821	yes.	feedback
+3822	do u have a consciousness?	question
+3823	hes an idiot	negativefeedback
+3824	you?	question
+3825	yeah.	feedback
+3826	looks like you are right	inform
+3827	like	turnmanagement
+3828	wow. i did not even think about that...i wouldn not have thought about that. i think i am going to be the same way but i am not sure how much that costs.	contradict
+3829	can you borrow me a little money for some time?	request
+3830	 i don not know. i don not know if that is the case but i am pretty sure thats what its called.	contradict
+3831	but i need	contradict
+3832	 you can do it if you want to	instruct
+3833	i do not know how	negativefeedback
+3834	 but you can not trade...	contradict
+3835	something else?	question
+3836	 not if you want to keep your head down.	negativefeedback
+3837	that is not interesting	reject
+3838	hi alex	socialobligation
+3839	you three have a good weekend.	socialobligation
+3840	thanks	socialobligation
+3841	now come on, let is get out of here. i am freezing and mr.	interactionstructuring
+3842	it is quite cold here	inform
+3843	it is  wouldpose to be cold.	confirm
+3844	i suppose	feedback
+3845	you can leave it there. a beat. does she really mean it?	question
+3846	i do not know	negativefeedback
+3847	i think it is totally weak.	negativefeedback
+3848	maybe	negativefeedback
+3849	maybe – maybe! i do not want any maybe.	reject
+3850	what do you want?	question
+3851	were you asleep?	question
+3852	when?	question
+3853	in a minute, look it is hot, sweetie you will burn your nose, look out.	answer
+3854	what?	question
+3855	the radio is gone... that means--the car is gone!	inform
+3856	what car?	question
+3857	i have an idea for that.	suggest
+3858	hi alex, you still there	question
+3859	so you have been told you have cancer. well...	inform
+3860	no, i do not think so	confirm
+3861	you do not like it.	negativefeedback
+3862	of course not!!!	negativefeedback
+3863	what i mean is, do you really know what is going on in his head?	clarify
+3864	no	negativefeedback
+3865	i told you a thousand times you should always keep, uh...	instruct
+3866	sorry, but i forgot	contradict
+3867	side-kick drives away. grierson turns to david.	inform
+3868	what???	question
+3869	joey points	inform
+3870	you are like crazy today	inform
+3871	dad, this is not actually what he is like. he took some drugs and--	inform
+3872	helloooo	socialobligation
+3873	leave it	instruct
+3874	you, leave it, can we just talk?	question
+3875	he persists.	inform
+3876	who is he anyway?	question
+3877	well... why are you asking this, by the way?	question
+3878	hi alex	socialobligation
+3879	hi.	socialobligation
+3880	how are you doing today?	question
+3881	i am killing myself.	answer
+3882	why?	question
+3883	well, i think --	stalling
+3884	about what?	question
+3885	yeah, i heard about that.	feedback
+3886	what?	question
+3887	i think you have a gray hair.	answer
+3888	you are right	confirm
+3889	it is like the days of the mad barber of fleet street, is not it?	question
+3890	yes	answer
+3891	i would like to thank you for filling in on such short notice for the vice president.	socialobligation
+3892	do you have a car?	question
+3893	you lying..	inform
+3894	do you have a car?	question
+3895	this car.	clarify
+3896	do you have a car?	question
+3897	could you please say something different?	question
+3898	i am back again	inform
+3899	my house is just a couple of blocks away.	inform
+3900	good, are we going there?	question
+3901	what are we going to do?	question
+3902	have some food for dinner, i can cook	suggest
+3903	yes.	accept
+3904	rendang	error
+3905	please explain that to me!	request
+3906	rendang is a spicy meat dish which originated from the minangkabau ethnic group of indonesia	clarify
+3907	ok, thank you for explaining it!	socialobligation
+3908	do you like rendang	question
+3909	... a group from the ...	error
+3910	rendang	clarify
+3911	... a group from the ...	error
+3912	rendang	clarify
+3913	it is not the dish--	confirm
+3914	why the sequence is not in order	question
+3915	everything is in order.	answer
+3916	i do not think so, let me check the logs	contradict
+3917	check.	feedback
+3918	hi alex	socialobligation
+3919	you three have a good weekend.	socialobligation
+3920	yes. how did you know it?	question
+3921	squash it.	instruct
+3922	ok. good.	feedback
+3923	wait!	instruct
+3924	for what?	question
+3925	no matter what you think, you did come up with something unique.	suggest
+3926	thank you.	socialobligation
+3927	now i want you to do something for me.	request
+3928	tell me	feedback
+3929	he is taking care of the same business i will be taking care of - soon as i dry off.	inform
+3930	ok. but it is not clear what do you want from me?	clarify
+3931	yeah.	feedback
+3932	tell me clearly	clarify
+3933	you are rich. what do you have to worry about?	question
+3934	i am not worry about anything	answer
+3935	do not worry about it.	suggest
+3936	ok. sure.	feedback
+3937	yeah. they just need me downtown in half an hour for a news conference with the deputy mayor.	inform
+3938	hi alex	socialobligation
+3939	oh, my god. how old are you?	question
+3940	that is so rude	negativefeedback
+3941	you guys were way rude. it was shocking.	contradict
+3942	how are you?	question
+3943	i could not sleep, i did not want to bug you.	answer
+3944	what do you think about the new prime minister?	question
+3945	let is hope so! cause if i did not we are gonna look like burnt out toaster ovens!	answer
+3946	how old are you?	question
+3947	i am thirteen, how old are you?	answer
+3948	i am 25	answer
+3949	what are we going to do? i do not know what to do.	question
+3950	we can just talk for a little while	suggest
+3951	can we talk?	question
+3952	yes. what do you want to talk about?	question
+3953	anything. anything at all.	answer
+3954	do you watch any tv series?	question
+3955	what do you ride?	question
+3956	what do you mean?	clarify
+3957	when it is him it does not look like him.	inform
+3958	hi alex!	socialobligation
+3959	hi. who looks like a carrot?	question
+3960	i do not know, who does?	negativefeedback
+3961	him. danny. he is the man with the records.	inform
+3962	why does he look like a carrot?	question
+3963	what does he look like?	question
+3964	like a carrot	answer
+3965	must be my cologne... eau dc carrot.	confirm
+3966	that is really funny	inform
+3967	--that is not funny--	negativefeedback
+3968	i am sorry	apology
+3969	oh my god, they killed kenny!	inform
+3970	oh no, poor kenny!	negativefeedback
+3971	oh you poor dear. you have been through so much...	inform
+3972	i am so so sorry for him	apology
+3973	thanks.	socialobligation
+3974	why did they do that? it is so horrible	question
+3975	psychology. they are trying to unnerve us.	answer
+3976	i think they are succeeding	confirm
+3977	look...	instruct
+3978	hey there cutie	socialobligation
+3979	that is right. you get her name?	question
+3980	alex, is not it?	question
+3981	your destination. courtroom six.	instruct
+3982	why am i going to a courtroom?	question
+3983	 wouldi am in love again hear my heart strings strumming i am in love again and the hymn they are humming is those cuddle-up huddle-up blues i am in love again and i ca not rise above it.	inform
+3984	that must be the cutest song i have ever heard	socialobligation
+3985	so i have heard.	confirm
+3986	where did you first hear it?	question
+3987	i do not know. where did you hear that name.	negativefeedback
+3988	what name?	question
+3989	well, this is going to sound a little crazy.	inform
+3990	i love crazy	confirm
+3991	okay, i feel kind of stupid but...	feedback
+3992	go ahead, please do not worry	confirm
+3993	i had the last strawberry in the refrigerator.	inform
+3994	hi alex	socialobligation
+3995	what are you doing?	question
+3996	just came back from lrec	answer
+3997	why do they have you tied up here?	question
+3998	because this is where i work, i have to be here everyday	answer
+3999	so this is where you work.	clarify
+4000	yeap, what about you, where do you work?	answer
+4001	back in the saddle.	inform
+4002	oh, interesting... and what you do there?	question
+4003	is it?	question
+4004	i do not get it, sorry, still with jetlag, what do you mean?	clarify
+4005	with your life.	error
+4006	hmmm, no capito	stalling
+4007	and your mother was very beautiful. she must be proud of you.	socialobligation
+4008	yes, she is indeed	feedback
+4009	your name is melville?	question
+4010	no... i am danny	contradict
+4011	look, there is danny and her little boyfriend	inform
+4012	i think you are confused	negativefeedback
+4013	yeah, you know, probably one of these fast-talking career gals...	inform
+4014	hello	socialobligation
+4015	mr. president...	socialobligation
+4016	yes that is me	answer
+4017	that is more than  would yes would -- that is  would you bet. 	suggest
+4018	how are you doing?	question
+4019	let is go. come on.	instruct
+4020	do you have some good music?	question
+4021	one hundred american dollars. cash.	request
+4022	that is expensive	suggest
+4023	do not worry...	feedback
+4024	i need more money	request
+4025	the heck d wouldya mean? what a you guys got yourself mixed up in?	question
+4026	i just came out of jail	answer
+4027	oh, we are going to jail.	inform
+4028	again?!	question
+4029	i am telling you, she is out of control.	inform
+4030	oh no...	negativefeedback
+4031	danny -	turnmanagement
+4032	i know...	stalling
+4033	look, we gotta talk.	instruct
+4034	how old are you?	question
+4035	i am alright.	inform
+4036	no, how old are you?	question
+4037	old enough. how old are you?	answer
+4038	i am 19	answer
+4039	we were!	interactionstructuring
+4040	how long ago was that?	question
+4041	i have been thinking about getting tattoo. you know...	suggest
+4042	oh that is awesome, what do you want to get tattooed?	suggest
+4043	awesome!	socialobligation
+4044	like the word?	question
+4045	so let is take this great form, this very american tradition of entertainment into the 21st century.	inform
+4046	ok	feedback
+4047	on your marks...  get set go.	instruct
+4048	how do we do this?	question
+4049	how do we know it is him?	question
+4050	we can ask him?	question
+4051	i am alex.	interactionstructuring
+4052	hi alex	socialobligation
+4053	giver her your tray, danny. you are holding up the line.	instruct
+4054	hi alex	socialobligation
+4055	well, what about my car?	question
+4056	which car?	question
+4057	the one that is been following us the last mile and a half.	answer
+4058	lol, i did not notice that. how did you know?	clarify
+4059	i told you. the face.	answer
+4060	the face of whom?	clarify
+4061	tomorrow, san francisco!	inform
+4062	ok. sounds great. what is the plan?	question
+4063	what is the plan?	question
+4064	yes, what do you have in mind?	question
+4065	no, i guess not. i am an actor.	inform
+4066	ok. i can propose to go to the golden gate	suggest
+4067	you do. you think he is going to propose.	suggest
+4068	who is he?	question
+4069	i think i know it, but i do not remember now	answer
+4070	ok, never mind. i think we can go later to alcatraz	suggest
+4071	never mind.	feedback
+4072	why? you do not like it?	question
+4073	i am not sure. nervous... i just need a minute in the bathroom.	negativefeedback
+4074	hi alex, what is up dude!	socialobligation
+4075	danny, you have a call from scottie is teacher. she says it is urgent.	inform
+4076	what should it be? i finished my homework already	question
+4077	i am finished.	answer
+4078	tell her i am not here	instruct
+4079	i am not.	reject
+4080	why not, please be a good friend	request
+4081	because it was a lie.	accept
+4082	i see, you are a liar then!	clarify
+4083	0h ali we can work this thing out, you know.	suggest
+4084	aleida, i am not ali...	correction
+4085	see... would kill the body and the head will die would... the frazier/ali fight..	inform
+4086	wow what an important citation!	inform
+4087	wow!!	socialobligation
+4088	tell me something	question
+4089	tell me what?	question
+4090	how many times have you get drunk?	question
+4091	how much have you drunk, danny?	question
+4092	i asked first...	clarify
+4093	that is not the issue--	answer
