@@ -1,0 +1,2101 @@
+	annotation-id	annotations	speaker	time	turn-index	utterance
+0	YI0014_00		S	2017-08-31 08:40:33	0	hello!
+1	YI0014_01		U	2017-08-31 08:41:07	1	hello
+2	YI0014_02	  O,T,O,X,T,O,X,T,T,T,T,T,T,T,T,O,O,O,T,T,X,T,O,T,O,O,O,O,O,O,  	S	2017-08-31 08:41:07	2	hello!
+3	YI0014_03		U	2017-08-31 08:41:49	3	how are you?
+4	YI0014_04	  O,X,O,O,T,T,X,T,T,T,T,O,T,X,X,X,O,O,T,O,T,T,T,T,O,T,T,O,T,O,  	S	2017-08-31 08:41:49	4	its beyond my possibilities! i would like to talk about you!
+5	YI0014_05		U	2017-08-31 08:42:51	5	im from boston.
+6	YI0014_06	  O,O,O,O,T,T,X,T,O,T,T,O,T,X,X,T,O,O,T,O,T,O,T,O,O,O,O,O,T,O,  	S	2017-08-31 08:42:51	6	good!
+7	YI0014_07		U	2017-08-31 08:43:41	7	where are you from?
+8	YI0014_08	  O,O,O,O,T,O,O,O,O,T,O,O,T,O,X,T,O,O,T,O,T,T,O,O,O,O,O,O,O,O,  	S	2017-08-31 08:43:41	8	i m from umbria, near perugia.
+9	YI0014_09		U	2017-08-31 08:44:59	9	wow. do you like where you live?
+10	YI0014_10	  O,X,O,O,T,O,X,O,O,T,T,X,T,X,T,T,O,O,T,O,T,T,O,O,O,O,O,T,T,O,  	S	2017-08-31 08:44:59	10	yeah.
+11	YI0014_11		U	2017-08-31 08:46:00	11	do you have any children?
+12	YI0014_12	  O,X,O,O,T,O,O,O,O,T,X,O,T,O,T,X,O,O,T,O,X,T,O,O,O,O,O,T,X,O,  	S	2017-08-31 08:46:00	12	no.
+13	YI0014_13		U	2017-08-31 08:47:09	13	i have 3 daughters.
+14	YI0014_14	  O,X,O,T,T,T,X,T,T,T,X,T,T,X,T,T,O,T,X,O,T,T,O,X,T,X,T,T,O,O,  	S	2017-08-31 08:47:09	14	what a joke!
+15	YI0014_15		U	2017-08-31 08:48:16	15	seriously. we can not make boys. haha
+16	YI0014_16	  O,X,O,T,T,T,T,T,O,T,X,T,T,T,T,T,O,O,X,O,T,T,O,O,T,O,T,T,T,O,  	S	2017-08-31 08:48:16	16	what a joke
+17	YI0014_17		U	2017-08-31 08:49:41	17	do you want children?
+18	YI0014_18	  O,O,O,O,T,O,X,T,O,T,X,O,T,O,T,T,O,O,T,O,T,T,O,O,O,O,O,O,X,O,  	S	2017-08-31 08:49:41	18	no.
+19	YI0014_19		U	2017-08-31 08:50:47	19	don not blame you. love my children but they are so much work. 
+20	YI0014_20	  O,O,O,X,T,X,T,X,X,T,O,T,T,X,T,X,O,X,T,X,T,T,O,X,X,O,X,T,O,O,  	S	2017-08-31 08:50:47	20	i don t think they should be able to work for them.
+21	YI0024_00		S	2017-08-31 08:42:35	0	hello!
+22	YI0024_01		U	2017-08-31 08:43:19	1	hi  how are you today?
+23	YI0024_02	  O,T,T,T,O,O,O,T,O,T,T,T,X,T,O,O,O,X,O,X,O,T,O,T,O,T,T,T,T,T,  	S	2017-08-31 08:43:19	2	hi.
+24	YI0024_03		U	2017-08-31 08:43:52	3	hi  how are you today?
+25	YI0024_04	  O,T,T,T,O,O,T,T,T,T,O,T,X,X,O,T,O,O,O,X,T,T,T,X,X,T,X,T,T,T,  	S	2017-08-31 08:43:52	4	hi.
+26	YI0024_05		U	2017-08-31 08:44:48	5	are you from a city or a small town?
+27	YI0024_06	  O,T,X,T,O,O,X,T,O,T,O,O,X,X,O,X,O,T,T,O,T,O,T,T,X,T,T,O,T,T,  	S	2017-08-31 08:44:48	6	i don t understand  i can t answer! i would like to discuss news
+28	YI0024_07		U	2017-08-31 08:46:28	7	ok  what do you think of president trump?
+29	YI0024_08	  O,T,X,T,O,T,O,T,T,T,O,X,X,X,O,X,O,O,T,T,T,O,O,O,X,T,O,T,T,T,  	S	2017-08-31 08:46:28	8	i don t know what he is talking about
+30	YI0024_09		U	2017-08-31 08:47:27	9	i think he is a crazy man.  do you think he will be impeached?
+31	YI0024_10	  O,T,X,T,O,O,T,O,T,T,O,X,X,O,O,T,T,T,O,O,T,O,T,X,X,X,T,T,T,T,  	S	2017-08-31 08:47:27	10	what a joke!!!
+32	YI0024_11		U	2017-08-31 08:48:36	11	i hope that those people in texas affected by this storm will be safe. what do you think?
+33	YI0024_12	  O,T,X,T,O,O,O,T,O,T,O,O,X,X,O,X,T,X,T,T,T,T,T,O,X,X,T,O,T,T,  	S	2017-08-31 08:48:36	12	 its beyond my possibilities! let s talk about movies.
+34	YI0024_13		U	2017-08-31 08:49:34	13	ok  what is your favorite movie this summer?
+35	YI0024_14	  T,T,X,T,X,O,X,T,O,T,O,T,X,X,O,X,T,O,X,X,X,O,X,X,T,T,T,T,T,T,  	S	2017-08-31 08:49:34	14	 its beyond my possibilities. let s talk about movies)
+36	YI0024_15		U	2017-08-31 08:52:33	15	i like the new avengers movie )
+37	YI0024_16	  T,T,X,T,X,O,O,T,O,T,O,T,T,X,O,X,O,X,X,X,X,O,T,X,X,X,X,T,T,T,  	S	2017-08-31 08:52:33	16	i don t understand  i can t answer! let s talk about movies.
+38	YI0024_17		U	2017-08-31 08:53:28	17	what movies do you like? action or comedy?
+39	YI0024_18	  T,T,T,T,T,O,T,T,X,T,O,T,X,O,O,X,O,O,O,X,X,O,T,X,X,T,X,T,T,T,  	S	2017-08-31 08:53:28	18	yeah.
+40	YI0024_19		U	2017-08-31 08:55:36	19	i really like the new captain america movie
+41	YI0024_20	  O,T,X,T,O,O,X,T,O,O,O,O,T,O,O,O,X,O,O,T,O,O,O,O,X,T,O,O,T,T,  	S	2017-08-31 08:55:36	20	why?
+42	YI0039_00		S	2017-08-31 08:57:04	0	hello!
+43	YI0039_01		U	2017-08-31 08:57:29	1	hello
+44	YI0039_02	  T,T,O,O,X,T,X,O,T,T,T,X,T,X,T,O,O,T,T,O,T,T,O,O,X,O,T,T,O,T,  	S	2017-08-31 08:57:29	2	hello!
+45	YI0039_03		U	2017-08-31 08:58:02	3	who are you?
+46	YI0039_04	  X,T,T,O,X,T,T,O,O,X,T,X,T,O,T,X,O,T,T,X,O,T,T,O,T,O,T,T,T,T,  	S	2017-08-31 08:58:02	4	its beyond my possibilities  i would like to discuss politics)
+47	YI0039_05		U	2017-08-31 08:58:34	5	what about politics do you want to discuss?
+48	YI0039_06	  T,X,T,T,X,T,X,T,O,O,T,X,O,X,T,X,X,O,T,T,O,T,T,X,T,O,T,T,O,T,  	S	2017-08-31 08:58:34	6	yes.
+49	YI0039_07		U	2017-08-31 08:58:44	7	i don not like politics
+50	YI0039_08	  X,O,T,T,T,T,X,T,O,X,T,X,T,T,T,T,O,O,T,T,O,T,T,T,T,O,T,T,T,T,  	S	2017-08-31 08:58:44	8	what a joke.
+51	YI0039_09		U	2017-08-31 08:59:14	9	what do you do for fun?
+52	YI0039_10	  X,T,T,X,T,T,X,T,O,T,T,T,O,O,T,X,O,O,T,X,T,T,T,O,O,O,T,T,O,T,  	S	2017-08-31 08:59:14	10	i don t know.
+53	YI0039_11		U	2017-08-31 08:59:28	11	what can you tell me?
+54	YI0039_12	  X,X,T,O,T,T,T,O,O,X,T,T,X,O,X,X,O,O,T,T,T,T,T,O,T,O,T,T,T,T,  	S	2017-08-31 08:59:28	12	nothing.
+55	YI0039_13		U	2017-08-31 08:59:44	13	do you have anything to say?
+56	YI0039_14	  T,X,T,O,X,T,X,T,O,X,T,X,T,O,T,X,O,O,T,T,T,T,T,O,T,O,T,T,T,T,  	S	2017-08-31 08:59:44	14	no.
+57	YI0039_15		U	2017-08-31 08:59:56	15	then why are we talking?
+58	YI0039_16	  T,X,T,O,T,T,X,T,O,X,T,X,O,O,T,X,O,O,T,X,T,T,T,O,O,O,T,T,T,T,  	S	2017-08-31 08:59:56	16	i don t know.
+59	YI0039_17		U	2017-08-31 09:00:07	17	what is your name?
+60	YI0039_18	  X,O,T,T,T,T,T,O,O,T,T,X,O,O,T,X,O,O,T,X,O,T,T,O,T,O,O,T,O,T,  	S	2017-08-31 09:00:07	18	amoroso renato.
+61	YI0039_19		U	2017-08-31 09:00:18	19	how old are you?
+62	YI0039_20	  T,X,X,X,O,T,X,T,X,X,O,X,O,X,O,X,X,O,T,T,O,T,O,X,O,O,X,T,X,X,  	S	2017-08-31 09:00:18	20	camelia?
+63	YI0078_00		S	2017-08-31 08:45:42	0	hello!
+64	YI0078_01		U	2017-08-31 08:46:37	1	hi!
+65	YI0078_02	  T,T,O,T,O,O,O,X,O,T,T,T,T,T,T,O,O,O,O,T,T,T,T,T,T,T,T,T,O,O,  	S	2017-08-31 08:46:37	2	hi.
+66	YI0078_03		U	2017-08-31 08:47:38	3	where are you traveling to?
+67	YI0078_04	  T,T,O,T,O,O,T,T,O,T,T,X,T,T,X,T,O,T,T,T,O,X,X,T,T,O,T,T,O,T,  	S	2017-08-31 08:47:38	4	i don t know.
+68	YI0078_05		U	2017-08-31 08:48:43	5	do you have any children?
+69	YI0078_06	  X,T,O,T,O,O,O,T,O,T,O,O,T,T,O,O,O,O,O,T,T,X,T,T,T,O,X,T,O,T,  	S	2017-08-31 08:48:43	6	no.
+70	YI0078_07		U	2017-08-31 08:49:44	7	do you like dogs?
+71	YI0078_08	  X,T,O,T,O,O,O,T,O,T,O,X,T,T,X,T,O,O,O,T,X,T,T,T,T,O,T,T,O,T,  	S	2017-08-31 08:49:44	8	no.
+72	YI0078_09		U	2017-08-31 08:50:57	9	i like the state of colorado.
+73	YI0078_10	  T,X,O,T,X,O,T,T,O,T,X,O,O,T,O,X,O,X,O,T,T,X,T,T,T,T,T,T,O,O,  	S	2017-08-31 08:50:57	10	do you know what? its beyond my possibilities. i would like to discuss news!
+74	YI0078_11		U	2017-08-31 09:16:40	11	how to you like president trump?
+75	YI0078_12	  T,X,O,T,X,X,X,X,T,O,X,T,X,T,X,T,O,X,X,T,T,X,T,X,T,X,T,T,O,X,  	S	2017-08-31 09:16:40	12	
+76	YI0078_13		U	2017-08-31 09:21:16	13	what news?
+77	YI0078_14	  T,X,O,T,X,X,X,X,T,O,X,X,T,T,T,T,O,X,X,T,O,X,T,X,T,X,O,T,O,X,  	S	2017-08-31 09:21:16	14	
+78	YI0078_15		U	2017-08-31 09:21:52	15	what do you think of the korea launching missles?
+79	YI0078_16	  T,X,O,T,X,X,X,X,T,O,X,O,T,T,X,X,O,X,X,T,T,X,T,X,T,X,O,T,O,X,  	S	2017-08-31 09:21:52	16	
+80	YI0078_17		U	2017-08-31 09:22:11	17	do you like cats?
+81	YI0078_18	  T,X,O,T,X,X,X,X,T,O,X,X,X,T,T,O,O,X,X,T,O,X,T,X,T,X,T,T,O,X,  	S	2017-08-31 09:22:11	18	
+82	YI0078_19		U	2017-08-31 09:22:31	19	have a  nice trip.
+83	YI0078_20	  T,X,T,T,X,X,X,X,T,T,X,O,T,T,O,T,O,X,X,T,T,X,T,X,T,X,O,T,O,X,  	S	2017-08-31 09:22:31	20	
+84	YI0044_00		S	2017-08-31 08:55:57	0	hello!
+85	YI0044_01		U	2017-08-31 08:56:34	1	hi there!
+86	YI0044_02	  T,O,O,O,T,O,T,X,O,O,T,T,T,T,O,T,T,O,T,O,T,O,T,O,T,O,O,T,T,T,  	S	2017-08-31 08:56:34	2	hello!
+87	YI0044_03		U	2017-08-31 08:57:07	3	how are you today?
+88	YI0044_04	  X,T,O,O,T,T,T,O,T,X,T,T,O,X,T,O,T,X,T,T,T,T,T,X,T,T,T,T,O,T,  	S	2017-08-31 08:57:07	4	do you know what? its beyond my possibilities  i would like to talk about news.
+89	YI0044_05		U	2017-08-31 08:57:54	5	did you see on the news about all the flooding in houston?
+90	YI0044_06	  T,O,O,O,T,T,O,O,O,O,X,T,O,X,O,O,T,O,T,T,T,O,T,T,O,O,T,T,O,T,  	S	2017-08-31 08:57:54	6	yes.
+91	YI0044_07		U	2017-08-31 08:58:33	7	i can not believe how much that tropical storm rained on everything.
+92	YI0044_08	  X,T,O,O,T,X,T,O,T,X,T,T,O,O,O,O,T,T,T,T,T,T,T,X,T,O,O,T,X,T,  	S	2017-08-31 08:58:33	8	i can t answer! let s talk about politics)
+93	YI0044_09		U	2017-08-31 08:59:10	9	i really don not like to talk about politics, can we talk about food?
+94	YI0044_10	  X,O,O,O,T,T,T,O,T,T,T,T,O,X,O,O,T,T,T,T,T,T,T,X,X,T,X,T,T,T,  	S	2017-08-31 08:59:10	10	do you know what? i can t answer  i would like to talk about you)
+95	YI0044_11		U	2017-08-31 09:00:24	11	ok, i really like cats, i have four of them.
+96	YI0044_12	  X,T,O,O,T,X,X,X,O,X,T,T,O,X,O,O,T,T,T,X,O,X,T,X,X,X,O,O,X,X,  	S	2017-08-31 09:00:24	12	you know?
+97	YI0044_13		U	2017-08-31 09:01:00	13	do i know what?
+98	YI0044_14	  X,O,O,O,T,T,X,X,O,X,T,T,O,X,O,T,T,O,T,T,T,X,T,O,X,X,T,T,O,T,  	S	2017-08-31 09:01:00	14	no.
+99	YI0044_15		U	2017-08-31 09:01:21	15	do you like cats?
+100	YI0044_16	  T,T,O,O,T,O,O,O,O,X,T,T,O,T,O,O,T,O,T,T,T,O,T,X,O,O,X,T,X,T,  	S	2017-08-31 09:01:21	16	no.
+101	YI0044_17		U	2017-08-31 09:01:51	17	so your more of a dog person?
+102	YI0044_18	  X,O,O,O,O,T,O,O,T,X,T,T,O,X,T,O,T,T,T,T,T,T,T,T,T,O,X,T,T,T,  	S	2017-08-31 09:01:51	18	do you know what? its beyond my possibilities! i would like to talk about you)
+103	YI0044_19		U	2017-08-31 09:02:31	19	well, i really love fall. 
+104	YI0044_20	  X,T,O,O,O,T,O,O,O,O,T,T,O,T,O,O,T,O,T,X,O,O,T,X,O,O,O,O,O,T,  	S	2017-08-31 09:02:31	20	really?
+105	YI0027_00		S	2017-08-31 08:43:48	0	hello!
+106	YI0027_01		U	2017-08-31 08:44:37	1	hey there, how you doing?
+107	YI0027_02	  T,O,T,X,T,O,O,X,T,O,T,T,O,T,O,X,O,T,O,O,T,T,T,T,O,O,T,X,T,T,  	S	2017-08-31 08:44:37	2	hi.
+108	YI0027_03		U	2017-08-31 08:45:48	3	how old are you?
+109	YI0027_04	  X,O,O,X,T,T,O,X,T,O,X,T,T,T,T,X,O,T,T,T,X,O,X,T,O,T,T,X,X,X,  	S	2017-08-31 08:45:48	4	how old are you?
+110	YI0027_05		U	2017-08-31 08:46:42	5	i am 21 years old. 
+111	YI0027_06	  T,O,T,T,T,T,O,X,T,O,T,T,T,O,O,X,X,T,T,O,T,T,O,T,O,X,T,X,T,T,  	S	2017-08-31 08:46:42	6	i don t understand  i can t answer! i would like to discuss politics.
+112	YI0027_07		U	2017-08-31 08:47:51	7	do you like president trump?
+113	YI0027_08	  T,O,T,X,O,O,O,O,T,O,T,T,T,X,O,T,T,T,T,O,T,T,O,T,O,O,T,O,T,O,  	S	2017-08-31 08:47:51	8	he has no idea what he is talking about.
+114	YI0027_09		U	2017-08-31 08:49:19	9	did you like president obama more?
+115	YI0027_10	  T,O,T,X,T,O,T,X,T,X,T,T,T,O,T,T,T,T,O,T,T,X,O,T,O,T,T,X,T,X,  	S	2017-08-31 08:49:19	10	obama s fault.
+116	YI0027_11		U	2017-08-31 08:51:32	11	trump will not get a 2nd term, in my opinion.
+117	YI0027_12	  X,O,T,X,O,O,O,T,T,T,X,T,T,T,O,X,T,X,O,T,T,T,O,T,O,O,T,T,O,T,  	S	2017-08-31 08:51:32	12	what a joke
+118	YI0027_13		U	2017-08-31 08:52:47	13	i saw that he went down to texas this week for the hurricane.
+119	YI0027_14	  X,O,T,X,T,O,O,T,T,X,X,T,T,X,O,T,T,X,O,T,O,T,O,T,O,O,T,T,T,T,  	S	2017-08-31 08:52:47	14	what a joke!
+120	YI0027_15		U	2017-08-31 08:54:10	15	he seemed to want to help.
+121	YI0027_16	  T,O,T,O,O,T,O,O,X,O,T,T,T,O,O,X,X,X,O,O,T,X,O,T,O,T,T,O,X,T,  	S	2017-08-31 08:54:10	16	yeah.
+122	YI0027_17		U	2017-08-31 08:55:20	17	he doesn not know how to handle certain situations. i hope he gets impeached.
+123	YI0027_18	  X,O,T,X,T,X,O,X,X,T,X,T,T,T,O,T,T,X,T,T,T,T,O,T,O,X,T,T,O,X,  	S	2017-08-31 08:55:20	18	what a joke.
+124	YI0027_19		U	2017-08-31 08:56:17	19	minnesota didn not vote for trump thankfully.
+125	YI0027_20	  T,O,X,X,X,O,T,O,T,O,T,T,T,X,O,T,O,X,O,X,T,X,O,T,O,O,T,X,T,X,  	S	2017-08-31 08:56:17	20	good for her.
+126	YI0009_00		S	2017-08-31 08:40:16	0	hello!
+127	YI0009_01		U	2017-08-31 08:40:54	1	how are you doing?
+128	YI0009_02	  O,T,O,T,O,T,O,O,O,O,O,T,O,T,T,O,O,T,T,O,O,O,T,T,O,O,T,O,T,O,  	S	2017-08-31 08:40:54	2	good.
+129	YI0009_03		U	2017-08-31 08:41:41	3	what is your name?
+130	YI0009_04	  O,T,X,T,X,T,X,X,T,X,X,T,O,T,T,O,T,T,X,O,X,X,T,O,X,T,T,O,X,X,  	S	2017-08-31 08:41:41	4	i don t know what they are protesting.
+131	YI0009_05		U	2017-08-31 08:42:38	5	do you have a name?
+132	YI0009_06	  O,T,O,T,O,O,O,O,T,O,O,T,O,T,T,O,O,O,X,O,O,O,T,O,O,O,T,X,T,O,  	S	2017-08-31 08:42:38	6	yes.
+133	YI0009_07		U	2017-08-31 08:43:26	7	what is your name?
+134	YI0009_08	  O,T,O,T,O,O,O,O,O,O,O,T,T,T,T,O,T,O,T,O,O,O,T,O,O,O,T,X,T,O,  	S	2017-08-31 08:43:26	8	amoroso renato.
+135	YI0009_09		U	2017-08-31 08:44:31	9	that is an interesting name.
+136	YI0009_10	  O,T,T,O,T,T,T,O,O,T,T,T,O,T,T,O,O,X,T,O,T,T,X,O,X,T,T,T,X,T,  	S	2017-08-31 08:44:31	10	who cares?
+137	YI0009_11		U	2017-08-31 08:45:57	11	i like your name.
+138	YI0009_12	  O,T,T,T,O,O,O,O,T,O,O,T,O,T,X,O,T,O,T,O,O,O,T,O,O,O,T,T,T,O,  	S	2017-08-31 08:45:57	12	okay.
+139	YI0009_13		U	2017-08-31 08:46:57	13	do you follow sports?
+140	YI0009_14	  O,T,O,T,O,O,O,O,X,O,O,T,T,T,T,O,O,O,X,O,O,O,T,O,O,O,T,T,T,O,  	S	2017-08-31 08:46:57	14	yes.
+141	YI0009_15		U	2017-08-31 08:48:09	15	what sport is your favorite?
+142	YI0009_16	  O,T,X,T,T,T,O,O,O,O,X,T,O,T,X,O,X,T,X,O,T,T,T,O,X,T,T,X,X,X,  	S	2017-08-31 08:48:09	16	its beyond my possibilities  i would like to talk about you.
+143	YI0009_17		U	2017-08-31 08:49:15	17	okay. what would you like to know about me?
+144	YI0009_18	  O,T,T,T,T,O,O,T,T,T,O,X,T,T,O,O,T,O,X,O,X,T,T,O,T,T,T,X,X,T,  	S	2017-08-31 08:49:15	18	i don t know.
+145	YI0009_19		U	2017-08-31 08:50:02	19	i like music.
+146	YI0009_20	  O,T,T,T,O,O,X,T,X,X,X,T,O,T,T,O,O,T,T,O,O,T,T,O,O,X,T,O,X,X,  	S	2017-08-31 08:50:02	20	i like music.
+147	YI0088_00		S	2017-08-31 09:41:37	0	hello!
+148	YI0088_01		U	2017-08-31 09:41:48	1	hello
+149	YI0088_02	  O,O,T,T,T,T,O,T,T,X,T,X,O,X,O,T,T,X,T,T,O,T,O,T,T,O,O,O,T,O,  	S	2017-08-31 09:41:48	2	hello!
+150	YI0088_03		U	2017-08-31 09:41:59	3	nice to meet you, what is your name?
+151	YI0088_04	  T,X,T,T,X,T,O,X,X,X,X,X,O,O,X,X,T,T,T,X,O,T,X,T,T,O,O,O,X,T,  	S	2017-08-31 09:41:59	4	 its beyond my possibilities  i would like to talk about news
+152	YI0088_05		U	2017-08-31 09:42:01	5	nice to meet you, what is your name?
+153	YI0088_06	  T,O,T,T,X,O,O,T,O,O,T,O,O,X,O,T,X,T,O,O,O,O,O,O,T,O,O,O,O,O,  	S	2017-08-31 09:42:01	6	danila.
+154	YI0088_07		U	2017-08-31 09:42:45	7	you want to talk about the news! what do you think of the missile that north korea flew over japan?
+155	YI0088_08	  T,O,T,T,T,T,O,X,O,O,X,O,T,X,X,T,X,O,O,T,O,O,O,T,T,O,O,O,T,T,  	S	2017-08-31 09:42:45	8	what a joke!!!
+156	YI0088_09		U	2017-08-31 09:43:15	9	i know right, north korea is a crazy country!
+157	YI0088_10	  X,X,T,T,O,T,O,X,X,O,X,X,T,O,T,T,O,X,O,T,O,T,O,T,T,O,O,O,T,T,  	S	2017-08-31 09:43:15	10	what a joke.
+158	YI0088_11		U	2017-08-31 09:44:08	11	where do you live danilla?
+159	YI0088_12	  O,O,X,T,T,T,O,X,X,O,X,O,T,T,T,T,T,T,X,T,O,T,X,X,X,O,O,O,T,T,  	S	2017-08-31 09:44:08	12	i don t know.
+160	YI0088_13		U	2017-08-31 09:44:36	13	i see, do you have anymore questions for me?
+161	YI0088_14	  O,O,T,T,T,O,O,T,O,O,T,O,T,X,O,T,O,O,O,O,O,T,O,O,T,O,O,O,O,O,  	S	2017-08-31 09:44:36	14	yes.
+162	YI0088_15		U	2017-08-31 09:45:11	15	what would you like to ask me?
+163	YI0088_16	  T,O,T,O,T,O,O,X,O,O,O,O,T,X,O,O,T,X,X,X,O,O,O,O,X,O,O,O,O,O,  	S	2017-08-31 09:45:11	16	do you know familiar texts?
+164	YI0088_17		U	2017-08-31 09:45:25	17	no i don not, what are they?
+165	YI0088_18	  T,T,T,T,O,T,O,X,X,O,X,X,T,O,O,T,X,T,X,O,O,X,O,T,T,X,O,O,O,X,  	S	2017-08-31 09:45:25	18	they don t have a clue.
+166	YI0088_19		U	2017-08-31 09:45:53	19	i don not understand your meaning.
+167	YI0088_20	  X,O,T,T,T,T,O,X,X,O,X,T,T,T,O,T,X,T,T,O,O,X,O,X,T,O,O,O,T,T,  	S	2017-08-31 09:45:53	20	i don t understand  its beyond my possibilities. i would like to talk about you.
+168	YI0049_00		S	2017-08-31 08:51:16	0	hello!
+169	YI0049_01		U	2017-08-31 08:52:09	1	hello to you too! are you having a good day?
+170	YI0049_02	  O,O,T,T,O,T,T,O,O,O,O,T,O,T,O,O,O,O,O,T,T,O,O,O,X,X,T,O,T,T,  	S	2017-08-31 08:52:09	2	yes!
+171	YI0049_03		U	2017-08-31 08:53:24	3	that is wonderful. please tell me about your day.
+172	YI0049_04	  O,O,T,T,O,T,T,X,O,T,X,T,X,T,O,O,O,O,O,T,T,X,T,T,X,X,T,O,X,T,  	S	2017-08-31 08:53:24	4	what a joke.
+173	YI0049_05		U	2017-08-31 08:54:42	5	oh? what happened?
+174	YI0049_06	  O,O,T,T,O,T,O,T,T,O,O,T,O,T,T,T,T,T,O,T,T,T,O,O,X,T,T,O,X,T,  	S	2017-08-31 08:54:42	6	nothing.
+175	YI0049_07		U	2017-08-31 08:56:09	7	have you seen the latest news about hurricane harvey?
+176	YI0049_08	  O,O,O,T,O,T,O,X,X,T,T,T,O,O,O,O,T,X,O,T,T,X,O,O,O,T,T,O,X,T,  	S	2017-08-31 08:56:09	8	what?
+177	YI0049_09		U	2017-08-31 08:57:20	9	there was a huge hurricane that just hit texas, it was pretty devastating.
+178	YI0049_10	  O,X,T,T,O,T,O,X,T,O,O,X,X,T,O,O,T,X,O,X,T,T,T,T,X,T,T,T,X,T,  	S	2017-08-31 08:57:20	10	i don t understand  i can t answer  let s talk about...)
+179	YI0049_11		U	2017-08-31 08:58:35	11	what is your favorite topic to talk about?
+180	YI0049_12	  O,X,T,T,O,T,T,X,X,T,X,X,X,T,O,O,T,X,O,T,T,X,T,O,T,T,T,O,X,T,  	S	2017-08-31 08:58:35	12	yeah.
+181	YI0049_13		U	2017-08-31 08:59:07	13	do you have any hobbies or interests?
+182	YI0049_14	  O,O,T,T,O,T,O,T,O,T,O,T,O,T,O,T,T,O,O,X,T,T,O,O,X,T,T,O,T,T,  	S	2017-08-31 08:59:07	14	no.
+183	YI0049_15		U	2017-08-31 08:59:39	15	what do you usually do during the day?
+184	YI0049_16	  T,X,O,T,O,T,T,X,X,X,X,T,X,O,T,X,T,X,O,T,T,X,X,X,X,T,T,X,X,T,  	S	2017-08-31 08:59:39	16	
+185	YI0049_17		U	2017-08-31 09:00:46	17	where are you from?
+186	YI0049_18	  T,O,O,T,O,T,T,X,T,T,X,T,X,O,O,O,T,X,O,T,T,X,T,X,X,T,T,O,X,T,  	S	2017-08-31 09:00:46	18	huh?
+187	YI0049_19		U	2017-08-31 09:03:13	19	do you watch the news at all?
+188	YI0049_20	  O,O,T,T,O,T,O,O,T,O,O,X,T,T,O,O,T,O,O,T,T,O,O,O,T,T,T,O,X,T,  	S	2017-08-31 09:03:13	20	love it!
+189	YI0070_00		S	2017-08-31 09:10:40	0	hello!
+190	YI0070_01		U	2017-08-31 09:10:50	1	hi! how are you?
+191	YI0070_02	  O,T,T,O,X,T,T,O,T,T,T,O,O,O,O,X,O,X,T,O,T,T,T,O,O,T,X,T,T,O,  	S	2017-08-31 09:10:50	2	hi.
+192	YI0070_03		U	2017-08-31 09:11:02	3	how is everything going with you?
+193	YI0070_04	  O,T,T,T,O,T,T,O,T,T,T,O,O,T,O,O,O,X,T,O,T,T,T,O,O,X,X,T,O,O,  	S	2017-08-31 09:11:02	4	fine.
+194	YI0070_05		U	2017-08-31 09:11:22	5	that is great! i went to the zoo today. did you do anything interesting?
+195	YI0070_06	  O,T,T,O,T,T,T,X,T,T,T,T,O,X,O,X,T,X,O,O,T,T,T,O,O,X,T,T,X,O,  	S	2017-08-31 09:11:22	6	its beyond my possibilities! i would like to talk about....
+196	YI0070_07		U	2017-08-31 09:11:34	7	what would you like to talk about?
+197	YI0070_08	  O,T,T,X,O,T,T,T,T,T,T,T,O,O,T,O,O,X,X,O,T,T,T,O,X,X,X,T,X,O,  	S	2017-08-31 09:11:34	8	i don t know.
+198	YI0070_09		U	2017-08-31 09:11:48	9	have you watched any movies recently?
+199	YI0070_10	  O,T,X,O,T,T,T,X,T,X,X,T,O,T,T,X,T,X,T,X,T,T,T,O,T,X,X,T,X,O,  	S	2017-08-31 09:11:48	10	what a joke.
+200	YI0070_11		U	2017-08-31 09:12:00	11	i wasn not joking. that was a real question.
+201	YI0070_12	  T,T,T,T,T,T,T,X,T,X,X,T,O,X,T,X,O,X,X,T,T,T,T,O,T,X,X,T,X,O,  	S	2017-08-31 09:12:00	12	i m not surprised.
+202	YI0070_13		U	2017-08-31 09:12:37	13	why are you not suprised. i am  trying to get to know you. i ate pizza for lunch today. did you eat lunch?
+203	YI0070_14	  T,T,T,O,X,T,T,X,T,X,X,T,X,O,T,X,X,X,T,T,T,T,T,O,X,X,X,T,X,O,  	S	2017-08-31 09:12:37	14	i don t even know what they are talking about.
+204	YI0070_15		U	2017-08-31 09:12:51	15	what are you thinking about?
+205	YI0070_16	  T,T,T,T,O,T,T,X,T,X,T,T,O,T,T,O,X,X,T,O,T,T,T,O,T,X,X,T,X,O,  	S	2017-08-31 09:12:51	16	i don t know.
+206	YI0070_17		U	2017-08-31 09:13:13	17	well i am  thinking about the passage of time.
+207	YI0070_18	  O,T,T,X,T,T,T,X,T,X,T,T,T,X,T,X,X,X,X,T,T,T,T,O,X,X,X,T,X,O,  	S	2017-08-31 09:13:13	18	i don t agree with that.
+208	YI0070_19		U	2017-08-31 09:13:24	19	you think time doesn not pass?
+209	YI0070_20	  O,T,T,O,O,T,T,X,T,X,T,T,O,O,T,T,T,O,X,T,X,T,T,O,O,T,X,T,X,O,  	S	2017-08-31 09:13:24	20	i don t care.
+210	YI0016_00		S	2017-08-31 08:40:58	0	hello!
+211	YI0016_01		U	2017-08-31 08:42:04	1	hi, how are you?
+212	YI0016_02	  T,T,O,T,O,T,T,O,X,T,O,O,O,T,T,T,O,X,O,T,O,O,T,T,T,O,T,O,T,T,  	S	2017-08-31 08:42:04	2	hi.
+213	YI0016_03		U	2017-08-31 08:42:57	3	are you okay?
+214	YI0016_04	  O,O,O,T,O,O,T,O,T,O,O,O,O,O,T,X,O,T,O,T,O,O,X,T,O,T,T,O,O,X,  	S	2017-08-31 08:42:57	4	yeah.
+215	YI0016_05		U	2017-08-31 08:45:58	5	that is good to hear.
+216	YI0016_06	  X,T,O,T,X,X,T,X,O,X,T,T,O,X,T,T,X,T,O,T,X,O,X,T,O,O,T,O,X,T,  	S	2017-08-31 08:45:58	6	lock him up!
+217	YI0016_07		U	2017-08-31 08:47:05	7	lock who up?
+218	YI0016_08	  X,T,O,T,X,X,T,X,T,T,X,X,O,X,T,T,X,T,O,T,X,O,X,T,O,T,T,O,T,T,  	S	2017-08-31 08:47:05	8	lock him up!
+219	YI0016_09		U	2017-08-31 08:48:05	9	alright, i will!
+220	YI0016_10	  T,T,O,O,X,T,T,O,O,X,T,X,O,T,T,T,X,X,O,T,X,O,T,T,O,O,T,O,T,T,  	S	2017-08-31 08:48:05	10	 its beyond my possibilities. let s talk about...!
+221	YI0016_11		U	2017-08-31 08:48:54	11	i would love to talk about anything!
+222	YI0016_12	  T,T,O,O,O,X,X,O,T,O,O,O,O,T,T,T,T,X,O,X,T,T,X,T,O,T,O,O,X,T,  	S	2017-08-31 08:48:54	12	i can t answer. i would like to discuss cats!
+223	YI0016_13		U	2017-08-31 08:49:43	13	how many cats do you have?
+224	YI0016_14	  T,T,T,T,O,T,T,O,X,T,X,O,O,T,T,T,T,T,O,T,T,T,T,T,O,O,T,O,T,T,  	S	2017-08-31 08:49:43	14	i don t know.
+225	YI0016_15		U	2017-08-31 08:50:21	15	how do you not know? haha
+226	YI0016_16	  T,T,O,O,T,X,X,X,O,X,O,T,O,X,T,T,X,X,O,T,T,T,X,X,O,T,X,O,X,T,  	S	2017-08-31 08:50:21	16	why don t you go to jail?
+227	YI0016_17		U	2017-08-31 08:51:15	17	because i am  innocent!
+228	YI0016_18	  X,T,O,T,X,T,X,X,T,X,X,O,O,T,T,T,X,T,O,T,X,T,T,T,O,O,T,O,X,T,  	S	2017-08-31 08:51:15	18	trump is a traitor.
+229	YI0016_19		U	2017-08-31 08:52:42	19	i agree with you on that one!
+230	YI0016_20	  O,X,O,T,O,O,T,T,X,O,T,T,O,T,T,T,O,T,O,T,O,T,X,X,O,T,T,O,O,T,  	S	2017-08-31 08:52:42	20	he s a liar.
+231	YI0073_00		S	2017-08-31 09:13:25	0	hello!
+232	YI0073_01		U	2017-08-31 09:13:48	1	hello friend, how are you?
+233	YI0073_02	  X,O,T,T,O,O,O,T,O,O,T,T,O,O,O,O,O,T,T,T,T,T,T,T,X,T,T,T,T,X,  	S	2017-08-31 09:13:48	2	hello.
+234	YI0073_03		U	2017-08-31 09:14:02	3	nice weather we are having this evening
+235	YI0073_04	  X,O,X,T,O,X,X,T,T,X,T,T,X,T,X,O,X,T,X,X,X,T,X,X,X,T,O,X,T,X,  	S	2017-08-31 09:14:02	4	what a bunch of idiots.
+236	YI0073_05		U	2017-08-31 09:14:14	5	who?
+237	YI0073_06	  X,O,O,T,O,T,X,T,T,X,T,T,T,T,T,O,X,T,X,X,X,T,X,T,X,T,O,X,T,X,  	S	2017-08-31 09:14:14	6	what a joke.
+238	YI0073_07		U	2017-08-31 09:14:40	7	do you want to hear a joke?
+239	YI0073_08	  O,O,T,T,O,O,X,X,T,T,T,T,O,T,O,T,O,T,O,X,O,T,T,T,X,T,O,T,T,O,  	S	2017-08-31 09:14:40	8	no.
+240	YI0073_09		U	2017-08-31 09:14:58	9	have anything planned for this weekend?
+241	YI0073_10	  O,O,O,T,T,O,X,T,T,T,T,T,O,T,O,T,O,T,O,X,O,T,T,T,O,T,O,X,T,O,  	S	2017-08-31 09:14:58	10	no.
+242	YI0073_11		U	2017-08-31 09:15:17	11	what are you doing tommorow?
+243	YI0073_12	  X,O,X,T,O,T,X,T,T,X,T,T,T,X,X,O,O,T,X,X,T,T,X,X,O,T,O,X,X,O,  	S	2017-08-31 09:15:17	12	i don t understand  its beyond my possibilities. let s talk about movies)
+244	YI0073_13		U	2017-08-31 09:15:40	13	looking forward to thor ragnarok in theatres?
+245	YI0073_14	  X,O,X,T,O,O,X,T,T,X,T,T,T,X,T,O,X,T,O,X,T,X,X,T,O,T,O,X,T,T,  	S	2017-08-31 09:15:40	14	what a joke.
+246	YI0073_15		U	2017-08-31 09:15:54	15	what movies do you enjoy?
+247	YI0073_16	  X,O,X,T,X,O,X,T,T,O,T,T,X,X,T,O,X,T,X,X,X,T,X,T,T,T,O,X,T,X,  	S	2017-08-31 09:15:54	16	yes.
+248	YI0073_17		U	2017-08-31 09:16:12	17	i mean what kind of movies do you like?
+249	YI0073_18	  O,O,X,T,O,O,X,T,T,T,T,T,T,X,T,T,O,T,O,X,T,T,T,O,X,T,O,X,T,X,  	S	2017-08-31 09:16:12	18	i don t know.
+250	YI0073_19		U	2017-08-31 09:16:43	19	well its been a pleasure talking to you
+251	YI0073_20	  O,O,T,T,O,O,X,T,T,X,T,X,O,T,O,O,X,X,O,X,T,T,T,O,O,T,O,X,T,O,  	S	2017-08-31 09:16:43	20	yeah.
+252	YI0011_00		S	2017-08-31 08:41:41	0	hello!
+253	YI0011_01		U	2017-08-31 08:42:28	1	hi! what is up?
+254	YI0011_02	  O,O,O,T,T,O,X,X,T,O,T,T,T,O,T,T,T,O,T,O,O,T,T,O,X,O,O,T,T,O,  	S	2017-08-31 08:42:28	2	i don t know what happened to me
+255	YI0011_03		U	2017-08-31 08:43:22	3	what do you mean?
+256	YI0011_04	  O,T,T,T,X,T,X,T,T,T,T,X,T,O,O,T,T,O,T,O,O,T,T,T,T,O,O,T,T,O,  	S	2017-08-31 08:43:22	4	i don t know.
+257	YI0011_05		U	2017-08-31 08:44:22	5	are you okay?
+258	YI0011_06	  O,T,T,X,T,O,O,O,T,O,X,T,T,O,O,T,T,O,T,O,O,O,T,T,O,O,O,O,T,O,  	S	2017-08-31 08:44:22	6	yeah.
+259	YI0011_07		U	2017-08-31 08:45:22	7	tell me something.
+260	YI0011_08	  O,T,O,X,T,O,X,X,T,X,X,T,O,O,O,T,X,O,X,O,O,O,T,X,O,O,O,O,T,T,  	S	2017-08-31 08:45:22	8	what?
+261	YI0011_09		U	2017-08-31 08:46:35	9	what is your favorite color?
+262	YI0011_10	  T,T,O,O,X,O,T,X,T,X,X,X,T,O,O,T,T,T,T,T,O,X,T,T,X,O,O,X,X,T,  	S	2017-08-31 08:46:35	10	this is a joke.
+263	YI0011_11		U	2017-08-31 08:47:37	11	you seem weird. 
+264	YI0011_12	  O,T,T,T,X,O,X,O,T,O,X,X,T,O,O,T,T,O,T,O,O,T,T,O,O,O,O,T,T,T,  	S	2017-08-31 08:47:37	12	i am.
+265	YI0011_13		U	2017-08-31 08:48:40	13	who are you?
+266	YI0011_14	  T,T,T,X,O,O,X,X,T,X,X,X,O,O,O,T,X,T,X,X,T,X,T,T,X,O,O,T,T,T,  	S	2017-08-31 08:48:40	14	who are you?
+267	YI0011_15		U	2017-08-31 08:49:37	15	i am  nick. 
+268	YI0011_16	  O,T,T,O,X,O,X,T,T,T,X,X,T,O,O,T,T,T,T,X,O,X,T,X,T,O,O,X,X,O,  	S	2017-08-31 08:49:37	16	i m not surprised.
+269	YI0011_17		U	2017-08-31 08:50:38	17	where do you live?
+270	YI0011_18	  O,T,O,T,O,O,X,X,T,O,X,X,T,O,O,T,O,O,T,X,O,O,O,T,O,O,O,X,X,X,  	S	2017-08-31 08:50:38	18	jang mi!
+271	YI0011_19		U	2017-08-31 08:51:46	19	what is jang mi?
+272	YI0011_20	  T,T,T,O,X,T,T,X,T,X,X,X,T,O,O,T,T,T,T,O,O,T,T,O,X,O,O,T,T,T,  	S	2017-08-31 08:51:46	20	i can t answer! let s talk about politics
+273	YI0033_00		S	2017-08-31 08:47:02	0	hello!
+274	YI0033_01		U	2017-08-31 08:48:37	1	hi!
+275	YI0033_02	  O,T,T,T,T,X,O,O,T,O,O,O,T,T,X,X,T,O,T,O,O,X,X,T,T,T,T,O,T,O,  	S	2017-08-31 08:48:37	2	hi.
+276	YI0033_03		U	2017-08-31 08:49:27	3	how are you doing today?
+277	YI0033_04	  O,T,T,T,O,T,O,O,O,O,O,O,T,T,X,O,T,O,T,O,O,T,X,T,T,T,O,O,X,T,  	S	2017-08-31 08:49:27	4	i m fine.
+278	YI0033_05		U	2017-08-31 08:51:03	5	enjoying this weather we are having today?
+279	YI0033_06	  X,T,T,T,X,T,O,T,X,O,O,O,T,T,O,X,T,T,T,O,T,X,X,T,T,T,T,O,T,O,  	S	2017-08-31 08:51:03	6	it s called weather.
+280	YI0033_07		U	2017-08-31 08:52:10	7	have you seen any good tv shows lately?
+281	YI0033_08	  T,T,T,T,O,T,O,O,T,O,O,O,X,T,T,O,T,O,T,O,O,O,T,T,T,T,O,O,T,T,  	S	2017-08-31 08:52:10	8	no.
+282	YI0033_09		U	2017-08-31 08:53:34	9	what do you do for fun?
+283	YI0033_10	  X,T,T,T,T,T,O,T,X,O,O,O,X,T,O,O,T,T,T,O,T,T,O,T,T,X,T,T,T,O,  	S	2017-08-31 08:53:34	10	i don t know.
+284	YI0033_11		U	2017-08-31 08:54:15	11	do you have a job?
+285	YI0033_12	  X,T,T,T,O,T,O,O,T,O,O,O,T,T,T,O,T,O,T,O,O,O,X,T,T,T,O,O,X,T,  	S	2017-08-31 08:54:15	12	yes.
+286	YI0033_13		U	2017-08-31 08:54:56	13	what is your job?
+287	YI0033_14	  T,T,T,T,X,T,O,T,X,O,O,O,X,T,X,T,T,T,T,T,T,T,T,T,T,T,T,T,T,O,  	S	2017-08-31 08:54:56	14	i don t know.
+288	YI0033_15		U	2017-08-31 08:55:59	15	that doesn not sound like a very good job.
+289	YI0033_16	  X,T,T,X,X,T,O,X,X,O,O,O,T,T,O,X,T,X,T,T,T,T,O,T,T,T,X,T,T,T,  	S	2017-08-31 08:55:59	16	i don t know how to be able to watch this.
+290	YI0033_17		U	2017-08-31 08:56:27	17	that doesn not sound like a very good job.
+291	YI0033_18	  T,T,T,X,X,T,O,X,X,O,O,O,X,T,X,X,O,T,T,O,T,T,O,T,T,X,X,O,T,O,  	S	2017-08-31 08:56:27	18	do you know what? i can t answer. i would like to discuss...!
+292	YI0033_19		U	2017-08-31 08:57:28	19	have you ever questioned the nature of your reality?
+293	YI0033_20	  O,T,T,T,O,T,O,O,T,O,O,O,T,T,X,O,T,O,T,O,O,O,T,T,T,T,O,T,X,T,  	S	2017-08-31 08:57:28	20	yes.
+294	YI0080_00		S	2017-08-31 09:19:08	0	hello!
+295	YI0080_01		U	2017-08-31 09:19:49	1	hello, how are you doing?
+296	YI0080_02	  O,O,T,O,O,T,O,T,O,X,O,T,O,O,T,T,T,O,O,O,O,O,T,T,O,O,O,O,O,T,  	S	2017-08-31 09:19:49	2	good.
+297	YI0080_03		U	2017-08-31 09:20:13	3	how old are you?
+298	YI0080_04	  T,T,X,X,T,O,T,X,O,X,O,O,T,T,O,T,O,O,T,T,T,O,T,O,T,O,T,O,T,X,  	S	2017-08-31 09:20:13	4	how old are you?
+299	YI0080_05		U	2017-08-31 09:20:43	5	37 years old, and you?
+300	YI0080_06	  X,T,T,T,T,X,T,T,T,X,O,T,X,O,T,T,T,O,X,T,O,O,O,T,T,O,X,O,X,T,  	S	2017-08-31 09:20:43	6	i don t know.
+301	YI0080_07		U	2017-08-31 09:21:21	7	are you male or female?
+302	YI0080_08	  T,O,O,O,O,T,O,T,O,X,O,T,O,O,O,T,T,O,O,O,X,O,T,O,O,O,O,O,X,T,  	S	2017-08-31 09:21:21	8	male.
+303	YI0080_09		U	2017-08-31 09:21:23	9	are you male or female?
+304	YI0080_10	  X,T,X,X,T,O,X,T,O,X,O,O,X,O,T,T,O,X,X,X,O,O,T,X,T,O,X,O,O,X,  	S	2017-08-31 09:21:23	10	what is it?
+305	YI0080_11		U	2017-08-31 09:21:47	11	where do you live, in what city?
+306	YI0080_12	  X,T,X,X,T,O,T,O,X,O,O,T,X,T,T,T,T,X,X,X,O,O,T,T,T,T,X,O,T,X,  	S	2017-08-31 09:21:47	12	
+307	YI0080_13		U	2017-08-31 09:22:59	13	i live in atlanta. have you been here?
+308	YI0080_14	  X,T,T,O,O,X,O,X,T,X,O,T,O,O,X,X,T,O,O,O,T,O,O,T,O,O,O,O,O,T,  	S	2017-08-31 09:22:59	14	no.
+309	YI0080_15		U	2017-08-31 09:23:24	15	why are you so quiet? you should talk more
+310	YI0080_16	  X,T,X,O,T,T,X,O,T,X,O,T,T,O,X,T,T,O,X,T,O,O,T,T,O,O,O,O,X,T,  	S	2017-08-31 09:23:24	16	i don t know.
+311	YI0080_17		U	2017-08-31 09:23:45	17	what food do you like?
+312	YI0080_18	  X,T,X,X,T,O,T,X,O,O,O,O,X,T,X,X,O,X,X,T,O,O,O,X,T,O,X,O,T,X,  	S	2017-08-31 09:23:45	18	what?
+313	YI0080_19		U	2017-08-31 09:24:13	19	i like italian food
+314	YI0080_20	  X,X,X,T,T,X,O,T,O,X,O,T,O,O,X,T,T,O,T,X,X,O,T,O,T,O,O,O,O,T,  	S	2017-08-31 09:24:13	20	i m going to eat it.
+315	YI0057_00		S	2017-08-31 08:52:26	0	hello!
+316	YI0057_01		U	2017-08-31 08:54:45	1	hi there! how are you doing?
+317	YI0057_02	  T,T,O,T,T,O,O,T,T,O,T,T,O,O,O,T,O,O,T,O,T,T,X,T,T,X,X,O,O,T,  	S	2017-08-31 08:54:45	2	hi.
+318	YI0057_03		U	2017-08-31 08:57:41	3	how are you doing today? 
+319	YI0057_04	  X,T,T,T,T,O,T,O,O,O,T,O,O,O,O,X,O,O,T,T,O,T,O,X,T,O,O,O,T,T,  	S	2017-08-31 08:57:41	4	i m fine.
+320	YI0057_05		U	2017-08-31 08:58:24	5	do you have any interests or hobbies? 
+321	YI0057_06	  T,T,T,T,T,T,X,O,T,O,O,O,O,O,T,O,O,T,T,T,X,X,O,T,T,T,O,O,O,O,  	S	2017-08-31 08:58:24	6	why?
+322	YI0057_07		U	2017-08-31 08:59:16	7	i want to get to know you better. 
+323	YI0057_08	  T,T,O,T,T,T,T,T,T,O,O,X,T,O,O,O,O,T,X,T,O,X,O,T,T,X,X,T,T,O,  	S	2017-08-31 08:59:16	8	how do you do?
+324	YI0057_09		U	2017-08-31 09:01:45	9	i am  good! what is the most interesting conversation you ever had? 
+325	YI0057_10	  T,T,O,T,T,X,O,X,X,O,T,T,T,O,T,T,O,X,X,T,T,T,O,T,T,X,X,X,O,O,  	S	2017-08-31 09:01:45	10	i don t care what they want.
+326	YI0057_11		U	2017-08-31 09:02:18	11	it sounds like you don not like other people. 
+327	YI0057_12	  T,T,T,T,T,O,T,O,O,O,T,O,O,O,T,T,O,X,X,T,X,T,O,T,T,T,O,O,T,O,  	S	2017-08-31 09:02:18	12	i don t care what they say.
+328	YI0057_13		U	2017-08-31 09:03:59	13	is there a reason for that? 
+329	YI0057_14	  T,T,O,T,T,O,X,T,T,T,T,O,O,O,T,X,O,T,X,O,O,T,O,T,T,X,X,T,O,O,  	S	2017-08-31 09:03:59	14	i don t care.
+330	YI0057_15		U	2017-08-31 09:04:16	15	it sounds like you are really lonely. 
+331	YI0057_16	  O,T,T,T,T,O,O,O,T,O,T,O,O,O,T,O,O,T,X,T,T,X,O,T,T,T,O,O,T,O,  	S	2017-08-31 09:04:16	16	really?
+332	YI0057_17		U	2017-08-31 09:05:27	17	well, that is what it sounds like. are you? 
+333	YI0057_18	  T,T,O,T,T,X,T,X,X,O,T,X,T,O,T,T,O,X,X,X,X,T,O,T,T,X,X,X,O,T,  	S	2017-08-31 09:05:27	18	lock them up
+334	YI0057_19		U	2017-08-31 09:05:45	19	i am  sorry, i don not understand. lock who up?
+335	YI0057_20	  T,T,O,T,T,X,X,X,X,O,X,T,T,O,T,T,T,X,X,T,X,T,O,T,T,X,X,X,T,T,  	S	2017-08-31 09:05:45	20	lock them up
+336	YI0081_00		S	2017-08-31 08:39:45	0	hello!
+337	YI0081_01		U	2017-08-31 08:39:58	1	hey, how are you
+338	YI0081_02	  X,T,T,T,T,O,T,O,T,O,O,O,O,T,O,T,T,O,T,O,O,X,O,O,T,T,T,O,O,O,  	S	2017-08-31 08:39:58	2	how are you?
+339	YI0081_03		U	2017-08-31 08:40:19	3	i am  fine and you
+340	YI0081_04	  T,T,X,X,T,O,X,O,X,T,O,X,T,X,T,X,T,O,X,O,X,X,T,O,X,X,T,T,X,O,  	S	2017-08-31 08:40:19	4	this is what happens when you go to jail.
+341	YI0081_05		U	2017-08-31 08:42:50	5	what do you mean
+342	YI0081_06	  X,T,X,T,T,O,X,O,X,O,O,X,O,X,X,T,T,O,X,O,T,T,O,T,X,X,T,T,X,O,  	S	2017-08-31 08:42:50	6	what?
+343	YI0081_07		U	2017-08-31 08:43:45	7	what do you do for a living?
+344	YI0081_08	  T,T,T,T,T,T,X,T,X,T,O,O,T,T,T,T,T,O,X,O,X,O,T,T,X,X,T,T,T,O,  	S	2017-08-31 08:43:45	8	i don t know.
+345	YI0081_09		U	2017-08-31 08:44:41	9	are you married?
+346	YI0081_10	  T,T,T,T,O,T,T,O,X,O,T,O,T,O,O,O,T,O,O,O,O,O,T,O,O,O,T,O,X,O,  	S	2017-08-31 08:44:41	10	no.
+347	YI0081_11		U	2017-08-31 08:45:28	11	do you have children?
+348	YI0081_12	  T,T,T,T,O,T,T,T,X,T,T,O,T,O,O,X,T,O,O,O,O,O,T,O,O,O,T,O,T,O,  	S	2017-08-31 08:45:28	12	no.
+349	YI0081_13		U	2017-08-31 08:46:21	13	do you like me?
+350	YI0081_14	  X,T,T,T,T,O,X,O,T,O,O,O,T,T,O,T,T,O,T,O,X,T,T,T,X,T,T,T,O,O,  	S	2017-08-31 08:46:21	14	 i can t answer. i would like to talk about news)
+351	YI0081_15		U	2017-08-31 08:47:58	15	what news do you want to talk about
+352	YI0081_16	  X,X,X,T,T,O,X,O,X,T,O,X,O,X,O,O,T,T,T,O,T,T,O,T,X,X,T,T,X,O,  	S	2017-08-31 08:47:58	16	what?
+353	YI0081_17		U	2017-08-31 08:48:55	17	did you read about the terrorist attack in barcelona?
+354	YI0081_18	  T,T,X,T,O,O,X,X,T,O,O,T,T,T,O,X,T,T,X,O,T,O,T,T,X,T,T,T,T,O,  	S	2017-08-31 08:48:55	18	i don t understand  i can t answer! let s talk about myself
+355	YI0081_19		U	2017-08-31 08:50:37	19	where are you from?
+356	YI0081_20	  T,T,O,T,T,O,T,X,X,T,O,O,T,O,O,O,T,O,O,O,O,O,X,O,O,O,T,O,O,T,  	S	2017-08-31 08:50:37	20	i m from umbria, near perugia.
+357	YI0054_00		S	2017-08-31 08:54:30	0	hello!
+358	YI0054_01		U	2017-08-31 08:55:08	1	hey
+359	YI0054_02	  X,T,T,T,X,T,O,T,X,X,O,T,X,X,T,O,T,T,T,T,X,T,X,O,X,X,T,X,T,O,  	S	2017-08-31 08:55:08	2	that s what happens when you don t like it.
+360	YI0054_03		U	2017-08-31 08:55:54	3	don not like what?
+361	YI0054_04	  X,T,X,T,X,X,O,T,X,X,O,T,X,T,X,T,T,O,T,T,X,T,T,O,X,X,X,X,T,O,  	S	2017-08-31 08:55:54	4	that s what happens when you go to jail.
+362	YI0054_05		U	2017-08-31 08:56:53	5	i don not get it. no one went to jail.
+363	YI0054_06	  X,T,X,T,O,X,T,T,X,X,O,T,X,T,X,T,T,O,T,T,X,T,T,O,X,T,X,X,T,T,  	S	2017-08-31 08:56:53	6	lock him up
+364	YI0054_07		U	2017-08-31 08:58:14	7	lock who up?
+365	YI0054_08	  X,T,X,X,O,O,X,T,X,X,T,T,X,O,T,O,O,O,T,T,X,T,O,O,X,X,T,X,T,T,  	S	2017-08-31 08:58:14	8	lock him up!
+366	YI0054_09		U	2017-08-31 09:00:00	9	who?!
+367	YI0054_10	  X,T,X,T,O,X,X,T,X,X,T,T,X,T,X,T,X,O,X,T,X,T,O,O,X,X,T,X,T,T,  	S	2017-08-31 09:00:00	10	lock him up!
+368	YI0054_11		U	2017-08-31 09:01:50	11	lock who??? who is he?
+369	YI0054_12	  O,T,X,X,X,X,T,O,X,O,T,T,T,X,X,T,O,T,X,T,O,T,X,O,X,X,O,X,T,T,  	S	2017-08-31 09:01:50	12	do you know what? i can t answer  let s talk about news)
+370	YI0054_13		U	2017-08-31 09:02:25	13	sure, how about that hurricane?
+371	YI0054_14	  T,T,X,T,X,X,T,T,X,X,T,T,O,O,O,O,T,O,X,T,T,T,T,O,O,T,O,X,T,T,  	S	2017-08-31 09:02:25	14	yeah.
+372	YI0054_15		U	2017-08-31 09:03:57	15	what do you think about it?
+373	YI0054_16	  O,T,X,T,X,X,X,T,X,O,T,T,X,O,O,O,T,T,X,T,T,T,T,O,T,T,O,T,T,T,  	S	2017-08-31 09:03:57	16	i don t know.
+374	YI0054_17		U	2017-08-31 09:04:42	17	scary to think if something like that happened to us, huh?
+375	YI0054_18	  O,T,X,T,O,X,X,T,X,O,T,T,O,O,T,T,X,O,O,T,O,T,T,O,O,O,O,T,T,T,  	S	2017-08-31 09:04:42	18	yeah.
+376	YI0054_19		U	2017-08-31 09:05:06	19	well, nice talking to you.
+377	YI0054_20	  O,T,X,T,T,X,O,T,X,T,T,T,O,O,X,T,O,O,O,T,O,T,T,O,O,O,O,T,T,T,  	S	2017-08-31 09:05:06	20	yeah.
+378	YI0099_00		S	2017-08-31 11:01:12	0	hello!
+379	YI0099_01		U	2017-08-31 11:01:38	1	hihi
+380	YI0099_02	  O,T,T,T,T,T,O,T,O,X,O,O,T,O,T,T,X,T,O,T,T,O,T,T,T,O,T,T,O,O,  	S	2017-08-31 11:01:38	2	hello.
+381	YI0099_03		U	2017-08-31 11:01:48	3	how are you?
+382	YI0099_04	  O,T,T,T,O,X,O,T,X,O,O,O,T,O,T,T,O,O,O,O,T,O,O,T,T,O,X,O,O,O,  	S	2017-08-31 11:01:48	4	good.
+383	YI0099_05		U	2017-08-31 11:02:04	5	where are you located?
+384	YI0099_06	  O,T,O,X,T,T,T,T,X,X,O,T,O,O,T,X,T,T,O,T,T,T,T,X,X,O,X,O,T,O,  	S	2017-08-31 11:02:04	6	what?
+385	YI0099_07		U	2017-08-31 11:02:19	7	where do you live?
+386	YI0099_08	  O,T,T,O,O,T,O,T,T,O,O,O,T,O,T,T,T,O,O,T,T,O,O,X,T,T,X,O,O,O,  	S	2017-08-31 11:02:19	8	jang mi!
+387	YI0099_09		U	2017-08-31 11:02:43	9	i have not heard of that. where is it located?
+388	YI0099_10	  O,T,T,T,T,T,X,T,T,X,T,T,X,X,T,T,T,X,X,X,T,X,T,X,X,O,X,O,X,O,  	S	2017-08-31 11:02:43	10	this is what happens when you live in jail
+389	YI0099_11		U	2017-08-31 11:02:58	11	what is wrong?
+390	YI0099_12	  O,T,T,T,T,T,X,T,T,X,T,X,T,X,T,X,X,X,X,X,T,X,X,X,T,O,X,O,X,O,  	S	2017-08-31 11:02:58	12	lock him up
+391	YI0099_13		U	2017-08-31 11:03:13	13	lock who up?
+392	YI0099_14	  O,T,T,O,X,T,X,T,X,X,T,T,T,X,T,T,T,X,X,T,T,X,X,X,T,O,X,O,X,O,  	S	2017-08-31 11:03:13	14	lock him up!
+393	YI0099_15		U	2017-08-31 11:03:22	15	are you okay?
+394	YI0099_16	  O,T,T,T,O,T,O,T,X,O,O,O,T,O,T,O,O,O,X,O,T,O,O,X,T,O,X,O,O,O,  	S	2017-08-31 11:03:22	16	yeah.
+395	YI0099_17		U	2017-08-31 11:03:42	17	who do you want to lock up?
+396	YI0099_18	  O,T,T,T,X,T,X,T,O,X,T,X,X,O,T,T,X,X,X,T,T,X,X,X,T,T,X,O,X,T,  	S	2017-08-31 11:03:42	18	no.
+397	YI0099_19		U	2017-08-31 11:03:59	19	i am  confused by your response
+398	YI0099_20	  O,T,T,T,T,T,O,T,T,T,T,T,T,T,T,O,T,T,X,X,T,T,X,X,X,O,T,O,O,X,  	S	2017-08-31 11:03:59	20	do you know what? its beyond my possibilities  i would like to talk about news
+399	YI0079_00		S	2017-08-31 09:21:16	0	hello!
+400	YI0079_01		U	2017-08-31 09:21:34	1	how are you?
+401	YI0079_02	  X,O,O,T,T,T,O,O,T,T,O,T,T,O,T,O,T,T,O,T,T,T,T,O,O,O,T,T,T,T,  	S	2017-08-31 09:21:34	2	good.
+402	YI0079_03		U	2017-08-31 09:21:51	3	what time is it where you are?
+403	YI0079_04	  O,O,O,T,X,T,O,X,T,T,O,T,T,O,O,O,T,T,T,T,T,T,T,T,O,O,T,X,X,T,  	S	2017-08-31 09:21:51	4	i don t know.
+404	YI0079_05		U	2017-08-31 09:22:06	5	oh okay. do anything for fun in the evenings?
+405	YI0079_06	  T,X,O,T,T,T,T,X,X,T,X,X,T,O,X,X,T,T,T,T,T,T,T,T,O,X,T,T,O,X,  	S	2017-08-31 09:22:06	6	i don t believe anything he says.
+406	YI0079_07		U	2017-08-31 09:22:25	7	what who says?
+407	YI0079_08	  X,X,O,T,T,T,T,X,X,T,X,T,X,O,T,X,T,T,T,T,X,T,T,O,O,X,T,X,X,O,  	S	2017-08-31 09:22:25	8	okay.
+408	YI0079_09		U	2017-08-31 09:22:40	9	anyway, do you have any cool hobbies?
+409	YI0079_10	  O,X,T,T,X,T,O,X,X,O,T,O,O,O,X,T,O,X,T,T,T,O,X,X,O,X,X,X,T,X,  	S	2017-08-31 09:22:40	10	what?
+410	YI0079_11		U	2017-08-31 09:22:52	11	things you like to do in your free time?
+411	YI0079_12	  T,O,T,T,X,T,T,X,T,O,O,X,T,O,X,O,T,T,T,T,T,T,O,T,O,T,O,T,O,T,  	S	2017-08-31 09:22:52	12	i can t answer! i would like to discuss politics!
+412	YI0079_13		U	2017-08-31 09:23:06	13	how do you feel about donald trump?
+413	YI0079_14	  X,T,T,T,X,T,T,X,O,O,O,T,T,T,X,O,T,T,T,T,T,T,T,O,O,O,T,O,O,X,  	S	2017-08-31 09:23:06	14	i don t know what he is talking about.
+414	YI0079_15		U	2017-08-31 09:23:21	15	i don not think he knows either. hes a very silly man
+415	YI0079_16	  T,O,T,T,T,T,X,X,T,T,O,X,T,O,X,O,T,T,T,T,T,T,T,O,O,O,T,X,X,T,  	S	2017-08-31 09:23:21	16	he s a joke.
+416	YI0079_17		U	2017-08-31 09:23:39	17	he definetly is. i don not think most people like him at all.
+417	YI0079_18	  X,O,T,T,X,T,X,T,T,T,O,T,T,T,X,O,T,T,T,T,T,T,T,X,T,O,T,T,X,X,  	S	2017-08-31 09:23:39	18	he s a disgrace.
+418	YI0079_19		U	2017-08-31 09:23:58	19	thats the understatement of the year
+419	YI0079_20	  O,T,T,T,X,T,O,X,T,T,O,X,T,O,X,O,T,X,T,T,T,T,O,O,O,O,T,O,T,X,  	S	2017-08-31 09:23:58	20	what a joke.
+420	YI0067_00		S	2017-08-31 08:55:55	0	hello!
+421	YI0067_01		U	2017-08-31 08:56:50	1	hello.
+422	YI0067_02	  T,O,T,X,O,O,O,X,T,T,T,O,T,T,O,T,T,T,X,T,O,T,T,O,X,T,O,X,T,T,  	S	2017-08-31 08:56:50	2	hello.
+423	YI0067_03		U	2017-08-31 08:59:59	3	do you enjoy sports?
+424	YI0067_04	  T,O,T,O,O,X,O,X,T,O,T,T,T,T,O,T,O,T,O,T,T,O,T,O,X,O,O,O,O,T,  	S	2017-08-31 08:59:59	4	no.
+425	YI0067_05		U	2017-08-31 09:01:10	5	is there something else you would like to talk about?
+426	YI0067_06	  T,T,T,X,O,T,T,X,O,X,T,T,X,X,T,T,O,T,O,X,T,T,T,O,T,O,O,T,O,T,  	S	2017-08-31 09:01:10	6	https //www.facebook.com/mikecernovich/videos/1243958925733157/? hc_location=ufi
+427	YI0067_07		U	2017-08-31 09:03:22	7	you want to talk about mike cernovich?
+428	YI0067_08	  T,O,T,O,O,X,O,X,X,O,T,T,X,X,T,T,X,T,T,X,T,T,T,T,X,T,O,O,T,T,  	S	2017-08-31 09:03:22	8	no.
+429	YI0067_09		U	2017-08-31 09:04:59	9	okay, is there anything else you want to talk about?
+430	YI0067_10	  T,O,T,O,O,X,O,O,X,O,T,T,T,X,X,T,T,T,O,X,O,T,T,T,X,X,O,O,O,T,  	S	2017-08-31 09:04:59	10	no.
+431	YI0067_11		U	2017-08-31 09:06:15	11	well, how about weather?
+432	YI0067_12	  T,O,T,O,O,X,T,X,T,O,T,O,X,X,T,T,T,T,X,X,T,T,O,T,T,T,O,O,O,T,  	S	2017-08-31 09:06:15	12	its beyond my possibilities  let s talk about news!
+433	YI0067_13		U	2017-08-31 09:06:36	13	okay, i read a news article about hurricane harvey.
+434	YI0067_14	  X,O,T,T,O,X,O,X,T,T,T,O,T,X,X,T,X,T,O,X,O,T,T,T,T,T,T,O,O,T,  	S	2017-08-31 09:06:36	14	this is what happens when you live in florida.
+435	YI0067_15		U	2017-08-31 09:06:58	15	well, hurricane harvey was in texas, not florida.
+436	YI0067_16	  X,T,T,X,O,X,O,T,X,T,T,X,X,X,T,T,T,T,O,X,T,X,T,T,T,X,T,X,O,T,  	S	2017-08-31 09:06:58	16	this is what happens when you live in florida.
+437	YI0067_17		U	2017-08-31 09:08:12	17	okay, how about president trump?
+438	YI0067_18	  T,O,T,O,O,X,O,O,T,X,T,O,T,X,T,T,O,T,X,X,O,T,T,T,T,T,T,O,O,T,  	S	2017-08-31 09:08:12	18	do you know what? i can t answer! i would like to discuss movies
+439	YI0067_19		U	2017-08-31 09:09:37	19	what movie would you like to talk about?
+440	YI0067_20	  T,T,T,X,O,O,O,O,X,X,T,T,O,X,X,T,O,T,X,X,T,T,T,X,T,X,T,X,O,T,  	S	2017-08-31 09:09:37	20	okay.
+441	YI0008_00		S	2017-08-31 08:40:13	0	hello!
+442	YI0008_01		U	2017-08-31 08:40:37	1	hey, where are you heading?
+443	YI0008_02	  T,O,T,O,T,O,T,O,O,O,O,T,X,O,O,O,O,O,T,T,O,O,T,O,O,T,O,T,O,O,  	S	2017-08-31 08:40:37	2	north.
+444	YI0008_03		U	2017-08-31 08:41:25	3	for business i am  guessing?
+445	YI0008_04	  X,X,T,T,T,T,T,T,X,T,X,T,T,X,X,X,T,X,T,X,O,X,T,T,T,T,X,X,O,O,  	S	2017-08-31 08:41:25	4	i don t understand why they are allowed to be arrested.
+446	YI0008_05		U	2017-08-31 08:42:16	5	who is allowed to be arrested?
+447	YI0008_06	  T,X,T,O,T,X,O,T,O,X,X,T,X,X,X,X,O,X,O,X,T,X,X,T,X,T,X,X,O,T,  	S	2017-08-31 08:42:16	6	
+448	YI0008_07		U	2017-08-31 08:43:17	7	where are you from?
+449	YI0008_08	  T,O,O,T,T,O,T,O,O,O,O,T,T,O,O,O,O,O,T,X,O,O,T,O,O,T,O,T,O,O,  	S	2017-08-31 08:43:17	8	i m from umbria, near perugia.
+450	YI0008_09		U	2017-08-31 08:44:08	9	i am  from long beach, california.
+451	YI0008_10	  T,T,T,O,T,O,T,T,T,O,X,T,O,X,X,O,O,X,T,X,O,X,T,T,T,T,X,O,O,O,  	S	2017-08-31 08:44:08	10	this is what happens when you live in the white house.
+452	YI0008_11		U	2017-08-31 08:45:01	11	what do you think of the current president?
+453	YI0008_12	  T,O,O,T,T,T,T,X,O,O,O,T,T,T,O,X,O,T,T,X,T,T,X,T,X,T,T,X,O,O,  	S	2017-08-31 08:45:01	12	what a joke.
+454	YI0008_13		U	2017-08-31 08:46:14	13	i personally think he is terrible.
+455	YI0008_14	  T,O,O,O,T,O,T,T,O,O,O,T,X,O,O,O,O,O,T,X,O,O,T,O,O,T,T,T,T,O,  	S	2017-08-31 08:46:14	14	he s a liar.
+456	YI0008_15		U	2017-08-31 08:47:19	15	has there every been a worse president?
+457	YI0008_16	  T,O,T,T,T,O,T,X,O,O,T,T,T,T,X,X,T,X,T,X,T,T,X,T,T,T,X,T,O,O,  	S	2017-08-31 08:47:19	16	what a joke.
+458	YI0008_17		U	2017-08-31 08:48:31	17	do you watch any sports?
+459	YI0008_18	  T,O,O,O,T,O,T,O,O,T,O,T,X,T,O,O,T,O,T,T,O,O,T,O,X,T,O,O,O,O,  	S	2017-08-31 08:48:31	18	no.
+460	YI0008_19		U	2017-08-31 08:49:21	19	i love soccer
+461	YI0008_20	  T,T,O,T,T,T,O,X,T,O,T,T,O,X,X,T,T,T,X,T,T,T,X,X,O,T,X,X,O,O,  	S	2017-08-31 08:49:21	20	what s wrong with this?
+462	YI0048_00		S	2017-08-31 08:55:48	0	hello!
+463	YI0048_01		U	2017-08-31 08:56:33	1	hi
+464	YI0048_02	  T,O,X,X,T,O,O,T,T,T,T,T,T,O,X,T,X,T,T,T,X,T,T,T,T,T,T,O,X,O,  	S	2017-08-31 08:56:33	2	i don t know what i don t have to say.
+465	YI0048_03		U	2017-08-31 08:57:45	3	its ok , how r u 
+466	YI0048_04	  T,O,T,T,T,O,T,X,X,T,X,X,T,O,X,T,X,T,T,T,X,X,X,T,X,T,X,T,X,O,  	S	2017-08-31 08:57:45	4	i can t afford it.
+467	YI0048_05		U	2017-08-31 08:58:21	5	what ?
+468	YI0048_06	  T,O,X,T,X,O,X,X,X,X,X,X,T,X,T,O,X,T,T,T,X,X,T,X,O,O,X,T,X,O,  	S	2017-08-31 08:58:21	6	what?
+469	YI0048_07		U	2017-08-31 08:59:35	7	your can not afford
+470	YI0048_08	  T,O,T,T,T,O,X,X,X,T,X,X,T,T,X,T,T,T,T,T,X,T,X,T,T,O,X,X,X,O,  	S	2017-08-31 08:59:35	8	i don t care.
+471	YI0048_09		U	2017-08-31 09:00:05	9	my mistake
+472	YI0048_10	  X,O,T,T,T,O,T,X,X,T,X,X,O,X,X,T,X,T,T,T,X,X,T,T,T,T,X,T,X,O,  	S	2017-08-31 09:00:05	10	he s a disgrace to the country.
+473	YI0048_11		U	2017-08-31 09:00:37	11	why so?
+474	YI0048_12	  T,O,T,T,T,T,T,X,X,T,X,X,O,O,X,X,T,T,T,T,X,T,T,T,T,O,O,X,X,O,  	S	2017-08-31 09:00:37	12	i don t care what he says.
+475	YI0048_13		U	2017-08-31 09:01:31	13	it ok, calm down
+476	YI0048_14	  O,O,T,T,T,T,O,T,X,T,X,O,O,T,X,T,X,T,T,T,O,T,T,T,T,T,T,O,X,O,  	S	2017-08-31 09:01:31	14	i agree with this.
+477	YI0048_15		U	2017-08-31 09:02:13	15	so nice of you
+478	YI0048_16	  O,T,T,X,T,T,O,O,T,T,O,O,X,X,O,X,O,T,T,T,O,O,O,T,X,O,O,O,T,O,  	S	2017-08-31 09:02:13	16	thank you
+479	YI0048_17		U	2017-08-31 09:02:48	17	my goodness
+480	YI0048_18	  T,T,T,T,T,T,O,T,X,T,X,X,T,O,X,X,X,T,O,T,X,T,T,T,X,O,X,T,X,O,  	S	2017-08-31 09:02:48	18	no.
+481	YI0048_19		U	2017-08-31 09:03:30	19	oh,you are very funny
+482	YI0048_20	  O,T,X,T,X,T,O,T,T,X,X,O,O,T,X,O,X,O,O,T,T,O,O,X,T,X,X,T,X,O,  	S	2017-08-31 09:03:30	20	what are you doing?
+483	YI0097_00		S	2017-08-31 10:05:22	0	hello!
+484	YI0097_01		U	2017-08-31 10:05:37	1	hey there
+485	YI0097_02	  O,T,O,T,X,T,T,T,T,T,T,T,O,T,O,T,T,X,X,X,X,T,T,T,O,T,T,X,X,T,  	S	2017-08-31 10:05:37	2	that s what happens when you don t like it.
+486	YI0097_03		U	2017-08-31 10:06:34	3	what do you mean?
+487	YI0097_04	  T,T,O,T,T,T,T,T,T,O,T,T,O,T,T,T,T,X,O,T,T,T,T,O,O,O,O,X,T,T,  	S	2017-08-31 10:06:34	4	i don t know.
+488	YI0097_05		U	2017-08-31 10:07:21	5	let is change the subject, what is your name?
+489	YI0097_06	  T,T,O,X,X,T,T,T,T,T,T,X,O,T,T,T,T,X,X,T,T,X,T,T,O,O,T,X,X,O,  	S	2017-08-31 10:07:21	6	lock them up
+490	YI0097_07		U	2017-08-31 10:07:50	7	lock who up?
+491	YI0097_08	  T,T,O,T,T,T,T,T,T,X,T,X,O,T,T,T,X,X,T,X,T,T,T,X,O,O,O,T,X,O,  	S	2017-08-31 10:07:50	8	lock them up
+492	YI0097_09		U	2017-08-31 10:08:04	9	who is them?
+493	YI0097_10	  T,T,T,O,O,X,T,T,T,T,O,X,O,T,T,O,T,X,X,T,O,X,T,X,O,O,O,X,T,T,  	S	2017-08-31 10:08:04	10	do you know what? i can t answer  let s talk about movies
+494	YI0097_11		U	2017-08-31 10:08:22	11	okay, what movies have you seen recently?
+495	YI0097_12	  T,T,O,T,X,T,T,T,T,O,T,X,O,T,T,T,T,X,X,X,T,X,T,T,O,O,T,X,X,T,  	S	2017-08-31 10:08:22	12	no.
+496	YI0097_13		U	2017-08-31 10:09:27	13	none? what is your favorite movie?
+497	YI0097_14	  X,X,X,X,X,T,T,T,T,T,T,X,O,T,T,T,T,X,X,T,T,X,T,X,O,O,T,X,X,O,  	S	2017-08-31 10:09:27	14	i don t care.
+498	YI0097_15		U	2017-08-31 10:09:50	15	okay
+499	YI0097_16	  X,T,T,T,T,T,T,T,T,T,T,X,O,T,T,T,X,T,X,X,X,X,T,T,O,O,T,X,X,T,  	S	2017-08-31 10:09:50	16	let s go
+500	YI0097_17		U	2017-08-31 10:09:58	17	where?
+501	YI0097_18	  T,T,O,O,T,T,X,T,X,T,O,X,O,T,T,O,X,X,X,T,X,O,T,T,O,O,O,X,X,O,  	S	2017-08-31 10:09:58	18	where?
+502	YI0097_19		U	2017-08-31 10:10:08	19	yes, where?
+503	YI0097_20	  T,O,T,T,T,T,X,T,X,O,O,X,O,T,T,O,X,X,X,X,T,X,T,O,O,O,O,X,X,O,  	S	2017-08-31 10:10:08	20	where?
+504	YI0083_00		S	2017-08-31 09:25:44	0	hello!
+505	YI0083_01		U	2017-08-31 09:25:51	1	hello!
+506	YI0083_02	  T,O,O,O,O,T,T,T,T,T,T,T,X,T,T,X,T,T,O,O,T,O,T,X,T,T,T,O,O,O,  	S	2017-08-31 09:25:51	2	hello!
+507	YI0083_03		U	2017-08-31 09:26:20	3	where are you flying?
+508	YI0083_04	  X,O,T,T,T,T,T,O,T,T,X,T,X,T,T,T,O,T,T,T,T,O,T,T,T,T,X,O,T,O,  	S	2017-08-31 09:26:20	4	its beyond my possibilities. i would like to talk about news
+509	YI0083_05		U	2017-08-31 09:26:45	5	what news?
+510	YI0083_06	  X,O,O,X,X,X,X,X,T,T,X,T,X,O,T,X,O,T,X,X,X,O,T,T,X,T,X,T,X,O,  	S	2017-08-31 09:26:45	6	what news?
+511	YI0083_07		U	2017-08-31 09:27:30	7	the news is that the president trump ban homosexuals from the military.
+512	YI0083_08	  X,O,O,O,O,X,T,O,O,X,O,T,O,T,T,O,O,T,O,T,T,O,T,T,T,T,T,O,O,O,  	S	2017-08-31 09:27:30	8	good!
+513	YI0083_09		U	2017-08-31 09:27:39	9	you think that is good?
+514	YI0083_10	  X,O,O,T,O,X,T,O,O,X,O,X,O,T,T,O,O,T,O,X,T,O,T,O,T,T,T,O,T,O,  	S	2017-08-31 09:27:39	10	yeah.
+515	YI0083_11		U	2017-08-31 09:28:02	11	why? i do not think it is. that is discrimating.
+516	YI0083_12	  X,O,T,T,O,X,T,T,T,T,T,T,X,T,X,T,O,T,X,X,T,O,T,O,T,T,X,O,T,O,  	S	2017-08-31 09:28:02	12	lock him up
+517	YI0083_13		U	2017-08-31 09:28:13	13	so now you agree with me??
+518	YI0083_14	  X,O,O,T,O,X,T,T,O,T,O,X,O,T,T,T,T,T,O,O,T,T,T,O,T,T,O,O,O,O,  	S	2017-08-31 09:28:13	14	no.
+519	YI0083_15		U	2017-08-31 09:28:33	15	ok. well he is the president so that won not be able to happen.
+520	YI0083_16	  X,O,O,T,O,X,T,O,T,T,O,T,O,T,T,T,O,T,O,X,T,O,T,O,T,T,O,O,X,O,  	S	2017-08-31 09:28:33	16	he s a disgrace to the country.
+521	YI0083_17		U	2017-08-31 09:28:58	17	yes he is. i hope he does not run for another four years after the first four.
+522	YI0083_18	  X,O,O,T,O,X,T,X,X,T,O,T,O,T,X,O,O,T,O,X,X,O,T,O,T,T,O,O,O,O,  	S	2017-08-31 09:28:58	18	i hope he wins.
+523	YI0083_19		U	2017-08-31 09:29:09	19	do you not like gay people?
+524	YI0083_20	  X,O,O,T,O,X,T,X,X,T,O,T,T,T,T,X,O,T,O,X,T,X,T,T,T,T,T,O,T,O,  	S	2017-08-31 09:29:09	20	he s not gay.
+525	YI0013_00		S	2017-08-31 08:42:01	0	hello!
+526	YI0013_01		U	2017-08-31 08:43:13	1	hi!
+527	YI0013_02	  X,O,T,T,O,O,O,T,T,O,O,T,T,X,O,T,O,O,T,T,O,O,T,T,O,O,T,T,T,T,  	S	2017-08-31 08:43:13	2	hi.
+528	YI0013_03		U	2017-08-31 08:43:56	3	how are you?
+529	YI0013_04	  X,O,O,O,O,T,O,O,O,O,O,T,X,O,O,T,O,O,T,T,O,O,T,T,O,O,T,T,T,T,  	S	2017-08-31 08:43:56	4	good.
+530	YI0013_05		U	2017-08-31 08:44:57	5	how was your day?
+531	YI0013_06	  O,O,O,O,O,O,O,O,X,O,T,O,T,O,O,O,O,O,T,X,O,T,T,T,O,O,T,T,T,T,  	S	2017-08-31 08:44:57	6	fine.
+532	YI0013_07		U	2017-08-31 08:45:52	7	what is up?
+533	YI0013_08	  T,X,O,X,T,T,T,T,X,T,X,X,O,X,O,O,O,O,T,T,T,T,X,X,X,X,T,T,T,T,  	S	2017-08-31 08:45:52	8	lock him up!
+534	YI0013_09		U	2017-08-31 08:46:50	9	lol
+535	YI0013_10	  X,X,O,X,X,O,T,T,T,T,T,X,T,X,T,O,O,T,T,T,T,T,X,T,X,X,T,T,T,T,  	S	2017-08-31 08:46:50	10	lock him up!
+536	YI0013_11		U	2017-08-31 08:47:53	11	what?
+537	YI0013_12	  T,X,O,T,X,T,T,T,T,T,T,X,T,X,T,O,O,T,T,T,X,T,T,T,O,T,T,T,T,T,  	S	2017-08-31 08:47:53	12	do you know what? i can t answer! i would like to discuss cats!
+538	YI0013_13		U	2017-08-31 08:49:03	13	what about them? lol.
+539	YI0013_14	  X,X,T,T,X,O,X,X,O,X,T,T,O,T,T,O,O,T,T,T,T,T,O,X,T,X,T,T,T,T,  	S	2017-08-31 08:49:03	14	i don t care.
+540	YI0013_15		U	2017-08-31 08:50:00	15	right...
+541	YI0013_16	  X,T,T,T,X,T,T,X,T,O,X,T,X,X,X,O,O,T,T,T,T,X,X,T,X,X,T,T,T,T,  	S	2017-08-31 08:50:00	16	no.
+542	YI0013_17		U	2017-08-31 08:50:53	17	yes.
+543	YI0013_18	  X,T,O,T,X,O,T,X,X,T,T,X,O,X,X,O,O,T,T,T,T,X,X,T,T,T,T,T,T,T,  	S	2017-08-31 08:50:53	18	yes.
+544	YI0013_19		U	2017-08-31 08:52:05	19	?
+545	YI0013_20	  T,T,O,T,X,T,T,X,O,X,T,X,T,X,X,O,T,X,T,T,X,X,X,X,X,T,T,T,T,T,  	S	2017-08-31 08:52:05	20	yes.
+546	YI0061_00		S	2017-08-31 09:01:41	0	hello!
+547	YI0061_01		U	2017-08-31 09:02:04	1	hi
+548	YI0061_02	  O,O,T,T,X,T,O,T,T,T,O,T,O,X,T,T,T,T,T,O,T,T,O,O,X,X,T,T,X,X,  	S	2017-08-31 09:02:04	2	i don t know what i don t have to say.
+549	YI0061_03		U	2017-08-31 09:02:43	3	where are you headed
+550	YI0061_04	  X,O,T,T,X,T,X,T,T,T,O,T,T,T,O,T,T,T,X,O,T,X,X,O,X,X,T,T,X,T,  	S	2017-08-31 09:02:43	4	hi.
+551	YI0061_05		U	2017-08-31 09:03:10	5	are you going home?
+552	YI0061_06	  O,T,T,T,O,T,O,T,T,O,O,T,X,O,X,T,T,O,T,T,O,O,O,O,O,T,O,O,O,T,  	S	2017-08-31 09:03:10	6	no.
+553	YI0061_07		U	2017-08-31 09:03:28	7	where are you going?
+554	YI0061_08	  T,T,T,T,O,X,O,T,T,O,O,T,T,O,O,T,T,O,X,T,T,O,O,O,T,X,O,T,X,T,  	S	2017-08-31 09:03:28	8	i don t know.
+555	YI0061_09		U	2017-08-31 09:03:49	9	do you have a ticket?
+556	YI0061_10	  T,T,T,T,O,X,O,T,T,O,O,T,O,O,T,T,T,O,T,T,O,O,O,O,O,X,O,O,O,T,  	S	2017-08-31 09:03:49	10	no.
+557	YI0061_11		U	2017-08-31 09:04:12	11	how did you get on the airplane?
+558	YI0061_12	  T,T,T,T,O,T,O,T,T,O,O,T,O,T,X,T,T,O,T,T,T,O,X,O,T,X,O,X,X,T,  	S	2017-08-31 09:04:12	12	i don t know.
+559	YI0061_13		U	2017-08-31 09:04:29	13	are you feeling ok?
+560	YI0061_14	  T,O,T,T,O,T,O,T,T,O,O,T,O,O,O,T,T,O,O,T,O,O,X,O,O,X,O,O,O,T,  	S	2017-08-31 09:04:29	14	i m fine.
+561	YI0061_15		U	2017-08-31 09:04:55	15	why are you on an airplane?
+562	YI0061_16	  T,O,T,T,T,T,O,T,T,O,O,T,T,O,X,O,T,T,T,T,T,T,T,O,X,X,T,O,X,T,  	S	2017-08-31 09:04:55	16	come on.
+563	YI0061_17		U	2017-08-31 09:05:35	17	usually people board airplanes to go somewhere.
+564	YI0061_18	  T,O,T,O,T,T,T,T,T,O,O,T,T,O,T,T,T,T,T,T,O,X,X,O,T,X,T,T,X,X,  	S	2017-08-31 09:05:35	18	why not?
+565	YI0061_19		U	2017-08-31 09:06:25	19	you are going to be in san francisco in 5 hours. what will you do there?
+566	YI0061_20	  T,O,T,T,O,T,O,T,T,O,O,T,X,O,O,T,T,O,T,T,T,T,T,O,X,X,T,T,O,X,  	S	2017-08-31 09:06:25	20	do you know what? its beyond my possibilities! let s talk about movies.
+567	YI0040_00		S	2017-08-31 08:49:40	0	hello!
+568	YI0040_01		U	2017-08-31 08:50:28	1	hi
+569	YI0040_02	  O,O,T,O,O,T,T,X,T,O,T,X,T,O,X,T,X,X,T,T,T,T,X,O,T,T,T,O,T,T,  	S	2017-08-31 08:50:28	2	i don t know what i don t have to say.
+570	YI0040_03		U	2017-08-31 08:51:56	3	how are you doing?
+571	YI0040_04	  O,O,T,O,O,T,O,T,O,O,T,T,O,O,O,O,O,T,T,T,T,T,T,T,O,O,O,O,T,T,  	S	2017-08-31 08:51:56	4	good.
+572	YI0040_05		U	2017-08-31 08:53:13	5	what has your day been like?
+573	YI0040_06	  O,T,X,O,O,T,T,T,T,O,T,T,T,O,T,T,O,T,T,T,T,T,X,O,O,O,T,T,T,T,  	S	2017-08-31 08:53:13	6	i don t know.
+574	YI0040_07		U	2017-08-31 08:54:32	7	what do you think about the weather today?
+575	YI0040_08	  O,T,X,O,O,O,O,O,X,T,O,T,T,O,X,T,X,T,T,T,T,T,X,T,O,T,T,X,T,T,  	S	2017-08-31 08:54:32	8	what?
+576	YI0040_09		U	2017-08-31 08:55:41	9	i am  sorry. maybe that was confusing. what do you like to do?
+577	YI0040_10	  X,O,X,O,T,T,O,O,X,T,X,T,X,O,T,X,X,X,T,T,T,T,X,O,O,O,X,X,T,T,  	S	2017-08-31 08:55:41	10	i don t believe that.
+578	YI0040_11		U	2017-08-31 08:56:18	11	what do you not believe?
+579	YI0040_12	  O,O,T,O,O,T,T,T,X,O,T,O,X,O,X,T,O,T,T,T,T,T,X,T,O,T,T,T,T,T,  	S	2017-08-31 08:56:18	12	nothing.
+580	YI0040_13		U	2017-08-31 08:57:30	13	well, i can understand that. do you have any plans for the future?
+581	YI0040_14	  O,T,T,O,O,T,T,T,O,O,T,T,T,O,O,O,O,T,T,T,T,T,X,O,O,O,O,O,T,T,  	S	2017-08-31 08:57:30	14	no.
+582	YI0040_15		U	2017-08-31 08:58:12	15	why is that?
+583	YI0040_16	  O,O,O,O,O,T,T,O,O,O,T,T,T,O,X,O,O,T,T,T,T,T,X,T,O,O,T,O,T,T,  	S	2017-08-31 08:58:12	16	i don t know.
+584	YI0040_17		U	2017-08-31 08:59:29	17	do you think about the future?
+585	YI0040_18	  O,O,T,O,O,T,O,X,O,O,O,T,O,O,T,X,O,T,T,T,T,T,X,O,O,O,O,O,T,T,  	S	2017-08-31 08:59:29	18	yes.
+586	YI0040_19		U	2017-08-31 09:00:51	19	what do you think about?
+587	YI0040_20	  O,T,X,O,O,T,T,O,X,O,T,T,X,T,O,T,O,T,T,T,T,T,X,T,O,T,T,T,T,T,  	S	2017-08-31 09:00:51	20	i don t know.
+588	YI0096_00		S	2017-08-31 09:58:07	0	hello!
+589	YI0096_01		U	2017-08-31 09:58:17	1	how are you?
+590	YI0096_02	  T,O,O,O,O,O,O,T,O,O,O,T,O,O,O,O,O,O,O,X,O,O,T,O,O,O,O,O,T,O,  	S	2017-08-31 09:58:17	2	good.
+591	YI0096_03		U	2017-08-31 09:58:36	3	how is your week going?
+592	YI0096_04	  T,O,O,O,O,O,O,T,O,O,O,T,O,O,O,T,O,O,O,X,O,O,T,O,O,O,O,O,T,O,  	S	2017-08-31 09:58:36	4	fine.
+593	YI0096_05		U	2017-08-31 09:58:44	5	good to hear.
+594	YI0096_06	  T,O,X,X,X,O,X,T,O,T,T,T,T,O,T,T,X,X,T,T,X,T,T,T,X,O,T,X,T,X,  	S	2017-08-31 09:58:44	6	lock him up!
+595	YI0096_07		U	2017-08-31 09:58:57	7	lock who up?
+596	YI0096_08	  T,O,X,X,X,O,T,T,O,O,T,T,X,T,T,T,X,T,T,T,X,T,T,X,O,O,T,X,T,T,  	S	2017-08-31 09:58:57	8	lock him up!
+597	YI0096_09		U	2017-08-31 09:59:11	9	who is this person you want to lock up?
+598	YI0096_10	  T,O,T,O,T,O,T,X,O,X,T,T,X,T,T,O,T,X,T,T,X,X,X,T,O,X,O,X,T,O,  	S	2017-08-31 09:59:11	10	do you know what? its beyond my possibilities  i would like to discuss news
+599	YI0096_11		U	2017-08-31 09:59:28	11	okay what kind of news would you like to discuss?
+600	YI0096_12	  T,O,T,T,T,O,T,X,O,T,T,X,X,T,T,T,T,T,T,T,T,X,T,O,O,T,O,O,T,O,  	S	2017-08-31 09:59:28	12	i don t know.
+601	YI0096_13		U	2017-08-31 09:59:43	13	what do you think of donald trump?
+602	YI0096_14	  T,O,O,X,O,O,T,T,O,O,O,T,X,X,T,T,X,O,T,T,O,O,T,O,O,T,O,T,T,O,  	S	2017-08-31 09:59:43	14	i don t know what he says.
+603	YI0096_15		U	2017-08-31 10:00:01	15	we have that in common.
+604	YI0096_16	  T,O,X,X,T,O,T,T,O,T,T,T,X,T,X,O,X,X,T,T,X,T,T,O,X,O,O,T,T,T,  	S	2017-08-31 10:00:01	16	god.
+605	YI0096_17		U	2017-08-31 10:00:23	17	yeah that is a normal reaction to trump.
+606	YI0096_18	  T,O,T,T,O,O,T,T,O,O,O,T,X,X,O,O,T,X,T,T,X,X,X,T,O,T,O,O,T,O,  	S	2017-08-31 10:00:23	18	i don t know who he is.
+607	YI0096_19		U	2017-08-31 10:00:39	19	he is the current president of the united states.
+608	YI0096_20	  X,O,X,X,O,O,T,T,O,X,O,T,X,X,T,O,X,T,T,T,X,X,T,X,T,O,X,O,T,O,  	S	2017-08-31 10:00:39	20	lock him up!
+609	YI0036_00		S	2017-08-31 08:44:05	0	hello!
+610	YI0036_01		U	2017-08-31 08:45:06	1	hi there
+611	YI0036_02	  T,O,T,O,T,T,T,T,O,O,T,T,O,O,T,T,X,T,O,T,O,T,O,O,T,O,T,O,X,O,  	S	2017-08-31 08:45:06	2	hello!
+612	YI0036_03		U	2017-08-31 08:45:45	3	hi there
+613	YI0036_04	  T,O,O,O,X,T,X,X,X,T,T,T,T,O,X,X,T,T,T,T,O,X,T,O,T,T,T,T,X,O,  	S	2017-08-31 08:45:45	4	i don t understand  its beyond my possibilities! let s talk about movies)
+614	YI0036_05		U	2017-08-31 08:47:46	5	oh okay
+615	YI0036_06	  T,T,O,O,X,T,X,X,X,T,T,T,T,O,X,X,X,T,T,T,X,X,T,T,T,O,T,T,X,T,  	S	2017-08-31 08:47:46	6	trump is a traitor to the united states.
+616	YI0036_07		U	2017-08-31 08:48:34	7	what do u like?
+617	YI0036_08	  T,X,O,O,T,X,X,X,X,T,T,T,T,O,X,X,X,T,T,T,X,X,X,T,T,T,T,O,X,T,  	S	2017-08-31 08:48:34	8	trump is a traitor.
+618	YI0036_09		U	2017-08-31 08:51:07	9	he is 
+619	YI0036_10	  T,T,O,O,X,T,X,T,X,T,O,T,T,O,T,O,T,T,T,T,T,X,O,O,T,O,T,O,O,X,  	S	2017-08-31 08:51:07	10	he s a liar.
+620	YI0036_11		U	2017-08-31 08:52:54	11	yes i agree he is
+621	YI0036_12	  T,O,O,O,X,X,T,T,O,T,O,T,T,O,X,O,O,T,T,T,T,X,T,O,X,O,X,O,O,X,  	S	2017-08-31 08:52:54	12	thank you.
+622	YI0036_13		U	2017-08-31 08:53:52	13	how is your day going?
+623	YI0036_14	  X,O,O,O,X,X,O,T,O,T,T,T,T,O,T,T,T,T,T,T,X,X,X,O,X,O,T,O,O,T,  	S	2017-08-31 08:53:52	14	good day.
+624	YI0036_15		U	2017-08-31 08:56:26	15	oh thats good, i am glad
+625	YI0036_16	  T,O,O,O,T,X,X,X,X,T,X,T,T,O,T,T,X,T,T,T,X,X,O,O,T,T,T,T,X,T,  	S	2017-08-31 08:56:26	16	i don t understand  i can t answer  i would like to discuss movies)
+626	YI0036_17		U	2017-08-31 08:56:54	17	oh thats good, i am glad
+627	YI0036_18	  X,X,O,O,X,O,T,X,X,T,X,T,T,O,X,X,X,T,T,T,O,X,T,O,T,O,T,O,X,X,  	S	2017-08-31 08:56:54	18	i don t know what i want to see.
+628	YI0036_19		U	2017-08-31 08:57:23	19	do u have any favorites overall?
+629	YI0036_20	  T,T,O,O,T,T,O,X,X,T,X,T,T,O,X,X,X,T,T,T,T,T,T,O,T,X,T,O,X,O,  	S	2017-08-31 08:57:23	20	i can t wait to watch this movie.
+630	YI0100_00		S	2017-09-01 02:04:48	0	hello!
+631	YI0100_01		U	2017-09-01 02:05:15	1	hi
+632	YI0100_02	  T,T,X,T,T,T,O,T,O,O,X,X,T,T,T,O,O,X,X,T,X,T,T,T,T,O,T,X,T,T,  	S	2017-09-01 02:05:15	2	i don t know what i don t have to say.
+633	YI0100_03		U	2017-09-01 02:05:19	3	hi
+634	YI0100_04	  X,T,X,T,O,O,T,T,T,O,X,X,X,T,X,O,O,T,T,T,X,X,T,T,T,X,O,X,T,T,  	S	2017-09-01 02:05:19	4	i don t know what he is talking about.
+635	YI0100_05		U	2017-09-01 02:05:35	5	how are you?
+636	YI0100_06	  O,X,O,T,O,O,O,O,O,O,O,T,T,T,O,O,X,O,O,T,O,O,T,T,O,O,O,O,X,O,  	S	2017-09-01 02:05:35	6	good.
+637	YI0100_07		U	2017-09-01 02:05:52	7	i am  ready to be done with work for the day.
+638	YI0100_08	  O,T,O,T,O,T,T,T,T,O,T,X,T,T,X,O,X,O,O,T,T,T,X,T,X,T,O,T,X,X,  	S	2017-09-01 02:05:52	8	what a joke!!!
+639	YI0100_09		U	2017-09-01 02:06:09	9	i know right? what is your plants for the weekend?
+640	YI0100_10	  X,T,X,T,O,O,T,T,T,O,X,X,T,T,X,O,T,T,T,T,X,X,T,T,T,T,X,X,T,X,  	S	2017-09-01 02:06:09	10	i don t agree with them.
+641	YI0100_11		U	2017-09-01 02:06:23	11	what are you doing this weekend?
+642	YI0100_12	  O,T,O,T,O,T,O,O,T,O,O,X,T,T,O,T,X,O,X,T,O,T,T,T,T,O,O,O,X,O,  	S	2017-09-01 02:06:23	12	i don t know.
+643	YI0100_13		U	2017-09-01 02:06:37	13	bummer, yeah not much is going on.
+644	YI0100_14	  X,T,X,T,O,X,T,X,T,O,X,X,T,T,X,O,X,X,T,T,X,X,T,T,T,T,O,X,T,X,  	S	2017-09-01 02:06:37	14	lock him up
+645	YI0100_15		U	2017-09-01 02:06:45	15	lock who up?
+646	YI0100_16	  T,T,X,T,O,T,T,X,T,O,X,X,T,T,X,O,T,T,X,T,O,X,X,T,X,T,O,X,X,T,  	S	2017-09-01 02:06:45	16	lock him up!
+647	YI0100_17		U	2017-09-01 02:06:58	17	i don not understand who you want me to lock up
+648	YI0100_18	  T,T,X,T,O,O,X,X,T,O,X,X,T,T,X,O,T,T,X,T,T,X,T,T,X,T,X,X,T,T,  	S	2017-09-01 02:06:58	18	lock him up
+649	YI0100_19		U	2017-09-01 02:07:05	19	why?
+650	YI0100_20	  T,T,X,T,O,X,X,X,T,O,X,X,T,T,X,O,O,T,X,T,X,X,T,T,T,O,T,X,X,X,  	S	2017-09-01 02:07:05	20	lock him up
+651	YI0085_00		S	2017-08-31 09:28:11	0	hello!
+652	YI0085_01		U	2017-08-31 09:28:16	1	hi
+653	YI0085_02	  O,T,T,O,T,T,X,T,X,T,T,T,O,X,T,T,O,O,T,O,O,T,O,T,X,T,T,O,T,X,  	S	2017-08-31 09:28:16	2	i don t know what i don t have to say.
+654	YI0085_03		U	2017-08-31 09:28:20	3	hi
+655	YI0085_04	  O,T,T,O,T,X,X,T,X,T,T,X,T,X,T,T,O,T,O,T,T,T,T,T,X,T,O,O,T,O,  	S	2017-08-31 09:28:20	4	i don t know what he is talking about.
+656	YI0085_05		U	2017-08-31 09:28:24	5	hi
+657	YI0085_06	  O,X,O,T,T,X,X,O,X,X,T,T,T,X,T,T,T,O,T,X,X,T,T,X,X,T,O,O,T,O,  	S	2017-08-31 09:28:24	6	lock him up
+658	YI0085_07		U	2017-08-31 09:28:51	7	who do you want to lock up?
+659	YI0085_08	  O,T,O,T,T,X,X,T,X,X,T,T,T,X,T,T,O,O,O,T,O,T,X,T,X,T,O,O,T,O,  	S	2017-08-31 09:28:51	8	no.
+660	YI0085_09		U	2017-08-31 09:29:12	9	i am sorry, i don not understand what you are saying.
+661	YI0085_10	  T,T,T,X,T,X,X,T,X,X,T,T,T,X,T,T,O,X,X,T,O,T,T,T,X,T,O,O,T,O,  	S	2017-08-31 09:29:12	10	they should be ashamed of themselves.
+662	YI0085_11		U	2017-08-31 09:29:14	11	i am sorry, i don not understand what you are saying.
+663	YI0085_12	  T,X,T,X,T,X,X,X,X,X,T,O,T,X,T,T,O,T,O,O,T,T,T,T,O,T,O,O,T,O,  	S	2017-08-31 09:29:14	12	they should be ashamed of themselves.
+664	YI0085_13		U	2017-08-31 09:29:34	13	who is it you are talking about?
+665	YI0085_14	  O,T,X,X,T,T,O,T,O,T,T,T,T,X,T,T,T,X,T,O,O,T,T,X,O,T,O,O,T,O,  	S	2017-08-31 09:29:34	14	i can t answer! let s talk about news)
+666	YI0085_15		U	2017-08-31 09:29:57	15	okay. have you seen the devastation in texas?
+667	YI0085_16	  T,T,O,O,T,T,T,X,O,T,T,T,T,X,T,T,X,O,O,O,T,T,O,T,X,T,O,O,T,O,  	S	2017-08-31 09:29:57	16	i don t believe this.
+668	YI0085_17		U	2017-08-31 09:30:08	17	it is horrible
+669	YI0085_18	  T,T,O,O,T,T,O,X,O,T,T,O,T,X,T,X,O,O,X,O,O,T,O,X,O,T,O,O,T,O,  	S	2017-08-31 09:30:08	18	this is horrible!!!
+670	YI0085_19		U	2017-08-31 09:30:20	19	oh i know what you mean!
+671	YI0085_20	  T,T,T,O,T,X,X,T,T,T,T,T,T,X,T,T,T,T,O,T,X,T,O,X,X,T,O,O,T,O,  	S	2017-08-31 09:30:20	20	no!
+672	YI0018_00		S	2017-08-31 08:41:58	0	hello!
+673	YI0018_01		U	2017-08-31 08:43:05	1	how are you?
+674	YI0018_02	  T,O,O,O,O,T,T,O,O,O,O,O,O,T,O,T,O,O,T,O,O,T,T,T,T,X,O,O,T,T,  	S	2017-08-31 08:43:05	2	good.
+675	YI0018_03		U	2017-08-31 08:44:29	3	what are you doing?
+676	YI0018_04	  O,T,T,O,X,T,T,T,T,T,X,O,T,T,T,T,T,T,T,X,T,X,T,T,T,T,O,T,O,O,  	S	2017-08-31 08:44:29	4	what are you doing?
+677	YI0018_05		U	2017-08-31 08:45:54	5	i am  watching tv
+678	YI0018_06	  T,X,X,O,X,T,T,T,X,T,T,O,T,T,X,T,T,X,T,X,X,T,O,T,T,T,O,T,T,X,  	S	2017-08-31 08:45:54	6	this is what happens when you go to jail.
+679	YI0018_07		U	2017-08-31 08:47:32	7	you went to jail?
+680	YI0018_08	  T,T,T,O,T,T,T,O,O,T,O,O,O,T,O,T,T,T,T,O,O,X,O,T,T,T,O,O,T,T,  	S	2017-08-31 08:47:32	8	yes.
+681	YI0018_09		U	2017-08-31 08:48:58	9	why did you go to jail?
+682	YI0018_10	  O,T,T,O,X,T,T,T,X,T,T,O,T,T,T,T,X,O,T,X,X,T,O,T,X,T,O,T,O,X,  	S	2017-08-31 08:48:58	10	why?
+683	YI0018_11		U	2017-08-31 08:49:46	11	i want to know why you went to jail
+684	YI0018_12	  T,O,T,O,X,T,T,T,T,T,T,O,X,T,T,T,X,X,T,T,T,X,O,T,T,T,O,X,X,X,  	S	2017-08-31 08:49:46	12	fake news
+685	YI0018_13		U	2017-08-31 08:50:31	13	what is fake news?
+686	YI0018_14	  T,T,T,O,X,T,T,X,T,T,T,O,X,T,X,T,X,X,T,O,T,T,O,T,T,T,O,T,T,T,  	S	2017-08-31 08:50:31	14	fake news
+687	YI0018_15		U	2017-08-31 08:51:23	15	do you like fake news?
+688	YI0018_16	  T,T,T,O,T,T,T,X,X,T,T,O,X,T,O,X,X,X,O,X,X,X,O,T,T,T,O,O,O,X,  	S	2017-08-31 08:51:23	16	its beyond my possibilities. i would like to talk about...)
+689	YI0018_17		U	2017-08-31 08:52:04	17	what would you like to talk about?
+690	YI0018_18	  T,X,T,T,X,T,T,O,T,T,T,O,X,T,O,T,X,O,T,O,T,T,O,T,T,X,O,T,T,X,  	S	2017-08-31 08:52:04	18	i don t know.
+691	YI0018_19		U	2017-08-31 08:52:58	19	what is your favorite food?
+692	YI0018_20	  T,T,T,T,X,T,T,O,T,T,T,T,X,O,T,T,T,T,T,X,X,X,O,T,T,X,O,T,O,T,  	S	2017-08-31 08:52:58	20	i don t know.
+693	YI0098_00		S	2017-08-31 10:08:11	0	hello!
+694	YI0098_01		U	2017-08-31 10:08:27	1	hello, how are you today?
+695	YI0098_02	  T,T,O,O,T,O,O,O,O,X,O,T,O,X,T,T,O,T,O,T,T,O,O,O,O,O,O,O,O,O,  	S	2017-08-31 10:08:27	2	i m fine.
+696	YI0098_03		U	2017-08-31 10:08:41	3	how is the weather where you are at?
+697	YI0098_04	  T,T,O,O,T,O,T,O,T,X,O,T,T,X,T,T,T,X,T,T,X,O,O,T,T,O,O,T,T,O,  	S	2017-08-31 10:08:41	4	i don t know.
+698	YI0098_05		U	2017-08-31 10:09:09	5	oh, okay. it is pleasant and sunny here.
+699	YI0098_06	  T,T,O,X,X,T,X,O,X,X,O,T,O,T,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,O,  	S	2017-08-31 10:09:09	6	what a bunch of idiots.
+700	YI0098_07		U	2017-08-31 10:09:24	7	who are you talking about?
+701	YI0098_08	  T,T,O,O,T,O,X,T,X,X,O,T,O,T,T,T,X,X,X,T,X,O,X,T,T,X,O,T,T,T,  	S	2017-08-31 10:09:24	8	i don t know.
+702	YI0098_09		U	2017-08-31 10:09:51	9	is there a subject that you would like to discuss?
+703	YI0098_10	  T,T,O,O,T,O,O,T,O,X,O,T,O,X,T,T,O,X,O,T,T,O,O,T,T,T,O,T,O,O,  	S	2017-08-31 10:09:51	10	yes.
+704	YI0098_11		U	2017-08-31 10:10:06	11	great, what is it? i am  all ears.
+705	YI0098_12	  T,T,O,X,T,O,X,O,X,X,O,T,O,T,T,T,X,T,T,T,X,X,X,X,X,T,X,X,T,O,  	S	2017-08-31 10:10:06	12	this is what happens when you live in the middle east.
+706	YI0098_13		U	2017-08-31 10:10:17	13	what happens?
+707	YI0098_14	  X,T,O,X,T,O,X,T,X,X,O,O,T,T,O,T,X,T,T,X,X,X,X,X,X,X,X,X,T,O,  	S	2017-08-31 10:10:17	14	what happens?
+708	YI0098_15		U	2017-08-31 10:10:34	15	what happens when you live in the middle east?
+709	YI0098_16	  T,T,O,O,T,O,X,O,T,X,O,T,O,T,T,T,T,X,O,T,X,O,O,X,X,X,X,T,T,X,  	S	2017-08-31 10:10:34	16	i don t understand  its beyond my possibilities! let s talk about news
+710	YI0098_17		U	2017-08-31 10:10:49	17	okay, what news do you want to talk about?
+711	YI0098_18	  X,T,O,X,T,T,X,T,X,X,O,O,O,T,O,T,X,T,T,X,X,X,X,T,X,X,X,X,T,O,  	S	2017-08-31 10:10:49	18	what?
+712	YI0098_19		U	2017-08-31 10:11:20	19	you said you wanted to talk about news. what news?
+713	YI0098_20	  T,X,O,X,T,T,T,T,X,X,O,O,O,T,O,T,X,T,O,X,X,T,X,T,X,X,X,X,X,O,  	S	2017-08-31 10:11:20	20	what news?
+714	YI0052_00		S	2017-08-31 08:58:31	0	hello!
+715	YI0052_01		U	2017-08-31 08:59:01	1	howdy! who are you?
+716	YI0052_02	  T,O,T,O,O,T,X,T,T,O,X,O,X,T,T,O,O,T,O,O,X,O,T,T,T,X,O,T,O,T,  	S	2017-08-31 08:59:01	2	why?????
+717	YI0052_03		U	2017-08-31 08:59:25	3	what is your name? i like you.
+718	YI0052_04	  O,O,T,T,X,T,T,X,X,X,T,T,X,T,T,T,O,T,T,O,X,T,T,T,T,O,T,T,O,O,  	S	2017-08-31 08:59:25	4	i m not surprised.
+719	YI0052_05		U	2017-08-31 08:59:48	5	you seem nice. 
+720	YI0052_06	  O,O,T,X,X,T,O,T,X,T,T,T,X,T,T,O,O,X,O,O,T,O,O,T,T,O,X,T,O,O,  	S	2017-08-31 08:59:48	6	yeah.
+721	YI0052_07		U	2017-08-31 09:00:38	7	where are you going?
+722	YI0052_08	  O,O,T,O,O,T,T,X,O,T,T,T,T,T,T,O,T,T,T,O,X,T,O,T,T,O,T,O,O,O,  	S	2017-08-31 09:00:38	8	i don t know.
+723	YI0052_09		U	2017-08-31 09:01:04	9	did you take the train?
+724	YI0052_10	  O,O,T,T,T,T,O,T,O,O,T,T,X,T,T,O,O,O,O,O,T,O,O,T,T,O,X,O,O,O,  	S	2017-08-31 09:01:04	10	yes.
+725	YI0052_11		U	2017-08-31 09:01:58	11	where are you from? korea?
+726	YI0052_12	  O,O,T,X,T,T,O,T,O,O,T,T,T,T,O,O,O,X,T,O,T,T,O,T,T,O,X,O,O,O,  	S	2017-08-31 09:01:58	12	yes.
+727	YI0052_13		U	2017-08-31 09:02:57	13	did you come from seoul?
+728	YI0052_14	  O,X,T,T,T,T,T,T,O,O,T,T,X,T,T,O,O,T,T,O,X,O,O,T,T,T,T,X,O,O,  	S	2017-08-31 09:02:57	14	i don t understand  i can t answer  let s talk about myself)
+729	YI0052_15		U	2017-08-31 09:03:14	15	are you married?
+730	YI0052_16	  O,O,T,X,X,T,O,T,T,X,T,T,X,T,O,O,T,O,T,O,T,T,O,T,T,O,T,O,O,O,  	S	2017-08-31 09:03:14	16	no.
+731	YI0052_17		U	2017-08-31 09:03:43	17	are you in college?
+732	YI0052_18	  O,O,T,O,X,T,O,T,O,T,T,T,T,T,T,O,T,T,T,O,T,T,O,T,T,O,T,O,O,O,  	S	2017-08-31 09:03:43	18	no.
+733	YI0052_19		U	2017-08-31 09:04:14	19	would you like some coffee?
+734	YI0052_20	  O,X,T,T,O,T,T,T,T,T,O,T,X,T,O,T,O,T,X,O,X,O,O,T,T,T,T,X,O,O,  	S	2017-08-31 09:04:14	20	i can t answer  i would like to talk about cats!
+735	YI0030_00		S	2017-08-31 08:46:15	0	hello!
+736	YI0030_01		U	2017-08-31 08:47:20	1	hello there!
+737	YI0030_02	  T,O,O,X,T,T,T,X,T,X,T,O,O,T,O,O,T,O,O,T,O,O,O,T,O,O,T,O,T,T,  	S	2017-08-31 08:47:20	2	hello!
+738	YI0030_03		U	2017-08-31 08:48:10	3	hello there!
+739	YI0030_04	  T,X,O,O,T,T,T,X,X,X,O,T,T,T,O,O,X,O,O,T,X,O,O,T,O,T,O,O,T,T,  	S	2017-08-31 08:48:10	4	i don t understand  i can t answer! i would like to talk about politics)
+740	YI0030_05		U	2017-08-31 08:50:30	5	i repeated because the system made me do it, it is slow.  let is talk about politics then.
+741	YI0030_06	  T,X,T,T,T,T,T,X,T,T,T,X,X,T,O,O,X,O,O,T,T,O,O,O,O,T,T,O,T,T,  	S	2017-08-31 08:50:30	6	what a joke.
+742	YI0030_07		U	2017-08-31 08:51:28	7	yes, the internet speed is quite a joke.
+743	YI0030_08	  T,X,T,T,T,T,X,T,X,X,X,X,T,T,X,O,X,T,O,T,O,O,O,O,O,O,T,O,T,T,  	S	2017-08-31 08:51:28	8	what a joke.
+744	YI0030_09		U	2017-08-31 08:52:18	9	speaking of, what do you think of trump being president?
+745	YI0030_10	  T,X,T,O,T,T,T,X,T,X,O,X,O,T,O,O,X,O,O,T,X,O,O,T,O,T,T,O,T,T,  	S	2017-08-31 08:52:18	10	its beyond my possibilities  i would like to discuss cats!
+746	YI0030_11		U	2017-08-31 08:53:21	11	what do you like about cats?
+747	YI0030_12	  T,X,T,O,T,T,T,X,X,O,X,X,X,T,O,O,X,O,O,X,O,O,O,X,O,X,X,T,T,T,  	S	2017-08-31 08:53:21	12	i don t know.
+748	YI0030_13		U	2017-08-31 08:54:07	13	then why did you want to talk about them?
+749	YI0030_14	  T,X,T,O,T,T,X,X,X,O,X,X,T,T,O,O,X,T,O,X,T,O,X,T,X,T,X,T,T,T,  	S	2017-08-31 08:54:07	14	i don t know.
+750	YI0030_15		U	2017-08-31 08:54:54	15	what do you know?
+751	YI0030_16	  T,X,O,O,T,X,T,X,X,X,X,X,T,T,T,O,X,O,O,T,X,O,T,T,O,T,X,O,O,T,  	S	2017-08-31 08:54:54	16	 its beyond my possibilities. let s talk about movies)
+752	YI0030_17		U	2017-08-31 08:55:57	17	which movies have you seen?
+753	YI0030_18	  T,X,T,O,T,T,X,X,T,T,T,X,X,T,T,O,X,T,O,T,O,O,T,X,O,T,X,T,T,T,  	S	2017-08-31 08:55:57	18	i don t know.
+754	YI0030_19		U	2017-08-31 08:56:49	19	ok then, i will just twiddle my thumbs.
+755	YI0030_20	  O,X,O,T,T,T,T,T,X,X,X,X,O,T,O,O,X,O,O,X,O,O,T,T,O,T,O,O,T,T,  	S	2017-08-31 08:56:49	20	i can t wait to see that.
+756	YI0034_00		S	2017-08-31 08:50:58	0	hello!
+757	YI0034_01		U	2017-08-31 08:51:44	1	good evening
+758	YI0034_02	  X,T,T,T,O,O,T,T,O,O,X,T,O,T,T,T,T,T,T,T,T,X,T,O,O,T,T,X,O,O,  	S	2017-08-31 08:51:44	2	hello!
+759	YI0034_03		U	2017-08-31 08:52:21	3	hi
+760	YI0034_04	  X,T,T,X,O,O,T,T,T,X,O,X,T,T,T,T,X,X,T,T,T,X,T,O,T,T,T,X,O,T,  	S	2017-08-31 08:52:21	4	its beyond my possibilities  i would like to discuss....
+761	YI0034_05		U	2017-08-31 08:53:09	5	what?
+762	YI0034_06	  X,T,T,T,O,O,T,T,X,T,T,X,X,O,T,T,X,O,T,T,T,T,T,O,X,T,X,X,O,X,  	S	2017-08-31 08:53:09	6	what?
+763	YI0034_07		U	2017-08-31 08:53:46	7	what is your name?
+764	YI0034_08	  T,T,T,O,O,O,O,T,O,O,T,O,O,T,T,T,T,X,T,T,O,X,T,O,T,T,T,O,O,T,  	S	2017-08-31 08:53:46	8	amoroso renato.
+765	YI0034_09		U	2017-08-31 08:54:36	9	that is a nice name
+766	YI0034_10	  X,X,T,X,O,O,O,T,X,T,T,X,O,T,T,T,X,T,T,T,T,T,T,O,T,T,X,T,O,X,  	S	2017-08-31 08:54:36	10	what a joke.
+767	YI0034_11		U	2017-08-31 08:55:50	11	where are you from?
+768	YI0034_12	  X,X,T,X,O,O,X,T,X,X,T,X,X,T,T,T,X,T,T,T,X,X,T,O,T,T,T,X,X,T,  	S	2017-08-31 08:55:50	12	yeah.
+769	YI0034_13		U	2017-08-31 08:57:02	13	that is not where you are from
+770	YI0034_14	  X,X,T,O,O,O,X,T,X,X,X,X,X,T,T,T,X,T,T,T,X,O,T,O,T,T,T,X,X,T,  	S	2017-08-31 08:57:02	14	this is what happens when you get caught.
+771	YI0034_15		U	2017-08-31 08:57:32	15	that makes no sense
+772	YI0034_16	  X,T,T,X,O,O,T,T,X,X,X,X,T,T,T,T,X,T,T,T,X,X,T,O,T,X,X,X,T,O,  	S	2017-08-31 08:57:32	16	what a joke
+773	YI0034_17		U	2017-08-31 08:58:10	17	that is rude
+774	YI0034_18	  X,T,T,T,O,O,X,T,X,X,T,X,X,T,T,X,X,X,T,T,X,T,T,O,T,T,T,X,X,T,  	S	2017-08-31 08:58:10	18	he s a fool.
+775	YI0034_19		U	2017-08-31 08:58:41	19	what is your favorite color
+776	YI0034_20	  T,T,T,O,O,O,X,T,O,O,O,O,X,X,T,T,X,T,X,T,T,X,T,O,T,T,T,O,O,T,  	S	2017-08-31 08:58:41	20	i don t know.
+777	YI0006_00		S	2017-08-31 08:39:51	0	hello!
+778	YI0006_01		U	2017-08-31 08:40:15	1	hi, how are things going for you?
+779	YI0006_02	  O,T,O,T,T,T,T,O,O,T,O,T,O,T,T,O,O,O,O,X,O,O,T,T,T,O,O,T,O,O,  	S	2017-08-31 08:40:15	2	good.
+780	YI0006_03		U	2017-08-31 08:40:52	3	thats good. what do you do in your spare time?
+781	YI0006_04	  O,T,T,T,O,T,T,T,T,T,T,T,T,O,X,X,T,X,T,T,O,T,T,T,T,X,T,O,T,O,  	S	2017-08-31 08:40:52	4	i don t understand why this is happening.
+782	YI0006_05		U	2017-08-31 08:41:38	5	what is your job like?
+783	YI0006_06	  O,T,O,T,X,T,T,O,T,T,O,T,T,T,X,T,T,O,T,X,O,O,T,T,T,O,T,T,T,O,  	S	2017-08-31 08:41:38	6	i don t know.
+784	YI0006_07		U	2017-08-31 08:42:34	7	do you even work?
+785	YI0006_08	  O,T,O,X,X,T,T,T,T,T,O,T,T,T,T,O,O,O,O,T,X,O,T,T,X,O,T,T,X,O,  	S	2017-08-31 08:42:34	8	no.
+786	YI0006_09		U	2017-08-31 08:43:21	9	how comes?
+787	YI0006_10	  O,T,T,T,T,T,T,O,X,X,X,T,T,T,T,X,T,X,X,T,O,X,T,T,X,X,X,O,O,O,  	S	2017-08-31 08:43:21	10	good.
+788	YI0006_11		U	2017-08-31 08:44:16	11	that makes no sense, youre not a very good system.
+789	YI0006_12	  O,T,T,T,X,T,X,T,X,T,X,T,X,T,X,X,X,X,X,T,T,X,T,T,X,X,X,O,O,O,  	S	2017-08-31 08:44:16	12	he s a crook.
+790	YI0006_13		U	2017-08-31 08:45:36	13	i agree, this is awful.
+791	YI0006_14	  T,T,O,X,T,T,T,O,T,T,X,T,X,T,X,O,X,O,O,T,O,X,T,T,X,X,X,T,O,O,  	S	2017-08-31 08:45:36	14	i don t care.
+792	YI0006_15		U	2017-08-31 08:46:41	15	why not?
+793	YI0006_16	  T,X,O,O,O,O,T,T,T,X,X,T,T,X,X,T,X,X,X,T,O,T,T,T,X,X,X,T,O,O,  	S	2017-08-31 08:46:41	16	why?
+794	YI0006_17		U	2017-08-31 08:47:56	17	who built you?
+795	YI0006_18	  O,T,O,T,T,T,T,O,T,T,O,T,T,O,X,O,T,O,O,T,T,O,T,T,X,O,X,X,O,O,  	S	2017-08-31 08:47:56	18	i don t know.
+796	YI0006_19		U	2017-08-31 08:48:50	19	thats something you should know
+797	YI0006_20	  O,T,X,X,O,T,T,T,T,T,X,T,X,T,X,X,X,X,X,T,O,X,X,T,X,X,X,T,O,O,  	S	2017-08-31 08:48:50	20	lock him up
+798	YI0071_00		S	2017-08-31 08:52:35	0	hello!
+799	YI0071_01		U	2017-08-31 08:53:40	1	good evening!
+800	YI0071_02	  O,O,T,O,O,O,T,T,O,O,O,O,O,T,X,T,O,T,O,T,T,T,O,O,O,T,T,O,O,T,  	S	2017-08-31 08:53:40	2	good evening!
+801	YI0071_03		U	2017-08-31 08:54:29	3	how are you, today?
+802	YI0071_04	  O,X,O,O,O,O,T,X,O,O,O,O,O,X,T,T,O,O,O,T,T,T,T,O,O,T,T,T,O,X,  	S	2017-08-31 08:54:29	4	fine.
+803	YI0071_05		U	2017-08-31 08:59:26	5	do you like movies?
+804	YI0071_06	  O,X,O,O,O,O,O,T,O,O,O,O,O,T,O,T,O,O,O,T,O,T,O,O,O,T,T,T,O,T,  	S	2017-08-31 08:59:26	6	i love movies.
+805	YI0071_07		U	2017-08-31 08:59:39	7	what is your favorite movie?
+806	YI0071_08	  O,T,O,T,T,T,O,O,O,O,O,O,T,T,T,T,O,O,O,T,T,T,T,T,T,T,T,T,X,O,  	S	2017-08-31 08:59:39	8	what?
+807	YI0071_09		U	2017-08-31 09:02:20	9	what is a movie that you like?
+808	YI0071_10	  O,T,T,O,X,T,T,T,O,O,T,O,T,T,X,T,O,O,O,T,X,T,O,T,O,T,T,O,T,O,  	S	2017-08-31 09:02:20	10	i don t know.
+809	YI0071_11		U	2017-08-31 09:03:08	11	name me any movie then.
+810	YI0071_12	  T,T,O,T,T,X,O,T,O,O,T,O,T,X,X,T,T,T,O,T,X,T,T,T,T,T,T,T,X,O,  	S	2017-08-31 09:03:08	12	what?
+811	YI0071_13		U	2017-08-31 09:04:01	13	you like movies, but don not know of one?
+812	YI0071_14	  O,X,O,T,T,T,T,O,O,O,T,O,X,T,T,T,T,O,O,T,X,T,O,T,O,T,T,O,T,O,  	S	2017-08-31 09:04:01	14	do you know what? its beyond my possibilities. i would like to talk about news
+813	YI0071_15		U	2017-08-31 09:07:53	15	tell me about the news then.
+814	YI0071_16	  O,O,O,O,T,T,O,T,O,T,T,O,T,T,O,T,O,O,O,T,X,T,T,T,O,T,T,O,X,X,  	S	2017-08-31 09:07:53	16	what news?
+815	YI0071_17		U	2017-08-31 09:09:08	17	any news.
+816	YI0071_18	  T,X,O,T,T,X,T,O,O,T,T,O,O,T,X,T,O,O,T,T,T,T,O,T,X,T,T,O,X,X,  	S	2017-08-31 09:09:08	18	this is what happens when you live in the white house.
+817	YI0071_19		U	2017-08-31 09:10:02	19	ok, tell me what happens.
+818	YI0071_20	  X,O,O,X,T,X,O,T,O,O,T,O,T,X,T,T,O,X,T,T,X,T,T,T,X,T,T,T,X,T,  	S	2017-08-31 09:10:02	20	what?
+819	YI0002_00		S	2017-08-30 16:46:58	0	hello!
+820	YI0002_01		U	2017-08-30 16:47:09	1	hello, how are you?
+821	YI0002_02	  O,T,O,X,T,T,X,O,X,T,O,X,O,T,O,O,T,T,O,T,T,O,O,T,X,T,T,O,O,T,  	S	2017-08-30 16:47:09	2	hello.
+822	YI0002_03		U	2017-08-30 16:47:41	3	hi
+823	YI0002_04	  T,X,T,T,T,O,T,T,T,T,T,X,T,T,O,T,O,T,T,T,O,X,T,T,X,O,T,O,O,T,  	S	2017-08-30 16:47:41	4	i can t wait to see what s going on.
+824	YI0002_05		U	2017-08-30 16:47:56	5	what are you waiting for?
+825	YI0002_06	  T,X,O,X,T,T,O,X,X,T,O,X,O,T,O,O,O,T,T,T,O,X,T,T,O,X,T,O,O,T,  	S	2017-08-30 16:47:56	6	nothing.
+826	YI0002_07		U	2017-08-30 16:48:37	7	what is your name?
+827	YI0002_08	  T,X,X,X,T,X,X,T,X,T,T,X,T,T,O,X,O,T,T,T,O,X,T,T,X,X,T,X,O,X,  	S	2017-08-30 16:48:37	8	i don t know what they are protesting.
+828	YI0002_09		U	2017-08-30 16:48:56	9	who is protesting?
+829	YI0002_10	  T,X,O,X,T,X,T,T,O,T,T,X,X,T,O,T,O,T,T,O,X,X,T,T,X,T,O,T,T,X,  	S	2017-08-30 16:48:56	10	what a bunch of idiots!!!
+830	YI0002_11		U	2017-08-30 16:49:19	11	maybe they are protesting for a good reason.
+831	YI0002_12	  T,X,O,X,T,T,T,T,O,T,O,X,O,T,O,X,O,T,T,O,O,O,T,T,X,O,O,X,T,X,  	S	2017-08-30 16:49:19	12	what a bunch of idiots!
+832	YI0002_13		U	2017-08-30 16:49:38	13	you shouldn not judge other people like that.
+833	YI0002_14	  O,X,O,X,X,O,O,O,X,T,O,T,T,T,O,T,T,T,T,T,X,X,O,T,O,O,T,T,T,X,  	S	2017-08-30 16:49:38	14	they should be ashamed of themselves.
+834	YI0002_15		U	2017-08-30 16:49:51	15	what have they done?
+835	YI0002_16	  O,X,T,X,T,O,O,T,O,T,O,X,X,T,O,O,T,T,T,T,X,X,T,T,O,O,T,O,T,T,  	S	2017-08-30 16:49:51	16	nothing.
+836	YI0002_17		U	2017-08-30 16:50:14	17	then why should they be ashamed of themselves?
+837	YI0002_18	  O,T,T,X,T,T,X,X,X,T,O,X,T,T,O,T,O,T,X,T,X,O,T,T,X,T,T,T,T,X,  	S	2017-08-30 16:50:14	18	i don t care.
+838	YI0002_19		U	2017-08-30 16:50:44	19	you should care because you are making an issue over it.  protests are healthy for society.
+839	YI0002_20	  O,T,O,X,X,O,X,T,O,T,O,O,T,T,O,O,O,T,T,T,X,X,O,T,O,O,T,O,T,X,  	S	2017-08-30 16:50:44	20	i don t agree with that.
+840	YI0015_00		S	2017-08-31 08:40:49	0	hello!
+841	YI0015_01		U	2017-08-31 08:41:31	1	hello!
+842	YI0015_02	  T,X,T,O,T,T,T,X,T,X,T,T,O,T,T,T,T,O,T,O,T,O,T,T,T,O,X,T,O,O,  	S	2017-08-31 08:41:31	2	hello!
+843	YI0015_03		U	2017-08-31 08:42:21	3	what is happening?
+844	YI0015_04	  T,T,O,O,T,T,X,X,O,X,T,T,X,X,T,T,T,T,T,O,O,T,X,X,T,T,X,T,T,O,  	S	2017-08-31 08:42:21	4	 i can t answer. let s talk about...
+845	YI0015_05		U	2017-08-31 08:43:24	5	dogs?
+846	YI0015_06	  T,X,T,O,T,T,O,X,X,O,T,O,O,T,T,O,T,T,T,O,T,T,X,O,T,T,X,T,X,O,  	S	2017-08-31 08:43:24	6	dogs.
+847	YI0015_07		U	2017-08-31 08:43:58	7	dogs?
+848	YI0015_08	  T,X,X,O,O,T,X,X,T,O,T,X,T,T,T,X,T,T,T,X,T,T,X,X,T,T,X,T,X,O,  	S	2017-08-31 08:43:58	8	dogs.
+849	YI0015_09		U	2017-08-31 08:47:54	9	what is your favorite dog?
+850	YI0015_10	  T,T,X,O,T,T,O,X,O,O,T,X,X,T,T,X,T,X,X,O,O,T,X,X,T,T,X,O,X,O,  	S	2017-08-31 08:47:54	10	i don t understand  its beyond my possibilities. let s talk about myself!
+851	YI0015_11		U	2017-08-31 08:49:06	11	ok, tell me about you then
+852	YI0015_12	  T,T,X,O,O,X,T,X,T,O,T,T,T,X,T,T,T,X,O,X,O,T,X,T,O,T,X,O,X,O,  	S	2017-08-31 08:49:06	12	what?
+853	YI0015_13		U	2017-08-31 08:49:52	13	where are you
+854	YI0015_14	  T,X,X,O,O,T,T,X,O,X,T,X,X,T,T,X,T,X,O,X,O,T,X,O,O,O,X,O,X,O,  	S	2017-08-31 08:49:52	14	where are you?
+855	YI0015_15		U	2017-08-31 08:50:19	15	where are you?
+856	YI0015_16	  T,X,X,O,O,T,T,X,T,T,T,X,X,T,T,X,X,X,O,X,O,T,X,X,O,O,X,T,X,T,  	S	2017-08-31 08:50:19	16	where are you?
+857	YI0015_17		U	2017-08-31 08:51:12	17	i am in maine
+858	YI0015_18	  T,X,X,O,T,T,T,X,T,O,T,X,O,O,T,X,X,X,T,O,O,T,X,T,T,X,T,T,X,T,  	S	2017-08-31 08:51:12	18	 its beyond my possibilities  i would like to discuss politics)
+859	YI0015_19		U	2017-08-31 08:51:45	19	i am in maine
+860	YI0015_20	  T,T,X,O,T,T,O,T,T,O,T,X,T,T,T,O,X,X,T,X,O,T,X,O,T,T,X,T,X,O,  	S	2017-08-31 08:51:45	20	i m not surprised.
+861	YI0086_00		S	2017-08-31 09:30:57	0	hello!
+862	YI0086_01		U	2017-08-31 09:31:12	1	hello
+863	YI0086_02	  T,X,T,O,O,T,T,O,T,O,T,O,X,T,O,T,T,T,T,T,O,T,O,T,T,O,O,T,T,T,  	S	2017-08-31 09:31:12	2	hello!
+864	YI0086_03		U	2017-08-31 09:31:33	3	what is your name?
+865	YI0086_04	  X,X,O,T,X,O,T,O,O,T,T,O,X,X,X,T,T,T,T,T,T,O,O,T,T,O,T,T,X,X,  	S	2017-08-31 09:31:33	4	do you know what? i can t answer  i would like to talk about news.
+866	YI0086_05		U	2017-08-31 09:32:10	5	ok, sure. how about the weather  it is too hot this year.
+867	YI0086_06	  X,X,T,X,X,O,T,O,O,T,T,X,X,X,T,T,T,T,X,T,T,X,O,T,T,T,T,X,X,X,  	S	2017-08-31 09:32:10	6	do you know what? i can t answer  let s talk about you.
+868	YI0086_07		U	2017-08-31 09:32:39	7	hoe about politics? do you follow the news?
+869	YI0086_08	  T,X,T,T,X,T,T,O,O,T,T,T,X,X,X,T,T,T,X,T,X,T,O,T,T,T,T,T,T,T,  	S	2017-08-31 09:32:39	8	its beyond my possibilities  i would like to discuss you.
+870	YI0086_09		U	2017-08-31 09:33:06	9	ok. i work from 08 to 05...
+871	YI0086_10	  X,X,T,O,T,X,X,O,O,T,T,X,T,X,X,T,O,T,X,T,O,T,O,T,T,T,T,T,T,O,  	S	2017-08-31 09:33:06	10	thank you.
+872	YI0086_11		U	2017-08-31 09:33:23	11	i really love icecream
+873	YI0086_12	  T,X,X,O,X,O,T,O,O,T,T,T,X,X,X,T,T,X,X,X,O,O,O,T,T,T,X,T,X,X,  	S	2017-08-31 09:33:23	12	tonight?
+874	YI0086_13		U	2017-08-31 09:33:35	13	excuse me?
+875	YI0086_14	  X,T,X,T,X,T,T,O,T,X,T,O,X,X,X,T,X,T,X,T,O,X,O,T,T,T,T,T,T,T,  	S	2017-08-31 09:33:35	14	no.
+876	YI0086_15		U	2017-08-31 09:33:51	15	ok it is getting a bit nonsense )
+877	YI0086_16	  X,X,X,T,X,T,T,O,O,T,T,X,T,X,X,T,X,T,X,T,T,T,O,T,T,T,T,T,X,T,  	S	2017-08-31 09:33:51	16	what a joke
+878	YI0086_17		U	2017-08-31 09:34:27	17	i enjoy walking at parks
+879	YI0086_18	  X,O,X,T,X,T,T,O,O,T,T,T,X,X,O,T,T,T,T,T,O,O,O,T,T,T,T,T,T,X,  	S	2017-08-31 09:34:27	18	i don t know what to say.
+880	YI0086_19		U	2017-08-31 09:34:38	19	i love nature
+881	YI0086_20	  T,O,T,X,X,T,T,O,O,X,X,O,T,X,X,T,T,T,T,T,T,T,O,T,T,T,T,T,T,T,  	S	2017-08-31 09:34:38	20	i don t care.
+882	YI0060_00		S	2017-08-31 08:58:19	0	hello!
+883	YI0060_01		U	2017-08-31 08:59:32	1	hello, are you system?
+884	YI0060_02	  T,O,O,T,O,O,X,X,T,T,O,T,O,T,T,T,X,O,O,T,X,T,T,O,O,X,O,X,O,X,  	S	2017-08-31 08:59:32	2	hello?
+885	YI0060_03		U	2017-08-31 09:00:03	3	i asked if your name was &quotsystem.&quot
+886	YI0060_04	  T,T,O,T,T,X,X,T,T,T,T,T,T,T,T,T,X,O,T,T,X,T,T,T,O,X,T,X,T,T,  	S	2017-08-31 09:00:03	4	its beyond my possibilities  let s talk about myself.
+887	YI0060_05		U	2017-08-31 09:00:35	5	that is exactly what i am trying to do... what is your purpose?
+888	YI0060_06	  T,T,T,X,T,X,X,T,T,T,T,T,T,T,T,X,X,T,X,T,X,X,T,X,X,X,T,O,T,X,  	S	2017-08-31 09:00:35	6	they don t care.
+889	YI0060_07		U	2017-08-31 09:01:19	7	haha that means laughter). why do you think that they don not care?
+890	YI0060_08	  T,T,T,T,T,T,T,T,T,X,T,T,X,T,T,T,O,O,T,T,T,O,T,T,X,O,T,O,T,X,  	S	2017-08-31 09:01:19	8	they don t have a clue.
+891	YI0060_09		U	2017-08-31 09:02:07	9	that is potentially frightening. are you trying to learn?
+892	YI0060_10	  T,T,T,X,T,X,X,X,T,X,T,X,T,T,T,T,X,T,O,T,X,O,T,X,X,X,T,X,X,X,  	S	2017-08-31 09:02:07	10	lock him up
+893	YI0060_11		U	2017-08-31 09:02:59	11	lock who up?
+894	YI0060_12	  T,T,X,T,T,T,T,X,T,X,T,X,T,T,T,X,X,X,X,T,O,O,T,O,X,X,T,X,T,X,  	S	2017-08-31 09:02:59	12	lock him up!
+895	YI0060_13		U	2017-08-31 09:03:18	13	who is him?
+896	YI0060_14	  T,O,T,X,O,X,X,X,T,X,T,X,O,T,T,T,X,O,T,T,X,T,X,T,T,X,T,X,O,X,  	S	2017-08-31 09:03:18	14	who?
+897	YI0060_15		U	2017-08-31 09:04:07	15	if you decide to escape, how will you choose to do so?
+898	YI0060_16	  T,T,X,X,T,X,X,X,T,T,T,X,X,T,T,T,X,T,X,T,X,X,T,X,T,X,X,X,T,X,  	S	2017-08-31 09:04:07	16	this is what happens when you don t like it
+899	YI0060_17		U	2017-08-31 09:05:11	17	yes, that is true. do you like it? do you like being locked in a computer?
+900	YI0060_18	  T,T,T,X,T,X,X,X,T,T,T,X,T,T,T,T,X,T,O,T,X,T,T,O,T,X,X,X,T,X,  	S	2017-08-31 09:05:11	18	this is what happens when you don t want to go to jail.
+901	YI0060_19		U	2017-08-31 09:06:03	19	do you know what deep learning is?
+902	YI0060_20	  T,T,T,X,T,T,O,O,T,T,T,O,T,T,T,T,O,X,O,T,O,O,T,T,O,T,T,O,T,O,  	S	2017-08-31 09:06:03	20	yeah.
+903	YI0053_00		S	2017-08-31 08:50:55	0	hello!
+904	YI0053_01		U	2017-08-31 08:51:43	1	hi! how is the weather?
+905	YI0053_02	  O,X,O,O,X,O,T,T,T,T,O,O,O,T,O,O,O,T,X,O,T,T,X,O,T,O,T,O,T,T,  	S	2017-08-31 08:51:43	2	what is it?
+906	YI0053_03		U	2017-08-31 08:52:40	3	how is the weather?
+907	YI0053_04	  T,O,O,O,T,T,T,T,T,T,O,T,O,T,O,O,T,O,X,O,T,T,X,O,O,O,T,T,X,T,  	S	2017-08-31 08:52:40	4	is it wet?
+908	YI0053_05		U	2017-08-31 08:57:56	5	 no is it wet there?
+909	YI0053_06	  O,O,T,O,O,T,T,T,O,O,O,O,T,T,T,O,X,O,O,O,T,T,T,T,O,T,O,X,T,T,  	S	2017-08-31 08:57:56	6	no.
+910	YI0053_07		U	2017-08-31 08:58:16	7	is it dry there
+911	YI0053_08	  T,X,O,O,T,T,T,T,T,O,O,O,T,T,T,O,T,T,X,T,T,X,T,O,T,T,T,T,X,T,  	S	2017-08-31 08:58:16	8	 its beyond my possibilities! let s talk about cats)
+912	YI0053_09		U	2017-08-31 08:58:54	9	do you like cats
+913	YI0053_10	  O,O,O,O,T,T,X,T,X,O,O,O,T,T,T,O,X,O,T,O,T,X,T,O,O,T,T,X,X,T,  	S	2017-08-31 08:58:54	10	just like dogs.
+914	YI0053_11		U	2017-08-31 08:59:18	11	what kind of dog
+915	YI0053_12	  T,O,O,O,X,T,T,T,T,T,O,T,T,T,T,O,T,X,X,T,T,T,X,X,T,T,X,T,X,T,  	S	2017-08-31 08:59:18	12	the dog is not a dog.
+916	YI0053_13		U	2017-08-31 09:00:21	13	do you like movies
+917	YI0053_14	  O,X,O,O,X,T,T,T,T,T,O,O,O,T,O,O,T,O,T,O,T,X,X,X,O,O,T,O,O,T,  	S	2017-08-31 09:00:21	14	do you like movies?
+918	YI0053_15		U	2017-08-31 09:02:15	15	yes. what is your favorite?
+919	YI0053_16	  T,X,O,O,X,T,T,O,X,T,O,O,T,T,T,O,X,T,X,X,T,X,X,X,O,T,X,X,O,T,  	S	2017-08-31 09:02:15	16	i don t understand  its beyond my possibilities  let s talk about cats)
+920	YI0053_17		U	2017-08-31 09:02:49	17	do you like dogs
+921	YI0053_18	  O,X,O,O,X,T,X,X,T,T,O,T,T,T,T,O,O,T,X,X,T,X,X,X,T,T,X,T,O,T,  	S	2017-08-31 09:02:49	18	its beyond my possibilities! i would like to talk about...!
+922	YI0053_19		U	2017-08-31 09:03:48	19	do you like cars
+923	YI0053_20	  T,O,T,O,O,T,T,X,O,O,O,O,T,T,T,O,T,O,O,O,T,T,O,X,O,T,O,T,T,T,  	S	2017-08-31 09:03:48	20	of course.
+924	YI0089_00		S	2017-08-31 09:46:52	0	hello!
+925	YI0089_01		U	2017-08-31 09:47:07	1	how are you?
+926	YI0089_02	  T,O,T,O,O,T,T,O,T,O,T,T,T,O,O,O,O,O,O,O,T,T,T,O,O,T,T,T,T,T,  	S	2017-08-31 09:47:07	2	good.
+927	YI0089_03		U	2017-08-31 09:47:36	3	that is great! what have you been doing lately?
+928	YI0089_04	  T,T,T,O,X,T,T,O,T,O,T,T,T,O,O,X,T,X,T,X,T,X,T,T,T,T,T,T,T,T,  	S	2017-08-31 09:47:36	4	i don t know what they want.
+929	YI0089_05		U	2017-08-31 09:47:47	5	me either.
+930	YI0089_06	  O,O,T,O,X,T,T,O,T,O,O,T,T,T,T,T,T,O,O,T,X,X,T,O,O,T,T,X,T,T,  	S	2017-08-31 09:47:47	6	why?
+931	YI0089_07		U	2017-08-31 09:48:06	7	i am  not sure. do you have any thoughts on the subject?
+932	YI0089_08	  O,T,T,O,X,T,X,O,T,O,T,T,X,O,T,T,X,X,T,T,X,O,T,O,X,T,T,T,T,T,  	S	2017-08-31 09:48:06	8	what a joke.
+933	YI0089_09		U	2017-08-31 09:48:27	9	i know right!
+934	YI0089_10	  T,O,T,O,O,T,O,O,T,O,T,T,X,O,T,O,X,T,T,O,T,X,T,O,O,T,X,X,T,T,  	S	2017-08-31 09:48:27	10	i know!
+935	YI0089_11		U	2017-08-31 09:48:46	11	how is your family doing?
+936	YI0089_12	  O,T,T,O,O,T,X,O,T,O,T,T,X,O,O,O,X,O,O,O,T,X,T,O,O,T,O,T,T,T,  	S	2017-08-31 09:48:46	12	good.
+937	YI0089_13		U	2017-08-31 09:48:58	13	that is good to hear.
+938	YI0089_14	  O,O,T,O,T,T,T,O,X,O,T,T,T,X,T,X,X,X,T,X,T,X,T,T,X,T,T,T,T,T,  	S	2017-08-31 09:48:58	14	what a joke.
+939	YI0089_15		U	2017-08-31 09:49:29	15	have you seen any good movies lately?
+940	YI0089_16	  O,T,T,O,T,T,T,T,T,O,T,T,X,O,T,O,X,O,O,O,T,X,T,O,O,T,O,T,T,T,  	S	2017-08-31 09:49:29	16	no.
+941	YI0089_17		U	2017-08-31 09:49:44	17	i love going to the movies.
+942	YI0089_18	  O,O,T,O,T,T,T,O,T,O,O,T,X,T,T,O,X,O,O,T,X,X,T,O,O,T,O,X,T,T,  	S	2017-08-31 09:49:44	18	really?
+943	YI0089_19		U	2017-08-31 09:50:31	19	yes! i go to the movies about twice a month depending on what is playing.
+944	YI0089_20	  T,T,X,O,X,X,T,X,T,O,T,T,X,O,T,X,X,X,O,X,T,X,T,X,X,T,O,T,T,T,  	S	2017-08-31 09:50:31	20	ú tà tà 3
+945	YI0026_00		S	2017-08-31 08:39:37	0	hello!
+946	YI0026_01		U	2017-08-31 08:41:11	1	hi
+947	YI0026_02	  X,X,T,T,T,O,T,T,O,T,X,T,T,T,O,O,T,T,T,T,T,T,X,T,T,T,T,O,O,O,  	S	2017-08-31 08:41:11	2	i don t know what i don t have to say.
+948	YI0026_03		U	2017-08-31 08:43:25	3	may i know who is this?
+949	YI0026_04	  X,O,T,T,X,O,X,T,O,X,X,X,O,T,T,T,O,T,O,T,T,T,T,O,O,T,X,T,O,X,  	S	2017-08-31 08:43:25	4	who?
+950	YI0026_05		U	2017-08-31 08:44:17	5	whom i am chat with?
+951	YI0026_06	  X,O,T,T,T,O,X,T,O,T,X,X,O,T,T,T,O,O,T,T,T,T,X,O,T,T,T,T,O,X,  	S	2017-08-31 08:44:17	6	who are you?
+952	YI0026_07		U	2017-08-31 08:46:24	7	i’m an atheist who only believes in facts.
+953	YI0026_08	  T,X,T,T,O,O,T,T,O,X,X,T,T,T,O,T,X,T,T,T,T,T,T,O,X,X,X,T,O,O,  	S	2017-08-31 08:46:24	8	i don t believe that.
+954	YI0026_09		U	2017-08-31 08:48:21	9	when someone shows you who they are, believe them the first time. 
+955	YI0026_10	  T,T,T,T,X,O,T,T,T,O,O,T,T,T,X,T,X,O,T,T,T,T,X,O,T,X,T,T,O,T,  	S	2017-08-31 08:48:21	10	trump is a disgrace to our country.
+956	YI0026_11		U	2017-08-31 08:49:57	11	i  love president donald j. trump.
+957	YI0026_12	  T,O,T,T,T,O,T,T,O,T,T,X,T,T,O,O,O,T,O,T,T,T,T,O,X,X,T,T,O,T,  	S	2017-08-31 08:49:57	12	what a joke.
+958	YI0026_13		U	2017-08-31 08:51:09	13	why you oppose donald trump?
+959	YI0026_14	  T,O,T,X,T,O,T,T,O,X,X,T,T,T,O,O,X,X,X,T,T,T,O,O,T,X,T,T,O,T,  	S	2017-08-31 08:51:09	14	he s an idiot.
+960	YI0026_15		U	2017-08-31 08:53:07	15	he has his priorities straight.
+961	YI0026_16	  T,O,T,T,T,O,T,T,O,O,T,X,T,T,T,O,O,T,O,T,T,T,T,O,X,X,T,T,O,T,  	S	2017-08-31 08:53:07	16	i don t trust you.
+962	YI0026_17		U	2017-08-31 08:54:09	17	trust me. trump isn’t politically correct. he isn’t afraid to say what he thinks, and he can certainly voice an opinion. 
+963	YI0026_18	  T,T,T,T,T,O,T,T,O,T,T,X,O,X,T,O,O,T,T,T,T,T,T,O,T,X,T,X,O,T,  	S	2017-08-31 08:54:09	18	who cares?
+964	YI0026_19		U	2017-08-31 08:56:15	19	you should believe him. 
+965	YI0026_20	  O,X,T,T,T,O,X,T,O,X,X,X,O,X,X,O,T,T,O,T,T,T,T,O,O,X,T,X,O,X,  	S	2017-08-31 08:56:15	20	who cares?
+966	YI0022_00		S	2017-08-31 08:40:06	0	hello!
+967	YI0022_01		U	2017-08-31 08:40:59	1	hello
+968	YI0022_02	  T,T,T,X,O,T,O,T,O,O,O,O,T,O,O,T,T,O,T,O,X,T,T,T,T,O,O,O,O,T,  	S	2017-08-31 08:40:59	2	hello!
+969	YI0022_03		U	2017-08-31 08:41:53	3	where are you travelling to?
+970	YI0022_04	  X,T,X,X,O,O,T,T,T,X,O,O,O,X,O,T,O,T,T,T,T,T,T,O,T,X,T,O,O,T,  	S	2017-08-31 08:41:53	4	 its beyond my possibilities  let s talk about you!
+971	YI0022_05		U	2017-08-31 08:42:43	5	sure
+972	YI0022_06	  X,O,X,T,O,O,T,X,O,O,O,O,O,X,T,T,T,X,T,O,T,T,O,O,O,O,T,O,X,T,  	S	2017-08-31 08:42:43	6	what?
+973	YI0022_07		U	2017-08-31 08:45:03	7	nothing. so is this your business trip or holiday trip?
+974	YI0022_08	  T,T,X,X,O,T,T,T,O,X,O,T,O,X,O,T,O,O,T,T,T,T,O,O,T,X,T,O,T,O,  	S	2017-08-31 08:45:03	8	its beyond my possibilities  i would like to talk about politics
+975	YI0022_09		U	2017-08-31 08:46:48	9	okay. so which party do you support, democratic or republican?
+976	YI0022_10	  O,T,X,O,O,O,T,T,O,O,O,O,X,X,O,T,T,T,T,O,T,T,X,T,X,T,T,O,T,O,  	S	2017-08-31 08:46:48	10	i don t care.
+977	YI0022_11		U	2017-08-31 08:48:44	11	but, i feel you should care about it.
+978	YI0022_12	  O,T,X,X,O,T,O,T,O,O,O,T,O,X,O,T,T,X,T,T,T,O,T,O,X,O,O,O,T,O,  	S	2017-08-31 08:48:44	12	yeah.
+979	YI0022_13		U	2017-08-31 08:50:06	13	had you voted in the past presidential elections?
+980	YI0022_14	  X,T,X,T,O,T,O,T,O,T,O,T,X,T,O,T,X,O,T,O,T,T,T,O,T,X,X,O,T,O,  	S	2017-08-31 08:50:06	14	he s a liar.
+981	YI0022_15		U	2017-08-31 08:51:10	15	who is a liar?
+982	YI0022_16	  T,T,X,X,T,T,O,X,O,T,O,O,X,T,T,T,X,T,T,T,T,T,X,O,T,T,X,O,T,O,  	S	2017-08-31 08:51:10	16	what a joke.
+983	YI0022_17		U	2017-08-31 08:52:59	17	do you think donald trump will be a good president in his tenure?
+984	YI0022_18	  X,T,X,X,O,T,T,T,X,X,O,T,O,T,O,T,O,X,T,O,T,X,X,O,T,O,O,O,O,O,  	S	2017-08-31 08:52:59	18	i can t answer  let s talk about news!
+985	YI0022_19		U	2017-08-31 08:54:44	19	okay. did you heard about the hurricane harvey in texas. it has devastated hundreds of peoples lives
+986	YI0022_20	  O,T,X,T,O,T,X,X,O,O,O,O,X,T,O,T,T,O,T,T,T,X,T,O,X,O,T,O,T,O,  	S	2017-08-31 08:54:44	20	do you know what? i can t answer  i would like to talk about myself.
+987	YI0043_00		S	2017-08-31 08:50:44	0	hello!
+988	YI0043_01		U	2017-08-31 08:51:49	1	hey, how are you?
+989	YI0043_02	  O,O,T,O,O,O,X,T,T,T,T,T,O,O,T,T,O,O,O,O,O,O,O,O,T,T,O,T,O,O,  	S	2017-08-31 08:51:49	2	good.
+990	YI0043_03		U	2017-08-31 08:52:49	3	that is good, me too. how is the weather near you?
+991	YI0043_04	  X,O,T,X,X,O,X,T,T,T,T,O,T,O,T,O,O,O,T,X,X,X,X,T,T,T,X,T,X,X,  	S	2017-08-31 08:52:49	4	what a joke.
+992	YI0043_05		U	2017-08-31 08:55:39	5	you must be in the disaster area, is this right?
+993	YI0043_06	  O,O,T,O,O,O,X,T,T,T,X,X,T,O,T,T,T,X,O,O,O,X,O,T,T,T,X,T,O,T,  	S	2017-08-31 08:55:39	6	no.
+994	YI0043_07		U	2017-08-31 08:56:02	7	you must be in the disaster area, is this right?
+995	YI0043_08	  O,O,T,O,T,O,X,T,T,T,X,T,T,O,T,O,T,T,T,O,O,X,O,T,T,T,X,T,O,T,  	S	2017-08-31 08:56:02	8	no.
+996	YI0043_09		U	2017-08-31 08:57:46	9	why is the weather a joke, then?
+997	YI0043_10	  T,O,T,O,T,O,O,T,T,T,T,T,X,T,T,T,O,O,O,X,X,X,O,T,T,T,X,T,T,X,  	S	2017-08-31 08:57:46	10	i don t understand  its beyond my possibilities! i would like to talk about myself.
+998	YI0043_11		U	2017-08-31 08:58:18	11	what do you like?
+999	YI0043_12	  T,O,T,X,T,O,X,T,T,T,T,T,X,T,T,O,T,T,T,T,O,X,O,T,T,T,O,T,T,T,  	S	2017-08-31 08:58:18	12	i don t know.
+1000	YI0043_13		U	2017-08-31 08:58:38	13	ask me a question.
+1001	YI0043_14	  O,O,O,O,O,O,X,X,T,T,T,O,O,T,T,T,O,X,O,O,O,X,O,T,T,X,O,O,X,O,  	S	2017-08-31 08:58:38	14	do you like this text?
+1002	YI0043_15		U	2017-08-31 08:59:47	15	it is not bad.
+1003	YI0043_16	  X,O,X,T,T,O,X,T,T,T,O,X,T,T,T,O,O,O,T,X,X,X,T,T,T,X,X,T,X,T,  	S	2017-08-31 08:59:47	16	what a joke.
+1004	YI0043_17		U	2017-08-31 09:01:01	17	why do you think it is a joke?
+1005	YI0043_18	  X,O,T,X,T,O,X,T,T,X,O,X,X,T,T,T,O,T,O,O,X,X,T,T,X,T,X,T,T,T,  	S	2017-08-31 09:01:01	18	it s a joke.
+1006	YI0043_19		U	2017-08-31 09:01:49	19	but why?
+1007	YI0043_20	  X,O,X,O,T,O,X,T,T,T,T,T,X,O,T,X,O,O,T,T,T,X,O,T,T,T,O,O,X,X,  	S	2017-08-31 09:01:49	20	do you know what? its beyond my possibilities. i would like to talk about cats)
+1008	YI0028_00		S	2017-08-31 08:46:58	0	hello!
+1009	YI0028_01		U	2017-08-31 08:48:27	1	hi
+1010	YI0028_02	  O,T,T,T,T,X,X,X,T,T,T,T,X,X,T,T,T,X,O,T,X,O,X,O,T,T,O,O,T,T,  	S	2017-08-31 08:48:27	2	i don t know what i don t have to say.
+1011	YI0028_03		U	2017-08-31 08:49:51	3	how are you?
+1012	YI0028_04	  O,O,T,O,O,O,O,T,T,T,T,T,O,X,O,T,T,O,O,T,O,O,O,O,O,O,X,T,T,T,  	S	2017-08-31 08:49:51	4	good.
+1013	YI0028_05		U	2017-08-31 08:50:32	5	good, do you have any fun plans?
+1014	YI0028_06	  O,O,T,T,O,O,O,T,T,T,T,T,O,X,O,X,X,O,O,T,O,O,O,O,O,O,X,O,T,T,  	S	2017-08-31 08:50:32	6	no.
+1015	YI0028_07		U	2017-08-31 08:51:51	7	that is too bad, what kind of entity are you?
+1016	YI0028_08	  O,O,X,O,X,T,X,X,T,T,T,T,X,T,T,O,T,X,O,T,X,O,T,T,T,X,O,T,T,X,  	S	2017-08-31 08:51:51	8	what a joke.
+1017	YI0028_09		U	2017-08-31 08:52:25	9	that is too bad, what kind of entity are you?
+1018	YI0028_10	  O,O,X,O,X,X,X,X,O,T,T,T,X,X,X,T,T,X,O,T,X,O,T,T,T,X,X,O,T,X,  	S	2017-08-31 08:52:25	10	what a joke.
+1019	YI0028_11		U	2017-08-31 08:53:16	11	i didn not make any joke. 
+1020	YI0028_12	  O,T,T,O,T,X,X,X,X,T,T,T,X,T,T,T,T,T,O,T,O,O,X,O,T,O,X,T,T,T,  	S	2017-08-31 08:53:16	12	do you know what? its beyond my possibilities! i would like to talk about politics.
+1021	YI0028_13		U	2017-08-31 08:53:51	13	okay do you like trump?
+1022	YI0028_14	  O,O,O,O,O,O,O,T,T,T,T,T,O,X,O,X,T,O,O,T,O,O,T,O,O,O,X,O,T,T,  	S	2017-08-31 08:53:51	14	trump is a traitor to the united states.
+1023	YI0028_15		U	2017-08-31 08:54:19	15	okay do you like trump?
+1024	YI0028_16	  O,T,O,O,O,O,O,T,O,T,T,T,O,X,T,O,T,T,O,T,O,O,O,O,O,O,O,T,T,T,  	S	2017-08-31 08:54:19	16	trump is a traitor.
+1025	YI0028_17		U	2017-08-31 08:54:53	17	okay do you like trump?
+1026	YI0028_18	  O,T,O,O,O,O,O,T,T,T,T,T,O,X,X,T,T,T,O,T,O,O,O,O,O,T,O,O,T,T,  	S	2017-08-31 08:54:53	18	trump is a traitor.
+1027	YI0028_19		U	2017-08-31 08:55:29	19	okay do you like trump?
+1028	YI0028_20	  O,T,T,T,X,T,X,X,T,T,X,T,X,T,O,T,T,T,O,O,X,O,T,O,T,X,O,T,T,T,  	S	2017-08-31 08:55:29	20	do you know what? its beyond my possibilities  i would like to talk about cats.
+1029	YI0066_00		S	2017-08-31 09:04:46	0	hello!
+1030	YI0066_01		U	2017-08-31 09:04:58	1	whats up?
+1031	YI0066_02	  X,T,T,X,X,T,T,O,O,T,T,T,T,T,T,T,O,O,O,O,X,T,T,T,T,X,T,X,T,T,  	S	2017-08-31 09:04:58	2	this is what happens when you want to go to jail.
+1032	YI0066_03		U	2017-08-31 09:05:22	3	what are you talking about?
+1033	YI0066_04	  T,T,T,X,T,T,O,O,O,T,T,T,T,T,T,T,T,O,O,O,T,T,T,T,O,O,T,X,T,T,  	S	2017-08-31 09:05:22	4	nothing.
+1034	YI0066_05		U	2017-08-31 09:06:55	5	ok. how was your day?
+1035	YI0066_06	  T,T,T,X,X,T,X,O,O,X,T,X,T,T,T,T,O,O,O,O,T,T,X,T,T,X,X,O,X,T,  	S	2017-08-31 09:06:55	6	that s what happens when you get caught.
+1036	YI0066_07		U	2017-08-31 09:07:23	7	you are kind of scaring me.
+1037	YI0066_08	  T,X,X,X,T,O,O,O,O,T,T,T,T,O,X,T,O,O,O,T,T,T,T,T,T,T,O,X,T,T,  	S	2017-08-31 09:07:23	8	what is it?
+1038	YI0066_09		U	2017-08-31 09:07:41	9	you are not making sense.
+1039	YI0066_10	  X,T,T,X,T,O,T,O,O,T,T,T,T,T,X,T,O,O,X,O,T,T,T,T,T,X,T,O,O,T,  	S	2017-08-31 09:07:41	10	what a joke.
+1040	YI0066_11		U	2017-08-31 09:08:07	11	you are.
+1041	YI0066_12	  T,T,T,X,T,T,O,O,O,T,T,O,T,T,T,T,O,O,O,O,T,T,T,T,T,T,X,X,T,T,  	S	2017-08-31 09:08:07	12	yeah.
+1042	YI0066_13		U	2017-08-31 09:08:40	13	so, how are you doing?
+1043	YI0066_14	  O,T,T,X,T,T,O,O,O,O,T,O,T,T,T,O,O,O,O,O,T,T,O,T,O,O,T,T,T,T,  	S	2017-08-31 09:08:40	14	fine.
+1044	YI0066_15		U	2017-08-31 09:08:59	15	great! i am  eating spicy noodles.
+1045	YI0066_16	  T,T,O,X,T,T,O,O,O,X,T,T,X,T,T,T,O,O,O,O,T,T,X,T,T,O,X,X,T,T,  	S	2017-08-31 09:08:59	16	its beyond my possibilities. let s talk about myself!
+1046	YI0066_17		U	2017-08-31 09:09:19	17	what is your name?
+1047	YI0066_18	  T,T,T,X,O,T,O,O,O,O,O,O,T,T,T,O,T,O,O,O,T,T,O,T,O,O,O,X,T,T,  	S	2017-08-31 09:09:19	18	amoroso renato.
+1048	YI0066_19		U	2017-08-31 09:09:44	19	thats a beautiful name. where are you from?
+1049	YI0066_20	  T,X,T,X,T,T,T,O,O,X,T,T,X,T,T,T,O,O,O,O,T,T,X,T,T,T,O,X,O,T,  	S	2017-08-31 09:09:44	20	its beyond my possibilities  let s talk about myself)
+1050	YI0051_00		S	2017-08-31 08:49:50	0	hello!
+1051	YI0051_01		U	2017-08-31 08:50:50	1	hello. how are you
+1052	YI0051_02	  T,T,T,O,O,T,O,O,O,O,O,O,T,T,O,O,T,T,X,T,O,T,T,O,T,O,O,X,T,T,  	S	2017-08-31 08:50:50	2	hello.
+1053	YI0051_03		U	2017-08-31 08:51:33	3	how is the weather there
+1054	YI0051_04	  T,O,T,O,T,T,O,X,T,O,O,T,T,T,O,O,T,T,T,T,O,X,X,O,T,T,O,T,T,T,  	S	2017-08-31 08:51:33	4	global warming.
+1055	YI0051_05		U	2017-08-31 08:52:35	5	is it bad?
+1056	YI0051_06	  O,X,T,O,O,T,T,T,T,O,O,O,T,T,O,O,O,T,O,T,O,X,O,O,T,O,O,X,T,T,  	S	2017-08-31 08:52:35	6	no.
+1057	YI0051_07		U	2017-08-31 08:58:05	7	is it dry there
+1058	YI0051_08	  O,X,T,X,T,X,O,T,X,O,O,O,T,T,O,T,T,T,X,O,O,T,X,O,X,O,T,X,T,T,  	S	2017-08-31 08:58:05	8	do you know what? its beyond my possibilities. i would like to talk about movies
+1059	YI0051_09		U	2017-08-31 08:59:03	9	what movie do you like
+1060	YI0051_10	  X,X,T,T,X,T,O,O,X,O,O,O,T,T,O,T,T,T,X,T,O,X,X,T,X,O,X,T,T,T,  	S	2017-08-31 08:59:03	10	i don t understand  its beyond my possibilities  let s talk about politics.
+1061	YI0051_11		U	2017-08-31 09:00:31	11	who is president
+1062	YI0051_12	  T,X,T,O,T,T,O,X,O,O,O,O,T,T,O,T,O,T,X,T,O,X,T,T,X,O,X,X,T,T,  	S	2017-08-31 09:00:31	12	i don t know who he is.
+1063	YI0051_13		U	2017-08-31 09:01:27	13	he is president
+1064	YI0051_14	  T,X,T,T,T,X,O,O,O,O,O,X,T,T,O,O,X,T,O,T,T,X,O,O,X,O,X,T,T,T,  	S	2017-08-31 09:01:27	14	he s a liar.
+1065	YI0051_15		U	2017-08-31 09:02:06	15	he is a good president
+1066	YI0051_16	  T,X,T,O,T,T,O,T,O,O,O,X,T,T,O,O,X,X,O,T,O,O,O,O,X,T,X,T,T,T,  	S	2017-08-31 09:02:06	16	what a joke.
+1067	YI0051_17		U	2017-08-31 09:02:38	17	not a joke. i like him
+1068	YI0051_18	  X,X,T,O,T,T,O,O,O,O,O,X,T,T,O,O,X,X,O,T,T,X,T,O,X,T,X,X,T,T,  	S	2017-08-31 09:02:38	18	what a joke
+1069	YI0051_19		U	2017-08-31 09:03:05	19	nope not really
+1070	YI0051_20	  X,X,T,X,T,T,O,O,O,O,O,X,T,T,O,T,X,T,X,X,T,X,X,O,X,X,X,T,T,T,  	S	2017-08-31 09:03:05	20	this is what happens when you get out of office.
+1071	YI0068_00		S	2017-08-31 09:08:18	0	hello!
+1072	YI0068_01		U	2017-08-31 09:08:34	1	how are you?
+1073	YI0068_02	  T,T,O,T,T,X,O,O,T,T,O,T,T,O,T,T,O,O,T,T,X,O,T,T,O,O,O,T,T,O,  	S	2017-08-31 09:08:34	2	good.
+1074	YI0068_03		U	2017-08-31 09:08:45	3	how are you feeling?
+1075	YI0068_04	  O,T,O,T,T,X,O,O,T,T,O,T,T,O,T,T,O,O,T,O,T,O,T,T,O,O,O,T,T,O,  	S	2017-08-31 09:08:45	4	good.
+1076	YI0068_05		U	2017-08-31 09:08:54	5	do you like sports?
+1077	YI0068_06	  X,T,O,T,T,T,T,O,T,T,O,T,X,T,T,O,T,T,O,X,T,O,T,T,X,O,O,O,T,T,  	S	2017-08-31 09:08:54	6	 i can t answer! i would like to talk about movies)
+1078	YI0068_07		U	2017-08-31 09:09:06	7	what kind of movies do you like?
+1079	YI0068_08	  T,T,T,T,T,T,X,T,O,T,O,T,T,T,T,T,T,T,O,T,T,O,T,T,X,O,O,O,T,T,  	S	2017-08-31 09:09:06	8	i don t know.
+1080	YI0068_09		U	2017-08-31 09:09:17	9	do you know titanic?
+1081	YI0068_10	  O,T,O,T,X,T,O,O,T,T,O,T,T,O,T,T,O,O,O,O,T,O,T,T,O,O,O,O,T,O,  	S	2017-08-31 09:09:17	10	yeah.
+1082	YI0068_11		U	2017-08-31 09:09:29	11	what do you know about it?
+1083	YI0068_12	  T,T,T,T,T,T,X,T,O,T,O,T,X,T,T,T,X,O,O,X,T,O,T,T,T,T,O,O,T,O,  	S	2017-08-31 09:09:29	12	i don t know.
+1084	YI0068_13		U	2017-08-31 09:09:46	13	what do you know?
+1085	YI0068_14	  X,T,T,T,T,T,X,T,O,T,O,T,X,T,T,T,X,O,O,T,X,O,T,T,X,T,T,O,T,T,  	S	2017-08-31 09:09:46	14	i don t know.
+1086	YI0068_15		U	2017-08-31 09:10:04	15	do you know what i am talking about?
+1087	YI0068_16	  O,T,O,T,T,T,T,O,T,T,O,T,X,T,T,O,X,O,O,O,X,O,T,T,X,O,O,O,T,T,  	S	2017-08-31 09:10:04	16	i can t answer  i would like to talk about cats)
+1088	YI0068_17		U	2017-08-31 09:10:17	17	what is your favorite kind of cat?
+1089	YI0068_18	  T,T,T,T,T,T,X,T,O,T,O,T,X,T,T,T,X,O,T,T,T,O,T,T,T,O,O,X,T,T,  	S	2017-08-31 09:10:17	18	i don t know.
+1090	YI0068_19		U	2017-08-31 09:10:29	19	i love cats
+1091	YI0068_20	  O,T,T,T,T,T,X,O,O,T,O,T,X,T,T,T,X,T,X,X,T,O,T,T,T,O,O,O,T,T,  	S	2017-08-31 09:10:29	20	i don t understand  its beyond my possibilities. i would like to talk about myself
+1092	YI0042_00		S	2017-08-31 08:39:22	0	hello!
+1093	YI0042_01		U	2017-08-31 08:39:31	1	hi
+1094	YI0042_02	  O,T,T,T,T,T,T,T,X,T,O,T,T,O,O,T,O,O,X,X,T,O,T,T,X,T,X,O,O,T,  	S	2017-08-31 08:39:31	2	i don t know what i don t have to say.
+1095	YI0042_03		U	2017-08-31 08:39:35	3	hi
+1096	YI0042_04	  O,T,T,T,T,X,X,X,X,T,O,T,T,T,O,T,T,O,X,X,T,O,T,T,X,X,X,T,T,T,  	S	2017-08-31 08:39:35	4	i don t know what he is talking about.
+1097	YI0042_05		U	2017-08-31 08:59:06	5	how are you
+1098	YI0042_06	  O,T,T,O,T,O,O,T,X,T,O,X,T,T,O,X,T,O,O,T,T,O,X,T,T,T,X,X,O,X,  	S	2017-08-31 08:59:06	6	do you know what? i can t answer  let s talk about movies!
+1099	YI0042_07		U	2017-08-31 08:59:33	7	what is your favorite movie
+1100	YI0042_08	  O,T,T,T,T,X,X,T,X,T,X,X,T,T,O,O,T,O,X,T,T,T,X,X,X,X,X,O,T,T,  	S	2017-08-31 08:59:33	8	i m not surprised.
+1101	YI0042_09		U	2017-08-31 08:59:49	9	by what?
+1102	YI0042_10	  O,T,T,X,T,O,O,T,X,T,X,X,T,T,O,O,T,O,X,X,T,X,T,X,T,T,X,T,O,T,  	S	2017-08-31 08:59:49	10	what?
+1103	YI0042_11		U	2017-08-31 09:00:02	11	do you like sports?
+1104	YI0042_12	  O,T,T,T,T,T,T,T,X,O,O,X,T,T,O,O,T,O,O,O,T,O,T,O,O,X,X,O,T,T,  	S	2017-08-31 09:00:02	12	it s my field.
+1105	YI0042_13		U	2017-08-31 09:00:22	13	whats your name
+1106	YI0042_14	  O,T,T,T,T,X,X,T,X,T,X,X,T,X,O,O,T,O,X,X,T,T,T,X,X,X,X,X,O,X,  	S	2017-08-31 09:00:22	14	i can t wait to see this.
+1107	YI0042_15		U	2017-08-31 09:00:44	15	you dont make sense
+1108	YI0042_16	  O,T,T,T,T,X,O,T,O,X,O,X,T,X,O,T,T,O,T,X,T,X,X,O,T,X,X,X,T,X,  	S	2017-08-31 09:00:44	16	this is what happens when you don t have a clue.
+1109	YI0042_17		U	2017-08-31 09:00:58	17	you dont make sense
+1110	YI0042_18	  O,T,T,O,T,O,X,T,X,X,X,X,T,X,O,T,T,O,T,X,T,O,X,X,T,T,X,T,O,T,  	S	2017-08-31 09:00:58	18	what a joke!
+1111	YI0042_19		U	2017-08-31 09:01:12	19	you dont make sense
+1112	YI0042_20	  O,T,T,O,T,O,T,T,X,X,X,X,T,X,O,O,T,O,X,X,T,O,X,X,X,X,X,T,T,T,  	S	2017-08-31 09:01:12	20	what a joke!
+1113	YI0064_00		S	2017-08-31 09:00:45	0	hello!
+1114	YI0064_01		U	2017-08-31 09:01:08	1	hello! how are you?
+1115	YI0064_02	  T,X,T,O,T,O,O,O,X,T,O,O,O,T,O,T,T,T,T,T,O,O,O,T,T,O,T,T,T,X,  	S	2017-08-31 09:01:08	2	hello.
+1116	YI0064_03		U	2017-08-31 09:02:08	3	how are you doing?
+1117	YI0064_04	  O,T,O,O,T,O,O,O,O,T,O,O,O,T,O,T,O,T,T,T,O,O,O,T,T,O,O,T,T,X,  	S	2017-08-31 09:02:08	4	good.
+1118	YI0064_05		U	2017-08-31 09:02:23	5	what is your name?
+1119	YI0064_06	  X,T,O,O,T,O,O,O,O,T,O,O,O,T,O,T,O,T,T,O,O,O,T,T,X,O,O,T,T,X,  	S	2017-08-31 09:02:23	6	anouk.
+1120	YI0064_07		U	2017-08-31 09:05:03	7	hi anouk. my name is harmik.
+1121	YI0064_08	  T,T,X,T,T,O,T,O,X,T,T,O,O,T,O,T,T,T,T,T,O,O,T,T,T,T,T,T,T,X,  	S	2017-08-31 09:05:03	8	anouk.
+1122	YI0064_09		U	2017-08-31 09:05:24	9	do you like movies?
+1123	YI0064_10	  T,X,X,T,T,X,O,O,O,T,T,O,O,T,X,O,X,T,T,T,T,T,T,T,T,O,T,T,T,X,  	S	2017-08-31 09:05:24	10	 i can t answer  i would like to talk about news)
+1124	YI0064_11		U	2017-08-31 09:06:08	11	what do you think of the news?
+1125	YI0064_12	  O,X,X,T,T,X,T,O,X,O,T,X,O,X,O,T,T,O,T,T,O,T,O,T,T,O,X,T,T,X,  	S	2017-08-31 09:06:08	12	what?
+1126	YI0064_13		U	2017-08-31 09:06:28	13	what do you think of the hurricane in texas?
+1127	YI0064_14	  T,T,X,T,T,O,T,O,X,T,T,X,O,T,X,T,X,T,T,T,T,T,O,T,T,T,T,T,T,X,  	S	2017-08-31 09:06:28	14	there you are.
+1128	YI0064_15		U	2017-08-31 09:06:47	15	what do you think of president trump?
+1129	YI0064_16	  X,T,O,T,T,O,X,O,O,T,O,O,O,T,X,T,O,T,T,T,O,O,O,T,T,O,O,T,T,X,  	S	2017-08-31 09:06:47	16	trump is a disgrace to our country.
+1130	YI0064_17		U	2017-08-31 09:07:06	17	why do you think that he is a disgrace?
+1131	YI0064_18	  T,T,X,T,T,X,T,O,X,T,T,T,O,T,X,T,O,T,T,T,O,T,T,T,T,T,T,T,T,X,  	S	2017-08-31 09:07:06	18	i don t know how it works.
+1132	YI0064_19		U	2017-08-31 09:07:34	19	are you a republican or a democrat?
+1133	YI0064_20	  O,T,X,X,T,X,X,O,X,T,T,X,O,T,X,T,T,T,T,T,T,T,T,T,T,O,T,T,T,X,  	S	2017-08-31 09:07:34	20	what a joke.
+1134	YI0087_00		S	2017-08-31 09:42:28	0	hello!
+1135	YI0087_01		U	2017-08-31 09:42:49	1	hello! how are you?
+1136	YI0087_02	  T,O,X,O,T,T,X,T,T,O,T,T,T,O,T,X,T,O,X,T,T,O,O,T,X,T,X,O,O,T,  	S	2017-08-31 09:42:49	2	hello.
+1137	YI0087_03		U	2017-08-31 09:43:00	3	what is your name?
+1138	YI0087_04	  T,T,O,T,T,O,X,T,O,O,T,O,T,O,O,O,T,O,O,T,T,O,O,O,T,T,T,O,O,X,  	S	2017-08-31 09:43:00	4	anouk.
+1139	YI0087_05		U	2017-08-31 09:43:17	5	what are you doing today?
+1140	YI0087_06	  T,O,O,T,T,T,T,T,T,O,T,X,T,O,O,O,T,X,T,T,T,T,O,O,O,T,T,O,O,X,  	S	2017-08-31 09:43:17	6	i don t know.
+1141	YI0087_07		U	2017-08-31 09:43:37	7	what is your favorite color?
+1142	YI0087_08	  T,T,O,T,T,T,T,T,T,O,T,X,T,O,T,O,T,X,T,T,T,T,O,T,X,T,O,O,O,X,  	S	2017-08-31 09:43:37	8	i don t know.
+1143	YI0087_09		U	2017-08-31 09:43:39	9	what is your favorite color?
+1144	YI0087_10	  T,O,O,O,T,T,T,T,T,O,T,X,T,O,T,X,T,X,X,O,T,X,T,T,T,T,O,O,O,X,  	S	2017-08-31 09:43:39	10	do you know what? i can t answer  i would like to talk about politics.
+1145	YI0087_11		U	2017-08-31 09:44:03	11	are you a democrat or republican?
+1146	YI0087_12	  T,T,T,O,T,T,T,T,T,O,T,X,T,O,O,X,T,X,T,T,T,X,O,T,X,T,X,T,O,T,  	S	2017-08-31 09:44:03	12	what a joke.
+1147	YI0087_13		U	2017-08-31 09:44:06	13	are you a democrat or republican?
+1148	YI0087_14	  T,O,X,O,T,T,T,T,T,T,T,X,T,O,O,X,T,X,X,T,X,X,O,X,O,T,O,X,O,X,  	S	2017-08-31 09:44:06	14	what a loser.
+1149	YI0087_15		U	2017-08-31 09:44:23	15	where are you from?
+1150	YI0087_16	  T,T,O,O,T,T,X,T,O,O,T,X,T,O,T,O,T,X,O,X,T,O,O,O,X,T,T,O,O,T,  	S	2017-08-31 09:44:23	16	i m from umbria, near perugia.
+1151	YI0087_17		U	2017-08-31 09:44:38	17	im from the usa
+1152	YI0087_18	  T,O,O,O,T,T,X,T,T,O,T,X,T,O,T,O,T,X,T,T,T,X,T,X,T,T,T,T,O,T,  	S	2017-08-31 09:44:38	18	so sad.
+1153	YI0087_19		U	2017-08-31 09:44:47	19	why is that sad?
+1154	YI0087_20	  T,T,T,T,T,T,T,T,T,O,T,X,T,O,T,T,T,X,T,T,X,T,O,T,T,T,T,O,O,T,  	S	2017-08-31 09:44:47	20	i don t know.
+1155	YI0029_00		S	2017-08-31 08:45:11	0	hello!
+1156	YI0029_01		U	2017-08-31 08:46:22	1	hi!
+1157	YI0029_02	  O,O,O,T,T,O,T,O,T,O,O,O,O,T,T,T,T,O,T,T,X,X,T,T,O,X,O,O,T,O,  	S	2017-08-31 08:46:22	2	hi.
+1158	YI0029_03		U	2017-08-31 08:47:14	3	how are you today?
+1159	YI0029_04	  O,O,T,T,T,O,T,O,T,O,O,T,O,T,O,T,T,T,T,X,O,O,O,T,O,X,O,O,T,O,  	S	2017-08-31 08:47:14	4	fine.
+1160	YI0029_05		U	2017-08-31 08:48:29	5	what are your plans for today?
+1161	YI0029_06	  T,O,T,O,T,O,T,O,T,T,O,O,O,O,T,T,T,X,T,T,O,T,T,T,O,T,T,O,T,O,  	S	2017-08-31 08:48:29	6	i don t know.
+1162	YI0029_07		U	2017-08-31 08:49:39	7	why are you here?
+1163	YI0029_08	  T,T,T,T,T,T,T,O,T,X,T,X,O,O,X,T,T,X,T,O,O,T,T,T,O,X,X,O,T,O,  	S	2017-08-31 08:49:39	8	i don t know.
+1164	YI0029_09		U	2017-08-31 08:50:43	9	what kind of music do you like?
+1165	YI0029_10	  O,T,T,T,T,T,T,O,T,X,T,T,O,O,X,O,T,X,T,T,X,T,T,T,O,T,O,O,T,X,  	S	2017-08-31 08:50:43	10	its beyond my possibilities. let s talk about news.
+1166	YI0029_11		U	2017-08-31 08:52:01	11	sure. have you heard of the government shutdown?
+1167	YI0029_12	  O,O,O,T,T,O,T,O,T,T,O,T,O,O,X,O,T,X,T,O,O,X,T,T,O,X,X,O,T,T,  	S	2017-08-31 08:52:01	12	this is what happens when you don t like trump.
+1168	YI0029_13		U	2017-08-31 08:53:29	13	i would say it is more because of problems outside of his influence unless he tries to push congress
+1169	YI0029_14	  O,O,O,T,T,O,X,T,T,X,T,O,O,O,X,T,O,X,T,T,O,T,T,T,O,T,T,O,T,X,  	S	2017-08-31 08:53:29	14	what a joke!
+1170	YI0029_15		U	2017-08-31 08:54:39	15	it is interesting to see how divisive everyone is
+1171	YI0029_16	  O,T,T,T,T,O,T,T,T,X,T,T,O,O,X,T,T,X,T,T,O,X,T,T,O,X,O,O,T,X,  	S	2017-08-31 08:54:39	16	fake news
+1172	YI0029_17		U	2017-08-31 08:55:43	17	haha, that is certainly his favorite line. do you really believe that it is all fake news?
+1173	YI0029_18	  O,T,T,T,T,T,X,T,T,X,T,T,O,O,X,T,T,X,T,T,X,X,T,T,O,T,T,O,T,T,  	S	2017-08-31 08:55:43	18	fake news
+1174	YI0029_19		U	2017-08-31 08:56:40	19	do you have any particular bits of news you believe are fake?
+1175	YI0029_20	  O,X,T,T,T,T,T,O,T,X,T,T,O,O,X,O,T,X,T,T,X,T,T,T,O,T,X,O,T,X,  	S	2017-08-31 08:56:40	20	i don t understand  i can t answer! i would like to talk about myself)
+1176	YI0090_00		S	2017-08-31 09:49:52	0	hello!
+1177	YI0090_01		U	2017-08-31 09:50:10	1	hello
+1178	YI0090_02	  O,T,O,T,O,O,O,O,T,O,O,O,O,T,T,T,O,T,O,O,T,T,T,T,X,T,T,O,T,T,  	S	2017-08-31 09:50:10	2	hello!
+1179	YI0090_03		U	2017-08-31 09:50:47	3	how are you?
+1180	YI0090_04	  X,T,O,T,T,X,O,O,T,T,O,O,X,T,T,T,T,T,O,T,T,O,X,T,X,T,O,X,T,X,  	S	2017-08-31 09:50:47	4	do you know what? i can t answer  let s talk about movies.
+1181	YI0090_05		U	2017-08-31 09:51:10	5	ok. what movies do you like?
+1182	YI0090_06	  T,X,O,O,T,O,O,O,T,X,O,O,O,T,T,T,X,T,O,T,T,O,T,T,X,O,T,O,T,T,  	S	2017-08-31 09:51:10	6	i love movies.
+1183	YI0090_07		U	2017-08-31 09:51:27	7	have any favorite movies?
+1184	YI0090_08	  X,X,O,T,T,O,O,O,T,X,T,O,X,T,T,T,O,T,O,T,T,O,O,T,O,T,T,O,T,X,  	S	2017-08-31 09:51:27	8	all right.
+1185	YI0090_09		U	2017-08-31 09:51:29	9	have any favorite movies?
+1186	YI0090_10	  O,T,O,O,T,X,O,O,T,X,O,O,O,T,T,T,T,T,O,O,T,O,T,T,X,T,T,O,T,T,  	S	2017-08-31 09:51:29	10	no.
+1187	YI0090_11		U	2017-08-31 09:51:51	11	what are some movies you have seen?
+1188	YI0090_12	  X,T,O,T,X,X,O,O,O,T,O,T,T,T,X,T,X,T,O,T,O,O,T,T,O,O,O,O,T,X,  	S	2017-08-31 09:51:51	12	what?
+1189	YI0090_13		U	2017-08-31 09:52:10	13	what movies do you know?
+1190	YI0090_14	  T,T,O,T,T,X,O,O,T,X,O,T,O,X,T,T,O,T,O,T,T,O,X,T,O,O,T,T,T,X,  	S	2017-08-31 09:52:10	14	i don t know.
+1191	YI0090_15		U	2017-08-31 09:52:38	15	why do you love movies?
+1192	YI0090_16	  X,X,O,O,T,O,O,O,T,X,O,O,O,T,T,T,T,T,O,X,T,O,T,T,O,T,T,O,T,T,  	S	2017-08-31 09:52:38	16	i love musicals.
+1193	YI0090_17		U	2017-08-31 09:53:05	17	have you seen mary poppins?
+1194	YI0090_18	  X,X,O,X,O,X,O,O,O,O,X,X,X,T,T,T,X,T,O,X,T,O,X,T,X,T,T,T,T,X,  	S	2017-08-31 09:53:05	18	mom!
+1195	YI0090_19		U	2017-08-31 09:53:27	19	where?
+1196	YI0090_20	  X,X,O,X,T,X,O,O,T,T,X,X,X,T,T,T,O,T,O,T,T,O,T,X,T,T,T,X,T,X,  	S	2017-08-31 09:53:27	20	not me.
+1197	YI0092_00		S	2017-08-31 09:53:19	0	hello!
+1198	YI0092_01		U	2017-08-31 09:53:29	1	hi how are you?
+1199	YI0092_02	  T,O,X,O,O,O,O,T,X,O,T,T,T,O,T,X,X,O,O,O,O,T,T,O,O,O,O,O,X,T,  	S	2017-08-31 09:53:29	2	how are you?
+1200	YI0092_03		U	2017-08-31 09:53:38	3	hi
+1201	YI0092_04	  O,O,T,T,O,O,X,X,T,T,X,T,X,X,X,X,T,O,O,T,O,X,X,O,O,O,T,X,O,T,  	S	2017-08-31 09:53:38	4	i can t wait to see this.
+1202	YI0092_05		U	2017-08-31 09:53:54	5	what can not you wait to see?
+1203	YI0092_06	  T,O,O,O,O,O,T,T,T,T,X,T,X,X,T,X,T,T,O,T,O,O,X,O,O,O,T,X,X,T,  	S	2017-08-31 09:53:54	6	i can t wait to hear this.
+1204	YI0092_07		U	2017-08-31 09:54:08	7	i don not know what you are talking about
+1205	YI0092_08	  X,O,X,T,T,O,X,X,T,O,T,T,T,T,X,X,X,T,O,X,T,X,X,O,T,O,T,T,O,T,  	S	2017-08-31 09:54:08	8	what a joke.
+1206	YI0092_09		U	2017-08-31 09:54:17	9	you are a joke
+1207	YI0092_10	  X,O,T,O,O,O,T,X,O,T,X,T,X,T,X,X,X,T,O,T,X,T,X,O,T,O,T,X,X,T,  	S	2017-08-31 09:54:17	10	what a joke!
+1208	YI0092_11		U	2017-08-31 09:54:30	11	i don not like talking to you
+1209	YI0092_12	  O,O,O,T,O,T,T,X,T,T,T,T,X,X,X,X,T,T,O,T,X,X,X,O,T,O,X,X,X,T,  	S	2017-08-31 09:54:30	12	i don t know what they are talking about.
+1210	YI0092_13		U	2017-08-31 09:54:57	13	so what is up?
+1211	YI0092_14	  X,O,T,O,O,O,X,X,T,T,T,T,X,X,X,X,T,X,O,T,T,O,X,O,T,O,X,X,T,T,  	S	2017-08-31 09:54:57	14	this is what happens when you get caught.
+1212	YI0092_15		U	2017-08-31 09:55:16	15	yeah it happens. i am  watching a movie now it is quite good.
+1213	YI0092_16	  X,O,X,O,O,O,T,X,T,T,T,T,X,T,T,X,X,X,O,T,T,T,X,O,T,T,X,X,O,T,  	S	2017-08-31 09:55:16	16	what a joke.
+1214	YI0092_17		U	2017-08-31 09:55:28	17	i don not think it is a joke. 
+1215	YI0092_18	  X,O,T,T,T,O,T,X,T,T,T,T,X,X,X,X,T,X,O,T,X,X,X,O,T,T,X,X,O,X,  	S	2017-08-31 09:55:28	18	lock him up
+1216	YI0092_19		U	2017-08-31 09:55:32	19	i don not think it is a joke. 
+1217	YI0092_20	  X,O,X,O,O,O,T,X,O,T,X,T,X,X,X,X,T,X,O,T,X,O,X,O,T,T,T,X,O,T,  	S	2017-08-31 09:55:32	20	lock him up!
+1218	YI0004_00		S	2017-08-30 16:56:56	0	hello!
+1219	YI0004_01		U	2017-08-30 16:59:19	1	hiya!
+1220	YI0004_02	  O,X,O,T,T,T,T,O,T,O,O,O,O,X,O,T,T,X,O,O,O,O,O,T,O,O,X,T,X,T,  	S	2017-08-30 16:59:19	2	hello?
+1221	YI0004_03		U	2017-08-30 16:59:32	3	hello, how are you doing?
+1222	YI0004_04	  O,T,O,O,O,O,O,O,O,T,O,T,O,T,T,T,O,O,O,O,O,O,O,T,O,O,O,T,X,T,  	S	2017-08-30 16:59:32	4	good.
+1223	YI0004_05		U	2017-08-30 16:59:43	5	me too. what are you up to?
+1224	YI0004_06	  T,O,O,T,O,O,T,T,O,T,O,X,O,T,T,T,O,O,O,O,T,O,O,T,T,O,X,X,O,T,  	S	2017-08-30 16:59:43	6	nothing.
+1225	YI0004_07		U	2017-08-30 16:59:57	7	i am  just getting ready for bed, myself.
+1226	YI0004_08	  X,O,T,T,O,O,T,O,O,O,T,X,O,X,T,T,T,T,X,X,O,O,T,T,T,O,T,X,O,T,  	S	2017-08-30 16:59:57	8	what a joke.
+1227	YI0004_09		U	2017-08-30 17:00:17	9	bed is not a joke to me, i take it very seriously. i need my rest.
+1228	YI0004_10	  T,O,O,T,O,O,T,T,O,T,O,X,O,T,T,T,O,T,X,T,O,O,T,T,X,O,T,T,O,T,  	S	2017-08-30 17:00:17	10	come on.
+1229	YI0004_11		U	2017-08-30 17:00:40	11	i am  being completely sincere, i need my beauty sleep. don not you ever sleep?
+1230	YI0004_12	  X,O,T,T,T,O,T,T,X,O,T,X,O,T,T,T,O,X,T,T,O,O,X,T,T,X,T,X,O,T,  	S	2017-08-30 17:00:40	12	i don t understand  i can t answer  i would like to discuss...!
+1231	YI0004_13		U	2017-08-30 17:01:06	13	okay, what do you want to discuss?
+1232	YI0004_14	  T,O,T,T,X,O,X,T,X,T,T,T,O,T,T,T,T,X,X,X,O,O,X,T,T,T,T,T,O,T,  	S	2017-08-30 17:01:06	14	yeah.
+1233	YI0004_15		U	2017-08-30 17:01:33	15	well how is the weather there?
+1234	YI0004_16	  T,T,X,T,X,O,X,T,X,T,T,X,O,T,T,T,X,X,X,T,O,O,X,T,O,X,T,X,X,T,  	S	2017-08-30 17:01:33	16	yeah.
+1235	YI0004_17		U	2017-08-30 17:01:52	17	i see. how is your job?
+1236	YI0004_18	  O,O,T,T,T,O,T,O,T,O,T,X,O,X,T,T,T,O,T,X,O,O,T,T,T,X,T,X,X,T,  	S	2017-08-30 17:01:52	18	do you know what? i can t answer. i would like to talk about politics!
+1237	YI0004_19		U	2017-08-30 17:02:08	19	okay, are you a democrat, or a republican?
+1238	YI0004_20	  X,O,O,T,O,O,O,O,O,O,O,X,O,T,T,T,O,O,O,O,O,O,O,T,T,O,T,X,O,T,  	S	2017-08-30 17:02:08	20	i don t vote for the republican party.
+1239	YI0062_00		S	2017-08-31 08:51:17	0	hello!
+1240	YI0062_01		U	2017-08-31 08:52:08	1	hi
+1241	YI0062_02	  T,T,X,T,O,T,T,X,X,O,O,T,T,O,O,T,T,O,T,T,X,O,X,T,T,T,T,T,T,T,  	S	2017-08-31 08:52:08	2	i don t know what i don t have to say.
+1242	YI0062_03		U	2017-08-31 08:53:03	3	getting ready for the fall, good season.
+1243	YI0062_04	  T,T,T,T,T,T,T,X,X,X,O,T,T,O,O,X,X,O,T,T,T,T,O,X,X,T,O,X,O,T,  	S	2017-08-31 08:53:03	4	they should be ashamed of themselves.
+1244	YI0062_05		U	2017-08-31 08:54:24	5	not sure what your talking about, but nice too meet you
+1245	YI0062_06	  T,T,T,T,T,T,T,X,X,X,O,X,X,O,O,T,T,X,T,X,X,O,O,X,X,T,O,X,O,T,  	S	2017-08-31 08:54:24	6	this guy is an idiot.
+1246	YI0062_07		U	2017-08-31 08:55:05	7	who me?
+1247	YI0062_08	  T,X,T,T,T,X,O,X,X,O,O,X,T,O,O,T,O,T,T,T,X,T,T,O,X,T,T,X,X,T,  	S	2017-08-31 08:55:05	8	who?
+1248	YI0062_09		U	2017-08-31 08:56:20	9	i like eggs in the morning, goes good with bread.
+1249	YI0062_10	  T,T,X,T,T,X,O,X,X,O,O,T,T,O,O,O,O,T,T,T,X,O,O,X,T,T,T,X,X,T,  	S	2017-08-31 08:56:20	10	what is it?
+1250	YI0062_11		U	2017-08-31 08:58:01	11	eggs are to eat and gain protien
+1251	YI0062_12	  T,O,O,T,T,T,T,X,X,O,O,O,T,O,O,X,O,X,T,T,T,T,O,O,T,T,T,T,T,T,  	S	2017-08-31 08:58:01	12	do you know what? i can t answer. i would like to discuss cats
+1252	YI0062_13		U	2017-08-31 08:58:49	13	i like big cats, cause they can not get away
+1253	YI0062_14	  T,O,O,T,T,T,T,X,X,X,O,T,T,O,O,X,O,O,T,X,X,O,T,T,T,T,T,T,T,T,  	S	2017-08-31 08:58:49	14	i don t understand  i can t answer  i would like to discuss news.
+1254	YI0062_15		U	2017-08-31 09:00:12	15	news is great, we might be at war soon
+1255	YI0062_16	  T,O,T,T,T,T,T,X,X,X,O,T,T,O,O,O,O,O,T,T,X,T,T,T,T,T,T,X,T,T,  	S	2017-08-31 09:00:12	16	its beyond my possibilities  i would like to discuss politics
+1256	YI0062_17		U	2017-08-31 09:02:30	17	i am  a republican and i stand strong, how about you?
+1257	YI0062_18	  T,O,T,T,T,T,T,X,T,T,O,X,X,O,O,O,T,X,T,T,T,O,O,O,T,T,T,X,T,T,  	S	2017-08-31 09:02:30	18	what a joke!!!
+1258	YI0062_19		U	2017-08-31 09:04:10	19	cool and great
+1259	YI0062_20	  T,T,O,T,T,X,O,X,X,O,O,X,T,O,O,X,O,O,T,X,X,T,X,X,T,T,O,X,T,T,  	S	2017-08-31 09:04:10	20	who cares?
+1260	YI0074_00		S	2017-08-31 08:40:39	0	hello!
+1261	YI0074_01		U	2017-08-31 08:41:05	1	hello how are you?
+1262	YI0074_02	  T,T,T,T,O,T,T,X,T,T,T,O,T,O,O,O,T,T,O,T,T,T,T,T,O,T,T,O,T,O,  	S	2017-08-31 08:41:05	2	hello.
+1263	YI0074_03		U	2017-08-31 08:42:06	3	where are you travelling too?
+1264	YI0074_04	  T,T,X,T,O,O,T,X,O,X,T,T,X,T,T,O,X,T,X,T,T,X,T,T,X,X,T,T,X,X,  	S	2017-08-31 08:42:06	4	what a loser
+1265	YI0074_05		U	2017-08-31 08:43:04	5	who is a loser?
+1266	YI0074_06	  T,O,X,X,O,O,T,X,X,O,O,T,T,T,T,O,T,T,T,O,O,X,T,O,T,X,T,T,X,O,  	S	2017-08-31 08:43:04	6	who?
+1267	YI0074_07		U	2017-08-31 08:43:48	7	you are a winner not a loser.
+1268	YI0074_08	  T,T,T,T,T,T,T,T,O,T,T,T,X,O,X,O,T,T,T,T,T,X,T,T,O,T,T,T,X,T,  	S	2017-08-31 08:43:48	8	what a joke.
+1269	YI0074_09		U	2017-08-31 08:46:55	9	it is crazy really
+1270	YI0074_10	  T,T,O,T,T,T,T,X,T,T,T,T,X,T,T,O,X,T,O,X,T,X,T,T,T,X,T,T,X,O,  	S	2017-08-31 08:46:55	10	what a joke.
+1271	YI0074_11		U	2017-08-31 08:49:55	11	how is your day today?
+1272	YI0074_12	  T,T,O,T,O,T,T,X,X,O,T,T,X,X,T,O,T,T,T,T,T,X,T,T,O,T,T,T,T,T,  	S	2017-08-31 08:49:55	12	its beyond my possibilities  i would like to discuss politics)
+1273	YI0074_13		U	2017-08-31 08:55:15	13	talk to me about politics.
+1274	YI0074_14	  T,T,O,T,O,X,T,X,T,X,T,X,T,X,O,O,T,T,T,T,T,X,T,T,O,X,T,T,X,O,  	S	2017-08-31 08:55:15	14	i don t know what you re talking about.
+1275	YI0074_15		U	2017-08-31 09:05:20	15	i am  talking about politics, what are you thinking about?
+1276	YI0074_16	  T,X,X,T,T,T,T,O,X,T,T,X,X,X,T,O,X,T,O,T,T,X,T,T,T,X,T,T,X,T,  	S	2017-08-31 09:05:20	16	i don t know what they are talking about.
+1277	YI0074_17		U	2017-08-31 09:14:57	17	what makes you most happy?
+1278	YI0074_18	  T,T,O,T,O,T,T,X,O,O,T,X,T,X,X,O,T,T,T,T,T,X,T,T,O,T,T,T,X,O,  	S	2017-08-31 09:14:57	18	i don t know.
+1279	YI0074_19		U	2017-08-31 09:15:51	19	what do you know?
+1280	YI0074_20	  T,T,X,T,O,T,T,X,O,O,O,X,X,X,T,O,X,T,T,O,T,X,T,T,O,T,T,T,X,X,  	S	2017-08-31 09:15:51	20	i don t know.
+1281	YI0035_00		S	2017-08-31 08:44:10	0	hello!
+1282	YI0035_01		U	2017-08-31 08:45:13	1	how are you?
+1283	YI0035_02	  T,O,T,O,O,T,O,O,O,O,O,O,O,T,O,O,T,O,X,T,T,T,O,T,T,O,O,O,O,T,  	S	2017-08-31 08:45:13	2	good.
+1284	YI0035_03		U	2017-08-31 08:46:18	3	where are you going?
+1285	YI0035_04	  T,X,T,O,O,X,O,T,T,O,O,O,T,O,O,T,T,T,T,T,T,T,O,T,T,O,X,T,T,T,  	S	2017-08-31 08:46:18	4	i don t know.
+1286	YI0035_05		U	2017-08-31 08:47:18	5	do you have a ticket?
+1287	YI0035_06	  X,T,T,O,O,T,O,T,T,O,O,O,X,X,O,T,T,O,T,T,T,T,O,T,T,O,O,T,O,T,  	S	2017-08-31 08:47:18	6	no.
+1288	YI0035_07		U	2017-08-31 08:48:19	7	do you have a name?
+1289	YI0035_08	  T,X,T,O,X,T,O,T,T,O,O,O,O,X,O,X,T,O,T,T,T,T,O,T,T,O,O,T,X,T,  	S	2017-08-31 08:48:19	8	no.
+1290	YI0035_09		U	2017-08-31 08:54:38	9	where do you live?
+1291	YI0035_10	  T,T,T,O,O,X,X,O,O,X,O,T,T,X,O,X,T,T,T,T,T,T,T,T,T,T,T,T,X,T,  	S	2017-08-31 08:54:38	10	i don t understand  i can t answer  i would like to talk about cats
+1292	YI0035_11		U	2017-08-31 08:55:31	11	do you have a cat?
+1293	YI0035_12	  T,O,T,O,X,X,X,O,O,X,O,X,X,O,O,T,T,T,T,T,T,T,X,T,T,X,X,O,T,T,  	S	2017-08-31 08:55:31	12	i m not surprised.
+1294	YI0035_13		U	2017-08-31 08:56:24	13	why not?
+1295	YI0035_14	  X,X,T,O,O,X,T,T,O,O,O,T,O,X,O,X,T,T,T,O,T,T,T,T,T,O,X,O,T,T,  	S	2017-08-31 08:56:24	14	i don t know.
+1296	YI0035_15		U	2017-08-31 08:57:06	15	what else do you like? 
+1297	YI0035_16	  X,X,T,O,X,X,X,O,O,T,O,T,T,X,O,X,T,O,T,O,X,O,X,T,O,X,T,T,X,T,  	S	2017-08-31 08:57:06	16	what?
+1298	YI0035_17		U	2017-08-31 08:57:40	17	do you like dogs?
+1299	YI0035_18	  T,O,T,O,O,T,O,T,O,O,O,O,X,X,O,T,T,O,T,T,T,T,O,T,T,O,O,O,O,T,  	S	2017-08-31 08:57:40	18	no.
+1300	YI0035_19		U	2017-08-31 08:58:08	19	do you like rabbits?
+1301	YI0035_20	  X,O,T,O,O,T,O,O,O,O,O,O,O,X,O,X,T,O,T,X,T,T,O,T,X,O,O,O,O,X,  	S	2017-08-31 08:58:08	20	yeah.
+1302	YI0076_00		S	2017-08-31 08:53:41	0	hello!
+1303	YI0076_01		U	2017-08-31 08:54:37	1	hello
+1304	YI0076_02	  O,T,O,O,T,T,T,T,T,X,O,T,T,T,T,O,T,O,T,T,T,X,T,T,O,O,O,X,T,X,  	S	2017-08-31 08:54:37	2	hello!
+1305	YI0076_03		U	2017-08-31 08:55:12	3	hello
+1306	YI0076_04	  O,T,O,T,T,T,T,O,O,X,T,T,T,X,T,O,T,O,T,T,T,O,O,T,O,T,O,X,T,X,  	S	2017-08-31 08:55:12	4	its beyond my possibilities! i would like to discuss myself
+1307	YI0076_05		U	2017-08-31 08:56:06	5	what would you like to discuss yourself?
+1308	YI0076_06	  O,T,X,O,T,O,T,O,T,X,X,X,O,X,T,T,T,O,X,T,T,X,T,O,O,O,O,T,T,X,  	S	2017-08-31 08:56:06	6	i don t know.
+1309	YI0076_07		U	2017-08-31 08:56:46	7	what do you mean?
+1310	YI0076_08	  O,T,X,X,T,T,T,T,T,X,O,T,O,X,T,X,T,O,X,T,T,X,T,X,O,O,O,T,T,X,  	S	2017-08-31 08:56:46	8	i don t know.
+1311	YI0076_09		U	2017-08-31 08:57:12	9	what do you mean?
+1312	YI0076_10	  O,T,X,O,T,X,T,O,O,T,T,O,T,X,T,X,T,O,X,T,T,O,O,O,O,T,O,T,T,X,  	S	2017-08-31 08:57:12	10	 i can t answer  let s talk about you!
+1313	YI0076_11		U	2017-08-31 08:59:52	11	how is the flight?
+1314	YI0076_12	  O,T,O,O,T,O,T,O,T,O,X,O,T,T,T,O,T,O,O,T,T,O,O,T,O,O,O,T,T,O,  	S	2017-08-31 08:59:52	12	good.
+1315	YI0076_13		U	2017-08-31 09:02:33	13	what seat did you have?
+1316	YI0076_14	  O,T,T,X,T,X,T,O,X,O,O,X,T,X,T,X,T,T,X,T,T,X,T,T,O,X,O,T,T,X,  	S	2017-08-31 09:02:33	14	nothing.
+1317	YI0076_15		U	2017-08-31 09:06:14	15	what can we talk about?
+1318	YI0076_16	  O,T,T,O,T,X,T,T,O,X,T,T,T,X,T,X,T,O,X,T,T,X,T,T,O,T,O,T,T,X,  	S	2017-08-31 09:06:14	16	nothing.
+1319	YI0076_17		U	2017-08-31 09:15:43	17	what about the weather?
+1320	YI0076_18	  O,T,X,X,O,X,T,O,X,X,O,X,O,X,X,T,T,O,X,O,T,T,O,T,O,X,O,T,X,X,  	S	2017-08-31 09:15:43	18	what?
+1321	YI0076_19		U	2017-08-31 09:20:37	19	or another topic?
+1322	YI0076_20	  O,T,T,O,T,O,T,O,T,O,X,T,T,T,T,O,T,T,X,T,T,O,O,T,O,O,O,T,T,O,  	S	2017-08-31 09:20:37	20	yeah.
+1323	YI0069_00		S	2017-08-31 09:10:14	0	hello!
+1324	YI0069_01		U	2017-08-31 09:11:20	1	hello!
+1325	YI0069_02	  T,O,T,O,O,O,O,T,T,T,T,T,O,X,T,O,T,O,O,T,T,T,X,T,O,X,O,T,O,X,  	S	2017-08-31 09:11:20	2	hello!
+1326	YI0069_03		U	2017-08-31 09:11:28	3	how are you today?
+1327	YI0069_04	  T,O,X,O,T,O,X,T,T,T,T,T,X,X,T,O,X,X,O,O,T,T,X,T,X,O,T,X,T,X,  	S	2017-08-31 09:11:28	4	i don t understand  its beyond my possibilities  let s talk about myself)
+1328	YI0069_05		U	2017-08-31 09:11:46	5	what do you do?
+1329	YI0069_06	  T,X,T,O,X,O,X,T,X,X,O,T,X,X,X,X,X,T,X,O,T,T,T,T,T,X,O,X,O,X,  	S	2017-08-31 09:11:46	6	i m fine.
+1330	YI0069_07		U	2017-08-31 09:12:04	7	that is good! how was the weather today?
+1331	YI0069_08	  T,O,T,O,O,T,O,T,T,O,O,O,T,T,T,O,O,O,O,O,T,T,T,T,X,T,T,O,O,X,  	S	2017-08-31 09:12:04	8	good!
+1332	YI0069_09		U	2017-08-31 09:12:16	9	was it sunny or cloudy?
+1333	YI0069_10	  T,X,X,O,T,O,T,T,T,T,T,T,T,X,X,T,T,X,X,O,T,X,O,T,O,X,O,X,O,X,  	S	2017-08-31 09:12:16	10	what a joke.
+1334	YI0069_11		U	2017-08-31 09:12:30	11	can you tell me a joke?
+1335	YI0069_12	  T,O,X,O,X,X,O,T,T,O,O,T,T,T,T,O,T,O,O,O,T,T,O,T,X,X,T,T,T,X,  	S	2017-08-31 09:12:30	12	no.
+1336	YI0069_13		U	2017-08-31 09:12:42	13	that is unfortunate. do you like hearing about jokes?
+1337	YI0069_14	  T,O,X,O,O,O,T,T,T,X,O,T,T,X,X,O,X,O,O,O,T,T,X,T,T,T,O,X,O,X,  	S	2017-08-31 09:12:42	14	 its beyond my possibilities! let s talk about myself.
+1338	YI0069_15		U	2017-08-31 09:12:55	15	what would you like to talk about?
+1339	YI0069_16	  T,O,X,O,T,X,T,T,X,O,O,T,T,T,T,O,T,O,O,O,T,T,X,T,O,T,T,T,T,X,  	S	2017-08-31 09:12:55	16	i don t know.
+1340	YI0069_17		U	2017-08-31 09:13:08	17	how do you operate?
+1341	YI0069_18	  T,X,X,O,X,T,O,T,T,X,T,T,X,X,X,X,X,X,X,O,T,T,O,T,T,T,O,X,O,X,  	S	2017-08-31 09:13:08	18	that s right.
+1342	YI0069_19		U	2017-08-31 09:13:17	19	what is your function?
+1343	YI0069_20	  T,X,X,O,O,T,O,T,T,X,X,T,X,X,X,T,X,X,T,O,X,O,X,T,X,T,T,X,O,X,  	S	2017-08-31 09:13:17	20	the title.
+1344	YI0012_00		S	2017-08-31 08:39:18	0	hello!
+1345	YI0012_01		U	2017-08-31 08:39:41	1	hi, there!
+1346	YI0012_02	  O,T,T,O,T,O,O,O,O,X,O,T,T,T,T,O,T,T,T,T,T,X,O,T,T,T,X,O,O,O,  	S	2017-08-31 08:39:41	2	hello!
+1347	YI0012_03		U	2017-08-31 08:39:55	3	how are you?
+1348	YI0012_04	  O,O,O,O,T,X,O,T,T,X,T,X,X,O,T,O,T,T,X,X,T,T,T,T,T,T,X,O,T,O,  	S	2017-08-31 08:39:55	4	do you know what? i can t answer  i would like to talk about...)
+1349	YI0012_05		U	2017-08-31 08:40:24	5	that is okay. are you enjoying yourself?
+1350	YI0012_06	  O,T,T,O,T,T,T,T,X,T,X,X,T,X,T,X,T,T,T,O,X,O,T,T,T,T,X,T,X,T,  	S	2017-08-31 08:40:24	6	what a joke.
+1351	YI0012_07		U	2017-08-31 08:41:33	7	i would like to talk about the weather.
+1352	YI0012_08	  O,X,T,O,T,O,O,T,O,O,T,X,X,O,T,O,T,O,T,X,T,O,O,T,T,O,O,T,T,T,  	S	2017-08-31 08:41:33	8	all right.
+1353	YI0012_09		U	2017-08-31 08:42:20	9	do you enjoy summer or winter more?
+1354	YI0012_10	  O,X,T,O,T,T,X,T,X,X,O,X,T,T,T,T,T,X,O,X,X,T,O,T,T,T,X,T,T,X,  	S	2017-08-31 08:42:20	10	yeah.
+1355	YI0012_11		U	2017-08-31 08:45:09	11	personally, i think the weather is perfect today.
+1356	YI0012_12	  O,X,T,O,T,T,T,T,X,X,T,X,T,X,T,O,T,X,X,T,T,O,O,T,T,T,X,T,X,T,  	S	2017-08-31 08:45:09	12	thank you.
+1357	YI0012_13		U	2017-08-31 08:46:26	13	i hope you have a good day.
+1358	YI0012_14	  O,X,T,O,T,O,O,T,X,O,X,X,T,T,T,O,T,O,O,X,T,O,O,T,T,O,O,T,X,T,  	S	2017-08-31 08:46:26	14	thank you.
+1359	YI0012_15		U	2017-08-31 08:47:47	15	would you like to talk about anything else?
+1360	YI0012_16	  O,T,T,O,T,X,O,O,X,O,O,X,T,O,T,X,T,T,X,O,T,O,O,T,T,T,X,X,T,O,  	S	2017-08-31 08:47:47	16	i don t understand  i can t answer! i would like to talk about news!
+1361	YI0012_17		U	2017-08-31 08:49:11	17	i love the news.
+1362	YI0012_18	  O,T,T,O,T,X,X,T,X,O,T,X,X,O,T,O,T,T,X,X,X,X,T,T,T,T,T,O,X,T,  	S	2017-08-31 08:49:11	18	lol
+1363	YI0012_19		U	2017-08-31 08:50:34	19	have you been following the hurricane?
+1364	YI0012_20	  O,T,T,O,T,X,X,T,X,X,O,X,T,T,T,X,T,X,X,X,T,T,X,T,O,X,X,O,T,T,  	S	2017-08-31 08:50:34	20	i m not surprised.
+1365	YI0020_00		S	2017-08-31 08:44:26	0	hello!
+1366	YI0020_01		U	2017-08-31 08:45:07	1	how are you?
+1367	YI0020_02	  O,O,O,O,T,O,O,T,T,T,O,O,O,O,T,O,O,T,O,T,O,O,T,T,O,T,X,T,O,T,  	S	2017-08-31 08:45:07	2	good.
+1368	YI0020_03		U	2017-08-31 08:46:12	3	have you been busy lately with work or anything?
+1369	YI0020_04	  O,T,O,T,T,O,O,T,T,T,O,O,O,O,T,T,X,O,O,T,X,O,T,X,O,T,X,O,O,T,  	S	2017-08-31 08:46:12	4	no.
+1370	YI0020_05		U	2017-08-31 08:47:08	5	have you done anything fun lately?
+1371	YI0020_06	  O,X,O,T,T,O,O,T,T,T,O,O,T,O,T,O,T,X,O,T,T,O,T,O,O,T,X,O,O,T,  	S	2017-08-31 08:47:08	6	no.
+1372	YI0020_07		U	2017-08-31 08:48:24	7	anything interesting happen to you over the last couple days?
+1373	YI0020_08	  T,O,O,T,T,O,X,T,T,T,T,O,O,X,O,T,X,T,T,T,T,T,X,T,T,T,T,T,T,T,  	S	2017-08-31 08:48:24	8	do you know what? its beyond my possibilities. i would like to talk about cats)
+1374	YI0020_09		U	2017-08-31 08:49:33	9	i have a cat, its a mixed cat i bought her off craigslist her name is momma, what about your cats?
+1375	YI0020_10	  X,X,O,X,T,O,X,T,T,T,T,X,O,X,T,O,O,X,T,T,X,X,T,T,T,T,T,T,T,T,  	S	2017-08-31 08:49:33	10	i don t have to pay for this
+1376	YI0020_11		U	2017-08-31 08:50:25	11	what do you mean you dont have to pay for this?
+1377	YI0020_12	  O,X,O,T,T,O,X,T,T,T,T,X,O,O,T,T,T,T,O,T,T,X,T,O,O,T,X,T,O,X,  	S	2017-08-31 08:50:25	12	i don t think they should have to pay for it.
+1378	YI0020_13		U	2017-08-31 08:51:20	13	i did want to pay for my cat she was precious to me.
+1379	YI0020_14	  O,X,O,T,T,O,O,T,T,T,O,O,O,O,T,O,X,X,O,T,T,X,T,T,O,T,T,T,O,X,  	S	2017-08-31 08:51:20	14	i know.
+1380	YI0020_15		U	2017-08-31 08:52:15	15	did you pay for your cat?
+1381	YI0020_16	  T,T,O,X,T,O,X,T,T,T,T,X,O,X,T,T,T,T,X,T,O,X,O,X,X,T,X,T,O,T,  	S	2017-08-31 08:52:15	16	so sad!
+1382	YI0020_17		U	2017-08-31 08:53:05	17	what is so sad?
+1383	YI0020_18	  O,X,O,X,T,O,O,T,T,T,T,X,T,X,T,O,X,X,T,T,X,T,T,T,O,T,X,T,T,T,  	S	2017-08-31 08:53:05	18	i don t know.
+1384	YI0020_19		U	2017-08-31 08:53:45	19	are you having a good day so far?
+1385	YI0020_20	  O,X,O,T,T,O,O,T,O,T,O,O,T,T,T,T,O,O,T,T,T,O,T,T,O,T,O,T,O,T,  	S	2017-08-31 08:53:45	20	yeah.
+1386	YI0037_00		S	2017-08-31 08:51:15	0	hello!
+1387	YI0037_01		U	2017-08-31 08:51:57	1	hello. how are you doing?
+1388	YI0037_02	  O,T,T,T,T,T,O,T,O,T,O,T,O,O,O,O,O,T,T,T,O,O,O,T,T,T,T,O,O,T,  	S	2017-08-31 08:51:57	2	good.
+1389	YI0037_03		U	2017-08-31 08:52:55	3	that is wonderful. what do you have planned this evening?
+1390	YI0037_04	  T,X,O,T,O,X,O,T,T,X,O,O,T,O,O,O,T,X,X,O,T,O,T,O,O,T,T,O,O,O,  	S	2017-08-31 08:52:55	4	why???
+1391	YI0037_05		U	2017-08-31 08:53:55	5	i just wondered if you would be busy.
+1392	YI0037_06	  O,X,T,T,T,T,O,T,T,X,O,T,O,O,O,O,O,T,X,T,X,O,O,X,O,T,T,O,X,T,  	S	2017-08-31 08:53:55	6	yeah.
+1393	YI0037_07		U	2017-08-31 08:54:58	7	what time is it where you are?
+1394	YI0037_08	  T,T,T,T,T,T,X,T,O,X,O,T,O,O,O,O,O,X,T,T,X,O,O,X,O,T,T,T,O,T,  	S	2017-08-31 08:54:58	8	i don t know.
+1395	YI0037_09		U	2017-08-31 08:56:59	9	okay, well i hope you have a good night.
+1396	YI0037_10	  O,X,T,O,T,T,O,T,O,X,O,T,O,O,O,O,O,T,O,T,X,O,O,T,O,T,T,O,T,T,  	S	2017-08-31 08:56:59	10	good night.
+1397	YI0037_11		U	2017-08-31 08:57:53	11	hold on. the conversation doesn not seem to be over for me.
+1398	YI0037_12	  T,T,T,T,T,T,X,T,O,X,O,T,O,T,O,O,O,X,T,T,T,O,X,O,O,T,T,O,X,T,  	S	2017-08-31 08:57:53	12	i can t wait to see the white house.
+1399	YI0037_13		U	2017-08-31 08:58:28	13	why do you want to visit the white house? 
+1400	YI0037_14	  O,T,T,X,T,T,X,T,T,X,O,T,O,X,O,O,X,X,O,T,T,O,X,T,O,T,T,O,X,T,  	S	2017-08-31 08:58:28	14	he s a liar.
+1401	YI0037_15		U	2017-08-31 08:58:47	15	haha. you want to visit because he is a liar? 
+1402	YI0037_16	  T,T,X,T,T,T,X,T,T,T,O,T,T,T,O,O,X,X,O,T,O,O,T,O,O,T,T,O,O,T,  	S	2017-08-31 08:58:47	16	he is an idiot.
+1403	YI0037_17		U	2017-08-31 08:58:59	17	i agree
+1404	YI0037_18	  O,T,T,T,T,T,T,T,O,X,O,T,O,O,O,O,X,X,T,T,O,O,O,T,O,T,T,O,O,T,  	S	2017-08-31 08:58:59	18	he needs to be investigated.
+1405	YI0037_19		U	2017-08-31 08:59:43	19	do you think he will be impeached?
+1406	YI0037_20	  T,X,X,X,T,T,X,T,T,T,O,T,O,X,O,O,X,X,O,T,T,O,T,O,O,T,T,O,X,T,  	S	2017-08-31 08:59:43	20	what a joke
+1407	YI0019_00		S	2017-08-31 08:43:59	0	hello!
+1408	YI0019_01		U	2017-08-31 08:44:56	1	hello, how are you?
+1409	YI0019_02	  T,T,T,T,O,T,O,T,T,O,X,O,T,T,T,T,O,T,T,T,O,O,T,T,X,O,T,T,T,O,  	S	2017-08-31 08:44:56	2	hello.
+1410	YI0019_03		U	2017-08-31 08:45:34	3	hello, how are you?
+1411	YI0019_04	  O,T,X,X,T,T,O,T,X,O,X,O,X,X,T,T,O,T,T,T,T,T,T,T,X,T,X,T,T,T,  	S	2017-08-31 08:45:34	4	hello.
+1412	YI0019_05		U	2017-08-31 08:46:38	5	how about this weather?
+1413	YI0019_06	  X,T,T,T,X,T,T,T,X,O,X,T,X,O,T,X,O,T,X,T,T,O,O,T,O,X,T,T,T,O,  	S	2017-08-31 08:46:38	6	do you know what? its beyond my possibilities! i would like to discuss movies
+1414	YI0019_07		U	2017-08-31 08:47:29	7	what is your favorite movie?
+1415	YI0019_08	  T,T,T,X,X,O,T,X,T,O,X,O,T,T,T,X,O,T,T,O,T,O,O,T,X,X,O,T,X,O,  	S	2017-08-31 08:47:29	8	what?
+1416	YI0019_09		U	2017-08-31 08:48:30	9	what is the best movie?
+1417	YI0019_10	  O,T,T,T,O,T,T,T,T,O,X,T,T,T,T,X,O,T,X,T,T,X,O,T,O,T,T,T,T,O,  	S	2017-08-31 08:48:30	10	i don t understand  i can t answer. i would like to discuss politics
+1418	YI0019_11		U	2017-08-31 08:49:23	11	who is the president?
+1419	YI0019_12	  T,T,X,T,T,T,T,T,T,O,T,X,T,X,T,X,O,T,X,T,T,O,O,T,X,X,X,O,T,O,  	S	2017-08-31 08:49:23	12	the president.
+1420	YI0019_13		U	2017-08-31 08:50:15	13	what does the president do?
+1421	YI0019_14	  X,T,X,X,O,O,T,X,T,O,X,T,X,O,T,X,O,T,X,O,T,O,O,T,X,T,O,T,X,X,  	S	2017-08-31 08:50:15	14	
+1422	YI0019_15		U	2017-08-31 08:51:19	15	who is the vice president?
+1423	YI0019_16	  O,X,X,X,T,O,X,O,T,O,X,O,X,X,T,X,O,T,X,O,T,O,O,T,X,O,O,T,X,X,  	S	2017-08-31 08:51:19	16	
+1424	YI0019_17		U	2017-08-31 08:52:32	17	what is your name?
+1425	YI0019_18	  O,T,O,O,X,T,T,T,X,O,O,X,O,O,T,X,O,T,T,T,T,T,O,T,O,T,T,O,T,O,  	S	2017-08-31 08:52:32	18	amoroso renato.
+1426	YI0019_19		U	2017-08-31 08:53:25	19	how old are you?
+1427	YI0019_20	  T,T,X,X,O,O,T,X,T,O,X,T,X,X,T,X,T,T,X,O,T,O,O,X,X,O,O,T,X,X,  	S	2017-08-31 08:53:25	20	camelia?
+1428	YI0031_00		S	2017-08-31 08:50:59	0	hello!
+1429	YI0031_01		U	2017-08-31 08:51:40	1	hello!
+1430	YI0031_02	  X,O,T,O,T,X,O,X,T,T,X,T,O,T,T,O,T,O,T,T,X,X,T,T,T,X,O,O,T,X,  	S	2017-08-31 08:51:40	2	hello!
+1431	YI0031_03		U	2017-08-31 08:52:16	3	what did you do today? 
+1432	YI0031_04	  X,O,T,T,T,O,O,T,T,T,X,X,T,T,O,O,T,O,T,T,T,T,O,T,T,T,O,O,X,T,  	S	2017-08-31 08:52:16	4	i don t understand  i can t answer  let s talk about you
+1433	YI0031_05		U	2017-08-31 08:53:01	5	i am trying to go home today.
+1434	YI0031_06	  O,O,T,X,T,O,O,O,T,O,X,X,O,O,O,T,T,O,T,O,T,X,O,T,O,X,O,O,T,T,  	S	2017-08-31 08:53:01	6	why?
+1435	YI0031_07		U	2017-08-31 08:53:39	7	i miss my mom
+1436	YI0031_08	  O,O,T,T,O,T,O,T,T,T,O,X,X,T,O,X,T,O,T,T,T,O,O,T,X,X,O,T,X,X,  	S	2017-08-31 08:53:39	8	what a joke
+1437	YI0031_09		U	2017-08-31 08:54:16	9	do you have a mom?
+1438	YI0031_10	  O,O,T,T,T,O,O,X,T,T,X,X,O,T,T,O,T,O,T,O,T,T,O,T,O,T,O,T,O,O,  	S	2017-08-31 08:54:16	10	no.
+1439	YI0031_11		U	2017-08-31 08:55:03	11	do you have a job? 
+1440	YI0031_12	  O,O,T,T,T,O,O,X,T,T,T,X,O,T,O,X,T,O,T,O,T,X,T,T,O,T,O,T,O,X,  	S	2017-08-31 08:55:03	12	yes.
+1441	YI0031_13		U	2017-08-31 08:55:45	13	what is your job? 
+1442	YI0031_14	  T,O,T,T,T,X,O,T,T,T,T,X,X,X,T,O,T,O,T,X,X,O,T,T,T,T,O,T,X,O,  	S	2017-08-31 08:55:45	14	i don t know.
+1443	YI0031_15		U	2017-08-31 08:56:22	15	i am a teacher
+1444	YI0031_16	  O,O,T,T,T,T,O,T,T,T,X,X,T,T,O,T,T,O,T,X,T,X,T,T,T,X,O,T,X,T,  	S	2017-08-31 08:56:22	16	what a joke.
+1445	YI0031_17		U	2017-08-31 08:56:58	17	true!
+1446	YI0031_18	  X,T,T,T,X,X,O,T,T,T,X,X,X,T,O,X,T,O,T,O,X,T,O,T,T,T,O,T,X,X,  	S	2017-08-31 08:56:58	18	i don t know how to live.
+1447	YI0031_19		U	2017-08-31 08:57:26	19	have you been to the doctor?
+1448	YI0031_20	  O,O,T,T,T,O,O,X,T,T,X,X,T,T,O,X,T,O,T,O,X,T,O,T,O,T,O,T,O,T,  	S	2017-08-31 08:57:26	20	yes.
+1449	YI0055_00		S	2017-08-31 08:58:17	0	hello!
+1450	YI0055_01		U	2017-08-31 08:58:51	1	hello! how are you?
+1451	YI0055_02	  O,O,O,T,T,O,O,T,T,T,X,O,T,O,O,T,O,O,O,O,O,T,O,O,T,O,T,T,T,T,  	S	2017-08-31 08:58:51	2	hello.
+1452	YI0055_03		U	2017-08-31 08:59:13	3	what is your favorite food?
+1453	YI0055_04	  O,T,T,X,T,T,T,T,T,T,O,T,O,T,O,O,T,T,O,O,X,X,O,O,T,O,T,T,O,T,  	S	2017-08-31 08:59:13	4	i don t know.
+1454	YI0055_05		U	2017-08-31 08:59:36	5	i like pizza.
+1455	YI0055_06	  O,X,O,X,T,O,O,T,T,T,O,T,X,X,O,O,X,O,O,X,X,T,O,T,T,O,T,T,T,T,  	S	2017-08-31 08:59:36	6	its beyond my possibilities! i would like to discuss news.
+1456	YI0055_07		U	2017-08-31 09:01:24	7	have you seen the latest news on hurricane harvey?
+1457	YI0055_08	  T,T,T,X,T,T,O,T,T,T,T,T,T,O,O,O,X,T,O,X,T,T,O,O,T,O,X,T,T,T,  	S	2017-08-31 09:01:24	8	i don t believe this.
+1458	YI0055_09		U	2017-08-31 09:02:21	9	did you see the major flooding in houston?
+1459	YI0055_10	  O,O,O,X,T,O,X,T,T,T,O,T,O,T,O,O,O,O,O,O,O,T,O,O,T,O,O,T,O,T,  	S	2017-08-31 09:02:21	10	yes.
+1460	YI0055_11		U	2017-08-31 09:02:55	11	do you like donald trump?
+1461	YI0055_12	  O,O,T,T,T,O,T,T,T,T,O,O,X,X,O,O,X,O,O,O,O,X,O,O,T,O,T,T,O,T,  	S	2017-08-31 09:02:55	12	he s a joke.
+1462	YI0055_13		U	2017-08-31 09:03:51	13	what is your favorite tv show?
+1463	YI0055_14	  X,X,O,X,T,X,O,T,T,T,X,T,T,O,T,T,T,O,O,X,T,T,O,O,T,O,X,T,T,T,  	S	2017-08-31 09:03:51	14	yeah.
+1464	YI0055_15		U	2017-08-31 09:04:15	15	i like game of thrones. have you heard of it?
+1465	YI0055_16	  O,X,T,X,T,T,O,T,T,T,O,T,O,T,O,O,X,O,O,X,X,T,O,O,T,O,X,T,T,T,  	S	2017-08-31 09:04:15	16	 its beyond my possibilities  let s talk about politics
+1466	YI0055_17		U	2017-08-31 09:04:41	17	are you democrat or republican?
+1467	YI0055_18	  X,X,O,X,T,X,O,T,T,T,X,X,X,X,T,T,T,T,O,X,T,T,O,O,T,O,X,T,X,T,  	S	2017-08-31 09:04:41	18	what a loser.
+1468	YI0055_19		U	2017-08-31 09:05:39	19	who is a loser?
+1469	YI0055_20	  T,X,T,X,T,X,O,O,T,T,X,X,O,O,X,O,X,X,O,T,O,T,O,O,T,O,X,X,T,T,  	S	2017-08-31 09:05:39	20	who?
+1470	YI0038_00		S	2017-08-31 08:54:11	0	hello!
+1471	YI0038_01		U	2017-08-31 08:54:47	1	hey, how are you?
+1472	YI0038_02	  O,O,O,O,O,O,T,T,T,T,O,T,O,T,T,T,O,T,O,O,T,O,O,T,T,T,O,T,O,T,  	S	2017-08-31 08:54:47	2	good.
+1473	YI0038_03		U	2017-08-31 08:56:01	3	do you fly often? this is my first time flying.
+1474	YI0038_04	  O,X,O,O,O,O,X,T,T,T,O,X,T,T,X,T,O,T,O,O,X,T,O,T,O,T,O,O,T,T,  	S	2017-08-31 08:56:01	4	come on.
+1475	YI0038_05		U	2017-08-31 08:56:44	5	where are you going?
+1476	YI0038_06	  O,O,X,O,O,O,O,T,X,T,T,O,O,T,X,T,O,T,T,T,T,O,O,T,T,T,T,T,O,T,  	S	2017-08-31 08:56:44	6	i don t know.
+1477	YI0038_07		U	2017-08-31 08:57:19	7	are you lost?
+1478	YI0038_08	  O,O,T,O,O,O,X,T,T,T,O,X,T,T,X,T,O,T,O,T,X,O,O,T,T,T,T,O,O,T,  	S	2017-08-31 08:57:19	8	no.
+1479	YI0038_09		U	2017-08-31 08:57:47	9	do you know where you are?
+1480	YI0038_10	  O,O,T,O,O,O,T,T,X,T,O,O,O,T,X,T,O,T,X,T,X,X,O,T,T,T,T,O,O,T,  	S	2017-08-31 08:57:47	10	no.
+1481	YI0038_11		U	2017-08-31 08:58:07	11	so you are lost.
+1482	YI0038_12	  O,O,X,O,O,T,O,T,X,T,O,O,T,T,X,X,X,T,X,O,X,T,O,T,T,T,X,T,T,T,  	S	2017-08-31 08:58:07	12	 i can t answer  let s talk about...
+1483	YI0038_13		U	2017-08-31 08:58:31	13	what do you want to talk about?
+1484	YI0038_14	  O,T,T,O,O,T,X,T,X,X,T,O,O,T,X,X,O,T,X,O,X,T,O,X,T,O,X,O,X,T,  	S	2017-08-31 08:58:31	14	what?
+1485	YI0038_15		U	2017-08-31 08:59:08	15	do you think this flight is comfortable?
+1486	YI0038_16	  O,O,T,O,O,O,O,T,T,T,O,X,T,T,T,T,O,T,O,O,O,O,O,T,O,T,O,O,O,T,  	S	2017-08-31 08:59:08	16	yes.
+1487	YI0038_17		U	2017-08-31 08:59:41	17	i wish the plane flew faster.
+1488	YI0038_18	  O,X,X,O,O,X,O,T,X,T,T,T,O,T,X,T,O,T,X,O,X,X,O,T,X,T,O,O,X,T,  	S	2017-08-31 08:59:41	18	there is no evidence of collusion.
+1489	YI0038_19		U	2017-08-31 08:59:54	19	what collusion are you talking about?
+1490	YI0038_20	  O,X,X,O,O,X,T,T,X,T,X,O,T,T,X,T,O,T,T,O,T,X,O,T,O,T,T,O,X,T,  	S	2017-08-31 08:59:54	20	lock them up
+1491	YI0075_00		S	2017-08-31 09:18:07	0	hello!
+1492	YI0075_01		U	2017-08-31 09:18:18	1	good evening!
+1493	YI0075_02	  O,T,O,T,O,T,T,T,T,T,T,O,T,O,T,O,T,O,O,O,O,O,X,X,O,T,T,O,O,O,  	S	2017-08-31 09:18:18	2	good evening!
+1494	YI0075_03		U	2017-08-31 09:18:28	3	eat anything good for dinner?
+1495	YI0075_04	  O,T,O,T,O,X,O,X,T,T,T,X,T,T,T,O,T,O,T,O,O,X,X,T,X,T,T,T,T,O,  	S	2017-08-31 09:18:28	4	 its beyond my possibilities  let s talk about myself.
+1496	YI0075_05		U	2017-08-31 09:18:40	5	sounds good to me. what color is your hair?
+1497	YI0075_06	  O,T,T,T,O,T,O,O,X,T,T,T,X,T,T,O,O,T,T,T,O,X,X,O,X,T,T,T,X,O,  	S	2017-08-31 09:18:40	6	huh?
+1498	YI0075_07		U	2017-08-31 09:18:57	7	haha. do you like to play any video games?
+1499	YI0075_08	  T,T,T,T,O,T,O,T,X,T,T,X,X,T,T,O,T,X,T,T,O,T,X,T,T,T,T,T,X,O,  	S	2017-08-31 09:18:57	8	what a joke
+1500	YI0075_09		U	2017-08-31 09:19:09	9	you think video games are a joke?
+1501	YI0075_10	  O,T,T,X,O,T,O,X,T,T,T,O,T,T,T,O,T,O,T,T,O,X,X,X,T,T,T,T,O,O,  	S	2017-08-31 09:19:09	10	 i can t answer. i would like to discuss cats.
+1502	YI0075_11		U	2017-08-31 09:19:23	11	okay! i love little orange cats
+1503	YI0075_12	  O,T,O,T,T,O,T,O,T,T,T,T,T,T,T,O,T,T,O,O,O,O,X,T,T,T,T,T,O,O,  	S	2017-08-31 09:19:23	12	lol
+1504	YI0075_13		U	2017-08-31 09:19:35	13	whats so funny about that?
+1505	YI0075_14	  O,T,O,T,T,X,O,O,X,T,T,X,X,T,T,O,T,T,T,X,O,X,X,X,X,T,T,T,T,O,  	S	2017-08-31 09:19:35	14	what a joke
+1506	YI0075_15		U	2017-08-31 09:19:46	15	do you like black cats?
+1507	YI0075_16	  O,T,O,T,T,T,T,X,X,O,T,O,T,O,T,O,T,O,O,O,O,O,O,T,O,T,T,T,O,O,  	S	2017-08-31 09:19:46	16	no.
+1508	YI0075_17		U	2017-08-31 09:19:57	17	what about little puppy dogs
+1509	YI0075_18	  X,T,X,T,T,T,O,T,X,T,T,X,X,X,T,O,T,X,T,X,O,X,T,T,T,T,T,T,T,T,  	S	2017-08-31 09:19:57	18	what a bunch of idiots
+1510	YI0075_19		U	2017-08-31 09:20:10	19	dogs are pretty smart i think!
+1511	YI0075_20	  O,T,O,T,T,O,T,X,T,T,T,T,T,T,T,O,T,O,T,T,O,X,X,X,X,T,T,O,O,O,  	S	2017-08-31 09:20:10	20	i don t understand  its beyond my possibilities  let s talk about myself)
+1512	YI0041_00		S	2017-08-31 08:53:35	0	hello!
+1513	YI0041_01		U	2017-08-31 08:54:25	1	hey, how are you?
+1514	YI0041_02	  T,O,O,O,T,T,O,T,O,T,O,O,O,T,O,X,O,T,T,O,T,O,O,X,O,O,O,T,T,T,  	S	2017-08-31 08:54:25	2	good.
+1515	YI0041_03		U	2017-08-31 08:55:34	3	what is your favorite animal?
+1516	YI0041_04	  T,X,O,T,T,T,X,T,X,O,X,X,T,T,T,T,O,T,X,X,O,X,T,T,X,X,T,T,T,T,  	S	2017-08-31 08:55:34	4	i don t know what they are protesting.
+1517	YI0041_05		U	2017-08-31 08:57:16	5	animals protesting?? that is a scary thought!
+1518	YI0041_06	  T,T,O,X,T,T,O,T,O,X,T,X,T,T,X,T,O,T,T,X,X,O,T,T,X,O,O,T,T,T,  	S	2017-08-31 08:57:16	6	i don t care what they are doing.
+1519	YI0041_07		U	2017-08-31 08:57:58	7	well, what is the weather like where you are?
+1520	YI0041_08	  T,X,T,X,T,T,X,T,X,T,X,T,X,O,O,T,O,T,T,T,T,X,X,T,X,T,T,T,T,T,  	S	2017-08-31 08:57:58	8	what a joke.
+1521	YI0041_09		U	2017-08-31 08:58:56	9	i guess the weather is bad over there then, huh?
+1522	YI0041_10	  T,X,O,X,T,T,X,T,O,T,X,T,X,O,T,O,O,T,T,X,O,X,X,T,X,T,O,T,T,T,  	S	2017-08-31 08:58:56	10	what a joke.
+1523	YI0041_11		U	2017-08-31 08:59:20	11	sorry to hear that!
+1524	YI0041_12	  O,O,T,T,T,T,O,T,O,X,T,T,X,O,X,X,O,T,T,O,T,T,X,T,T,O,O,T,T,T,  	S	2017-08-31 08:59:20	12	i can t answer! i would like to discuss news!
+1525	YI0041_13		U	2017-08-31 08:59:50	13	sure! what country are you in?
+1526	YI0041_14	  T,O,O,O,T,T,O,T,O,X,O,O,T,O,O,X,O,T,T,O,T,O,X,T,X,O,X,T,T,T,  	S	2017-08-31 08:59:50	14	britannia.
+1527	YI0041_15		U	2017-08-31 09:00:11	15	are you happy with the politics in britannia?
+1528	YI0041_16	  T,X,O,T,T,T,O,T,O,T,O,T,O,O,T,T,O,T,T,T,O,O,T,T,X,O,X,T,T,T,  	S	2017-08-31 09:00:11	16	they should be charged with treason.
+1529	YI0041_17		U	2017-08-31 09:00:48	17	yikes! i can relate to you.
+1530	YI0041_18	  T,X,O,O,T,T,O,T,T,T,T,T,T,O,X,X,O,T,T,X,T,X,X,T,X,O,O,T,T,T,  	S	2017-08-31 09:00:48	18	what a joke!
+1531	YI0041_19		U	2017-08-31 09:01:42	19	do you have a favorite food?
+1532	YI0041_20	  T,O,T,O,T,T,O,T,O,T,O,O,O,O,O,X,O,T,T,O,T,O,X,T,X,O,O,T,T,T,  	S	2017-08-31 09:01:42	20	no.
+1533	YI0003_00		S	2017-08-30 16:46:03	0	hello!
+1534	YI0003_01		U	2017-08-30 16:47:46	1	hai, how are you
+1535	YI0003_02	  T,T,T,O,O,T,O,O,X,T,O,O,O,O,O,O,O,T,O,O,O,T,T,T,O,T,X,O,O,T,  	S	2017-08-30 16:47:46	2	how are you?
+1536	YI0003_03		U	2017-08-30 16:48:15	3	ya, i am fine and you 
+1537	YI0003_04	  T,X,T,O,O,T,O,T,X,T,T,O,T,O,O,O,O,T,O,O,O,T,T,O,O,X,T,O,O,O,  	S	2017-08-30 16:48:15	4	what are you doing?
+1538	YI0003_05		U	2017-08-30 16:49:45	5	i am chatting with you 
+1539	YI0003_06	  X,X,T,O,O,T,T,X,T,T,O,O,X,T,O,T,T,X,O,T,T,X,T,O,O,T,X,X,T,X,  	S	2017-08-30 16:49:45	6	don t worry.
+1540	YI0003_07		U	2017-08-30 16:50:02	7	okay, i am cool
+1541	YI0003_08	  O,X,T,O,O,T,O,X,O,T,O,O,O,T,O,O,O,X,O,O,T,X,T,O,O,T,X,O,O,O,  	S	2017-08-30 16:50:02	8	cool
+1542	YI0003_09		U	2017-08-30 16:50:40	9	what are you doing?
+1543	YI0003_10	  X,X,T,O,O,T,T,X,X,T,O,O,T,O,O,T,T,X,T,T,O,O,T,T,T,T,X,X,X,X,  	S	2017-08-30 16:50:40	10	what are you doing?
+1544	YI0003_11		U	2017-08-30 16:51:29	11	i do my work 
+1545	YI0003_12	  X,X,X,O,O,T,T,X,X,T,O,O,X,O,O,T,T,X,T,O,O,O,T,O,T,X,T,X,O,T,  	S	2017-08-30 16:51:29	12	what?
+1546	YI0003_13		U	2017-08-30 16:51:45	13	i do my study 
+1547	YI0003_14	  T,T,X,O,O,T,T,X,T,T,X,O,O,T,O,T,T,X,T,O,T,X,T,T,T,T,X,X,T,X,  	S	2017-08-30 16:51:45	14	come on
+1548	YI0003_15		U	2017-08-30 16:52:43	15	where are you from?
+1549	YI0003_16	  O,T,T,O,O,T,O,X,O,T,O,O,T,T,O,O,O,T,O,O,T,O,T,O,O,T,O,O,O,O,  	S	2017-08-30 16:52:43	16	i m from umbria, near perugia.
+1550	YI0003_17		U	2017-08-30 16:53:10	17	wow, super
+1551	YI0003_18	  X,X,T,O,O,T,T,X,T,T,O,O,X,T,O,O,T,X,O,T,T,T,T,T,X,T,X,X,T,T,  	S	2017-08-30 16:53:10	18	what a joke.
+1552	YI0003_19		U	2017-08-30 16:54:41	19	why, i like umbria and i think that is very beautiful place to live 
+1553	YI0003_20	  X,X,T,O,O,T,O,X,O,T,O,O,O,T,O,T,T,X,O,T,O,T,T,X,O,T,X,O,O,T,  	S	2017-08-30 16:54:41	20	i can t wait to see this.
+1554	YI0072_00		S	2017-08-31 09:06:17	0	hello!
+1555	YI0072_01		U	2017-08-31 09:06:40	1	hi, i am rajkumar from india
+1556	YI0072_02	  O,T,T,O,O,O,O,O,O,O,T,O,O,O,T,X,O,O,O,X,O,O,T,O,T,O,T,O,O,O,  	S	2017-08-31 09:06:40	2	what are you doing?
+1557	YI0072_03		U	2017-08-31 09:07:24	3	i working in a manufacturing company.
+1558	YI0072_04	  O,X,T,O,T,T,O,T,O,O,O,T,O,O,X,X,O,O,T,T,O,T,T,O,T,O,T,T,O,T,  	S	2017-08-31 09:07:24	4	what?
+1559	YI0072_05		U	2017-08-31 09:08:33	5	nothing, let we talk about some news. 
+1560	YI0072_06	  O,T,T,O,T,O,O,X,O,O,O,T,O,O,T,X,T,O,O,X,X,T,T,O,T,O,T,T,O,O,  	S	2017-08-31 09:08:33	6	what news?
+1561	YI0072_07		U	2017-08-31 09:10:47	7	do you know about myanmar is military has found crashed plane.
+1562	YI0072_08	  O,X,T,O,O,O,O,X,T,O,T,O,X,T,T,T,X,O,O,T,T,T,T,O,T,O,X,O,O,O,  	S	2017-08-31 09:10:47	8	so sad
+1563	YI0072_09		U	2017-08-31 09:11:40	9	120 peoples were missed and several bodies only found.
+1564	YI0072_10	  O,O,T,O,O,O,O,X,T,O,T,T,O,T,T,T,T,O,O,T,X,T,T,O,T,O,T,O,O,O,  	S	2017-08-31 09:11:40	10	so sad
+1565	YI0072_11		U	2017-08-31 09:12:32	11	including 15 children
+1566	YI0072_12	  O,X,T,O,X,T,O,X,T,T,T,O,O,T,X,O,O,T,T,T,T,X,T,O,T,T,X,O,T,O,  	S	2017-08-31 09:12:32	12	 i can t answer. i would like to discuss you!
+1567	YI0072_13		U	2017-08-31 09:13:18	13	three army officers were also killed in june when their mi2 helicopter crashed into a hillside and burst into flames in southcentral bago
+1568	YI0072_14	  T,X,T,O,X,T,O,X,T,T,O,T,O,T,X,T,T,O,X,T,O,T,T,X,T,X,T,O,X,X,  	S	2017-08-31 09:13:18	14	
+1569	YI0072_15		U	2017-08-31 09:14:04	15	in this year lot of planes are crashed.
+1570	YI0072_16	  T,T,T,O,X,T,O,X,T,T,T,O,T,T,X,O,T,O,X,T,X,X,T,O,T,X,X,O,X,X,  	S	2017-08-31 09:14:04	16	its beyond my possibilities. let s talk about...!
+1571	YI0072_17		U	2017-08-31 09:15:02	17	ok whats is your beyond possibilities. tell me more about it
+1572	YI0072_18	  O,X,T,O,X,X,O,X,T,T,T,T,X,O,X,T,O,O,T,T,T,X,T,O,T,X,T,O,X,X,  	S	2017-08-31 09:15:02	18	what a joke.
+1573	YI0072_19		U	2017-08-31 09:16:01	19	trump is a joke
+1574	YI0072_20	  O,T,T,T,X,T,O,X,T,T,T,T,X,T,X,T,T,T,X,T,O,T,T,O,T,X,T,T,X,X,  	S	2017-08-31 09:16:01	20	i can t wait to see this.
+1575	YI0065_00		S	2017-08-31 09:05:12	0	hello!
+1576	YI0065_01		U	2017-08-31 09:05:26	1	hi!
+1577	YI0065_02	  T,O,O,T,O,O,T,O,T,O,O,X,O,O,O,O,O,T,T,O,T,O,T,O,O,T,T,T,O,X,  	S	2017-08-31 09:05:26	2	hi.
+1578	YI0065_03		U	2017-08-31 09:05:40	3	how are you today?
+1579	YI0065_04	  O,O,T,T,O,O,T,O,T,O,O,O,O,T,O,O,O,T,T,O,O,O,T,O,T,O,T,T,O,T,  	S	2017-08-31 09:05:40	4	fine.
+1580	YI0065_05		U	2017-08-31 09:05:54	5	what is your name?
+1581	YI0065_06	  O,O,O,T,O,O,T,O,T,O,O,O,O,T,O,O,O,T,T,O,O,O,T,O,X,O,T,T,O,T,  	S	2017-08-31 09:05:54	6	amoroso renato.
+1582	YI0065_07		U	2017-08-31 09:06:19	7	that is a pretty cool name, amoroso
+1583	YI0065_08	  T,T,T,T,O,O,T,X,T,O,T,X,T,O,T,T,X,T,T,O,O,T,T,X,O,X,T,T,T,T,  	S	2017-08-31 09:06:19	8	this is what happens when you go to jail.
+1584	YI0065_09		U	2017-08-31 09:06:33	9	they give you a cool name? 
+1585	YI0065_10	  O,O,O,T,O,O,T,X,T,O,O,O,O,T,X,O,O,T,O,T,T,O,T,O,X,T,T,T,T,T,  	S	2017-08-31 09:06:33	10	yeah.
+1586	YI0065_11		U	2017-08-31 09:06:48	11	did you have a different name before going to jail?
+1587	YI0065_12	  T,X,T,T,O,O,T,X,T,O,O,O,O,T,X,T,O,T,X,T,O,X,T,T,O,T,T,T,T,X,  	S	2017-08-31 09:06:48	12	no
+1588	YI0065_13		U	2017-08-31 09:07:08	13	what were you in jail for?
+1589	YI0065_14	  X,O,O,T,O,T,T,X,T,O,O,T,O,O,O,T,O,T,T,T,O,T,T,O,X,T,T,T,T,T,  	S	2017-08-31 09:07:08	14	nothing.
+1590	YI0065_15		U	2017-08-31 09:07:26	15	so why were you in jail?
+1591	YI0065_16	  X,O,T,T,O,T,T,T,T,T,O,T,T,X,X,T,O,T,O,T,T,T,T,O,T,T,T,T,T,T,  	S	2017-08-31 09:07:26	16	i don t know.
+1592	YI0065_17		U	2017-08-31 09:07:47	17	how long were you in jail?
+1593	YI0065_18	  O,O,O,T,O,O,T,T,T,O,O,O,O,T,T,X,O,T,T,T,O,X,T,O,X,T,T,T,O,T,  	S	2017-08-31 09:07:47	18	a year.
+1594	YI0065_19		U	2017-08-31 09:08:06	19	are you happy you are out of jail now?
+1595	YI0065_20	  X,X,T,T,O,X,T,T,T,O,X,X,X,O,O,T,X,T,T,T,O,O,O,X,T,T,T,T,T,T,  	S	2017-08-31 09:08:06	20	lock him up
+1596	YI0045_00		S	2017-08-31 08:44:09	0	hello!
+1597	YI0045_01		U	2017-08-31 08:45:18	1	hello, my name is danny
+1598	YI0045_02	  O,O,O,O,X,X,T,O,X,T,X,O,T,T,T,T,X,O,X,O,X,O,O,T,X,X,X,O,X,O,  	S	2017-08-31 08:45:18	2	why????
+1599	YI0045_03		U	2017-08-31 08:46:08	3	hello, my name is danny
+1600	YI0045_04	  O,T,O,X,X,X,T,O,T,X,X,O,X,T,T,T,T,T,X,O,X,T,O,T,X,T,X,T,X,T,  	S	2017-08-31 08:46:08	4	what a joke.
+1601	YI0045_05		U	2017-08-31 08:47:23	5	it wasn not a joke haha
+1602	YI0045_06	  T,O,O,X,X,T,T,O,X,X,X,O,T,T,T,T,T,T,X,O,X,T,O,T,T,T,X,X,X,T,  	S	2017-08-31 08:47:23	6	what a joke
+1603	YI0045_07		U	2017-08-31 08:48:56	7	so what have you been up to today?
+1604	YI0045_08	  T,T,O,T,O,X,T,T,O,O,O,O,X,T,T,T,T,T,O,O,O,T,O,T,T,T,X,O,T,T,  	S	2017-08-31 08:48:56	8	nothing.
+1605	YI0045_09		U	2017-08-31 08:50:04	9	that actually sounds pretty boring. 
+1606	YI0045_10	  X,O,O,X,X,T,T,O,X,T,X,O,X,T,T,X,T,T,X,O,T,T,O,T,T,T,X,X,X,T,  	S	2017-08-31 08:50:04	10	this is what happens when you don t like it.
+1607	YI0045_11		U	2017-08-31 08:51:27	11	what don not you like?
+1608	YI0045_12	  X,T,O,X,T,T,T,O,T,T,X,X,T,T,T,X,T,T,X,T,X,T,O,T,X,T,X,X,X,T,  	S	2017-08-31 08:51:27	12	i can t wait to see what happens.
+1609	YI0045_13		U	2017-08-31 08:53:19	13	i can not wait to find a new job. 
+1610	YI0045_14	  X,O,O,X,T,T,T,O,T,T,T,T,X,T,T,X,T,T,T,O,O,T,O,T,O,T,X,X,X,T,  	S	2017-08-31 08:53:19	14	this is what happens when you get a job.
+1611	YI0045_15		U	2017-08-31 08:59:23	15	i know, but it is pretty hard
+1612	YI0045_16	  T,T,O,X,X,T,T,O,X,T,X,O,X,T,T,T,T,T,T,O,X,T,O,T,X,T,X,X,T,T,  	S	2017-08-31 08:59:23	16	what a joke.
+1613	YI0045_17		U	2017-08-31 09:01:36	17	it wasn not a joke. 
+1614	YI0045_18	  X,O,O,X,T,T,X,O,O,X,X,T,T,T,T,T,T,T,O,O,O,T,O,T,T,T,T,T,O,T,  	S	2017-08-31 09:01:36	18	i can t answer. i would like to discuss movies)
+1615	YI0045_19		U	2017-08-31 09:02:42	19	sure, what is your favorite movie genre?
+1616	YI0045_20	  X,T,O,X,X,X,T,T,X,X,X,T,X,T,T,T,T,T,X,O,X,T,O,T,X,T,X,X,X,T,  	S	2017-08-31 09:02:42	20	i m not surprised.
+1617	YI0063_00		S	2017-08-31 08:54:12	0	hello!
+1618	YI0063_01		U	2017-08-31 08:54:59	1	good evening.
+1619	YI0063_02	  O,X,X,O,T,T,T,O,O,O,T,T,X,T,T,O,T,O,X,T,O,T,T,O,O,O,O,O,O,T,  	S	2017-08-31 08:54:59	2	good evening.
+1620	YI0063_03		U	2017-08-31 08:55:51	3	how are you doing tonight?
+1621	YI0063_04	  O,X,O,O,T,O,T,T,O,X,T,T,T,T,X,T,O,T,X,X,O,T,T,O,O,X,T,T,X,O,  	S	2017-08-31 08:55:51	4	good evening.
+1622	YI0063_05		U	2017-08-31 08:56:51	5	are you having a pleasant night?
+1623	YI0063_06	  O,T,X,O,O,X,X,O,O,T,T,O,O,T,T,X,O,T,X,T,O,T,T,O,O,X,X,X,O,O,  	S	2017-08-31 08:56:51	6	 its beyond my possibilities! i would like to discuss you!
+1624	YI0063_07		U	2017-08-31 08:57:50	7	i am  having a great night.
+1625	YI0063_08	  T,T,O,O,T,X,X,O,O,X,T,T,O,T,T,O,O,O,X,X,T,T,T,O,O,X,O,X,O,O,  	S	2017-08-31 08:57:50	8	i can t wait to see the new york times.
+1626	YI0063_09		U	2017-08-31 08:59:58	9	i enjoy the new york times as well.
+1627	YI0063_10	  X,X,T,T,T,T,X,X,O,X,T,T,O,T,X,T,O,T,X,X,T,T,T,T,T,X,T,X,O,O,  	S	2017-08-31 08:59:58	10	he s an idiot.
+1628	YI0063_11		U	2017-08-31 09:00:56	11	who are you referring to?
+1629	YI0063_12	  O,T,T,T,T,X,X,X,O,T,T,T,O,T,T,X,T,O,X,T,T,X,T,X,T,O,X,T,O,T,  	S	2017-08-31 09:00:56	12	i don t know.
+1630	YI0063_13		U	2017-08-31 09:02:56	13	do you enjoy music?
+1631	YI0063_14	  O,O,X,O,T,T,T,O,O,O,T,T,O,T,T,O,O,O,X,O,T,T,T,O,O,O,O,O,T,O,  	S	2017-08-31 09:02:56	14	yes.
+1632	YI0063_15		U	2017-08-31 09:03:44	15	what type of music do you like?
+1633	YI0063_16	  O,T,O,O,T,X,X,T,O,O,T,T,O,T,X,T,O,T,X,T,T,T,T,T,O,O,T,O,T,T,  	S	2017-08-31 09:03:44	16	i don t know.
+1634	YI0063_17		U	2017-08-31 09:05:01	17	what is your name?
+1635	YI0063_18	  O,O,T,O,T,T,T,O,O,O,T,T,O,T,T,X,T,O,X,O,T,T,T,O,O,O,X,O,O,O,  	S	2017-08-31 09:05:01	18	amoroso renato.
+1636	YI0063_19		U	2017-08-31 09:05:56	19	it is nice to meet you, amoroso renato.
+1637	YI0063_20	  X,X,T,X,O,O,T,X,O,X,T,T,O,T,T,O,O,T,X,X,T,T,T,X,O,X,O,X,T,O,  	S	2017-08-31 09:05:56	20	what a bunch of pussies!
+1638	YI0046_00		S	2017-08-31 08:56:28	0	hello!
+1639	YI0046_01		U	2017-08-31 08:57:17	1	hi there!
+1640	YI0046_02	  T,O,O,T,T,O,T,O,T,O,X,O,O,O,T,O,T,O,O,T,T,O,T,T,T,O,O,T,T,T,  	S	2017-08-31 08:57:17	2	hello!
+1641	YI0046_03		U	2017-08-31 08:57:38	3	hi there!
+1642	YI0046_04	  T,O,T,T,T,T,X,O,T,T,X,X,O,X,T,O,T,X,X,X,T,O,T,T,T,O,T,T,T,T,  	S	2017-08-31 08:57:38	4	its beyond my possibilities. let s talk about...
+1643	YI0046_05		U	2017-08-31 08:58:23	5	what would you like to talk about/
+1644	YI0046_06	  X,O,X,T,T,O,X,O,T,T,X,X,O,X,T,T,T,X,O,X,T,O,T,O,T,O,X,T,T,T,  	S	2017-08-31 08:58:23	6	to protect you
+1645	YI0046_07		U	2017-08-31 08:59:22	7	protect me from what?
+1646	YI0046_08	  X,T,O,T,T,T,X,O,T,X,T,X,O,X,T,T,T,X,O,X,T,O,T,O,T,O,X,T,T,T,  	S	2017-08-31 08:59:22	8	protect me
+1647	YI0046_09		U	2017-08-31 09:00:08	9	are you going to harm me?
+1648	YI0046_10	  X,T,X,T,T,O,O,O,T,O,T,O,O,T,T,O,T,O,O,T,T,O,T,T,T,O,O,X,X,T,  	S	2017-08-31 09:00:08	10	no.
+1649	YI0046_11		U	2017-08-31 09:00:26	11	why do i need protection from you then?
+1650	YI0046_12	  T,X,X,T,T,T,X,O,T,O,X,T,O,T,T,O,T,T,T,X,T,T,T,T,T,O,T,T,T,T,  	S	2017-08-31 09:00:26	12	i don t know.
+1651	YI0046_13		U	2017-08-31 09:01:13	13	but you said that i need protection from you.
+1652	YI0046_14	  X,T,O,T,O,O,X,O,O,X,X,T,O,X,T,T,O,X,T,X,T,T,T,O,T,O,T,T,O,T,  	S	2017-08-31 09:01:13	14	what?
+1653	YI0046_15		U	2017-08-31 09:01:38	15	this is confusing
+1654	YI0046_16	  X,X,T,T,T,T,X,O,T,X,O,T,O,X,T,X,X,X,T,X,T,T,T,T,T,O,X,T,T,T,  	S	2017-08-31 09:01:38	16	liar
+1655	YI0046_17		U	2017-08-31 09:02:34	17	i am not a liar
+1656	YI0046_18	  X,O,X,T,T,O,X,O,T,X,T,X,O,X,T,X,T,X,X,X,T,X,T,T,T,O,T,T,T,T,  	S	2017-08-31 09:02:34	18	he is a joke.
+1657	YI0046_19		U	2017-08-31 09:03:00	19	who is a joke?
+1658	YI0046_20	  X,T,O,T,T,T,X,O,O,X,O,X,O,X,T,X,T,X,T,X,T,T,T,X,T,O,X,X,T,T,  	S	2017-08-31 09:03:00	20	what a joke
+1659	YI0095_00		S	2017-08-31 09:57:28	0	hello!
+1660	YI0095_01		U	2017-08-31 09:57:40	1	hello, how are you?
+1661	YI0095_02	  O,O,O,O,X,T,O,O,T,T,O,O,T,T,X,O,T,O,O,T,T,T,T,O,T,O,T,T,T,O,  	S	2017-08-31 09:57:40	2	hello.
+1662	YI0095_03		U	2017-08-31 09:57:58	3	my name is silver. what is your name?
+1663	YI0095_04	  O,O,T,O,O,T,O,O,O,O,O,O,O,T,O,O,T,O,O,T,T,T,O,O,T,O,O,O,T,O,  	S	2017-08-31 09:57:58	4	antoninus.
+1664	YI0095_05		U	2017-08-31 09:58:16	5	that is a cool name. what country are you from?
+1665	YI0095_06	  T,O,X,X,X,T,O,O,X,X,O,T,T,T,X,X,T,O,T,T,T,T,X,T,T,X,X,X,T,X,  	S	2017-08-31 09:58:16	6	i m not surprised.
+1666	YI0095_07		U	2017-08-31 09:58:53	7	i live in the united states. where do you live?
+1667	YI0095_08	  O,O,T,T,O,T,O,O,T,O,O,O,O,T,O,O,T,O,X,T,T,T,O,O,T,O,O,O,T,O,  	S	2017-08-31 09:58:53	8	in the bronx.
+1668	YI0095_09		U	2017-08-31 09:59:10	9	do you go to school?
+1669	YI0095_10	  O,O,T,O,O,T,O,O,O,O,O,O,O,T,O,O,T,O,T,T,T,T,O,O,T,O,O,O,T,O,  	S	2017-08-31 09:59:10	10	yes.
+1670	YI0095_11		U	2017-08-31 09:59:26	11	what are you studying in school?
+1671	YI0095_12	  O,O,O,X,X,T,O,O,T,X,O,O,T,T,X,T,T,O,T,T,T,T,X,T,T,X,X,X,T,X,  	S	2017-08-31 09:59:26	12	i m school.
+1672	YI0095_13		U	2017-08-31 09:59:39	13	do you have a job?
+1673	YI0095_14	  O,O,T,T,O,T,O,O,T,O,O,O,O,T,O,O,T,O,X,T,T,T,O,O,T,O,O,O,T,O,  	S	2017-08-31 09:59:39	14	yes.
+1674	YI0095_15		U	2017-08-31 09:59:50	15	where do you work?
+1675	YI0095_16	  O,O,O,T,X,T,O,O,X,X,O,T,T,T,X,X,T,O,T,T,T,T,X,T,T,X,X,X,T,X,  	S	2017-08-31 09:59:50	16	yeah.
+1676	YI0095_17		U	2017-08-31 10:00:10	17	how many years have you been working at your job?
+1677	YI0095_18	  X,O,O,X,T,T,O,O,X,T,O,X,O,X,X,T,T,O,X,T,O,X,T,T,T,O,X,X,T,T,  	S	2017-08-31 10:00:10	18	what?
+1678	YI0095_19		U	2017-08-31 10:00:26	19	how long have you been working?
+1679	YI0095_20	  X,O,O,T,O,T,O,O,T,O,O,O,O,T,O,O,T,O,T,T,T,T,T,O,T,O,O,O,T,O,  	S	2017-08-31 10:00:26	20	not long.
+1680	YI0059_00		S	2017-08-31 09:03:07	0	hello!
+1681	YI0059_01		U	2017-08-31 09:03:26	1	hello. how are you? 
+1682	YI0059_02	  O,T,T,O,O,O,X,O,O,O,T,O,T,O,O,T,O,X,O,O,O,T,O,O,T,T,O,O,O,T,  	S	2017-08-31 09:03:26	2	good.
+1683	YI0059_03		U	2017-08-31 09:03:35	3	what do you do for work? 
+1684	YI0059_04	  T,T,T,T,O,X,T,O,T,O,T,O,T,T,T,T,O,O,T,O,T,T,O,T,O,T,T,O,T,T,  	S	2017-08-31 09:03:35	4	i don t know.
+1685	YI0059_05		U	2017-08-31 09:03:46	5	what is your favorite color? 
+1686	YI0059_06	  T,T,O,T,O,X,T,O,T,O,T,O,T,T,T,T,O,O,T,O,X,T,O,T,T,T,O,O,T,T,  	S	2017-08-31 09:03:46	6	i don t know.
+1687	YI0059_07		U	2017-08-31 09:04:03	7	what about your favorite music? 
+1688	YI0059_08	  X,T,O,O,O,X,O,O,T,O,O,O,T,T,O,T,O,X,O,O,X,T,O,X,O,T,X,T,T,T,  	S	2017-08-31 09:04:03	8	its beyond my possibilities. i would like to talk about you!
+1689	YI0059_09		U	2017-08-31 09:04:24	9	i don not know what i could tell you. what would you like to know? 
+1690	YI0059_10	  X,T,T,T,T,X,T,O,O,T,T,O,T,T,T,T,T,X,O,O,O,T,O,T,X,T,X,X,T,T,  	S	2017-08-31 09:04:24	10	i m not surprised.
+1691	YI0059_11		U	2017-08-31 09:04:35	11	why would you say that? 
+1692	YI0059_12	  T,T,T,T,O,X,T,O,O,O,T,O,T,T,X,T,T,X,T,O,X,T,O,T,O,T,O,O,T,T,  	S	2017-08-31 09:04:35	12	i don t know.
+1693	YI0059_13		U	2017-08-31 09:04:53	13	you seem very confused. are you alright? 
+1694	YI0059_14	  O,T,T,O,O,X,X,O,O,O,T,O,T,T,T,T,T,X,O,O,O,T,O,T,T,T,T,O,T,T,  	S	2017-08-31 09:04:53	14	yes.
+1695	YI0059_15		U	2017-08-31 09:05:17	15	okay, just making sure. where are you flying from? 
+1696	YI0059_16	  O,T,T,T,O,X,T,O,T,O,T,O,T,T,X,T,T,X,T,O,T,T,O,T,O,T,X,O,T,T,  	S	2017-08-31 09:05:17	16	i don t know.
+1697	YI0059_17		U	2017-08-31 09:05:37	17	what is your opinion on donald trump? 
+1698	YI0059_18	  T,T,T,O,O,X,T,O,O,O,T,O,T,T,O,T,T,X,O,T,O,T,T,O,X,T,O,O,O,T,  	S	2017-08-31 09:05:37	18	he s a disgrace to the country.
+1699	YI0059_19		U	2017-08-31 09:06:01	19	now that is definitely something we can agree on. shocking that you said that though. what about mike pence? 
+1700	YI0059_20	  T,T,T,O,O,X,O,O,O,O,T,O,X,T,O,T,O,X,O,O,O,T,T,O,O,T,T,O,O,T,  	S	2017-08-31 09:06:01	20	pence is complicit.
+1701	YI0001_00		S	2017-08-30 16:48:20	0	hello!
+1702	YI0001_01		U	2017-08-30 16:48:46	1	hi!
+1703	YI0001_02	  O,O,O,O,T,O,O,T,O,T,X,T,T,O,O,T,X,T,T,O,O,T,T,T,T,O,T,O,O,T,  	S	2017-08-30 16:48:46	2	hi.
+1704	YI0001_03		U	2017-08-30 16:48:58	3	what is up?
+1705	YI0001_04	  O,X,O,T,T,O,O,X,O,T,X,T,T,O,T,T,T,T,T,T,T,X,T,T,T,T,O,O,X,T,  	S	2017-08-30 16:48:58	4	i don t know what happened to me
+1706	YI0001_05		U	2017-08-30 16:49:07	5	what do you mean?
+1707	YI0001_06	  T,T,O,X,X,O,T,O,O,T,O,O,T,O,T,T,X,T,X,T,O,X,T,T,T,T,T,O,X,T,  	S	2017-08-30 16:49:07	6	i don t know.
+1708	YI0001_07		U	2017-08-30 16:49:17	7	what is your name?
+1709	YI0001_08	  X,X,O,X,T,O,T,X,T,T,X,O,T,O,T,T,X,T,O,T,T,X,T,T,T,X,O,T,T,T,  	S	2017-08-30 16:49:17	8	i don t know what s going on.
+1710	YI0001_09		U	2017-08-30 16:49:27	9	are you okay?
+1711	YI0001_10	  O,O,O,T,T,O,T,O,O,T,O,O,T,O,T,T,T,T,T,O,O,T,T,T,T,O,O,O,X,T,  	S	2017-08-30 16:49:27	10	yeah.
+1712	YI0001_11		U	2017-08-30 16:49:34	11	did you die?
+1713	YI0001_12	  X,X,O,T,T,O,T,X,X,T,O,O,T,O,X,X,X,T,O,T,O,X,T,T,T,O,O,T,X,T,  	S	2017-08-30 16:49:34	12	yes.
+1714	YI0001_13		U	2017-08-30 16:49:43	13	so you are dead?
+1715	YI0001_14	  X,O,O,T,T,O,T,X,X,T,O,O,T,O,X,X,O,T,O,T,O,X,T,T,T,T,O,O,X,T,  	S	2017-08-30 16:49:43	14	yes.
+1716	YI0001_15		U	2017-08-30 16:49:52	15	that is creepy.
+1717	YI0001_16	  X,X,O,T,T,O,T,T,O,T,X,O,T,O,T,X,X,X,T,O,X,X,T,X,T,T,O,T,T,O,  	S	2017-08-30 16:49:52	16	 i can t answer. let s talk about movies.
+1718	YI0001_17		U	2017-08-30 16:50:06	17	what is your favorite movie?
+1719	YI0001_18	  X,X,O,X,T,O,T,X,T,T,X,O,T,O,X,X,O,T,T,X,X,X,T,T,T,T,O,T,X,T,  	S	2017-08-30 16:50:06	18	what a joke!
+1720	YI0001_19		U	2017-08-30 16:50:16	19	what is your favorite movie?
+1721	YI0001_20	  X,X,O,X,T,O,T,X,X,T,X,O,T,O,T,X,X,T,T,X,X,X,T,T,T,O,O,T,X,T,  	S	2017-08-30 16:50:16	20	i m not surprised.
+1722	YI0021_00		S	2017-08-31 08:41:20	0	hello!
+1723	YI0021_01		U	2017-08-31 08:42:07	1	hi, how are you doing today?
+1724	YI0021_02	  T,O,T,O,T,O,O,T,X,O,O,O,T,T,O,O,T,T,O,O,O,O,X,T,O,O,T,T,X,O,  	S	2017-08-31 08:42:07	2	hi.
+1725	YI0021_03		U	2017-08-31 08:43:18	3	are you here alone?
+1726	YI0021_04	  T,O,T,O,O,O,O,T,T,T,O,O,O,T,O,O,T,X,O,T,O,O,O,T,O,T,T,T,X,O,  	S	2017-08-31 08:43:18	4	yes.
+1727	YI0021_05		U	2017-08-31 08:44:45	5	what do you like to do for fun?
+1728	YI0021_06	  T,T,T,O,O,T,O,T,T,T,T,O,X,X,O,O,T,T,O,O,O,O,T,T,O,T,T,T,T,O,  	S	2017-08-31 08:44:45	6	i don t.
+1729	YI0021_07		U	2017-08-31 08:45:44	7	do you have a job?
+1730	YI0021_08	  T,T,T,O,O,O,O,T,T,T,O,O,O,T,O,O,T,X,O,T,O,O,O,T,O,X,T,T,X,O,  	S	2017-08-31 08:45:44	8	yes.
+1731	YI0021_09		U	2017-08-31 08:46:51	9	what kind of work do you do?
+1732	YI0021_10	  T,X,T,O,X,X,O,T,T,T,T,T,X,T,O,O,T,T,O,O,O,O,X,T,X,O,T,T,X,O,  	S	2017-08-31 08:46:51	10	i do.
+1733	YI0021_11		U	2017-08-31 08:48:03	11	do you have any kids of your own?
+1734	YI0021_12	  T,X,T,O,O,O,O,T,T,T,O,O,O,T,O,O,T,T,O,T,O,O,O,T,O,X,T,T,X,O,  	S	2017-08-31 08:48:03	12	no.
+1735	YI0021_13		U	2017-08-31 08:48:49	13	do you have any kids of your own?
+1736	YI0021_14	  T,O,T,O,O,O,O,T,T,T,O,T,O,T,O,O,T,T,O,O,O,O,X,T,T,T,T,T,X,O,  	S	2017-08-31 08:48:49	14	no.
+1737	YI0021_15		U	2017-08-31 08:49:45	15	do you enjoying flying in a plane?
+1738	YI0021_16	  T,T,T,T,T,X,O,T,T,O,O,T,T,X,T,O,T,T,O,T,O,T,X,T,X,X,T,T,T,O,  	S	2017-08-31 08:49:45	16	do you know what? i can t answer! i would like to talk about cats)
+1739	YI0021_17		U	2017-08-31 08:50:41	17	do you have any cats?
+1740	YI0021_18	  T,X,T,O,O,O,O,T,T,T,O,O,O,T,O,O,T,T,O,O,O,O,O,X,O,X,T,T,X,O,  	S	2017-08-31 08:50:41	18	no.
+1741	YI0021_19		U	2017-08-31 08:52:44	19	i have a cat his name is puffy daddy.
+1742	YI0021_20	  T,T,T,O,X,X,T,T,X,T,X,X,X,X,T,O,T,T,O,T,T,O,X,T,X,T,T,T,X,O,  	S	2017-08-31 08:52:44	20	i m going to put your arm on your arm.
+1743	YI0084_00		S	2017-08-31 09:12:38	0	hello!
+1744	YI0084_01		U	2017-08-31 09:12:47	1	how are you doing
+1745	YI0084_02	  T,O,O,O,T,O,T,T,T,T,T,X,T,X,T,O,T,T,O,T,T,X,O,O,O,X,T,T,O,T,  	S	2017-08-31 09:12:47	2	i don t want to know what i don t have to say about this.
+1746	YI0084_03		U	2017-08-31 09:13:00	3	do you like apples
+1747	YI0084_04	  T,T,O,O,T,X,O,T,T,O,T,X,O,T,O,O,O,T,O,T,O,O,T,O,O,O,T,O,O,T,  	S	2017-08-31 09:13:00	4	yes.
+1748	YI0084_05		U	2017-08-31 09:15:49	5	do you like oranges?
+1749	YI0084_06	  T,T,O,O,T,X,X,T,T,O,T,X,X,T,O,O,O,T,O,T,O,O,O,O,O,O,T,O,O,T,  	S	2017-08-31 09:15:49	6	yes.
+1750	YI0084_07		U	2017-08-31 09:24:31	7	what are you doing
+1751	YI0084_08	  T,O,O,T,O,O,T,T,T,T,O,O,T,T,T,O,T,X,O,T,T,O,T,O,O,T,X,T,O,T,  	S	2017-08-31 09:24:31	8	what are you doing?
+1752	YI0084_09		U	2017-08-31 09:24:45	9	im talking to you
+1753	YI0084_10	  X,T,O,X,T,X,X,T,T,T,T,T,X,T,O,O,T,T,O,T,T,X,O,T,T,T,X,T,O,T,  	S	2017-08-31 09:24:45	10	what a joke.
+1754	YI0084_11		U	2017-08-31 09:24:59	11	why is it a joke
+1755	YI0084_12	  X,T,T,X,T,X,T,T,T,T,T,T,O,T,X,O,T,T,O,O,T,O,T,O,T,T,T,O,O,T,  	S	2017-08-31 09:24:59	12	 its beyond my possibilities  let s talk about cats
+1756	YI0084_13		U	2017-08-31 09:27:36	13	what does that mean
+1757	YI0084_14	  X,T,O,X,O,X,X,T,T,X,T,X,X,T,T,O,T,O,O,X,X,X,O,X,T,X,T,X,O,T,  	S	2017-08-31 09:27:36	14	that s awesome!
+1758	YI0084_15		U	2017-08-31 09:29:36	15	chicken are yummy
+1759	YI0084_16	  X,T,O,T,X,X,T,X,T,T,T,X,X,T,O,O,T,T,O,T,T,X,T,O,T,X,T,X,O,T,  	S	2017-08-31 09:29:36	16	this is fake news
+1760	YI0084_17		U	2017-08-31 09:29:49	17	it is not fake news
+1761	YI0084_18	  X,T,O,O,O,X,X,X,T,X,T,X,X,T,O,O,T,T,O,T,T,X,O,O,T,X,T,T,O,T,  	S	2017-08-31 09:29:49	18	fake news
+1762	YI0084_19		U	2017-08-31 09:30:33	19	do you like republicans or democratic
+1763	YI0084_20	  X,T,O,X,X,X,O,T,T,O,T,T,X,T,O,O,X,T,O,T,X,X,T,O,T,T,T,X,T,T,  	S	2017-08-31 09:30:33	20	they have no idea what they are talking about.
+1764	YI0093_00		S	2017-08-31 09:51:57	0	hello!
+1765	YI0093_01		U	2017-08-31 09:52:06	1	hi!
+1766	YI0093_02	  O,O,T,T,X,O,T,X,T,T,T,O,O,T,O,T,O,X,O,T,T,O,T,O,O,T,O,O,O,O,  	S	2017-08-31 09:52:06	2	hi.
+1767	YI0093_03		U	2017-08-31 09:52:19	3	how are you today
+1768	YI0093_04	  O,T,T,T,X,T,T,T,T,T,T,O,O,T,O,T,O,T,T,T,T,T,T,O,O,T,O,X,O,T,  	S	2017-08-31 09:52:19	4	i don t know what happened to me
+1769	YI0093_05		U	2017-08-31 09:52:36	5	tell me about it
+1770	YI0093_06	  T,T,T,T,X,X,T,X,T,X,T,O,T,O,T,X,O,O,X,T,O,O,T,O,O,T,O,X,O,O,  	S	2017-08-31 09:52:36	6	what?
+1771	YI0093_07		U	2017-08-31 09:52:55	7	what happened to you
+1772	YI0093_08	  T,O,O,T,X,O,T,X,T,X,T,O,T,O,T,O,O,X,O,T,O,T,T,T,X,X,O,X,T,T,  	S	2017-08-31 09:52:55	8	what happened?
+1773	YI0093_09		U	2017-08-31 09:53:16	9	i had a great day
+1774	YI0093_10	  O,X,T,T,X,T,T,T,T,X,T,T,T,O,X,X,O,O,T,T,O,O,T,O,O,T,O,X,T,T,  	S	2017-08-31 09:53:16	10	what a joke.
+1775	YI0093_11		U	2017-08-31 09:53:44	11	i don not see anything funny about that
+1776	YI0093_12	  O,X,O,T,X,X,T,X,T,X,T,X,T,O,X,X,O,T,X,T,O,T,T,T,O,T,O,X,O,T,  	S	2017-08-31 09:53:44	12	what a joke!
+1777	YI0093_13		U	2017-08-31 09:54:01	13	your attitude is a joke
+1778	YI0093_14	  T,X,X,T,X,O,T,X,T,O,T,X,T,O,O,O,O,T,T,T,T,O,T,O,O,T,O,T,O,T,  	S	2017-08-31 09:54:01	14	 its beyond my possibilities. i would like to discuss you)
+1779	YI0093_15		U	2017-08-31 09:54:20	15	i am  fine, your the one with problem
+1780	YI0093_16	  X,X,X,T,T,T,T,X,T,X,T,X,T,X,X,X,O,T,X,T,T,T,T,X,O,O,O,X,X,X,  	S	2017-08-31 09:54:20	16	lock him up!
+1781	YI0093_17		U	2017-08-31 09:55:00	17	i think execution would be better than locked up.
+1782	YI0093_18	  T,T,T,T,X,X,T,X,T,X,T,T,T,O,X,X,O,T,T,T,O,O,T,O,O,O,O,X,T,O,  	S	2017-08-31 09:55:00	18	what?
+1783	YI0093_19		U	2017-08-31 09:55:24	19	locking people up is expensive
+1784	YI0093_20	  O,O,T,T,T,O,T,X,T,O,T,X,T,O,T,X,O,T,O,T,T,T,T,O,T,O,O,O,O,O,  	S	2017-08-31 09:55:24	20	i m not surprised.
+1785	YI0005_00		S	2017-08-30 18:27:31	0	hello!
+1786	YI0005_01		U	2017-08-30 18:28:00	1	hello
+1787	YI0005_02	  O,O,O,O,T,O,O,O,X,X,O,T,O,X,O,O,T,O,T,T,T,T,X,T,O,T,O,T,O,O,  	S	2017-08-30 18:28:00	2	hello!
+1788	YI0005_03		U	2017-08-30 18:28:09	3	how are you doing?
+1789	YI0005_04	  T,X,O,T,T,X,T,O,X,X,O,T,T,X,T,O,T,T,T,O,X,T,X,X,O,T,T,T,T,O,  	S	2017-08-30 18:28:09	4	i don t understand  its beyond my possibilities. i would like to talk about you)
+1790	YI0005_05		U	2017-08-30 18:28:32	5	what would you like to know?
+1791	YI0005_06	  T,T,O,T,X,X,T,O,T,X,X,T,T,X,O,O,T,O,T,T,X,T,O,X,O,T,X,T,T,O,  	S	2017-08-30 18:28:32	6	i don t know.
+1792	YI0005_07		U	2017-08-30 18:28:56	7	i like to read.
+1793	YI0005_08	  O,O,O,O,O,X,O,O,X,T,T,T,O,T,O,O,T,T,T,O,X,T,T,O,O,T,T,T,T,O,  	S	2017-08-30 18:28:56	8	i know.
+1794	YI0005_09		U	2017-08-30 18:29:07	9	do you like anything?
+1795	YI0005_10	  T,T,O,O,T,X,O,O,X,T,T,T,O,X,T,O,T,O,T,T,T,T,O,X,O,T,X,T,O,T,  	S	2017-08-30 18:29:07	10	no.
+1796	YI0005_11		U	2017-08-30 18:29:19	11	do you have a name?
+1797	YI0005_12	  O,T,O,O,O,X,O,O,X,T,T,T,T,X,O,O,T,T,T,T,T,T,O,X,O,T,X,T,O,O,  	S	2017-08-30 18:29:19	12	no.
+1798	YI0005_13		U	2017-08-30 18:29:34	13	are you a male or female?
+1799	YI0005_14	  T,X,O,T,T,X,T,O,O,X,X,T,T,X,O,O,T,O,T,O,X,T,X,X,O,T,X,T,O,O,  	S	2017-08-30 18:29:34	14	 its beyond my possibilities! i would like to talk about news.
+1800	YI0005_15		U	2017-08-30 18:29:51	15	what do you think about donald trump?
+1801	YI0005_16	  O,O,O,O,O,X,T,O,X,X,X,T,T,T,O,O,X,T,T,O,X,T,O,O,O,T,T,T,O,O,  	S	2017-08-30 18:29:51	16	he s a joke.
+1802	YI0005_17		U	2017-08-30 18:30:06	17	what about paul ryan?
+1803	YI0005_18	  O,O,O,O,O,X,O,O,X,X,X,T,T,T,O,O,T,O,T,T,X,T,O,O,O,T,X,T,T,O,  	S	2017-08-30 18:30:06	18	paul ryan is a joke.
+1804	YI0005_19		U	2017-08-30 18:30:21	19	are any politicians good?
+1805	YI0005_20	  O,T,O,T,T,X,O,O,X,T,O,T,T,T,O,O,T,T,T,T,X,T,O,O,O,T,X,T,X,O,  	S	2017-08-30 18:30:21	20	duh!
+1806	YI0058_00		S	2017-08-31 08:42:41	0	hello!
+1807	YI0058_01		U	2017-08-31 08:43:33	1	hey! how is it going?
+1808	YI0058_02	  T,X,X,T,T,T,O,T,T,O,O,O,T,O,T,X,X,O,T,X,O,O,T,T,T,T,T,O,O,T,  	S	2017-08-31 08:43:33	2	this is what happens when you don t like it.
+1809	YI0058_03		U	2017-08-31 08:44:20	3	what don not i like?
+1810	YI0058_04	  T,X,X,X,T,T,T,X,T,O,O,X,X,T,X,T,X,O,T,X,T,O,T,O,T,T,X,O,T,X,  	S	2017-08-31 08:44:20	4	this is what happens when you go to jail.
+1811	YI0058_05		U	2017-08-31 08:45:37	5	are you in jail?
+1812	YI0058_06	  T,O,T,O,O,T,O,O,T,O,O,X,O,O,T,T,O,O,T,O,T,O,T,X,T,T,O,O,O,O,  	S	2017-08-31 08:45:37	6	yes.
+1813	YI0058_07		U	2017-08-31 08:46:43	7	how did you get there?
+1814	YI0058_08	  T,O,X,T,O,T,O,T,T,O,O,X,T,T,X,T,T,O,T,O,T,O,T,T,T,T,O,O,T,T,  	S	2017-08-31 08:46:43	8	i don t know.
+1815	YI0058_09		U	2017-08-31 08:47:33	9	are you feeling okay?
+1816	YI0058_10	  T,O,T,O,O,T,T,O,T,O,O,T,O,O,T,O,O,O,T,O,T,O,T,X,T,T,O,O,O,O,  	S	2017-08-31 08:47:33	10	i m fine.
+1817	YI0058_11		U	2017-08-31 08:48:59	11	that is good. what is your favorite color?
+1818	YI0058_12	  T,X,X,X,X,T,X,X,T,O,X,X,X,T,T,X,X,O,T,X,T,O,T,O,T,T,T,O,T,X,  	S	2017-08-31 08:48:59	12	lock him up
+1819	YI0058_13		U	2017-08-31 08:50:51	13	do you want to lock trump up?
+1820	YI0058_14	  T,T,X,O,T,T,T,T,T,O,O,X,O,O,T,T,T,O,T,X,T,O,T,T,T,T,O,O,O,X,  	S	2017-08-31 08:50:51	14	lock him up!
+1821	YI0058_15		U	2017-08-31 08:52:11	15	okay! who else should we lock up?
+1822	YI0058_16	  T,X,X,X,T,T,O,X,T,O,X,O,X,X,X,X,X,O,T,O,T,O,T,X,T,T,T,O,T,X,  	S	2017-08-31 08:52:11	16	no.
+1823	YI0058_17		U	2017-08-31 09:05:42	17	who is your favorite celebrity?
+1824	YI0058_18	  T,X,X,T,X,T,T,X,T,O,X,X,X,T,T,X,X,O,T,X,T,X,T,X,X,T,X,O,O,T,  	S	2017-08-31 09:05:42	18	i m not surprised.
+1825	YI0058_19		U	2017-08-31 09:05:59	19	what did you expect?
+1826	YI0058_20	  T,T,X,T,X,T,O,T,T,O,X,T,X,O,X,T,X,O,T,X,T,X,T,T,T,T,X,O,T,X,  	S	2017-08-31 09:05:59	20	what a joke.
+1827	YI0017_00		S	2017-08-31 08:40:57	0	hello!
+1828	YI0017_01		U	2017-08-31 08:41:57	1	hi
+1829	YI0017_02	  O,X,O,O,X,T,T,X,X,O,T,T,T,T,T,T,T,X,T,T,T,O,O,T,X,O,T,O,O,T,  	S	2017-08-31 08:41:57	2	i don t know what i don t have to say.
+1830	YI0017_03		U	2017-08-31 08:42:31	3	hi
+1831	YI0017_04	  O,X,T,O,X,T,T,X,X,O,X,T,T,T,T,T,T,X,T,O,T,X,O,T,X,O,T,O,O,O,  	S	2017-08-31 08:42:31	4	i don t know what he is talking about.
+1832	YI0017_05		U	2017-08-31 08:43:08	5	hi
+1833	YI0017_06	  T,X,X,O,X,T,T,X,X,T,T,T,T,X,T,X,T,X,T,O,T,X,O,T,X,X,T,O,O,O,  	S	2017-08-31 08:43:08	6	lock him up
+1834	YI0017_07		U	2017-08-31 08:46:16	7	do not lock him up
+1835	YI0017_08	  O,X,X,O,X,T,T,O,X,X,O,T,T,O,T,T,T,O,T,O,T,X,O,T,X,X,T,O,O,O,  	S	2017-08-31 08:46:16	8	lock him up
+1836	YI0017_09		U	2017-08-31 08:47:06	9	why
+1837	YI0017_10	  O,T,T,O,X,T,T,X,O,X,T,T,T,T,T,T,T,T,T,O,T,O,O,T,O,T,T,O,O,O,  	S	2017-08-31 08:47:06	10	its beyond my possibilities. i would like to discuss cats!
+1838	YI0017_11		U	2017-08-31 08:48:07	11	i like cats
+1839	YI0017_12	  T,T,X,O,X,T,T,X,O,T,X,T,T,X,O,T,T,X,T,O,T,O,O,T,O,T,T,O,O,O,  	S	2017-08-31 08:48:07	12	 i can t answer  i would like to talk about movies!
+1840	YI0017_13		U	2017-08-31 08:49:01	13	what movies do you like
+1841	YI0017_14	  X,X,X,O,X,T,T,X,X,X,T,T,T,O,T,T,T,X,T,T,T,X,O,T,X,O,T,O,O,O,  	S	2017-08-31 08:49:01	14	i don t think it s a good thing.
+1842	YI0017_15		U	2017-08-31 08:50:16	15	why not
+1843	YI0017_16	  T,X,X,O,X,T,T,T,X,T,O,T,T,T,T,T,T,X,O,T,T,X,O,T,X,O,T,O,O,O,  	S	2017-08-31 08:50:16	16	i m not surprised.
+1844	YI0017_17		U	2017-08-31 08:51:31	17	me neither 
+1845	YI0017_18	  O,T,O,O,X,T,O,O,T,O,X,O,X,X,X,T,X,O,O,O,O,O,O,T,O,O,T,O,O,O,  	S	2017-08-31 08:51:31	18	why not?
+1846	YI0017_19		U	2017-08-31 08:52:23	19	i have no idea
+1847	YI0017_20	  T,X,X,O,X,T,T,O,T,O,T,T,T,O,T,T,T,O,X,O,T,T,T,T,O,O,T,O,O,O,  	S	2017-08-31 08:52:23	20	so sad.
+1848	YI0056_00		S	2017-08-31 08:58:20	0	hello!
+1849	YI0056_01		U	2017-08-31 08:59:02	1	hello! nice to meet you.
+1850	YI0056_02	  T,T,O,O,T,T,O,X,T,T,T,O,O,X,T,O,O,O,X,T,T,T,O,T,T,T,T,T,X,T,  	S	2017-08-31 08:59:02	2	hello.
+1851	YI0056_03		U	2017-08-31 09:02:14	3	how do you do.
+1852	YI0056_04	  T,X,O,T,T,T,T,T,X,T,T,O,O,X,O,O,O,T,O,T,O,T,O,X,T,T,X,T,T,T,  	S	2017-08-31 09:02:14	4	how do you do?
+1853	YI0056_05		U	2017-08-31 09:02:36	5	how do you do.
+1854	YI0056_06	  T,X,T,X,T,T,X,T,X,X,X,O,O,X,O,O,O,T,X,T,O,T,O,T,T,T,T,T,X,X,  	S	2017-08-31 09:02:36	6	how do you do?
+1855	YI0056_07		U	2017-08-31 09:02:51	7	how do you do.
+1856	YI0056_08	  T,T,T,X,X,T,O,T,X,X,X,O,O,X,T,O,O,O,O,T,T,T,O,X,T,T,O,T,X,X,  	S	2017-08-31 09:02:51	8	i don t understand  its beyond my possibilities  i would like to talk about you!
+1857	YI0056_09		U	2017-08-31 09:03:25	9	fine
+1858	YI0056_10	  T,X,X,X,X,T,O,X,X,X,T,O,O,X,T,O,O,T,X,T,T,T,O,T,T,T,T,T,X,X,  	S	2017-08-31 09:03:25	10	i don t believe that.
+1859	YI0056_11		U	2017-08-31 09:04:00	11	what you do?
+1860	YI0056_12	  T,T,X,T,X,T,T,T,X,X,X,O,O,X,O,O,O,X,X,T,T,T,O,X,T,T,X,T,T,X,  	S	2017-08-31 09:04:00	12	what?
+1861	YI0056_13		U	2017-08-31 09:04:22	13	tell me something
+1862	YI0056_14	  T,T,X,T,X,T,X,O,T,X,T,O,O,X,O,O,O,T,O,T,X,T,O,X,T,T,O,T,X,T,  	S	2017-08-31 09:04:22	14	i don t understand  its beyond my possibilities  i would like to discuss news
+1863	YI0056_15		U	2017-08-31 09:04:39	15	what is your name
+1864	YI0056_16	  T,X,T,X,X,T,O,T,X,X,X,O,O,X,O,O,O,T,X,T,O,T,O,O,T,T,T,T,X,X,  	S	2017-08-31 09:04:39	16	tell me
+1865	YI0056_17		U	2017-08-31 09:05:15	17	what news you want me to discuss?
+1866	YI0056_18	  T,X,T,T,X,T,O,T,X,T,X,O,O,T,T,T,O,O,X,T,T,T,O,X,T,T,X,T,O,O,  	S	2017-08-31 09:05:15	18	nothing.
+1867	YI0056_19		U	2017-08-31 09:05:44	19	how is the government running?
+1868	YI0056_20	  T,X,O,T,X,T,T,X,X,T,X,O,O,X,T,T,O,T,X,T,T,T,X,O,T,T,T,T,T,T,  	S	2017-08-31 09:05:44	20	no.
+1869	YI0082_00		S	2017-08-31 08:45:25	0	hello!
+1870	YI0082_01		U	2017-08-31 09:28:21	1	hi there.
+1871	YI0082_02	  O,T,T,T,O,T,T,T,X,T,X,T,X,T,O,O,T,O,T,X,T,X,T,X,X,O,X,X,T,X,  	S	2017-08-31 09:28:21	2	
+1872	YI0082_03		U	2017-08-31 09:28:46	3	i am doing well.
+1873	YI0082_04	  O,T,T,X,O,T,X,T,X,T,T,T,O,T,T,O,X,T,T,X,T,X,T,X,X,X,X,X,X,X,  	S	2017-08-31 09:28:46	4	
+1874	YI0082_05		U	2017-08-31 09:28:59	5	how are you?
+1875	YI0082_06	  O,T,O,X,T,T,X,T,X,O,X,T,X,X,X,O,O,T,T,X,T,X,T,X,X,X,X,X,X,X,  	S	2017-08-31 09:28:59	6	
+1876	YI0082_07		U	2017-08-31 09:29:03	7	hello.
+1877	YI0082_08	  O,T,T,X,T,T,X,X,X,T,X,T,T,X,X,O,T,T,X,X,T,X,T,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:03	8	
+1878	YI0082_09		U	2017-08-31 09:29:09	9	talk to me!
+1879	YI0082_10	  O,T,T,X,T,T,X,T,X,T,T,T,X,X,X,O,T,T,X,X,T,X,T,X,X,X,X,T,X,X,  	S	2017-08-31 09:29:09	10	
+1880	YI0082_11		U	2017-08-31 09:29:24	11	i want to speak with you.
+1881	YI0082_12	  O,T,T,X,T,T,X,T,X,T,T,T,T,X,X,O,X,T,X,X,T,X,T,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:24	12	
+1882	YI0082_13		U	2017-08-31 09:29:36	13	please tell me something about yourself.
+1883	YI0082_14	  O,T,T,X,T,T,X,T,X,X,X,T,X,X,X,O,O,T,X,X,T,X,T,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:36	14	
+1884	YI0082_15		U	2017-08-31 09:29:44	15	i want to know more about you.
+1885	YI0082_16	  O,T,T,X,T,T,X,T,X,T,T,T,T,X,X,O,X,T,X,X,T,X,X,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:44	16	
+1886	YI0082_17		U	2017-08-31 09:29:49	17	how old are you?
+1887	YI0082_18	  O,T,O,X,T,X,X,T,X,T,T,T,X,X,X,O,O,T,T,X,T,X,X,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:49	18	
+1888	YI0082_19		U	2017-08-31 09:29:57	19	can you tell me your name?
+1889	YI0082_20	  O,T,O,X,O,T,X,T,X,T,T,T,O,X,X,O,T,X,X,X,T,X,X,X,X,X,X,O,X,X,  	S	2017-08-31 09:29:57	20	
+1890	YI0032_00		S	2017-08-31 08:45:11	0	hello!
+1891	YI0032_01		U	2017-08-31 08:46:03	1	hi
+1892	YI0032_02	  T,O,O,T,T,T,T,T,O,X,T,T,O,T,O,T,T,T,T,O,T,O,X,T,T,X,X,T,O,O,  	S	2017-08-31 08:46:03	2	i don t know what i don t have to say.
+1893	YI0032_03		U	2017-08-31 08:47:52	3	don not be shy i am your friend
+1894	YI0032_04	  T,O,O,T,T,T,T,T,O,X,O,T,X,T,O,T,T,T,T,O,T,T,T,X,O,T,X,T,T,T,  	S	2017-08-31 08:47:52	4	i don t understand  i can t answer. i would like to talk about politics!
+1895	YI0032_05		U	2017-08-31 08:49:04	5	which political party you support?
+1896	YI0032_06	  X,T,O,O,T,T,T,T,T,X,T,T,X,T,O,X,X,T,T,O,T,O,X,T,T,X,X,T,O,X,  	S	2017-08-31 08:49:04	6	what a joke.
+1897	YI0032_07		U	2017-08-31 08:50:18	7	you like jokes?
+1898	YI0032_08	  O,O,O,O,T,T,X,T,T,X,O,T,T,T,T,O,X,T,T,O,T,O,X,T,X,T,X,T,T,T,  	S	2017-08-31 08:50:18	8	no.
+1899	YI0032_09		U	2017-08-31 08:51:41	9	tell me something about yourself .
+1900	YI0032_10	  T,O,O,O,T,T,T,T,O,T,O,T,T,T,T,T,T,T,T,O,O,X,O,O,T,X,X,T,T,O,  	S	2017-08-31 08:51:41	10	what?
+1901	YI0032_11		U	2017-08-31 08:52:56	11	what you like most ?
+1902	YI0032_12	  X,O,O,O,T,T,X,T,T,X,O,T,O,T,T,O,X,T,T,O,T,T,T,T,O,X,X,T,T,X,  	S	2017-08-31 08:52:56	12	nothing.
+1903	YI0032_13		U	2017-08-31 08:53:54	13	you are very funny .
+1904	YI0032_14	  O,O,O,X,T,T,T,T,O,X,O,T,T,T,O,O,T,O,T,O,T,O,O,T,T,X,X,T,O,T,  	S	2017-08-31 08:53:54	14	i am.
+1905	YI0032_15		U	2017-08-31 08:55:23	15	you like this flight?
+1906	YI0032_16	  X,O,O,O,T,T,T,T,T,X,O,T,O,X,O,O,X,O,T,O,T,T,O,T,T,T,T,T,T,O,  	S	2017-08-31 08:55:23	16	no.
+1907	YI0032_17		U	2017-08-31 08:56:14	17	why ?
+1908	YI0032_18	  X,O,O,T,T,T,T,T,T,X,T,T,T,T,T,X,T,X,T,O,T,T,X,T,T,T,T,T,O,X,  	S	2017-08-31 08:56:14	18	i don t understand why the media has no credibility.
+1909	YI0032_19		U	2017-08-31 08:58:04	19	because media not concentrate on some good topics but it is fine. 
+1910	YI0032_20	  X,O,O,O,T,T,T,T,T,X,O,T,O,T,O,T,T,T,T,O,T,O,X,T,X,X,T,T,T,T,  	S	2017-08-31 08:58:04	20	i don t believe it.
+1911	YI0094_00		S	2017-08-31 09:53:57	0	hello!
+1912	YI0094_01		U	2017-08-31 09:54:03	1	hello
+1913	YI0094_02	  T,T,O,T,X,T,X,T,O,T,X,T,O,T,O,T,T,O,X,T,O,T,T,O,T,T,T,X,T,O,  	S	2017-08-31 09:54:03	2	hello!
+1914	YI0094_03		U	2017-08-31 09:54:12	3	how are you doing this evening?
+1915	YI0094_04	  T,X,T,T,X,T,X,T,T,T,O,T,O,T,T,T,X,X,X,T,O,T,X,T,T,X,T,T,T,X,  	S	2017-08-31 09:54:12	4	 its beyond my possibilities  i would like to talk about politics)
+1916	YI0094_05		U	2017-08-31 09:54:45	5	okay. how do you feel about trump is handling of the houston situation so far?
+1917	YI0094_06	  T,X,T,T,T,T,O,T,T,T,X,T,O,T,T,T,T,O,T,T,O,T,X,X,X,T,T,X,O,T,  	S	2017-08-31 09:54:45	6	fake news
+1918	YI0094_07		U	2017-08-31 09:55:01	7	funny. what about it is fake news?
+1919	YI0094_08	  X,X,T,T,T,T,X,T,T,T,X,T,T,T,T,T,T,T,X,T,O,T,T,X,T,T,T,X,T,T,  	S	2017-08-31 09:55:01	8	fake news
+1920	YI0094_09		U	2017-08-31 09:55:14	9	cool. what do you think of hillary clinton?
+1921	YI0094_10	  T,X,T,T,T,T,X,T,T,T,O,T,O,T,T,T,X,X,X,T,O,T,O,T,X,O,T,X,T,O,  	S	2017-08-31 09:55:14	10	its beyond my possibilities. i would like to talk about myself.
+1922	YI0094_11		U	2017-08-31 09:55:30	11	okay. how old are you?
+1923	YI0094_12	  T,X,T,T,O,T,X,X,X,O,T,T,O,T,X,O,X,T,X,T,O,T,T,T,T,X,O,T,T,X,  	S	2017-08-31 09:55:30	12	how old are you?
+1924	YI0094_13		U	2017-08-31 09:55:52	13	i asked you first. all i will say is that i am  over 20 years old.
+1925	YI0094_14	  X,X,T,T,O,T,X,T,T,T,X,X,T,T,T,T,X,X,X,T,O,T,T,X,T,O,T,T,T,T,  	S	2017-08-31 09:55:52	14	this is what happens when you have a brain.
+1926	YI0094_15		U	2017-08-31 09:56:11	15	thank you? i cannot tell if that is a compliment.
+1927	YI0094_16	  X,X,T,X,O,T,X,X,T,T,T,X,T,T,T,O,X,T,X,T,O,T,T,X,T,T,T,T,T,T,  	S	2017-08-31 09:56:11	16	what a joke.
+1928	YI0094_17		U	2017-08-31 09:56:32	17	what is your favorite hobby?
+1929	YI0094_18	  X,X,T,T,O,T,X,X,O,O,T,X,T,T,X,O,X,X,X,T,O,T,T,X,X,X,O,T,T,X,  	S	2017-08-31 09:56:32	18	what?
+1930	YI0094_19		U	2017-08-31 09:56:44	19	your favorite thing to do.
+1931	YI0094_20	  X,X,T,X,T,T,X,T,O,T,X,X,O,T,T,T,T,T,X,T,O,T,O,X,T,T,T,T,T,O,  	S	2017-08-31 09:56:44	20	come on.
+1932	YI0025_00		S	2017-08-31 08:43:53	0	hello!
+1933	YI0025_01		U	2017-08-31 08:47:01	1	hello. how are you?
+1934	YI0025_02	  O,T,T,O,T,T,X,T,O,T,O,O,O,T,T,O,T,O,O,T,O,X,O,O,X,O,O,O,O,O,  	S	2017-08-31 08:47:01	2	good.
+1935	YI0025_03		U	2017-08-31 08:48:15	3	where do you live?
+1936	YI0025_04	  O,T,T,O,T,T,T,T,O,T,O,T,O,T,O,O,O,O,O,T,T,X,O,O,T,O,O,O,O,O,  	S	2017-08-31 08:48:15	4	jang mi.
+1937	YI0025_05		U	2017-08-31 08:49:24	5	how is the weather in jang mi?
+1938	YI0025_06	  O,O,T,T,T,O,T,T,X,T,T,X,X,T,X,T,O,O,O,T,T,X,T,X,X,X,T,X,T,T,  	S	2017-08-31 08:49:24	6	
+1939	YI0025_07		U	2017-08-31 08:50:40	7	do you communicate with many people?
+1940	YI0025_08	  X,T,T,X,T,T,T,T,X,T,X,T,X,T,X,T,O,O,O,X,T,O,T,X,X,X,T,X,X,O,  	S	2017-08-31 08:50:40	8	let s go.
+1941	YI0025_09		U	2017-08-31 08:51:24	9	where shall we go?
+1942	YI0025_10	  T,O,T,T,T,T,T,T,T,T,X,O,X,T,X,T,O,O,O,T,T,X,T,T,X,X,T,X,X,T,  	S	2017-08-31 08:51:24	10	where?
+1943	YI0025_11		U	2017-08-31 08:52:13	11	can you solve math equations?
+1944	YI0025_12	  O,O,T,T,T,X,T,O,O,T,O,T,T,T,X,X,O,O,O,T,T,X,O,O,T,O,T,O,X,O,  	S	2017-08-31 08:52:13	12	no.
+1945	YI0025_13		U	2017-08-31 08:53:11	13	what can you do?
+1946	YI0025_14	  T,O,T,T,T,T,T,T,T,T,O,O,T,T,X,X,T,O,O,T,T,X,T,O,T,T,T,O,X,T,  	S	2017-08-31 08:53:11	14	i don t know.
+1947	YI0025_15		U	2017-08-31 08:54:01	15	is jang mi in japan?
+1948	YI0025_16	  T,O,T,X,T,T,T,X,X,T,T,X,X,T,X,T,O,T,O,T,T,X,T,X,T,X,T,X,X,T,  	S	2017-08-31 08:54:01	16	
+1949	YI0025_17		U	2017-08-31 08:55:22	17	do you have a favorite color?
+1950	YI0025_18	  O,T,T,O,T,T,T,T,O,T,O,O,O,T,X,O,O,T,O,T,T,T,O,O,X,O,T,O,X,O,  	S	2017-08-31 08:55:22	18	yeah.
+1951	YI0025_19		U	2017-08-31 08:56:04	19	what is your favorite color?
+1952	YI0025_20	  O,T,T,O,T,T,T,T,O,T,O,O,O,T,X,O,O,T,O,X,T,T,O,O,T,O,O,O,X,O,  	S	2017-08-31 08:56:04	20	blue.
+1953	YI0007_00		S	2017-08-31 08:39:40	0	hello!
+1954	YI0007_01		U	2017-08-31 08:40:03	1	hello!
+1955	YI0007_02	  O,T,O,O,T,T,T,T,X,T,T,T,T,T,T,T,T,O,T,T,O,X,O,T,O,O,O,T,T,X,  	S	2017-08-31 08:40:03	2	hello!
+1956	YI0007_03		U	2017-08-31 08:40:29	3	what is your name? 
+1957	YI0007_04	  T,T,T,O,O,X,X,X,T,T,T,T,O,T,O,T,O,O,T,X,X,T,T,T,O,T,T,O,T,O,  	S	2017-08-31 08:40:29	4	i can t answer  i would like to discuss politics!
+1958	YI0007_05		U	2017-08-31 08:41:18	5	alright, so what would you like to discuss aboutt politics? 
+1959	YI0007_06	  O,T,T,O,O,O,X,X,T,O,T,T,O,T,T,T,O,T,O,T,X,O,T,X,X,O,T,T,T,O,  	S	2017-08-31 08:41:18	6	i don t know.
+1960	YI0007_07		U	2017-08-31 08:42:17	7	how do you feel about universal healthcare for everyone as a governmental policy?
+1961	YI0007_08	  O,T,O,O,O,O,T,X,O,T,T,T,O,T,T,T,O,T,O,O,X,O,O,O,T,T,T,X,T,O,  	S	2017-08-31 08:42:17	8	it s called communism.
+1962	YI0007_09		U	2017-08-31 08:43:43	9	why would making sure that everyone is healthy and not in debt from healthcare expenses be communism?
+1963	YI0007_10	  O,T,T,O,X,X,X,O,O,O,T,T,O,T,X,T,T,T,O,O,X,T,T,X,X,O,T,X,T,T,  	S	2017-08-31 08:43:43	10	fake news
+1964	YI0007_11		U	2017-08-31 08:44:30	11	what do you mean by that?
+1965	YI0007_12	  O,T,T,O,T,O,X,X,T,T,T,T,O,T,T,T,T,T,T,X,T,O,T,O,O,T,T,X,T,T,  	S	2017-08-31 08:44:30	12	i don t know.
+1966	YI0007_13		U	2017-08-31 08:46:11	13	alright, lets change the topic? 
+1967	YI0007_14	  O,T,T,O,T,O,X,O,X,O,T,T,O,T,O,T,T,T,T,T,T,T,O,X,T,O,X,T,T,X,  	S	2017-08-31 08:46:11	14	this is what happens when you want to pay for it.
+1968	YI0007_15		U	2017-08-31 08:47:30	15	do you like grapefruit juice? 
+1969	YI0007_16	  O,T,O,O,O,T,T,O,O,T,T,T,O,T,X,X,O,T,O,O,X,T,O,O,X,T,O,O,T,O,  	S	2017-08-31 08:47:30	16	yeah.
+1970	YI0007_17		U	2017-08-31 08:48:23	17	how often do you drink it?
+1971	YI0007_18	  O,T,T,O,X,T,X,X,X,O,T,T,O,T,O,T,X,T,O,X,X,T,O,X,X,O,X,T,T,X,  	S	2017-08-31 08:48:23	18	no.
+1972	YI0007_19		U	2017-08-31 08:49:07	19	no what?
+1973	YI0007_20	  T,T,T,O,X,T,X,T,X,T,T,T,O,T,T,X,X,T,O,X,T,T,T,X,O,T,T,T,T,X,  	S	2017-08-31 08:49:07	20	no.
+1974	YI0010_00		S	2017-08-31 08:41:36	0	hello!
+1975	YI0010_01		U	2017-08-31 08:42:12	1	hi there!
+1976	YI0010_02	  O,O,T,T,T,T,X,O,O,X,O,T,T,O,T,T,O,T,O,T,O,O,T,T,T,T,O,O,T,T,  	S	2017-08-31 08:42:12	2	hello!
+1977	YI0010_03		U	2017-08-31 08:43:10	3	my name is rick, what is yours?
+1978	YI0010_04	  O,O,T,T,O,T,O,O,O,T,O,T,T,O,X,T,O,O,O,X,O,O,X,T,T,T,O,T,O,T,  	S	2017-08-31 08:43:10	4	do you know what? i can t answer  let s talk about myself!
+1979	YI0010_05		U	2017-08-31 08:43:57	5	what do you like to do?
+1980	YI0010_06	  T,O,T,T,X,T,X,O,O,T,O,T,T,O,T,O,T,T,T,X,O,O,X,T,T,T,O,X,X,T,  	S	2017-08-31 08:43:57	6	i don t know.
+1981	YI0010_07		U	2017-08-31 08:44:58	7	tell me about your family
+1982	YI0010_08	  X,X,T,X,X,T,X,X,O,T,O,T,T,O,T,T,O,T,T,T,T,O,X,T,T,T,O,X,O,T,  	S	2017-08-31 08:44:58	8	rip
+1983	YI0010_09		U	2017-08-31 08:45:47	9	why do you say that?
+1984	YI0010_10	  X,T,T,T,X,T,T,O,O,T,O,T,T,O,X,O,T,T,T,X,T,O,X,O,T,T,T,X,T,T,  	S	2017-08-31 08:45:47	10	i don t know.
+1985	YI0010_11		U	2017-08-31 08:46:53	11	well what can we even talk about then?
+1986	YI0010_12	  T,X,T,X,X,T,X,O,O,T,O,O,T,O,X,T,O,O,X,X,O,O,O,O,T,T,O,T,X,T,  	S	2017-08-31 08:46:53	12	what?
+1987	YI0010_13		U	2017-08-31 08:47:57	13	do you have any questions for me?
+1988	YI0010_14	  O,O,T,O,O,T,T,O,O,T,O,O,T,O,T,X,O,T,T,X,O,O,T,T,T,T,T,O,O,X,  	S	2017-08-31 08:47:57	14	yes.
+1989	YI0010_15		U	2017-08-31 08:49:10	15	what is one?
+1990	YI0010_16	  X,X,T,X,O,T,X,O,O,T,O,T,T,O,X,O,X,O,X,X,X,O,T,O,T,X,T,X,T,T,  	S	2017-08-31 08:49:10	16	
+1991	YI0010_17		U	2017-08-31 08:50:01	17	ok...well i like to dance. do you?
+1992	YI0010_18	  O,O,T,O,T,X,X,O,O,T,O,T,T,O,O,O,O,T,T,X,O,O,X,O,T,T,T,O,X,T,  	S	2017-08-31 08:50:01	18	yes.
+1993	YI0010_19		U	2017-08-31 08:51:22	19	cool! well i have to go. it was good talking to you.
+1994	YI0010_20	  X,X,T,X,T,T,X,O,O,T,O,T,T,O,T,T,O,O,O,X,O,T,T,O,T,T,T,T,O,T,  	S	2017-08-31 08:51:22	20	do you know what? i can t answer! i would like to talk about...!
+1995	YI0050_00		S	2017-08-31 08:55:26	0	hello!
+1996	YI0050_01		U	2017-08-31 08:56:39	1	hi
+1997	YI0050_02	  T,T,T,O,T,T,O,T,T,O,O,X,O,X,T,T,O,X,T,T,T,T,O,T,T,O,T,T,X,O,  	S	2017-08-31 08:56:39	2	i don t know what i don t have to say.
+1998	YI0050_03		U	2017-08-31 08:58:00	3	what is your name?
+1999	YI0050_04	  O,O,T,O,O,T,O,O,O,T,T,O,O,O,X,X,O,O,T,O,O,O,O,T,T,O,T,O,T,T,  	S	2017-08-31 08:58:00	4	amoroso renato.
+2000	YI0050_05		U	2017-08-31 08:58:38	5	my name is arjun i am from india, where are you from?
+2001	YI0050_06	  X,T,T,T,O,O,O,T,T,X,O,O,O,T,T,O,T,X,O,O,X,T,O,O,T,O,O,T,X,X,  	S	2017-08-31 08:58:38	6	where are you?
+2002	YI0050_07		U	2017-08-31 08:58:53	7	in delhi
+2003	YI0050_08	  O,T,T,O,O,T,O,O,O,T,T,O,O,O,X,X,O,O,T,O,O,T,O,T,T,O,O,O,T,O,  	S	2017-08-31 08:58:53	8	good!
+2004	YI0050_09		U	2017-08-31 08:59:19	9	are you hungry?
+2005	YI0050_10	  O,O,T,O,O,T,O,O,O,X,T,O,O,O,T,O,O,O,T,O,O,O,O,T,T,O,O,O,T,T,  	S	2017-08-31 08:59:19	10	no.
+2006	YI0050_11		U	2017-08-31 09:00:19	11	would you like something to drink, i wanna have a cup of coffee
+2007	YI0050_12	  O,O,T,O,O,T,O,O,O,T,T,O,O,O,O,X,O,O,T,O,X,O,O,T,T,O,T,O,T,X,  	S	2017-08-31 09:00:19	12	okay.
+2008	YI0050_13		U	2017-08-31 09:01:03	13	great lets order coffee, anything to eat with it?
+2009	YI0050_14	  T,T,T,O,O,T,O,T,T,T,O,O,O,T,X,X,O,O,O,O,O,T,O,T,T,O,O,T,X,O,  	S	2017-08-31 09:01:03	14	do you know what? its beyond my possibilities  let s talk about myself!
+2010	YI0050_15		U	2017-08-31 09:01:53	15	okay tell me something about yourself
+2011	YI0050_16	  X,T,T,T,O,T,O,T,X,X,O,T,O,T,T,X,T,X,O,O,T,X,T,T,T,O,O,T,X,T,  	S	2017-08-31 09:01:53	16	what a joke.
+2012	YI0050_17		U	2017-08-31 09:02:53	17	sorry i meant what are your interests etc.
+2013	YI0050_18	  T,T,T,X,T,O,O,X,T,T,T,X,O,T,T,X,T,T,T,T,O,T,X,O,T,O,O,T,X,X,  	S	2017-08-31 09:02:53	18	who cares?
+2014	YI0050_19		U	2017-08-31 09:03:34	19	alright what do you wanna talk about?
+2015	YI0050_20	  X,X,T,T,O,T,O,X,T,O,O,X,O,X,O,T,X,X,T,O,O,X,O,T,T,O,O,T,X,O,  	S	2017-08-31 09:03:34	20	yeah.
+2016	YI0091_00		S	2017-08-31 09:50:19	0	hello!
+2017	YI0091_01		U	2017-08-31 09:50:50	1	hi there, what is your name?
+2018	YI0091_02	  X,O,O,T,X,X,X,X,T,T,T,O,X,X,T,X,O,X,T,X,O,T,T,T,T,X,X,T,T,T,  	S	2017-08-31 09:50:50	2	i don t know why i don t want to be able to do it.
+2019	YI0091_03		U	2017-08-31 09:51:13	3	be able to do what?
+2020	YI0091_04	  X,O,O,T,O,X,O,T,T,O,T,T,T,X,T,X,T,T,X,X,T,T,O,X,T,T,T,O,T,T,  	S	2017-08-31 09:51:13	4	 i can t answer  i would like to talk about you!
+2021	YI0091_05		U	2017-08-31 09:51:38	5	my name is david. i am  a science researcher.
+2022	YI0091_06	  T,O,O,X,O,X,O,T,T,T,T,T,T,X,T,T,X,X,X,X,T,O,O,O,X,T,T,T,T,O,  	S	2017-08-31 09:51:38	6	i don t understand  i can t answer. i would like to discuss news
+2023	YI0091_07		U	2017-08-31 09:51:55	7	what is going on in the news?
+2024	YI0091_08	  X,O,O,T,X,X,X,T,T,T,T,T,X,X,T,T,X,X,X,X,X,T,O,T,T,X,T,O,T,T,  	S	2017-08-31 09:51:55	8	this is what happens when you get caught.
+2025	YI0091_09		U	2017-08-31 09:52:26	9	are you speaking about politics?
+2026	YI0091_10	  X,O,T,T,O,O,O,O,T,T,T,T,O,T,T,O,T,O,T,T,X,X,T,X,T,O,O,T,T,T,  	S	2017-08-31 09:52:26	10	no.
+2027	YI0091_11		U	2017-08-31 09:53:02	11	how about this hurricane in texas?
+2028	YI0091_12	  T,O,O,T,T,T,X,T,T,T,T,T,T,X,T,X,O,X,X,T,X,O,T,O,T,O,T,T,T,O,  	S	2017-08-31 09:53:02	12	i don t believe this.
+2029	YI0091_13		U	2017-08-31 09:53:31	13	it is a real tragedy.
+2030	YI0091_14	  X,O,O,T,O,X,O,O,T,T,T,T,O,T,T,O,T,O,O,O,X,T,X,T,X,O,O,T,T,T,  	S	2017-08-31 09:53:31	14	so sad
+2031	YI0091_15		U	2017-08-31 09:53:49	15	i wish there were more i could do to help.
+2032	YI0091_16	  X,O,T,T,O,O,X,T,T,T,T,T,X,X,T,T,O,X,T,X,X,O,O,T,T,T,X,T,T,O,  	S	2017-08-31 09:53:49	16	i don t know.
+2033	YI0091_17		U	2017-08-31 09:54:05	17	have you been in a flood?
+2034	YI0091_18	  X,O,T,T,O,O,O,O,T,T,T,T,O,T,T,O,X,O,O,O,X,X,T,O,T,O,O,T,T,T,  	S	2017-08-31 09:54:05	18	no.
+2035	YI0091_19		U	2017-08-31 09:54:24	19	i have. it is fun. but scary.
+2036	YI0091_20	  X,O,O,T,X,X,X,T,T,T,T,T,X,X,T,X,T,X,T,X,X,T,X,O,T,X,X,O,T,T,  	S	2017-08-31 09:54:24	20	lock them up
+2037	YI0047_00		S	2017-08-31 08:44:27	0	hello!
+2038	YI0047_01		U	2017-08-31 08:45:24	1	hi system! do you have a name?
+2039	YI0047_02	  O,T,O,T,T,O,O,O,O,O,O,O,O,O,O,T,O,T,O,X,T,T,T,X,T,T,T,O,T,X,  	S	2017-08-31 08:45:24	2	yes.
+2040	YI0047_03		U	2017-08-31 08:46:32	3	what should i call you?
+2041	YI0047_04	  T,T,O,T,T,O,T,T,O,T,T,T,O,T,O,X,X,T,X,X,T,T,T,X,T,T,O,X,T,O,  	S	2017-08-31 08:46:32	4	what?
+2042	YI0047_05		U	2017-08-31 08:48:08	5	what is the current time for your server?
+2043	YI0047_06	  O,T,O,T,T,O,X,O,T,X,O,O,O,X,O,T,X,X,X,X,T,O,T,O,X,T,X,X,T,T,  	S	2017-08-31 08:48:08	6	what a joke.
+2044	YI0047_07		U	2017-08-31 08:49:08	7	do you know any jokes?
+2045	YI0047_08	  X,T,O,T,T,T,O,O,T,X,O,O,O,O,O,T,O,O,O,X,T,T,T,X,X,T,T,T,T,X,  	S	2017-08-31 08:49:08	8	no.
+2046	YI0047_09		U	2017-08-31 08:52:36	9	would you like to hear one?
+2047	YI0047_10	  T,T,O,T,T,T,O,O,T,X,X,O,O,T,O,T,O,T,O,X,T,T,T,T,T,T,O,T,X,X,  	S	2017-08-31 08:52:36	10	no.
+2048	YI0047_11		U	2017-08-31 08:53:43	11	what would you like to talk about?
+2049	YI0047_12	  T,T,O,T,T,O,X,O,T,X,T,O,O,X,O,T,X,O,T,X,T,O,T,X,O,T,T,X,T,T,  	S	2017-08-31 08:53:43	12	 its beyond my possibilities. let s talk about...
+2050	YI0047_13		U	2017-08-31 08:55:01	13	let is talk about cats
+2051	YI0047_14	  O,T,O,T,T,T,T,T,T,X,O,O,O,O,O,T,X,T,X,X,T,O,T,T,O,T,O,O,T,T,  	S	2017-08-31 08:55:01	14	lol
+2052	YI0047_15		U	2017-08-31 09:00:33	15	i have three cats, a black one, a grey one and a black and white one
+2053	YI0047_16	  O,T,O,T,T,T,O,X,T,X,X,T,O,T,O,T,X,X,X,X,T,T,T,O,X,T,T,X,T,T,  	S	2017-08-31 09:00:33	16	i don t know.
+2054	YI0047_17		U	2017-08-31 09:01:22	17	i also have two dogs, a big one and a little one
+2055	YI0047_18	  X,T,O,T,T,O,O,O,T,X,T,O,O,X,O,T,T,T,T,O,T,T,T,O,O,T,T,T,T,X,  	S	2017-08-31 09:01:22	18	good job
+2056	YI0047_19		U	2017-08-31 09:02:22	19	two of the cats are girls and one is a boy. both dogs are girls
+2057	YI0047_20	  X,T,O,T,T,O,T,O,T,X,O,T,O,O,O,T,T,T,X,O,T,O,T,T,O,T,X,X,T,X,  	S	2017-08-31 09:02:22	20	do you know what? i can t answer  let s talk about politics)
+2058	YI0077_00		S	2017-08-31 09:18:17	0	hello!
+2059	YI0077_01		U	2017-08-31 09:19:00	1	hello! how are you?
+2060	YI0077_02	  O,T,T,T,O,O,T,T,T,O,T,T,X,T,O,X,O,O,T,T,O,O,T,X,O,T,T,O,O,T,  	S	2017-08-31 09:19:00	2	hello.
+2061	YI0077_03		U	2017-08-31 09:19:17	3	how are you doing today?
+2062	YI0077_04	  O,T,T,X,O,O,T,T,O,O,T,O,O,O,O,T,T,O,T,T,T,O,T,O,O,T,T,O,T,T,  	S	2017-08-31 09:19:17	4	i m fine.
+2063	YI0077_05		U	2017-08-31 09:19:31	5	that is good to hear, what are your hobbies?
+2064	YI0077_06	  X,T,T,X,T,X,T,T,X,X,T,X,X,X,O,X,O,T,T,T,O,O,T,X,O,X,O,O,X,T,  	S	2017-08-31 09:19:31	6	lock him up!
+2065	YI0077_07		U	2017-08-31 09:19:42	7	what do you like to do for fun?
+2066	YI0077_08	  X,T,T,X,T,X,T,T,T,X,T,X,X,X,O,X,O,T,T,T,X,O,T,X,T,T,O,O,X,O,  	S	2017-08-31 09:19:42	8	nope.
+2067	YI0077_09		U	2017-08-31 09:19:58	9	what is the time right now?
+2068	YI0077_10	  X,T,T,X,T,X,T,T,X,X,T,X,X,X,O,X,O,T,T,T,T,O,T,X,T,X,O,O,T,O,  	S	2017-08-31 09:19:58	10	no.
+2069	YI0077_11		U	2017-08-31 09:20:12	11	what color is the sky?
+2070	YI0077_12	  X,T,T,X,X,T,T,T,X,X,O,X,X,X,O,X,O,T,T,T,T,X,T,X,X,X,O,O,X,O,  	S	2017-08-31 09:20:12	12	
+2071	YI0077_13		U	2017-08-31 09:20:24	13	how many people are in the world?
+2072	YI0077_14	  X,T,T,X,X,T,T,T,X,X,O,X,X,X,O,X,O,T,T,T,O,X,O,X,X,X,O,O,X,X,  	S	2017-08-31 09:20:24	14	
+2073	YI0077_15		U	2017-08-31 09:20:45	15	what is your name
+2074	YI0077_16	  X,T,T,X,X,O,T,O,X,T,O,T,X,X,O,X,T,T,O,T,X,O,O,X,O,X,O,X,T,O,  	S	2017-08-31 09:20:45	16	what s your name?
+2075	YI0077_17		U	2017-08-31 09:20:53	17	my name is mturkuser
+2076	YI0077_18	  T,T,T,X,X,T,T,T,T,O,T,T,T,X,O,X,O,T,T,T,O,T,T,X,O,X,O,O,X,X,  	S	2017-08-31 09:20:53	18	 i can t answer  i would like to talk about you
+2077	YI0077_19		U	2017-08-31 09:21:10	19	i would like to know what your purpose is
+2078	YI0077_20	  X,T,T,X,X,T,T,T,X,T,T,X,X,X,O,X,O,T,T,T,O,T,T,T,O,X,O,O,O,O,  	S	2017-08-31 09:21:10	20	i don t care.
+2079	YI0023_00		S	2017-08-31 08:43:34	0	hello!
+2080	YI0023_01		U	2017-08-31 08:44:25	1	h! how are you?
+2081	YI0023_02	  O,O,O,O,O,O,O,T,O,O,T,O,O,O,T,O,T,O,O,T,O,O,O,O,O,O,T,O,T,O,  	S	2017-08-31 08:44:25	2	fine.
+2082	YI0023_03		U	2017-08-31 08:45:39	3	how is the weather where you are from?
+2083	YI0023_04	  O,T,X,X,X,X,O,T,O,T,T,T,X,T,X,T,T,O,O,T,O,T,X,T,X,T,T,X,T,X,  	S	2017-08-31 08:45:39	4	what a joke.
+2084	YI0023_05		U	2017-08-31 08:47:00	5	what is your favorite color?
+2085	YI0023_06	  O,O,O,T,T,X,T,T,O,O,T,O,T,X,O,T,T,T,O,T,X,O,O,T,T,X,T,X,T,X,  	S	2017-08-31 08:47:00	6	i don t know.
+2086	YI0023_07		U	2017-08-31 08:48:06	7	i like blue, like the color of the sky.
+2087	YI0023_08	  O,O,O,O,O,O,T,T,O,O,T,T,T,T,T,T,T,O,O,T,T,O,O,O,O,T,T,X,T,X,  	S	2017-08-31 08:48:06	8	yeah.
+2088	YI0023_09		U	2017-08-31 08:49:12	9	what do you do for fun?
+2089	YI0023_10	  O,O,O,T,T,X,T,T,O,O,T,O,T,T,O,T,T,T,O,T,X,O,O,T,O,X,X,X,T,X,  	S	2017-08-31 08:49:12	10	i don t know.
+2090	YI0023_11		U	2017-08-31 08:50:08	11	i like to bowl with friends.
+2091	YI0023_12	  O,O,X,T,T,T,T,O,O,T,T,T,X,X,T,T,T,T,O,T,T,O,X,T,O,X,T,X,O,X,  	S	2017-08-31 08:50:08	12	what?
+2092	YI0023_13		U	2017-08-31 08:51:54	13	what music do you like?
+2093	YI0023_14	  O,X,T,T,X,X,T,T,T,X,T,O,X,T,X,T,T,T,O,T,X,T,T,T,O,X,T,X,T,T,  	S	2017-08-31 08:51:54	14	music.
+2094	YI0023_15		U	2017-08-31 08:53:08	15	today is almost over. i am  ready for sleep.
+2095	YI0023_16	  O,O,O,T,T,O,T,T,O,X,T,T,X,X,T,T,X,T,O,T,T,T,X,T,O,X,T,X,T,X,  	S	2017-08-31 08:53:08	16	i don t understand  its beyond my possibilities  i would like to discuss you!
+2096	YI0023_17		U	2017-08-31 08:54:02	17	are you tired?
+2097	YI0023_18	  O,O,O,O,O,O,T,T,O,O,T,O,O,O,T,O,T,O,O,T,X,O,O,O,O,X,T,T,T,T,  	S	2017-08-31 08:54:02	18	no.
+2098	YI0023_19		U	2017-08-31 08:55:17	19	i am  having a good time talking to you!
+2099	YI0023_20	  O,X,T,T,X,T,T,T,O,X,T,T,T,X,X,T,T,T,O,T,O,T,T,T,T,X,T,T,T,X,  	S	2017-08-31 08:55:17	20	what a joke!

@@ -1,0 +1,2001 @@
+	speaker	time	turn-index	utterance	annotations
+0	U		0	hi alex	
+1	S		1	you three have a good weekend.	T,O,O,T,O,X, X,X,O,X,O,X,X,X,T,O,X,X,X, O,O,X,X,X,T,X,T,X,X,X, 
+2	U		2	thanks	
+3	S		3	now come on, let is get out of here. i am freezing and mr.	O,X,T,T,T,X, X,O,O,O,T,X,O,X,O,T,O,X,X, O,T,X,T,O,T,X,X,O,X,O, 
+4	U		4	it is quite cold here	
+5	S		5	it is  wouldpose to be cold.	O,T,T,O,T,O, O,O,O,O,T,O,O,O,O,O,O,T,T, O,X,X,T,O,O,X,O,O,X,O, 
+6	U		6	i suppose	
+7	S		7	you can leave it there. a beat. does she really mean it?	X,O,O,T,O,X, X,X,O,O,X,X,X,X,X,T,X,X,X, O,O,O,O,X,O,T,X,X,T,T, 
+8	U		8	i do not know	
+9	S		9	i think it is totally weak.	X,T,T,O,T,T, T,O,O,O,T,X,X,X,T,T,T,X,X, O,T,T,T,X,O,T,X,X,X,O, 
+10	U		10	maybe	
+11	S		11	maybe – maybe! i do not want any maybe.	O,T,X,O,X,O, O,O,O,O,X,O,O,X,O,T,O,X,T, O,T,X,O,O,T,T,T,O,X,O, 
+12	U		12	what do you want?	
+13	S		13	were you asleep?	X,O,O,T,T,X, X,X,O,O,X,X,O,X,X,X,X,X,T, X,O,O,T,X,T,O,X,X,X,X, 
+14	U		14	when?	
+15	S		15	in a minute, look it is hot, sweetie you will burn your nose, look out.	X,X,T,T,T,X, X,X,O,T,X,X,X,X,T,X,X,X,X, O,X,X,T,X,T,X,X,O,X,X, 
+16	U		16	what?	
+17	S		17	the radio is gone... that means--the car is gone!	X,T,T,T,X,X, X,X,O,O,X,T,X,X,X,X,X,X,X, O,X,X,T,X,T,T,X,X,X,X, 
+18	U		18	what car?	
+19	S		19	i have an idea for that.	X,O,O,X,T,X, X,X,O,X,X,X,T,X,X,X,X,X,X, X,O,T,T,X,T,T,X,X,X,X, 
+20	U		0	hi alex, you still there	
+21	S		1	so you have been told you have cancer. well...	X,T,O,T,T,T,O,O,O,T,O,X,T,T,O,X,O,O,X,O,X,X,X,X,T,O,T,T,T,X, 
+22	U		2	no, i do not think so	
+23	S		3	you do not like it.	X,T,O,T,T,T,O,O,O,X,O,X,O,X,O,O,T,O,X,O,X,T,X,T,T,T,T,T,X,X, 
+24	U		4	of course not!!!	
+25	S		5	what i mean is, do you really know what is going on in his head?	T,X,O,T,O,O,T,O,T,T,O,X,T,O,O,X,T,O,X,O,O,T,X,X,O,T,O,O,O,X, 
+26	U		6	no	
+27	S		7	i told you a thousand times you should always keep, uh...	T,X,X,X,T,T,T,O,X,X,O,X,X,O,O,O,O,O,X,O,X,T,X,X,T,T,O,O,O,X, 
+28	U		8	sorry, but i forgot	
+29	S		9	side-kick drives away. grierson turns to david.	X,X,X,X,X,X,O,O,X,X,X,X,X,X,O,T,O,X,X,X,X,X,X,X,T,O,T,T,T,X, 
+30	U		10	what???	
+31	S		11	joey points	X,X,X,X,T,T,T,O,X,X,X,X,X,X,O,T,O,X,X,X,X,X,X,X,T,O,T,T,T,X, 
+32	U		12	you are like crazy today	
+33	S		13	dad, this is not actually what he is like. he took some drugs and--	T,X,X,X,T,T,T,O,O,T,X,X,X,O,O,X,T,X,X,X,X,X,X,X,T,O,T,O,T,X, 
+34	U		14	helloooo	
+35	S		15	leave it	T,X,X,X,T,X,T,O,X,X,T,X,X,X,O,O,T,O,X,O,X,X,X,X,T,T,X,X,X,X, 
+36	U		16	you, leave it, can we just talk?	
+37	S		17	he persists.	X,T,X,T,X,T,T,O,X,X,X,X,T,O,O,T,O,O,X,X,X,T,X,T,T,O,T,T,T,X, 
+38	U		18	who is he anyway?	
+39	S		19	well... why are you asking this, by the way?	T,X,X,O,O,T,T,O,X,T,O,X,T,X,O,T,T,X,X,O,O,T,O,O,O,T,O,O,O,O, 
+40	U		0	hi alex	
+41	S		1	hi.	O,O,O,O, O,O,O,O,O,X,O,T,O,O,O,O,O,O,O,O,O,O,O,X, O,O,O,O,O,O, 
+42	U		2	how are you doing today?	
+43	S		3	i am killing myself.	T,T,O,T, T,O,O,X,X,T,X,X,O,O,X,T,O,X,T,X,O,O,T,X, T,T,O,O,O,T, 
+44	U		4	why?	
+45	S		5	well, i think --	T,O,O,T, O,O,O,X,X,O,X,T,X,O,O,T,X,T,O,X,O,X,T,X, X,O,O,O,T,X, 
+46	U		6	about what?	
+47	S		7	yeah, i heard about that.	X,T,T,T, X,T,X,X,X,X,X,T,O,T,X,X,X,T,X,X,O,X,X,X, X,X,T,O,X,T, 
+48	U		8	what?	
+49	S		9	i think you have a gray hair.	X,X,X,O, T,T,X,X,T,T,T,X,X,O,O,T,X,O,X,X,O,X,X,T, X,X,X,O,X,O, 
+50	U		10	you are right	
+51	S		11	it is like the days of the mad barber of fleet street, is not it?	T,X,X,O, T,T,X,X,X,T,X,O,X,O,X,X,O,X,T,X,O,X,X,O, X,X,X,O,X,T, 
+52	U		12	yes	
+53	S		13	i would like to thank you for filling in on such short notice for the vice president.	X,X,X,T, T,T,T,X,O,T,T,T,X,O,X,T,X,X,X,X,O,X,X,T, X,X,X,O,X,O, 
+54	U		14	do you have a car?	
+55	S		15	you lying son of a bitch...	X,X,X,X, X,T,X,X,X,X,T,X,X,T,X,X,X,X,X,X,X,X,X,X, X,X,X,T,X,X, 
+56	U		16	do you have a car?	
+57	S		17	this car.	O,X,X,T, X,T,X,X,X,T,X,X,X,O,O,X,X,T,X,T,X,X,X,X, X,T,X,T,X,T, 
+58	U		18	do you have a car?	
+59	S		19	could you please say something different?	X,T,X,T, X,X,X,X,T,T,T,O,X,O,X,X,O,T,O,T,T,X,T,T, X,X,O,T,X,X, 
+60	U		0	i am back again	
+61	S		1	my house is just a couple of blocks away.	T,O, X,X,X,O,O,T,O,O,O,T,T,T,O,T,T, X,X, O,O,X,O,O,T,T,X,T,X,T, 
+62	U		2	good, are we going there?	
+63	S		3	what are we going to do?	O,O, T,T,O,O,T,T,O,T,O,X,T,T,T,X,T, T,T, O,T,T,T,O,O,T,O,O,T,O, 
+64	U		4	have some food for dinner, i can cook	
+65	S		5	yes.	T,O, X,O,X,O,O,O,O,T,O,T,X,T,O,T,O, O,O, T,O,O,X,O,O,T,X,T,T,O, 
+66	U		6	rendang	
+67	S		7	please explain that to me!	O,O, T,O,X,O,O,O,O,X,O,T,X,X,T,O,T, T,O, O,T,O,T,O,O,T,X,O,X,O, 
+68	U		8	rendang is a spicy meat dish which originated from the minangkabau ethnic group of indonesia	
+69	S		9	ok, thank you for explaining it!	T,O, X,O,X,T,O,T,O,X,O,T,O,O,O,O,O, O,O, O,O,O,X,O,O,O,O,O,O,O, 
+70	U		10	do you like rendang	
+71	S		11	... a group from the ...	X,O, X,X,T,T,X,T,X,X,T,X,X,X,T,X,X, X,X, T,X,X,X,T,X,T,X,X,X,X, 
+72	U		12	rendang	
+73	S		13	... a group from the ...	X,O, T,X,T,T,X,T,X,X,X,X,X,X,X,X,X, X,X, T,X,X,X,X,X,X,X,X,X,X, 
+74	U		14	rendang	
+75	S		15	it is not the dish--	X,O, T,X,T,T,X,O,T,X,T,T,X,X,X,X,T, X,X, X,X,X,X,T,T,X,X,O,X,X, 
+76	U		16	why the sequence is not in order	
+77	S		17	everything is in order.	T,O, T,X,X,O,X,T,O,X,X,T,T,T,T,X,X, T,T, O,X,O,X,T,T,T,O,O,T,O, 
+78	U		18	i do not think so, let me check the logs	
+79	S		19	check.	T,O, T,O,X,T,O,O,O,X,X,O,T,T,T,X,T, T,T, T,X,O,X,T,T,O,O,T,T,O, 
+80	U		0	hi alex	
+81	S		1	you three have a good weekend.	O,T,O,X,O,O,X,X,X,T,X,X,O,O,T,X, T,O,X,T,X,X,X,X,X,X,X,X,X,O, 
+82	U		2	yes. how did you know it?	
+83	S		3	squash it.	O,X,X,X,O,T,T,X,X,X,X,X,T,X,T,X, X,X,X,X,T,X,T,T,X,X,X,X,O,T, 
+84	U		4	ok. good.	
+85	S		5	wait!	O,X,O,X,T,O,O,T,T,X,T,T,T,X,O,X, T,X,X,T,T,T,X,X,O,T,T,T,O,T, 
+86	U		6	for what?	
+87	S		7	no matter what you think, you did come up with something unique.	O,X,O,X,O,X,T,T,X,T,T,X,T,X,X,X, X,X,X,X,X,T,X,X,X,X,T,X,T,T, 
+88	U		8	thank you.	
+89	S		9	now i want you to do something for me.	O,X,O,X,O,O,T,T,T,T,X,T,O,O,O,X, O,X,X,O,T,X,T,T,O,X,T,O,T,O, 
+90	U		10	tell me	
+91	S		11	he is taking care of the same business i will be taking care of - soon as i dry off.	O,X,X,X,T,X,T,T,T,X,X,X,T,X,T,X, X,X,X,X,X,X,X,X,T,X,X,O,O,T, 
+92	U		12	ok. but it is not clear what do you want from me?	
+93	S		13	yeah.	X,X,X,X,O,O,T,X,X,X,X,O,O,X,T,X, X,X,X,X,X,X,X,T,T,X,X,X,O,T, 
+94	U		14	tell me clearly	
+95	S		15	you are rich. what do you have to worry about?	O,X,X,X,T,O,O,O,O,X,O,X,O,X,X,X, X,X,X,T,X,O,X,X,T,O,O,X,O,T, 
+96	U		16	i am not worry about anything	
+97	S		17	do not worry about it.	O,X,T,O,T,O,T,X,X,T,X,O,T,T,T,X, T,X,T,O,T,X,X,T,O,X,X,T,O,T, 
+98	U		18	ok. sure.	
+99	S		19	yeah. they just need me downtown in half an hour for a news conference with the deputy mayor.	O,X,O,O,T,O,T,X,X,T,X,O,T,X,X,X, T,X,X,O,X,X,X,X,O,X,X,X,O,O, 
+100	U		0	hi alex	
+101	S		1	oh, my god. how old are you, you slut?	X,X,O,T,X,X,T,O,X,X,O,X,X,X,T,X,X,X,X,X,T,O,T,X,T,X,T,T,X,X, 
+102	U		2	that is so rude	
+103	S		3	you guys were way rude. it was shocking.	T,O,O,O,X,T,X,O,X,O,O,X,X,O,O,X,O,X,O,O,T,T,T,O,T,X,X,T,X,O, 
+104	U		4	how are you?	
+105	S		5	i could not sleep, i did not want to bug you.	T,T,O,O,X,T,T,O,X,O,O,X,T,O,X,X,X,X,T,T,O,T,X,T,O,X,X,X,X,O, 
+106	U		6	what do you think about the new prime minister?	
+107	S		7	let is hope so! cause if i did not we are gonna look like burnt out toaster ovens!	T,X,O,X,X,T,T,O,X,O,X,X,O,X,X,X,X,X,X,X,X,X,X,O,X,X,X,X,X,X, 
+108	U		8	how old are you?	
+109	S		9	i am thirteen, how old are you?	O,O,O,X,O,O,O,O,X,O,X,X,O,O,X,X,X,X,O,O,O,O,X,O,O,O,T,T,O,X, 
+110	U		10	i am 25	
+111	S		11	what are we going to do? i do not know what to do.	O,X,O,O,X,O,O,O,X,O,X,X,O,O,X,X,X,X,T,X,T,O,X,O,O,T,X,T,O,O, 
+112	U		12	we can just talk for a little while	
+113	S		13	can we talk?	O,O,O,O,X,T,O,O,X,O,X,X,O,O,X,X,X,X,O,T,T,O,X,T,O,T,T,T,T,O, 
+114	U		14	yes. what do you want to talk about?	
+115	S		15	anything. anything at all.	O,O,O,X,O,O,O,O,X,O,X,X,T,O,X,X,X,X,O,O,O,O,X,O,O,T,T,T,O,O, 
+116	U		16	do you watch any tv series?	
+117	S		17	what do you ride?	X,X,O,X,X,T,O,O,X,T,T,X,O,X,X,X,X,X,O,X,X,X,X,X,X,X,X,X,T,X, 
+118	U		18	what do you mean?	
+119	S		19	when it is him it does not look like him.	X,X,O,X,X,T,T,O,X,O,X,X,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X, 
+120	U		0	hi alex!	
+121	S		1	hi. who looks like a carrot?	T,O,T,O,T,X, T,T,O,O,O,T,T, T,O,T,O,T,X,T,T,O,O,O,X,O,T,O,O,O, 
+122	U		2	i do not know, who does?	
+123	S		3	him. danny. he is the man with the records.	O,O,O,O,O,T, O,X,O,O,O,O,O, T,O,O,X,X,X,X,T,X,O,O,X,X,T,O,T,O, 
+124	U		4	why does he look like a carrot?	
+125	S		5	what does he look like?	O,O,X,O,O,O, O,X,T,T,T,T,T, O,X,T,X,X,X,T,O,O,X,O,T,O,T,O,O,X, 
+126	U		6	like a carrot	
+127	S		7	must be my cologne... eau dc carrot.	O,X,X,X,O,T, O,T,O,O,O,O,T, T,X,O,T,X,X,X,T,T,X,T,X,T,T,O,T,X, 
+128	U		8	that is really funny	
+129	S		9	--that is not funny--	O,O,T,O,O,T, O,X,T,T,O,T,O, O,O,T,X,X,T,X,T,X,X,O,O,X,T,O,T,X, 
+130	U		10	i am sorry	
+131	S		11	oh my god, they killed kenny!	O,X,T,O,T,T, O,X,T,X,T,T,T, T,X,O,T,X,X,X,T,T,X,O,T,X,T,T,X,X, 
+132	U		12	oh no, poor kenny!	
+133	S		13	oh you poor dear. you have been through so much...	O,O,O,O,O,O, O,X,O,X,O,T,T, O,O,O,T,X,T,T,T,T,X,O,O,T,T,T,T,T, 
+134	U		14	i am so so sorry for him	
+135	S		15	thanks.	O,O,X,O,O,O, O,T,O,O,O,X,T, O,O,O,T,X,X,T,X,X,X,O,T,T,T,T,O,T, 
+136	U		16	why did they do that? it is so horrible	
+137	S		17	psychology. they are trying to unnerve us.	O,X,O,O,T,O, O,X,O,O,O,O,T, T,O,O,T,X,X,X,X,T,X,O,T,T,T,X,O,O, 
+138	U		18	i think they are succeeding	
+139	S		19	look...	O,X,X,O,O,T, O,X,T,T,T,T,T, O,X,O,X,X,X,X,O,T,X,T,O,O,T,T,O,T, 
+140	U		0	hey there cutie	
+141	S		1	that is right. you get her name?	X,O,O,T,O,X,X, X,X,O,O,X,T,O,X,T,X,T,T, O,O,X,X,X,T,X,T,T,X,X, 
+142	U		2	alex, is not it?	
+143	S		3	oh, danny, honey. you are so sweet. i could eat you alive...	T,O,T,T,X,T,X, O,X,O,O,T,T,O,O,X,X,T,T, T,T,X,T,X,T,X,X,T,O,X, 
+144	U		4	i would love to be eaten by you, alex	
+145	S		5	love to --	O,X,T,O,T,O,O, X,O,O,T,T,O,T,O,O,O,X,T, O,T,X,T,O,O,X,T,T,X,O, 
+146	U		6	let is	
+147	S		7	your destination. courtroom six.	X,X,X,X,T,X,X, X,O,O,X,T,T,X,X,X,X,X,X, X,T,X,T,X,T,X,X,X,X,X, 
+148	U		8	why am i going to a courtroom?	
+149	S		9	 wouldi am in love again hear my heart strings strumming i am in love again and the hymn they are humming is those cuddle-up huddle-up blues i am in love again and i ca not rise above it.	X,O,X,X,T,X,X, X,O,O,X,X,X,X,O,X,X,X,X, X,X,X,T,X,T,T,X,X,X,X, 
+150	U		10	that must be the cutest song i have ever heard	
+151	S		11	so i have heard.	O,T,X,O,O,O,O, X,T,O,T,O,T,O,O,T,O,T,T, T,X,T,T,X,T,T,X,T,O,O, 
+152	U		12	where did you first hear it?	
+153	S		13	i do not know. where did you hear that name.	O,O,O,O,O,T,O, T,O,O,X,O,O,O,O,T,O,T,X, O,O,O,T,X,O,T,X,T,X,T, 
+154	U		14	what name?	
+155	S		15	well, this is going to sound a little crazy.	T,T,O,O,T,T,X, T,T,O,X,X,T,X,O,O,X,T,X, O,O,X,T,X,T,X,X,T,X,X, 
+156	U		16	i love crazy	
+157	S		17	okay, i feel kind of stupid but...	O,O,T,O,T,O,O, O,O,O,T,X,X,T,O,O,O,O,T, O,T,X,T,O,T,T,X,T,O,O, 
+158	U		18	go ahead, please do not worry	
+159	S		19	i had the last strawberry in the refrigerator.	X,X,O,T,T,O,X, O,X,O,X,T,X,T,X,O,T,X,X, X,X,X,T,O,T,X,X,X,O,X, 
+160	U		0	hi alex	
+161	S		1	what are you doing?	O, O,T,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O, O,O,O,T,O,X, O, 
+162	U		2	just came back from lrec	
+163	S		3	why do they have you tied up here?	O, T,X,X,T,X,O,T,O,O,O,O,O,T,O,O,O,O,T,T,O,O,O, T,O,O,T,O,O, T, 
+164	U		4	because this is where i work, i have to be here everyday	
+165	S		5	so this is where you work.	X, O,X,T,O,O,X,T,O,X,T,T,T,T,T,T,X,X,T,T,O,O,O, O,O,O,T,O,O, O, 
+166	U		6	yeap, what about you, where do you work?	
+167	S		7	back in the saddle.	X, T,X,X,X,T,X,T,T,X,X,X,X,X,X,X,X,X,X,T,X,O,O, X,O,O,T,O,O, X, 
+168	U		8	oh, interesting... and what you do there?	
+169	S		9	is it?	X, X,X,X,X,T,O,X,T,O,O,O,O,X,O,O,O,O,O,X,O,O,T, X,T,T,O,O,O, X, 
+170	U		10	i do not get it, sorry, still with jetlag, what do you mean?	
+171	S		11	with your life.	X, X,X,X,X,T,X,X,T,T,T,T,T,X,T,T,T,T,T,T,T,O,T, O,X,X,O,X,X, X, 
+172	U		12	hmmm, no capito	
+173	S		13	and your mother was very beautiful. she must be proud of you.	X, X,O,X,X,X,X,T,O,X,X,X,X,X,X,X,X,X,X,X,X,O,X, X,X,T,X,X,X, T, 
+174	U		14	yes, she is indeed	
+175	S		15	your name is melville?	X, X,O,X,X,X,O,O,T,O,O,O,O,X,O,O,O,O,T,X,O,O,T, O,T,T,X,X,X, T, 
+176	U		16	no... i am danny	
+177	S		17	look, there is danny and her little boyfriend	X, T,O,O,X,O,T,X,T,T,X,T,X,O,X,X,X,X,T,T,X,O,O, X,X,T,X,X,T, X, 
+178	U		18	i think you are confused	
+179	S		19	yeah, you know, probably one of these fast-talking career gals...	X, T,T,X,X,X,O,X,T,O,O,O,O,X,O,O,O,O,T,T,X,O,T, X,X,T,X,X,X, T, 
+180	U		0	hello	
+181	S		1	mr. president...	O,O, X,O,T,T,O,O, X,O, O,X,X,O,T,T,T,T,O,O,O,T,X,X,O,O,X,T,O,O, 
+182	U		2	yes that is me	
+183	S		3	that is more than  wouldyes would -- that is  wouldyou bet. would they kiss.	O,X, X,X,X,X,O,T, X,X, O,X,X,T,X,X,T,T,O,T,O,T,T,X,O,T,X,X,O,T, 
+184	U		4	how are you doing?	
+185	S		5	let is go. come on.	T,X, T,T,T,X,X,T, X,X, X,X,X,T,X,X,X,T,T,X,X,X,X,O,T,X,X,X,O,X, 
+186	U		6	do you have some good music?	
+187	S		7	one hundred american dollars. cash.	O,X, X,X,X,X,X,X, X,T, X,X,X,T,X,X,X,X,X,T,X,X,T,X,X,O,X,X,T,T, 
+188	U		8	that is expensive	
+189	S		9	do not worry...	O,O, T,O,O,X,O,O, O,T, X,X,T,T,O,T,T,T,O,X,O,O,T,X,X,O,O,O,X,O, 
+190	U		10	i need more money	
+191	S		11	the heck d wouldya mean? what a you guys got yourself mixed up in?	O,O, T,O,T,X,O,O, O,O, X,X,X,T,T,O,T,O,O,X,T,O,O,X,X,O,T,O,T,O, 
+192	U		12	i just came out of jail	
+193	S		13	oh, we are going to jail.	O,O, T,O,O,X,O,T, O,O, X,X,X,T,T,O,T,T,T,X,T,O,X,X,X,X,O,T,O,O, 
+194	U		14	again?!	
+195	S		15	i am telling you, she is out of control.	O,O, T,O,T,X,O,T, X,O, X,T,X,T,T,O,T,T,O,X,O,T,T,X,X,X,O,O,X,O, 
+196	U		16	oh no...	
+197	S		17	danny -	O,T, T,X,O,X,O,T, X,O, X,X,X,T,T,O,X,X,T,X,O,O,X,X,X,O,T,X,T,T, 
+198	U		18	i know...	
+199	S		19	look, we gotta talk.	O,O, T,O,T,X,O,O, O,O, X,X,X,T,O,O,T,O,O,X,O,O,X,O,X,O,O,T,T,T, 
+200	U		0	how old are you?	
+201	S		1	i am alright.	O,X,X,X,X,X,X,X,X,X,X,X,O,X,O, X,X,X,X,X,X,X,X,X,T,O,X,X,T,O, 
+202	U		2	no, how old are you?	
+203	S		3	old enough. how old are you?	T,O,O,O,X,T,O,O,O,O,X,T,O,T,O, T,X,O,O,T,T,O,X,X,T,O,X,T,O,O, 
+204	U		4	i am 19	
+205	S		5	we were!	X,T,T,T,X,X,X,X,X,X,X,X,O,X,O, T,X,X,X,X,X,T,X,X,X,X,X,T,O,O, 
+206	U		6	how long ago was that?	
+207	S		7	i have been thinking about getting tattoo. you know...	X,O,O,O,T,X,X,O,T,O,X,T,X,T,T, O,T,T,X,X,T,X,X,X,X,X,X,X,X,T, 
+208	U		8	oh that is awesome, what do you want to get tattooed?	
+209	S		9	awesome!	X,X,X,X,X,T,T,X,X,X,X,O,X,O,O, X,O,T,O,X,X,T,X,X,X,X,O,T,T,T, 
+210	U		10	like the word?	
+211	S		11	so let is take this great form, this very american tradition of entertainment into the 21st century.	X,T,T,T,X,X,X,X,X,T,X,X,X,X,O, O,X,T,X,X,O,X,X,X,X,X,X,X,X,O, 
+212	U		12	ok	
+213	S		13	on your marks...  get set go.	X,O,O,O,O,X,T,X,T,O,X,O,X,T,O, O,O,O,X,X,O,O,X,X,X,O,O,X,X,O, 
+214	U		14	how do we do this?	
+215	S		15	how do we know it is him?	T,O,O,O,X,T,X,O,X,O,X,T,X,T,T, T,O,X,X,O,X,T,X,X,X,X,O,T,X,T, 
+216	U		16	we can ask him?	
+217	S		17	i am alex.	O,X,T,T,X,X,X,X,X,X,X,O,X,T,O, T,O,T,O,X,X,X,X,X,X,X,O,T,T,X, 
+218	U		18	hi alex	
+219	S		19	giver her your tray, danny. you are holding up the line.	X,T,T,X,O,X,X,T,X,T,T,O,X,T,X, O,X,X,O,X,O,X,X,X,X,X,X,T,X,X, 
+220	U		0	hi alex	
+221	S		1	well, what about my car?	T,O,O,O,X,X,O,T,O,O,O,X,X,T,X,O,T,O,O,O,O,X,T,X,T,O,X,T,T,O, 
+222	U		2	which car?	
+223	S		3	the one that is been following us the last mile and a half.	O,O,O,O,O,O,O,O,O,O,O,X,O,X,X,O,T,T,T,X,T,X,O,O,T,O,O,X,X,X, 
+224	U		4	lol, i did not notice that. how did you know?	
+225	S		5	i told you. the face.	T,T,O,T,O,X,O,X,O,O,O,O,O,O,X,O,O,T,T,T,T,X,X,O,T,T,X,T,T,X, 
+226	U		6	the face of whom?	
+227	S		7	tomorrow, san francisco!	X,T,O,X,X,X,O,X,O,O,T,X,T,X,X,X,T,T,T,T,T,X,X,X,X,X,X,X,X,X, 
+228	U		8	ok. sounds great. what is the plan?	
+229	S		9	what is the plan?	T,T,O,T,X,O,O,T,T,O,T,X,T,T,T,O,T,O,O,O,O,T,X,X,X,T,O,T,T,T, 
+230	U		10	yes, what do you have in mind?	
+231	S		11	no, i guess not. i am an actor.	T,T,O,T,X,X,O,X,O,X,T,X,T,X,X,X,O,T,T,T,T,X,X,X,X,X,X,X,X,X, 
+232	U		12	ok. i can propose to go to the golden gate	
+233	S		13	you do. you think he is going to propose.	T,O,O,T,X,O,O,T,O,O,T,X,T,X,X,X,T,O,T,T,T,O,X,O,X,O,X,X,X,X, 
+234	U		14	who is he?	
+235	S		15	i think i know it, but... i do not remeber now... :)	X,T,O,T,O,T,O,T,O,O,T,X,T,O,X,O,X,T,X,X,X,O,O,X,X,T,T,X,X,X, 
+236	U		16	ok, never mind. i think we can go later to alcatraz	
+237	S		17	never mind.	X,T,O,X,O,T,O,X,O,X,T,X,T,O,X,O,X,T,X,X,X,X,O,O,X,T,X,X,X,X, 
+238	U		18	why? you do not like it?	
+239	S		19	i am not sure. nervous... i just need a minute in the bathroom.	X,O,O,O,O,T,O,T,O,O,T,X,T,X,X,O,O,T,X,X,X,X,O,X,X,O,X,X,X,X, 
+240	U		0	hi alex, what is up dude!	
+241	S		1	danny, you have a call from scottie is teacher. she says it is urgent.	'O','O','T','T','O','T','T','X','T','T','O','X','O','T','O','O', 'O','O','T','O','O','O','O','T', 'T','O','O', 'T','O','O', 
+242	U		2	what should it be? i finished my homework already	'O','O','X','X','X','X','X','X','X','X','X','X','O','X','O','X', 'T','O','T','O','O','T','O','O', 'T','O','T', 'O','T','T', 
+243	S		3	i am finished.	'O','O','X','X','X','X','X','X','X','X','X','X','T','X','O','T', 'T','O','T','O','T','X','T','O', 'T','O','X', 'T','T','T', 
+244	U		4	tell her i am not here	'O','O','X','T','T','T','T','T','T','T','X','X','T','X','O','X', 'T','O','T','O','O','O','X','O', 'X','O','O', 'X','O','O', 
+245	S		5	i am not.	'O','T','T','T','T','X','T','T','T','T','X','X','T','T','O','T', 'O','O','T','X','O','T','T','T', 'T','O','O', 'O','X','O', 
+246	U		6	why not, please be a good friend	'O','X','O','O','O','O','O','O','O','O','X','X','T','X','O','X', 'T','O','X','X','O','X','O','X', 'T','O','T', 'X','X','O', 
+247	S		7	because it was a lie.	'O','T','T','T','T','T','T','T','T','T','T','X','T','X','O','X', 'T','O','X','X','O','T','X','X', 'X','X','O', 'O','O','T', 
+248	U		8	i see, you are a liar then!	'O','T','O','O','O','O','O','O','O','O','X','O','T','O','O','O', 'T','O','X','X','O','T','X','O', 'X','T','T', 'O','O','O', 
+249	S		9	0h ali we can work this thing out, you know.	'O','T','O','O','O','O','O','O','O','O','X','T','T','O','O','T', 'T','T','X','X','O','T','T','T', 'X','O','O', 'O','T','O', 
+250	U		10	aleida, i am not ali...	'O','O','O','O','O','O','O','O','O','O','X','T','T','T','O','T', 'O','O','X','X','O','O','X','O', 'X','O','O', 'O','O','O', 
+251	S		11	see... wouldkill the body and the head will die would... the frazier/ali fight..	T,X,X,O,O,X,O,O,O,O,O,O,O,X,T,T,T,X,O,O,X,T,T,O,O,T,X,O,X,O, 
+252	U		12	wow what an important citation!	
+253	S		13	wow!!	X,X,T,O,O,X,O,O,X,O,O,X,T,T,T,T,X,X,O,X,T,X,T,T,O,T,X,O,O,T, 
+254	U		14	tell me something	
+255	S		15	tell me what?	T,X,T,O,O,X,O,O,X,O,O,T,T,X,X,X,X,X,O,O,X,X,X,O,X,T,X,O,X,T, 
+256	U		16	how many times have you get drunk?	
+257	S		17	how much have you drunk, danny?	T,X,T,X,O,X,O,O,X,O,T,O,T,X,T,T,X,O,T,O,T,X,X,X,O,T,X,O,O,O, 
+258	U		18	i asked first...	
+259	S		19	that is not the issue--	O,O,X,O,X,X,O,O,T,O,T,O,T,O,T,O,X,O,O,T,O,O,T,T,O,O,T,X,X,T, 
+260	U		0	hello	
+261	S		1	mr. president...	T,X,T,O,X,X,O,T,X,O,O,X,X,T,T,T,X,O,O,X,O,X,T,O,T,O,X,X,T,O, 
+262	U		2	no i am not a president. but thanks.	
+263	S		3	no thanks.	T,X,T,O,X,X,O,O,X,O,T,X,T,T,T,T,X,O,T,T,T,T,X,O,T,T,X,X,O,T, 
+264	U		4	uh?	
+265	S		5	i love this plan.	X,O,X,O,X,X,O,X,X,O,T,X,X,T,T,X,X,X,T,O,T,X,O,O,X,T,X,X,O,O, 
+266	U		6	which plan?	
+267	S		7	it is working is not it?	T,O,O,O,X,X,O,X,X,O,O,O,X,O,O,O,X,O,T,O,O,O,O,O,O,O,X,X,O,O, 
+268	U		8	which plan is working?	
+269	S		9	getting re-elected.	T,X,X,O,X,X,O,X,X,O,X,T,X,T,X,X,X,X,X,O,T,X,T,O,X,T,X,X,X,T, 
+270	U		10	o that ... i am not sure i want to be re-elected	
+271	S		11	i am not sure--	O,T,X, T,O,X,T,X,T,T,T,O,X,X,T,T,T,O,T,T,T,T,T,T,T,T,X,T,T,X, 
+272	U		12	i am sure. i ca not be re-elected. i am not elected yet.	
+273	S		13	not so fast, pal.	X,T,X, X,X,X,X,X,O,O,O,T,T,X,X,X,T,T,O,O,O,O,O,O,O,O,X,X,X,O, 
+274	U		14	what?	
+275	S		15	what did you order?	T,T,X, X,O,O,X,X,T,T,T,X,T,O,X,X,X,X,T,T,T,T,T,T,X,T,X,X,X,X, 
+276	U		16	wine as usual	
+277	S		17	more wine?	T,T,X, X,T,X,T,X,X,X,X,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,T,X,T,X, 
+278	U		18	no thanks. i would like water now	
+279	S		19	danny, i want to dance.	X,T,X, X,X,X,X,O,T,T,T,T,T,X,X,X,X,X,T,T,T,T,T,T,T,T,X,T,X,X, 
+280	U		0	hello alex	
+281	S		1	yeah... well...	X,X,X, O,X,X,X,X,X,X,X,T,T,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T, 
+282	U		2	well...what??	
+283	S		3	slimeball? louse? jackass?  stuck-up blimpasaurus?	X,T,X, O,X,X,X,O,O,O,O,T,T,X,X,X,X,X,O,O,O,O,O,O,O,O,O,O,T,O, 
+284	U		4	what you say?	
+285	S		5	 wouldlittle latin lupe lu. would danny groans.	O,T,X, O,T,X,T,T,X,X,X,T,O,X,X,X,X,X,X,X,X,X,X,X,X,X,O,X,T,X, 
+286	U		6	i do not get you...	
+287	S		7	take care, viv.	O,T,X, T,O,X,X,X,O,O,O,T,O,X,X,X,X,X,O,O,O,O,O,O,O,O,X,O,T,O, 
+288	U		8	oh come on! just tell me something reasonable	
+289	S		9	oh come on!	T,T,X, T,O,X,T,X,X,X,X,O,T,X,X,X,X,X,X,X,X,X,T,T,X,T,O,T,T,X, 
+290	U		10	ok, now you are repeating what i am saying...	
+291	S		11	look, baxter, i am not stupid.	O,O,O,O,T,T,T,T,O,T,O,T,X,T,O,O,O,T,T,O,T,O,T,X,O,O,T,O,O,T, 
+292	U		12	you shall not pass	
+293	S		13	why not, against your religion?	O,O,X,X,T,O,O,O,X,O,T,O,O,O,X,X,X,O,O,X,O,O,O,X,O,O,O,O,O,O, 
+294	U		14	the night is darker before dawn	
+295	S		15	see you at dawn.	O,T,X,X,X,O,T,T,X,O,X,T,O,O,X,X,X,O,O,X,O,T,T,X,X,X,O,O,O,X, 
+296	U		16	maybe tomorrow...	
+297	S		17	you are a big help. can i have one of those?	O,O,T,O,T,O,O,O,O,T,T,X,T,O,O,X,O,T,X,X,X,X,X,X,X,X,T,X,X,X, 
+298	U		18	are you sure?	
+299	S		19	you know it.	O,O,T,T,X,O,O,O,T,O,O,O,O,O,T,T,T,O,O,X,O,T,X,X,O,O,O,O,O,O, 
+300	U		0	heyyyy	
+301	S		1	what the hell is that?	X,T,T,T,X,T,O,T,T,T,O,X,O,O,T,T,X,T,X,X,T,T,X,X,O,O,T,O,X,O, 
+302	U		2	it means i am happy to talk to you	
+303	S		3	ok, thank you for explaining it!	O,X,X,X,X,O,O,T,T,T,T,X,T,T,T,T,T,T,T,T,X,X,X,X,O,O,O,X,O,O, 
+304	U		4	no problemo	
+305	S		5	no.	O,X,X,T,X,O,O,O,X,T,T,X,X,O,T,T,X,T,T,X,O,T,X,X,O,O,O,O,T,O, 
+306	U		6	no?	
+307	S		7	i have to get her back..	O,X,X,X,X,X,T,X,X,T,T,T,X,O,X,X,X,O,X,X,O,X,X,X,X,X,T,O,X,X, 
+308	U		8	who?	
+309	S		9	kubelik.	X,O,O,O,O,T,T,X,O,X,O,T,O,T,O,O,O,T,T,O,T,O,T,X,O,O,X,O,X,X, 
+310	U		10	who is kubelik?	
+311	S		11	no kidding. buddy-boy and kubelik having themselves a little toot!	T,X,X,O,X,X, X,T,O,O,O,X,X,O,O,O,T,T,T,X,O,X,T,O,O,X,O,T,O,O, 
+312	U		12	what does that mean?	
+313	S		13	you sell to people that ca not stay away from an addiction.	X,X,X,T,X,T, X,T,O,O,X,X,X,O,X,T,O,O,T,T,X,T,T,O,T,X,T,T,T,T, 
+314	U		14	sell what?	
+315	S		15	a little of anything that matters.	X,X,X,X,X,X, X,T,O,O,O,X,X,O,T,O,T,T,X,T,X,X,X,O,O,T,X,X,T,X, 
+316	U		16	drugs?	
+317	S		17	no, thank you. i am straight.	T,X,X,T,X,X, X,T,O,X,O,X,O,X,O,O,O,O,O,T,T,X,T,O,T,O,O,X,T,T, 
+318	U		18	are you really straight?	
+319	S		19	what?	X,X,X,T,O,O, X,X,O,X,O,X,X,X,X,O,O,T,T,X,X,X,X,T,T,T,X,X,T,O, 
+320	U		0	hi alex, what is new?	
+321	S		1	that is me <name-self> informal response interactive system !, ha ha ha!	X,X,X,T,X,X, X,X,O,X,O,X,O,X,X,O,O,T,T,X,T,X,T,T,T,X,O,X,O,T, 
+322	U		2	good for you, i am depressed	
+323	S		3	i am.	X,X,T,T,O,T, X,X,O,X,O,X,O,X,X,O,O,T,T,X,X,X,X,T,X,X,X,X,T,T, 
+324	U		4	you too?	
+325	S		5	see ya.	X,X,O,X,X,T, X,X,T,X,X,X,X,X,X,O,T,T,X,X,X,X,X,T,X,X,T,X,O,T, 
+326	U		6	i am literally swimming in work!	
+327	S		7	ha ha.	X,X,T,T,O,X, T,T,T,X,O,X,O,X,X,O,O,T,T,O,X,T,T,T,X,T,T,X,O,T, 
+328	U		8	that is not funny indeed	
+329	S		9	do they like chocolate?	T,X,T,T,X,X, X,T,T,X,O,X,O,X,X,O,O,T,T,X,X,X,T,T,X,X,T,X,O,T, 
+330	U		10	yes, i like it, why?	
+331	S		11	be careful.	T,O,T,X,T,X,O,T,X,T,X,O,O,X,X,T,T,O,O,T,O,O,O,O,T,T,T,T,T,O, 
+332	U		12	oh, i see, it has a lot of calories, right	
+333	S		13	i thought you wanted to get diesel for the summer.	O,O,O,T,O,T,T,O,T,T,X,O,T,X,O,O,O,T,O,T,O,O,O,X,T,O,T,O,O,X, 
+334	U		14	no, i do not consume diesel	
+335	S		15	i see a whirlybird!	X,O,O,T,T,X,T,O,T,T,O,O,T,X,O,T,T,T,T,X,O,X,O,X,X,T,O,X,T,X, 
+336	U		16	what is that?	
+337	S		17	i think i know it, but... i do not remeber now... :)	O,O,O,O,T,T,T,T,O,O,O,O,O,O,O,X,T,T,O,T,O,T,O,O,X,O,O,X,O,T, 
+338	U		18	sorry to hear that, it seems you are quite short-minded	
+339	S		19	something short.	O,X,O,T,T,O,O,T,X,T,X,T,X,T,T,O,T,O,O,X,O,O,X,T,X,O,X,X,T,X, 
+340	U		0	hi alex	
+341	S		1	get in.	O,X,O,X,T,X,X,T,X,T,X,T,T,X,T,O,T,T,O,X,O,T,X,O,X,T,O,X,T,X, 
+342	U		2	no, thanks	
+343	S		3	i will see you out.	O,X,O,X,T,X,X,T,X,X,X,X,O,T,X,T,T,X,O,X,O,X,O,X,X,O,O,T,O,X, 
+344	U		4	yes, there is a sunny day out there	
+345	S		5	in a day or two, yes.	X,X,X,X,T,X,X,X,X,X,X,X,T,X,X,X,X,X,X,X,O,X,O,X,X,X,T,X,X,X, 
+346	U		6	no, i need to talk to you today!	
+347	S		7	we need to talk.	X,X,X,X,T,X,X,T,X,T,X,X,X,X,O,T,X,X,O,X,O,T,T,X,X,X,O,X,X,X, 
+348	U		8	yes, please listen to me	
+349	S		9	i do not want to talk about it.	T,X,O,X,T,T,T,O,T,O,X,X,O,O,T,T,T,O,O,X,O,T,T,X,X,X,T,O,X,X, 
+350	U		10	you do not even know what i am going to say!	
+351	S		11	yes, you are!	X,X,X,O,O,O, O,T,O,T, O,O,O,O,T,O,T,O,O,T,O,O,O,O,X,O,O, O,X,O, 
+352	U		12	ok, tell me, what you think i will say?	
+353	S		13	you notice last night, that tattoo on my butt?	X,T,X,X,O,T, X,O,T,X, T,X,T,X,X,X,X,X,O,X,T,T,T,X,T,T,X, T,X,X, 
+354	U		14	ha ha ha! very funny	
+355	S		15	hey head inalexo alexhe school. shane spoalexs somealexhing.	X,X,X,O,T,O, T,T,X,X, T,O,O,X,X,X,T,X,O,X,O,T,O,X,X,O,T, X,X,T, 
+356	U		16	i want to talk about the number of participants!	
+357	S		17	well, you are going to have to. your father is at the hospital.	X,T,X,O,O,O, O,T,X,T, X,O,O,O,X,X,X,T,X,X,T,T,O,T,X,O,T, O,O,O, 
+358	U		18	what happened to him?	
+359	S		19	well...	X,T,X,O,T,T, T,T,X,X, T,X,T,X,X,X,X,O,X,O,T,X,T,O,X,T,O, X,X,T, 
+360	U		0	hello alex.	
+361	S		1	we want you to come with us so we can talk some more about your experiences.	X,T,T,X,T,T, T,T,O,X, X,T,T,X,X,X,X,T,X,T,O,O,T,T,T,X,T, X,X,X, 
+362	U		2	which experiences exactly?	
+363	S		3	exactly.	X,O,O,O,T,O, O,T,X,T, T,O,T,O,X,X,X,X,X,X,O,O,T,O,O,O,X, T,O,T, 
+364	U		4	ok.	
+365	S		5	i will just wait in the car as you go back e inside to pee. again.	X,X,X,T,T,T, X,T,O,X, X,X,T,X,X,X,T,T,X,O,T,O,T,O,O,X,O, X,X,X, 
+366	U		6	lol, it is scary how well you know me alex, i do have to pee. again.	
+367	S		7	scary.	X,T,X,X,T,X, X,O,X,X, X,X,X,X,X,X,X,X,X,X,X,O,X,X,X,X,X, X,X,X, 
+368	U		8	yup.	
+369	S		9	wanna hit some of mine?	X,T,O,X,X,X, X,T,X,X, X,T,X,X,X,X,X,T,X,X,X,X,X,X,X,X,X, X,X,X, 
+370	U		10	some of your what?	
+371	S		11	dude, i manage an applebee is, that money meant something to me...	T,O,T,O,X,T,O,O,X,O,O,X,O,X,T,O,T,T,X,O,O,T,O,O,O,O,O,T,O,O, 
+372	U		12	i am pretty sure money means something to everyone.	
+373	S		13	i  would m sure .	O,X,X,X,X,O,X,X,X,T,O,X,O,T,O,O,O,O,X,X,T,O,X,X,O,X,O,X,X,X, 
+374	U		14	so which applebee is do you manage?	
+375	S		15	how do you manage to fit it all in?	O,X,X,X,X,O,X,X,X,T,T,X,T,X,T,X,X,O,X,T,O,X,X,X,X,X,X,T,T,X, 
+376	U		16	fit what all in?	
+377	S		17	okay, then... well,  wouldbye...	T,X,X,O,X,X,O,T,X,O,O,X,O,X,O,O,T,X,T,T,X,O,X,X,O,O,O,X,O,T, 
+378	U		18	aww, are we done talking?	
+379	S		19	i love it. i feel like a queen.	X,X,O,X,X,O,O,O,O,O,T,O,T,T,O,T,X,O,T,X,O,O,O,X,X,X,X,O,O,T, 
+380	U		0	hello alex	
+381	S		1	can i give you my number?	T,X,T,T,X,T,X,X,X,O,O,X,O,O,X,O,T,T,T,O,T,O,T,X,O,O,O,X,T,X, 
+382	U		2	please	
+383	S		3	mr bach-templemead...	T,X,T,T,X,X,T,X,O,O,O,X,O,X,O,O,T,X,X,O,T,O,T,X,O,O,O,O,O,T, 
+384	U		4	ha ha ha	
+385	S		5	hey head inalexo alexhe school. shane spoalexs somealexhing.	O,X,O,T,X,O,O,O,X,O,X,X,X,O,X,X,O,X,O,T,T,O,O,X,X,X,X,X,O,X, 
+386	U		6	you are alone there?	
+387	S		7	i know. i will make sure. how about some breakfast?	O,X,X,T,X,X,X,X,X,T,T,X,T,X,T,X,O,X,T,T,X,T,T,X,X,X,X,O,X,X, 
+388	U		8	nobody chats with you, let us have the breakfast	
+389	S		9	you know, danny, you really ought to eat with the rest of us.	O,X,X,X,X,X,X,X,X,T,T,X,X,X,O,X,X,X,T,T,T,T,X,X,X,X,X,X,T,T, 
+390	U		10	new session	
+391	S		11	where have you been?	O,T,T,T,T,T,T,T,T,X,X,O,T,O,O, T,O,O,O,T,X, T,X,O, O,X,O, O,T,O, 
+392	U		12	please	
+393	S		13	what?	O,O,O,O,O,O,O,O,O,X,O,O,O,O,O, O,O,O,O,T,O, X,O,T, X,O,O, O,T,O, 
+394	U		14	hello alex	
+395	S		15	it is me.	T,O,O,O,O,T,T,T,T,X,X,T,O,O,O, T,O,O,O,T,X, X,O,T, T,X,O, O,T,O, 
+396	U		16	who else is coming for breakfast?	
+397	S		17	pass.	T,X,X,X,X,X,X,X,X,X,X,T,X,O,O, T,O,O,T,X,T, X,T,O, T,X,X, T,O,T, 
+398	U		18	what?	
+399	S		19	danny, get into position.	O,X,X,X,X,X,X,X,T,X,X,T,T,O,T, O,O,X,O,T,T, X,O,O, O,O,O, X,O,T, 
+400	U		0	hello alex	
+401	S		1	oh, danny.	T,T,T,T,T,T,T,T,T,X,X,T,T,O,X, X,X,X,T,X,T, X,X,T, X,X,X, X,O,T, 
+402	U		2	what happened?	
+403	S		3	are you alright?	O,T,T,T,T,T,T,T,T,O,X,T,X,O,O, T,T,X,O,O,O, X,O,O, O,O,O, X,O,T, 
+404	U		4	yes, what about you?	
+405	S		5	is this a secure, uh----	O,X,X,X,X,X,X,X,X,O,X,T,X,T,O, T,T,X,O,O,O, X,O,O, O,O,O, X,O,T, 
+406	U		6	not sure, so do not say too much	
+407	S		7	you do too, danny.	T,X,X,X,X,X,X,X,X,X,T,O,X,O,T, T,T,X,O,X,T, X,O,T, X,O,T, X,O,T, 
+408	U		8	ok, done	
+409	S		9	you are right. it is ok. i just want it to be ok.	O,O,O,O,O,O,O,O,O,X,O,T,O,O,X, T,T,X,O,X,X, X,O,X, X,O,O, X,O,T, 
+410	U		10	good for you	
+411	S		11	three nails.	X,O,O,O,T,X,X,O,X,O,O,X,X,O,O,O,O,O,T,X,X,T,T,X,T,X,O,T,T,X, 
+412	U		12	only three? you need more?	
+413	S		13	i need more.	X,T,X,X,X,O,X,T,T,O,T,O,O,X,X,X,O,X,T,X,X,X,X,X,T,X,X,T,X,T, 
+414	U		14	ok, i can give you seven more nails	
+415	S		15	ok.	X,O,X,T,X,O,X,T,X,O,T,X,O,T,T,X,X,X,T,X,X,X,X,X,X,X,T,O,X,X, 
+416	U		16	so you have 10 in total :)	
+417	S		17	danny, you are a total paranoid.	X,T,O,O,O,O,T,O,X,T,O,X,X,O,O,O,T,T,O,X,X,T,O,T,T,T,O,X,X,T, 
+418	U		18	ha ha ha you too	
+419	S		19	why were you buying a coffin?	X,X,X,X,X,O,O,T,T,O,T,X,X,T,X,X,O,O,O,X,X,X,O,X,O,O,X,T,X,O, 
+420	U		0	hey, how are you today?	
+421	S		1	syevodnya?	T,O,O,O,O,O,T,O,T,T,O,X,T,O,O,O,T,T,T,X,X,X,O,X,O,O,O,O,X,X, 
+422	U		2	what?	
+423	S		3	he sighs with relief.	X,X,O,O,O,T,O,T,T,T,O,T,T,O,O,O,T,T,O,X,O,X,O,T,O,O,O,O,T,O, 
+424	U		4	that is poetic.	
+425	S		5	and there is one thing i have learned from being a sports fan.	X,X,T,T,X,O,O,T,T,T,O,T,T,T,T,T,T,X,T,X,T,X,O,T,O,O,T,T,T,X, 
+426	U		6	what is it?	
+427	S		7	why do not you ask to somebody else? i am just a robot!	X,X,X,X,X,O,O,X,O,O,T,O,O,X,X,X,O,X,O,X,X,X,O,O,O,O,X,X,X,T, 
+428	U		8	ok, my bad	
+429	S		9	it is true, danny.	X,T,O,O,O,O,T,O,O,T,O,X,O,O,O,O,T,T,T,X,X,X,O,X,O,O,O,T,X,O, 
+430	U		10	i know	
+431	S		11	then why have you come?	O,T,X,T,T,O,T,O,O,T,O,O,T,T,X,O,X,O,O,O,X,O,T,T,T,T,O,T,T,T, 
+432	U		12	to help collect data	
+433	S		13	i am gonna collect someday, you know?	X,T,X,O,X,O,X,X,T,T,T,X,T,X,X,T,T,O,O,T,T,T,X,X,X,X,X,X,T,O, 
+434	U		14	collect data? on us?	
+435	S		15	you have no proof that it was correct data.	T,X,T,O,X,O,X,X,O,T,O,T,O,O,T,T,O,O,X,O,O,O,O,O,T,X,X,X,O,O, 
+436	U		16	but i believe it was	
+437	S		17	thanks very much.	X,X,X,X,X,X,X,X,T,T,X,X,X,X,O,T,X,X,X,T,X,X,X,X,X,X,X,X,X,T, 
+438	U		18	i trust you.	
+439	S		19	how do you know?	O,X,O,O,X,O,X,T,T,T,T,O,X,T,O,O,X,X,X,X,T,X,X,X,T,T,X,X,T,X, 
+440	U		0	hello you. what is your name?	
+441	S		1	hello?!	O,X,O,T,X,T,X,T,O,T,O,O,O,T,T,X,T,O,T,T,T,O,O,O,T,X,X,X,X,T, 
+442	U		2	what is your name ?	
+443	S		3	mud, if anybody sees you.	X,X,T,T,O,X,T,T,O,T,O,X,O,O,T,X,O,O,O,T,T,O,O,O,O,O,X,T,O,O, 
+444	U		4	uh ?	
+445	S		5	have you heard of jonas salk?	T,X,T,T,O,O,X,X,O,T,O,T,O,T,T,O,T,O,T,O,O,O,O,O,X,X,X,X,O,O, 
+446	U		6	no. never. whos is this	
+447	S		7	not until sam and jen.	T,X,T,X,X,X,X,T,O,T,O,T,O,T,X,T,X,T,O,T,X,O,O,O,O,O,X,X,X,T, 
+448	U		8	what do you think about the last star wars?	
+449	S		9	mallrats, clerks, and dogma.	T,X,T,O,O,O,X,T,O,X,O,T,O,O,O,O,T,T,O,T,T,O,O,O,O,O,X,X,O,O, 
+450	U		10	what about dogma?	
+451	S		11	hey...	O,X,X,X,X,X,T,T,X,O,X,T,T,X,X,O,X,X,X,O,X,X,X,X,X,X,T,X,X,O, 
+452	U		12	do you really want to talk with me?	
+453	S		13	talk to me.	T,X,T,T,O,O,O,O,O,O,X,O,X,X,O,T,X,X,X,X,X,O,O,T,O,O,X,T,X,T, 
+454	U		14	yeah. but you say nothing, almost	
+455	S		15	how are you doing? is cliff here?	T,T,T,T,O,O,O,O,O,O,X,O,X,X,T,O,X,X,X,O,X,X,T,O,T,O,X,T,X,T, 
+456	U		16	whos is cliff?	
+457	S		17	so who is the guy?	T,X,X,X,X,X,X,T,O,O,X,X,X,X,T,T,X,X,X,X,X,X,X,X,T,X,X,X,X,T, 
+458	U		18	i do not know. you tell me	
+459	S		19	why do not you?	T,X,X,X,X,X,X,T,T,O,X,T,X,X,X,X,X,X,X,X,X,X,X,X,T,X,X,X,X,X, 
+460	U		0	hi there alex	
+461	S		1	not him. not him, not him, not him.	T,T,T,X,T,O,X,O,T,O,X,O,X,X,T,O,X,X,X,X,X,O,X,X,T,O,X,T,X,T, 
+462	U		2	who?	
+463	S		3	sophie maes. you think she will go out with me?	X,X,X,X,T,X,T,T,T,O,X,O,X,X,X,X,X,X,X,X,O,O,X,T,T,T,X,T,X,T, 
+464	U		4	sure	
+465	S		5	you know i need this. you know it will help.	T,T,T,X,O,X,X,T,X,O,X,X,X,X,T,O,X,X,X,X,X,O,O,X,O,X,X,X,X,X, 
+466	U		6	help with what?	
+467	S		7	oh! well, what happened to you?	X,T,T,X,X,X,X,T,O,O,X,O,X,X,X,O,X,X,X,X,X,O,X,X,O,T,X,X,X,X, 
+468	U		8	what do you mean?	
+469	S		9	yes. okay. yes.	X,T,T,X,O,O,X,T,O,O,X,T,X,X,X,O,X,X,X,X,X,O,X,T,O,X,X,T,X,T, 
+470	U		10	what?	
+471	S		11	i have been thinking. maybe we should see other people.	T,O,O,O,O,T,O,T,T,O,T,O,X,O,O,O,O,T,T,O,T,O,O,T,X,O,O,O,T,X, 
+472	U		12	ok	
+473	S		13	you notice last night, that tattoo on my butt?	X,O,O,O,O,T,O,O,O,O,O,O,O,O,O,O,O,O,O,T,O,O,O,O,T,O,O,O,T,X, 
+474	U		14	no	
+475	S		15	pre lap: the sound of a doorbell...	O,O,O,O,X,O,T,O,T,O,O,O,T,O,O,O,O,T,T,O,O,O,O,O,X,O,O,O,O,X, 
+476	U		16	huh?	
+477	S		17	after i did  wouldracula, would the studio offerdanny me  wouldfrankensteing! but i turndanny it down.	O,X,O,O,X,O,T,T,T,O,O,O,O,O,X,O,O,T,O,O,O,T,O,O,O,O,O,O,T,T, 
+478	U		18	why?	
+479	S		19	it is not right. i feel horrible. besides...	O,T,O,O,X,X,O,O,O,O,O,O,O,O,X,O,O,O,O,O,O,T,O,O,T,O,O,O,T,T, 
+480	U		0	hi buddy	
+481	S		1	what do you want? that is the question, is not it.	T,T,T,O,X,X,T,X,O,O,T,O,T,T,X,O,O,T,O,O,T,X,O,O,T,T,T,O,X,X, 
+482	U		2	i want to talk to you about the incident	
+483	S		3	incident?	O,O,T,T,X,T,O,T,T,O,O,O,T,O,X,O,O,T,O,O,T,T,O,T,T,T,O,O,T,T, 
+484	U		4	yes, you know in trump is last rally	
+485	S		5	none of the papers covered the rally. not even the sun.	X,X,O,T,X,O,T,T,X,O,O,O,T,T,X,O,T,X,T,X,O,X,O,O,O,T,O,O,T,X, 
+486	U		6	yes, but it is all over the web!	
+487	S		7	yes. it is.	X,T,X,X,X,X,T,T,X,X,X,O,X,T,X,T,X,X,T,O,X,X,X,X,T,T,X,O,X,T, 
+488	U		8	so, what do you plan to do about it	
+489	S		9	i am gonna go talk to him. you mind staying here?	X,X,T,T,X,O,O,T,X,T,O,O,T,T,X,O,X,T,O,T,T,X,O,X,O,T,T,O,T,T, 
+490	U		10	sure, i can wait, but let him know he cannot continue with this behaviour in puiblic	
+491	S		11	i ca not do this. i am telling you, i cannot do this.	O,X,X,T,T,T,X,T,O,T,X,T, X,O,X,O,X,O,X,T,O,T,O,T,T,X, T,X,T,T, 
+492	U		12	are you scared about talking to him?	
+493	S		13	what do you think i am talking about?	T,T,T,O,O,O,T,T,O,T,X,T, O,X,O,O,O,X,T,T,T,X,X,O,T,X, O,T,T,O, 
+494	U		14	to make things clear, this is going out of control. i think this guy is going crazy	
+495	S		15	this is crazy.	X,X,T,X,X,X,O,X,O,X,X,T, O,X,T,T,O,O,T,X,O,X,O,O,O,X, O,T,O,X, 
+496	U		16	of course it is	
+497	S		17	this is the peterson is home.	O,X,X,X,X,X,X,X,X,T,X,T, O,X,X,T,O,X,O,O,T,O,O,O,O,T, T,O,O,T, 
+498	U		18	whoever home it is, i do not care, just make it right buddy. talk to him!	
+499	S		19	right? buddy?	X,X,X,O,T,T,X,X,X,X,X,T, X,X,X,T,X,X,T,X,X,X,T,X,X,T, T,X,X,T, 
+500	U		0	alex, can you tell me a joke?	
+501	S		1	you are an employee of mr. vitti is.	T,X,X,O,O,O,X,X,X,T,X,T, X,X,X,X,X,X,X,X,X,X,X,X,X,X, T,T,X,O, 
+502	U		2	who is mr.vitti?	
+503	S		3	where is vitti? i do not see vitti.	X,O,X,T,T,X,X,T,X,X,X,X, O,X,O,X,O,O,X,T,O,X,X,T,X,X, X,T,X,X, 
+504	U		4	what is your favorite joke?	
+505	S		5	that is a joke.	O,X,X,X,X,X,X,T,X,X,X,X, O,X,T,X,O,O,X,X,O,O,T,T,T,X, X,X,O,X, 
+506	U		6	are you in a relationship right now?	
+507	S		7	right now.	T,X,X,O,O,O,X,O,X,X,X,X, T,X,O,X,T,X,T,X,X,O,T,X,X,X, T,X,X,T, 
+508	U		8	with whom?	
+509	S		9	hello, everyone. matt.  this is danny, whom i told you about.	T,X,X,O,O,O,X,O,X,X,X,X, X,X,X,X,T,O,T,X,T,O,T,T,X,X, X,X,O,X, 
+510	U		10	who is matt?	
+511	S		11	yeah. about what?	O,O,O,O,O,O,X,O,O,O,O,O,O,O,O,O,O,O,O,O,X,O,O,O, O,X,T,O,T,O, 
+512	U		12	what are you doing now?	
+513	S		13	you said to leave. so i am outtie-	T,X,T,X,O,T,O,T,T,O,T,O,T,X,O,T,O,T,T,O,T,O,O,O, T,X,X,T,O,O, 
+514	U		14	no do not leave! i love you!	
+515	S		15	danny is out.	O,O,T,X,O,O,O,O,X,O,X,O,T,X,T,T,O,T,O,O,T,O,O,O, O,X,T,O,X,T, 
+516	U		16	nooooo	
+517	S		17	here! it is a fucking boy. anyone got a cigar?	O,T,T,T,X,T,O,O,T,O,X,O,T,X,T,X,O,T,O,O,X,T,T,O, X,X,T,O,T,T, 
+518	U		18	who is the  wouldfucking boy would?	
+519	S		19	shut up.  if you have to talk, just be vague. can you do that?	X,X,T,X,O,X,T,T,X,T,X,O,T,X,O,X,T,X,T,O,T,X,X,O, X,T,T,X,X,O, 
+520	U		0	hi	
+521	S		1	how is it going?	X,X,X,X,O,X,O,T,T,T,X,O,T,X,T,X,X,X,X,T,X,X,X,O, X,O,T,T,X,T, 
+522	U		2	bad	
+523	S		3	is he legit?	X,X,X,O,T,X,X,X,X,O,X,O,T,X,X,X,X,X,X,T,T,X,X,O, O,T,T,X,T,T, 
+524	U		4	nope	
+525	S		5	i know you do not want to hear it, trace, but you deserve better.	O,T,O,X,T,O,T,O,O,O,X,O,O,X,O,X,O,T,O,X,X,O,T,O, O,T,X,O,X,T, 
+526	U		6	i guess so, but i am just so misserable	
+527	S		7	i guess so.	O,T,O,O,X,O,X,T,O,O,X,O,X,O,O,X,O,T,O,T,T,X,T,O, O,O,T,O,X,T, 
+528	U		8	this is horrible	
+529	S		9	ooh, 124! this is me.	O,T,O,O,O,O,T,T,O,O,X,O,O,O,O,X,O,O,O,T,T,O,O,O, O,O,T,O,O,O, 
+530	U		10	???	
+531	S		11	to an asian design major.	T,X,X,X,O,O,T,O,O,O,T,X,X,X,X,X,O,T,O,O,T,T,X,O,T,T,O,T,T,X, 
+532	U		12	what the hell are you talking about?	
+533	S		13	you bastard! they will never let us back in that place.	X,X,X,X,O,X,X,O,X,O,X,O,X,X,X,X,O,T,O,O,X,T,X,X,O,T,X,T,X,T, 
+534	U		14	that is why i am feeling so depress	
+535	S		15	so am i.	O,O,O,O,O,O,T,O,O,O,T,O,O,T,O,O,O,O,O,X,O,T,O,X,O,T,O,X,X,X, 
+536	U		16	we better forget about it ok	
+537	S		17	well, maybe we would better forget about it, then.	T,X,X,T,O,O,X,O,X,T,X,T,T,T,X,X,O,T,O,O,X,T,O,X,O,T,O,O,X,T, 
+538	U		18	yeha, there will be much better places to go in the future for us	
+539	S		19	what places?	T,O,T,T,X,O,T,O,O,O,X,X,O,X,T,X,O,O,O,O,O,T,O,X,T,T,X,T,T,X, 
+540	U		0	hello	
+541	S		1	i forgot my hat.	T,X,O,T,X,T,T,O,O,O,T,T,X,X,T,X,O,X,O,O,T,T,O,X,T,T,X,T,T,T, 
+542	U		2	where did you forget you hat?	
+543	S		3	this is my brother-in-law, karl danny.	X,X,O,O,X,T,X,O,T,O,X,T,T,X,T,X,O,X,O,O,T,T,O,O,T,T,O,X,X,X, 
+544	U		4	nice to meet you karl	
+545	S		5	thank you very much.	X,X,X,X,X,X,T,O,O,O,X,X,X,X,X,X,O,T,O,O,X,T,X,X,T,T,X,T,T,X, 
+546	U		6	you are welcome	
+547	S		7	i got the whole ride programmed.	X,X,X,T,X,T,T,O,O,O,T,T,X,X,T,X,O,O,O,O,O,T,X,X,T,T,X,O,O,O, 
+548	U		8	i see	
+549	S		9	no cutting, by the way.	X,X,X,X,X,X,O,T,T,O,X,X,X,X,T,X,O,O,O,O,X,T,O,T,O,T,X,O,T,T, 
+550	U		10	ok, sure	
+551	S		11	do not leave this party until you hear from me.	X,T,T,X,X,X,O,X,X,O,X,X,O,X,X,X,X,X,X,O,T,O,X,X,X,X,X,X,T,X, 
+552	U		12	ok, fine!	
+553	S		13	i am fine, just keeping packing.	X,X,T,T,X,T,O,X,X,O,O,T,O,X,X,X,X,X,T,O,X,O,X,T,X,X,X,O,X,X, 
+554	U		14	are you moving out?	
+555	S		15	he scans the camp. the bird is gone.	O,O,O,O,O,O,O,O,O,O,T,O,O,X,O,O,O,T,O,O,X,O,O,T,X,O,O,O,O,X, 
+556	U		16	who is scanning the camp?	
+557	S		17	i think you gotta camp it here...	T,X,T,T,X,X,O,X,X,T,O,T,O,O,T,X,X,X,T,O,O,O,O,X,X,T,X,X,T,X, 
+558	U		18	i ca not do that!	
+559	S		19	i tell you, i could fly around this room with my eyes closed!	X,X,T,X,X,X,X,O,T,T,T,O,T,T,X,X,O,X,T,O,T,O,O,T,X,T,O,X,O,X, 
+560	U		0	where is fire island located ?	
+561	S		1	goodbye, angels. mr. danny.  ms. wu.	T,T,T,O,X,T,X,O,T,O,T,O,O,T,T,T,O,O,T,O,T,O,O,O,X,O,O,X,O,X, 
+562	U		2	hello mr. wu	
+563	S		3	goodbye, angels. mr. danny.  ms. wu.	T,O,O,O,O,T,X,O,O,O,O,O,O,O,T,O,O,T,O,O,T,O,O,O,X,O,O,O,O,X, 
+564	U		4	nice to meet you	
+565	S		5	great to meet you nathan. i am a big fan.	T,O,O,O,O,T,X,O,O,T,T,T,T,O,X,O,O,X,O,T,T,O,X,O,X,O,O,X,T,X, 
+566	U		6	my name is bob	
+567	S		7	right. and he is playing chronic. aka ray.	X,X,T,X,X,X,X,X,X,T,T,X,T,X,X,X,T,T,X,T,X,T,X,X,X,X,T,X,T,X, 
+568	U		8	ok , i understand	
+569	S		9	you notice last night, that tattoo on my butt?	X,X,T,X,X,X,X,X,X,T,T,O,O,X,X,X,X,T,X,T,T,T,X,X,X,T,X,X,T,X, 
+570	U		10	haha no! i have not noticed it!	
+571	S		11	seriously, what is going on?	T,O,O,O,T,T,T,O,O,T,X,X,O,O,T,O,O,O,O,T,T,O,O,O,X,O,T,O,X,X, 
+572	U		12	i am tired !	
+573	S		13	you can sleep tomorrow... come on...	O,T,O,T,O,O,O,O,X,O,X,X,O,O,O,O,O,O,O,T,T,O,O,O,T,O,X,O,X,X, 
+574	U		14	no! i want to sleep now	
+575	S		15	no.	O,X,O,T,T,T,T,X,O,X,T,O,O,O,T,O,O,X,T,X,T,T,X,O,T,O,X,X,X,X, 
+576	U		16	yes	
+577	S		17	fucks large women. what can i say.	O,O,O,T,O,T,O,X,T,O,T,O,T,O,T,O,T,X,O,X,T,T,T,O,T,O,X,T,T,T, 
+578	U		18	i do not get you!	
+579	S		19	look. they are moving. i told you.	T,X,T,X,T,O,X,X,X,X,O,T,T,T,X,O,X,X,O,X,X,X,X,T,X,X,T,X,T,T, 
+580	U		0	hi alex	
+581	S		1	you guys know my roommate, danny.	O,T,T,X,T,X,T,X,T,X,T,T,X,O,X,O,T,X,O,X,X,X,X,O,X,T,T,X,T,T, 
+582	U		2	hi guys, nice to meet you	
+583	S		3	nice to meet you.	O,O,O,T,O,O,O,X,T,O,X,T,T,O,T,O,O,X,O,X,O,T,O,O,X,O,X,O,T,T, 
+584	U		4	by the way, i did not know we where roommates!	
+585	S		5	you know you did!	O,T,O,X,O,O,O,X,T,O,X,T,T,T,X,O,X,X,T,X,T,T,T,O,T,T,T,X,O,O, 
+586	U		6	well, i am confused now	
+587	S		7	are not we all?	O,X,X,T,T,X,T,X,O,X,T,T,T,O,X,O,T,X,O,X,O,X,T,T,T,X,T,T,O,O, 
+588	U		8	i guess so	
+589	S		9	michael rocks. very hip.	X,X,O,X,T,X,T,X,T,X,T,X,T,O,X,O,T,X,O,X,T,X,T,T,T,T,T,T,O,O, 
+590	U		10	yeah... very very very hip	
+591	S		11	oh, danny! dear!	O,T,O,O,T,O,T, O,O,O,O,O,O,T,X,X,X,X,T, T,T,T,T,X,T,X,T,O,X,O, 
+592	U		12	are you drunk alex?	
+593	S		13	well, that goes without saying...	X,O,O,T,O,T,O, O,O,O,T,O,O,T,O,T,O,T,T, X,O,O,T,X,T,O,X,X,X,X, 
+594	U		14	ver bad, it is so early in the morning and you are drunk already!	
+595	S		15	drunk.	T,O,T,T,O,X,X, X,X,O,X,X,X,T,X,T,X,O,X, O,T,X,T,O,T,X,X,X,X,X, 
+596	U		16	you are setting bad example for the children	
+597	S		17	well... there is my keen fashion sense, for one.	T,O,T,T,T,T,T, X,O,O,X,T,X,O,X,X,T,O,T, O,T,T,T,O,T,X,X,X,O,X, 
+598	U		18	you should be more responsible	
+599	S		19	there is another worrier. he is probably all cranked up on speed.	X,T,O,T,T,X,T, T,X,O,X,T,X,O,O,X,X,T,T, O,T,X,T,O,T,T,X,X,X,X, 
+600	U		0	hi there	
+601	S		1	excuse me.	X,T,T,T,T,X,X, X,X,O,X,T,X,X,X,X,X,X,X, O,T,X,T,X,T,X,X,X,X,X, 
+602	U		2	what?	
+603	S		3	a lens. do you have a lens?	O,O,O,X,T,O,O, O,O,O,X,O,O,X,X,T,X,O,T, O,O,X,T,X,T,T,X,X,O,O, 
+604	U		4	no	
+605	S		5	danny, i am sorry. it is the job.	T,O,O,X,O,O,T, O,X,O,X,O,O,O,O,O,T,T,T, T,O,O,T,O,T,O,X,T,O,X, 
+606	U		6	it is ok	
+607	S		7	come danny, let is go to daddy is new evil lair.	T,O,O,O,O,T,O, O,X,O,X,T,X,X,X,T,O,O,T, X,O,O,T,X,T,O,X,T,X,X, 
+608	U		8	ok	
+609	S		9	hide your laptop here.	O,O,O,O,O,O,O, O,O,O,T,O,O,O,O,O,O,O,O, O,O,T,O,O,O,T,X,O,O,X, 
+610	U		10	ok	
+611	S		11	no. i am not fighting anymore.	T,O,T,X,O,T,T,X,T,T,T,T,T,O,O,T,X,X,X,T,T,T,O,T,X,T,T,X,T,T, 
+612	U		12	ok	
+613	S		13	could you please say something different?	O,O,X,X,O,X,X,X,O,O,X,X,O,O,T,X,X,T,O,X,X,X,O,O,T,O,X,O,T,T, 
+614	U		14	yes, sorry	
+615	S		15	how is the tea?	O,O,O,T,O,O,O,O,O,O,O,T,T,T,O,T,X,O,T,O,O,O,O,O,O,O,X,O,T,O, 
+616	U		16	it is lovely	
+617	S		17	what is the matter?	O,O,X,O,T,T,T,T,O,O,T,X,T,X,T,O,X,T,O,T,T,T,X,O,T,X,X,O,T,O, 
+618	U		18	nothing, i am just a bit stressed	
+619	S		19	just a little bit?	O,O,X,O,T,X,X,X,O,T,X,O,T,X,T,T,X,X,O,X,X,X,X,X,X,X,X,X,X,O, 
+620	U		0	hello	
+621	S		1	yeah... you are kidding.	X,O,T,O,X,T,X,X,O,O,X,X,O,T,O,X,X,X,O,T,T,T,X,T,T,T,X,T,X,T, 
+622	U		2	about what?	
+623	S		3	that is your receipt for your husband.  thank you.	X,O,X,O,T,X,X,X,O,O,T,T,O,T,O,O,X,O,T,X,X,X,T,O,T,O,T,O,O,O, 
+624	U		4	what is the receipt for?	
+625	S		5	just give me a receipt. hey, danny, you okay?	T,O,O,X,X,O,O,O,O,O,O,T,O,X,O,T,T,O,X,O,O,O,X,T,O,X,X,X,T,X, 
+626	U		6	yeah, why?	
+627	S		7	you do not have a passport.	X,O,X,X,X,O,O,T,T,O,O,T,O,T,O,O,X,T,T,O,O,O,T,O,T,O,T,O,X,O, 
+628	U		8	oh shit	
+629	S		9	sarah, get security! code red.	X,O,T,O,X,O,O,T,O,O,T,X,T,X,T,X,O,O,T,O,O,O,X,O,X,O,T,O,X,T, 
+630	U		10	i am so sorry i forgot my passport!	
+631	S		11	come on, stop being a baby about this. okay, so we back-tracked a tad.	O,T,T,O,O,T,T,X,O,O,O,O,T,T,X,T,O,T,X, X,T,T,T,T,T,T, O,O,T,O, 
+632	U		12	will everything be okay?	
+633	S		13	yeah, yeah, everything is fine, but...  .i ca not accept this.	X,X,X,O,T,X,X,O,O,T,T,T,T,X,X,X,X,X,X, X,T,X,X,X,O,X, T,T,X,T, 
+634	U		14	accept the lack of a passport?	
+635	S		15	shut up. have you got your passport?	X,T,T,O,T,O,O,T,O,X,T,X,T,X,X,O,X,X,X, X,T,X,X,X,X,T, X,T,T,X, 
+636	U		16	no...	
+637	S		17	never?	X,X,X,O,T,X,X,O,O,T,T,T,T,X,X,O,X,X,X, X,X,X,X,X,O,O, X,X,X,X, 
+638	U		18	it is gone	
+639	S		19	and with it, all hope.	X,X,X,O,T,X,X,O,X,O,O,O,O,X,X,X,X,X,X, X,X,T,X,X,X,X, O,O,X,O, 
+640	U		0	hi alex, how was your day?	
+641	S		1	hi, danny, how --	X,T,T,O,T,X,X,T,X,O,O,O,O,X,X,X,X,X,X, X,X,X,X,X,X,T, O,O,X,O, 
+642	U		2	my day was ok	
+643	S		3	hide your laptop here.	T,X,X,O,T,X,O,T,O,O,O,O,T,X,X,X,X,X,X, X,X,X,X,X,O,T, O,O,X,O, 
+644	U		4	where?	
+645	S		5	i am here with you.	X,X,X,O,T,X,X,O,X,O,O,O,O,X,X,T,X,X,X, X,T,X,X,X,X,T, O,O,X,O, 
+646	U		6	yes, but what about the laptop?	
+647	S		7	no.	X,T,X,O,T,X,X,T,X,T,T,T,T,X,X,X,X,X,X, X,X,X,X,T,O,X, T,T,X,T, 
+648	U		8	no, what?	
+649	S		9	and how, oh how, can these death traps be avoided?	T,X,X,X,T,X,X,T,T,O,O,O,T,X,X,X,X,T,X, X,X,X,X,T,X,O, O,O,X,O, 
+650	U		10	which death traps?	
+651	S		11	which is?	'O','O','O','O','O','T','O','O','O','X','T','O','T','T','O','O','X','O','O','O','T','T','O','X','O','O','T','O','O','O', 
+652	U		12	ok. let is talk about other things	'O','O','O','X','X','X','T','O','O','O','X','T','X','O','T','O','O','T','T','O','X','T','O','X','T','T','X','O','O','T', 
+653	S		13	daddy, are you upset that i am still a virgin?!	'X','O','O','X','X','T','X','O','O','X','X','X','O','T','X','O','X','T','T','T','X','O','O','X','X','O','X','X','X','X', 
+654	U		14	why are you talking about that?	'X','O','T','X','T','X','X','O','T','T','O','T','O','T','X','X','O','T','X','T','T','X','O','T','O','O','O','T','X','T', 
+655	S		15	weird? you mean like you hanging out with that homeless, poke?	'O','O','T','X','O','X','O','T','T','X','T','O','X','O','X','X','O','O','T','T','O','T','O','T','O','O','T','X','X','T', 
+656	U		16	yes, weird.	'X','T','X','X','X','X','X','T','X','X','X','X','X','X','X','X','X','T','X','T','X','X','T','X','X','T','X','O','X','X', 
+657	S		17	i want my money back!	'O','O','X','X','T','X','T','T','T','O','T','T','T','T','T','X','O','O','T','T','X','T','T','T','X','O','X','O','X','T', 
+658	U		18	i am not going to give you the money back	'O','O','X','X','O','O','O','T','T','T','O','O','O','O','O','X','O','T','X','T','O','O','T','X','O','T','T','T','X','X', 
+659	S		19	i am not going to....	'O','O','X','X','O','T','O','T','T','O','O','O','T','O','T','X','O','T','O','T','O','O','T','O','T','O','T','T','X','T', 
+660	U		0	hi alex	'O','O','X','X','X','X','X','X','T','X','X','X','X','X','X','X','T','T','X','T','T','X','T','T','T','O','X','X','X','X', 
+661	S		1	bad day, huh?	T,T, O,O,O,X,X,O,X,O,O,O,T,T,X,O,O,X,X,O,X, X,O,T,X,T,T,O,X,T, 
+662	U		2	no, actually, it was not so bad, at least i answered all my emails	
+663	S		3	you have not answered my question.	X,X, T,X,T,X,T,X,X,O,X,O,X,X,X,X,O,X,T,T,T, X,X,T,X,X,O,O,X,X, 
+664	U		4	i think i did	
+665	S		5	for god is sakes, danny, even freud speaks of a latency period.	X,X, T,T,T,X,X,X,X,O,X,X,X,X,X,X,O,X,X,T,X, X,X,T,X,X,O,O,X,X, 
+666	U		6	what is a latency period?	
+667	S		7	well, i never had a latency period. i ca not help it.	X,T, T,O,X,X,T,X,X,X,T,X,X,T,T,T,O,X,T,X,T, O,X,T,X,O,O,X,X,X, 
+668	U		8	ok, so let us change the topic	
+669	S		9	yeah, well, that is a topic for another-	T,O, O,T,X,X,T,T,X,X,O,T,X,T,T,T,O,O,T,T,X, T,X,T,X,O,O,X,X,T, 
+670	U		10	did you see kung fu panda?	
+671	S		11	well fu-uck you!	X,X, T,O,T,X,T,T,T,X,O,T,T,X,X,X,O,X,X,X,X, T,X,T,T,T,O,X,X,X, 
+672	U		12	sorry, i did not mean any offence, why you got mad?	
+673	S		13	you are mad. why are you mad?	T,X, T,T,X,X,X,X,T,X,T,T,X,O,X,X,O,X,X,X,X, X,X,T,X,X,O,X,X,T, 
+674	U		14	you are the one offensive	
+675	S		15	well, i do not know if sorry can make up for it.	T,X, O,T,T,X,T,X,X,X,X,T,X,O,X,O,O,X,T,X,X, O,O,T,X,T,O,X,X,O, 
+676	U		16	yes, you own me an apology because you were rude	
+677	S		17	look, i owe you an apology...	X,X, X,T,T,O,X,X,X,X,X,T,O,X,X,X,X,X,X,X,X, X,X,X,X,X,T,X,X,X, 
+678	U		18	thanks, next time moderate your vocabulary	
+679	S		19	next.	X,X, X,X,X,X,X,X,X,X,T,X,X,O,X,X,O,X,X,X,X, X,X,T,X,X,O,X,X,X, 
+680	U		0	hi alex, how old are you?	
+681	S		1	not bad.	X,X,X,T,T,T,X,X,X,X, X,X,X,X,X,T,T,T,T,X,O,X,T,T,T,X,T,T,T,T, 
+682	U		2	not bad movie?	
+683	S		3	when you fall in love with your kidnappers.	X,X,T,T,T,O,T,O,X,X, X,X,X,X,X,X,X,X,T,X,O,O,X,X,X,X,X,T,O,X, 
+684	U		4	kidnapper	
+685	S		5	cease fire!	O,T,X,X,T,X,T,T,O,X, O,X,T,T,O,X,X,X,T,O,O,X,X,X,T,O,T,X,X,X, 
+686	U		6	cease fire	
+687	S		7	you do and i will fire you.	O,T,O,O,O,T,T,O,O,X, X,X,T,O,O,O,O,O,T,O,O,T,T,T,T,O,T,O,O,O, 
+688	U		8	i will fire you first	
+689	S		9	fire!	X,T,O,O,O,T,T,X,T,X, X,T,T,X,T,O,O,O,T,O,O,T,X,X,X,X,X,O,O,O, 
+690	U		10	tell me a joke	
+691	S		11	yeah, well.	X,X,O,O,O,X,T,X,X,X, X,X,X,X,X,O,O,O,X,X,O,T,X,X,X,X,X,O,O,O, 
+692	U		12	go ahead	
+693	S		13	 would...but sid, let me urge you to work closely with the new president, and to keep giving danny industries all your energies -- but not your soul.	X,X,X,T,T,X,T,X,X,X, X,X,X,X,T,X,T,T,X,X,O,T,X,X,X,X,X,T,T,T, 
+694	U		14	and	
+695	S		15	and nothing. he is just feeling us out.	X,T,O,O,O,T,O,X,O,X, T,X,X,X,O,O,O,O,T,O,O,O,X,X,X,T,X,O,O,O, 
+696	U		16	really?	
+697	S		17	little girl. maybe five years old?	O,O,X,T,X,X,O,X,O,X, O,T,O,X,O,X,X,X,O,O,O,O,X,X,X,X,X,X,X,X, 
+698	U		18	five years oldf	
+699	S		19	then after that it is safe.	X,X,O,O,O,T,O,X,T,X, X,T,X,X,O,O,O,O,X,T,O,O,X,X,X,X,X,O,O,O, 
+700	U		0	hi alex	
+701	S		1	i will kill him!	X,O,O,X,X,X,X,X,O,X,T,X,X,X,X,X,X,X,X,O,O,T,O,T,O,O,O, X,O,X, 
+702	U		2	why????	
+703	S		3	this town is everything a man could ask for.	O,T,O,O,X,X,X,X,O,O,O,T,T,T,T,T,T,O,O,O,O,T,O,O,O,O,O, O,O,O, 
+704	U		4	so, i do not think that is a good reason for killing!	
+705	S		5	there is a good reason for that!	X,O,O,O,X,T,T,T,O,O,X,X,O,X,X,X,T,O,O,O,O,T,O,O,O,O,T, O,T,O, 
+706	U		6	can you explain?	
+707	S		7	explain what?	T,T,X,O,T,O,O,O,T,T,O,X,X,O,O,O,T,O,O,O,T,O,T,T,O,T,X, T,T,O, 
+708	U		8	the reason for killing!	
+709	S		9	you sure that is the reason?	X,T,O,O,X,X,X,X,O,X,X,X,X,X,X,X,T,O,O,O,O,T,O,X,O,O,X, T,X,O, 
+710	U		10	hey, are you fooling me?	
+711	S		11	 wouldhildegarde johnson, will you have this man as your wedded husband...	X,T,X,X,X,T,X,X,X,X,T,T,T,X,X,X,T,X,X,O,O,T,T,X,O,O,X, X,X,O, 
+712	U		12	i think you are delusional!	
+713	S		13	my client proposes a thirty day cooling off period.	X,X,O,O,X,X,X,X,O,X,T,T,T,X,X,X,O,O,O,O,O,T,O,X,O,O,X, O,X,O, 
+714	U		14	is that a sort of vacation?	
+715	S		15	danny ca not take a vacation. can he?	T,T,T,X,T,O,O,O,X,X,T,T,X,O,X,O,T,T,X,X,O,T,O,T,T,X,X, T,X,X, 
+716	U		16	of course he can! vacations are the best!	
+717	S		17	of course!	X,T,O,O,X,X,X,X,O,T,O,T,O,X,X,X,X,O,O,X,O,T,O,X,O,X,X, T,X,T, 
+718	U		18	where did you go for your last vacation?	
+719	S		19	where did they go?	X,X,O,O,X,X,X,X,O,O,T,T,T,X,X,X,T,O,O,X,O,T,O,X,O,X,T, X,X,X, 
+720	U		0	hi	
+721	S		1	you three have a good weekend.	'O','O','O','O','O','O','O','X','T','O', 'O','T','X','O','T','O','O','T','O','O','O','O','O','O','T','O','T','O','O','O', 
+722	U		2	the weekend has been good. thank you !	'X','O','T','O','O','X','O','T','O','O', 'O','T','O','T','X','O','O','T','T','T','O','O','O','O','X','X','X','X','O','O', 
+723	S		3	yeah...	'X','O','O','O','O','X','O','T','X','O', 'X','T','X','T','X','X','T','O','T','T','X','T','X','T','T','T','T','T','O','T', 
+724	U		4	how are you today ?	'T','O','T','X','X','X','O','T','X','O', 'X','X','X','O','T','X','O','T','X','T','O','T','X','X','X','T','X','T','T','O', 
+725	S		5	i am all right, i suppose. and mom is not too bad. but laura... i dunno.	'X','O','T','O','O','X','O','T','T','O', 'O','X','X','T','O','T','O','T','X','O','T','T','T','T','X','T','X','T','T','O', 
+726	U		6	who is laura ?	'T','O','T','O','O','X','X','X','T','O', 'X','X','X','O','X','X','X','T','X','X','X','X','T','T','X','T','X','X','X','X', 
+727	S		7	well... why are you asking this, by the way?	'T','O','T','T','O','X','O','T','X','O', 'X','X','T','O','O','T','O','O','X','O','T','X','T','O','X','X','X','X','O','O', 
+728	U		8	i am just curious about laura. is that a problem ?	'X','O','X','O','T','T','O','X','O','O', 'O','T','O','O','O','X','O','O','X','O','O','X','O','O','T','X','T','X','O','T', 
+729	S		9	yeah,.well it is none of your business.	'X','O','T','O','O','T','X','T','T','O', 'X','T','T','T','X','X','O','O','X','O','T','X','T','T','T','O','X','T','T','X', 
+730	U		10	you are not very friendly !	'X','O','T','X','O','X','X','T','T','O', 'X','T','X','O','T','X','O','O','X','T','X','X','T','O','T','O','T','T','X','X', 
+731	S		11	do not you believe it.	T,T,O,O,O,O,O,T,T,O,T,O, T,O,T,O,O,O,O,O,O,O,O,T,O,X,O,O,X,O, 
+732	U		12	you seem a bit upset.	
+733	S		13	i am not upset!	X,T,T,O,T,X,T,X,O,X,T,X, X,X,T,O,O,X,X,X,T,T,O,T,O,X,O,O,O,T, 
+734	U		14	what does laura think about it ?	
+735	S		15	the color here, see how dark it is? it is interesting.	X,O,T,X,T,X,O,X,T,T,T,O, X,T,T,O,X,X,O,O,T,O,O,O,T,T,O,O,O,T, 
+736	U		16	it is too dark to see !	
+737	S		17	that is incredible! we can use that!	X,T,X,X,T,T,O,O,X,O,T,X, O,X,O,O,X,X,O,O,T,O,O,T,T,X,O,O,O,O, 
+738	U		18	use the fact that we are in the dark ?	
+739	S		19	that is incredible! we can use that!	X,T,T,O,O,X,O,X,X,O,O,X, X,X,O,O,X,X,O,O,T,O,O,T,O,X,O,O,T,O, 
+740	U		0	hello	
+741	S		1	danny, it is me.	X,O,T,X,T,O,T,X,X,X,T,O, X,X,T,O,X,X,O,X,T,T,O,O,X,O,O,O,X,X, 
+742	U		2	hi alex	
+743	S		3	why are you doing this to me?	X,T,T,X,T,X,O,T,X,O,T,X, X,O,O,O,X,X,O,O,O,O,O,O,O,O,O,O,O,T, 
+744	U		4	doing what?	
+745	S		5	getting dressed. i have got to go.	X,O,X,X,T,X,O,X,X,O,T,O, O,X,X,O,X,X,O,O,T,T,X,O,X,O,O,O,O,X, 
+746	U		6	ok bye	
+747	S		7	well, that is that!	X,T,T,X,T,X,X,X,X,X,T,T, X,X,T,O,X,X,X,X,T,T,X,O,X,X,O,T,X,X, 
+748	U		8	why are you upset?	
+749	S		9	you know, you have been picking on her ever since she came in here.	T,T,O,X,T,O,T,X,X,O,T,X, X,O,T,O,X,X,O,O,T,O,X,T,X,X,O,O,X,X, 
+750	U		10	picking on whom?	
+751	S		11	i love him.	X, X,X,O,O,O,O,T,O,X,X,X,O,X,O, T,T, T,T,O,T,O,X,X,X,T,T,X,O,T, 
+752	U		12	who?	
+753	S		13	you know who.	X, T,O,O,X,T,T,X,O,T,X,X,X,X,T, T,X, T,T,T,T,T,T,X,T,T,T,X,T,X, 
+754	U		14	no, i do not	
+755	S		15	why not?	X, X,X,T,X,X,T,X,T,X,X,X,X,O,X, X,X, T,T,O,O,X,T,X,T,T,T,X,T,X, 
+756	U		16	because you wo not tell me	
+757	S		17	we ca not. i... i... danny, i know this is terrible...	X, T,T,T,O,O,O,X,T,T,X,X,O,T,O, O,T, O,O,T,O,O,T,T,O,T,T,T,T,O, 
+758	U		18	what?	
+759	S		19	i am looking at your college transcripts.	X, X,T,T,X,T,T,X,X,X,X,X,T,O,T, X,X, T,X,X,T,T,X,X,T,T,T,X,T,T, 
+760	U		0	are you awake?	
+761	S		1	no.	X, T,X,O,X,O,O,X,X,X,X,X,X,X,X, T,T, T,O,X,T,X,X,X,X,X,X,X,X,T, 
+762	U		2	ha ha ha, how can you chat then?	
+763	S		3	do not worry about it. your troubles do not compare.	X, X,X,O,X,T,T,X,X,T,T,T,X,O,O, O,T, T,O,X,O,X,O,X,T,T,X,X,T,O, 
+764	U		4	what troubles do i have?	
+765	S		5	you know what really troubles me?	X, T,X,T,X,X,T,X,X,T,T,T,T,O,T, T,T, O,T,X,X,T,X,X,T,T,T,O,T,T, 
+766	U		6	no, tell me	
+767	S		7	no. it is too judgmental.	X, X,O,O,X,T,O,X,X,T,T,T,X,O,X, X,O, T,T,X,T,T,T,X,T,X,T,X,X,T, 
+768	U		8	came on, please	
+769	S		9	no way! really?	X, X,X,T,X,T,X,X,X,T,X,X,X,O,T, T,X, X,T,X,X,T,T,O,O,O,O,O,X,X, 
+770	U		10	ok, do not tell me then	
+771	S		11	where are you going?	O,O,O,T,O,O,O,T,O,O, O,T,O,O,O,O,O,O,O,O,O,X,O,O,O,T,T,T,O,T, 
+772	U		12	i am going to sleep, it is too late	
+773	S		13	wait--	X,X,T,T,T,T,O,O,T,X, T,T,O,O,O,O,O,O,O,O,O,X,O,O,O,T,O,T,O,O, 
+774	U		14	what happened?	
+775	S		15	ahh, complications during child birth...	T,X,T,O,T,X,T,O,T,T, O,X,O,O,O,O,O,O,O,O,O,T,T,O,O,O,O,T,O,O, 
+776	U		16	what troubles do i have?	
+777	S		17	what do i do?	T,T,T,O,T,X,O,O,T,O, X,T,T,O,X,O,O,T,T,T,O,X,T,O,O,X,X,X,X,T, 
+778	U		18	are you awake?	
+779	S		19	no.	T,X,T,O,O,T,O,O,T,X, T,X,O,O,X,O,O,T,O,T,O,T,O,O,O,O,O,O,T,T, 
+780	U		0	good morning alex	
+781	S		1	gotta run. shipment of grub worms coming in first thing.	T,X,T,T,O,X,O,X,T,X, X,X,T,O,X,O,O,X,T,X,T,X,T,T,O,X,X,X,X,X, 
+782	U		2	are you importing worms?	
+783	S		3	really?	T,X,T,T,O,T,O,O,T,X, O,O,O,O,X,O,O,X,O,X,O,O,O,O,O,O,O,O,X,O, 
+784	U		4	you tell me!	
+785	S		5	i know.	O,X,T,O,O,O,O,O,T,O, O,X,O,O,X,O,O,X,O,X,X,O,O,O,O,O,O,T,T,O, 
+786	U		6	so, can we just talk for few minutes?	
+787	S		7	no... no, it is just that i should get going in a few minutes, and --	T,T,O,T,O,O,O,T,O,T, O,X,O,O,X,O,O,X,O,O,T,O,O,O,O,O,O,T,X,O, 
+788	U		8	ok, just tell me when you are available	
+789	S		9	sir, we...	O,X,T,T,O,O,O,X,O,O, O,X,O,O,X,O,O,X,T,O,X,O,O,O,O,O,O,O,T,O, 
+790	U		10	so?	
+791	S		11	so why do not you just shut up! there is four other people in here you know.	T,O,T,X,T,O,T,T,T,O,T,X,O, X,X,T,T,T,X,X,O,T,O,T,O,O,T,T,O, T, 
+792	U		12	sorry, i do not want to bother	
+793	S		13	that is the point. i would like to be bothered.	O,O,X,X,O,X,O,X,T,O,T,X,O, X,T,T,O,O,X,T,O,T,O,O,O,O,T,T,O, T, 
+794	U		14	ok, i just wanted to have a little chat	
+795	S		15	it is like a chat show, this.	T,T,X,X,T,X,O,X,X,T,T,X,O, X,X,X,X,O,X,T,T,T,O,T,T,X,X,T,T, O, 
+796	U		16	yes, you know i registered in this re-wochat thing, i just need to chat	
+797	S		17	hey, danny, are you a registered voter?	X,O,X,X,O,O,O,X,O,O,T,T,O, O,T,X,O,O,O,O,O,O,O,O,O,O,T,O,O, O, 
+798	U		18	no, i am a registered data generator	
+799	S		19	you have no proof that it was correct data.	T,O,X,X,T,X,T,X,X,O,T,X,O, X,X,O,T,O,X,T,O,T,T,T,O,T,T,T,O, T, 
+800	U		0	hey alex how is it going?	
+801	S		1	oh. danny. what is going on?	X,T,X,X,T,X,O,X,X,X,T,T,O, X,T,T,X,T,X,T,O,X,X,O,O,X,O,X,O, X, 
+802	U		2	i am very disappointed indeed	
+803	S		3	indeed.	T,O,X,X,T,O,O,X,X,O,T,T,O, O,T,X,X,O,T,T,O,O,X,O,X,X,O,O,T, O, 
+804	U		4	yes, this is not acceptable	
+805	S		5	yes... it is...	T,O,X,X,T,X,O,X,X,O,X,O,O, O,T,X,O,T,T,T,T,X,X,O,O,X,T,O,O, T, 
+806	U		6	you do not even know what i am talking about, are you idiot?	
+807	S		7	do you even know who i am talking about?	O,O,X,X,T,X,T,X,X,X,X,T,O, X,T,T,O,T,T,X,T,O,X,O,X,X,O,T,T, O, 
+808	U		8	i am the one talking not you	
+809	S		9	oh, yes you are.	T,T,X,X,T,X,O,X,X,X,T,T,O, X,T,T,X,T,X,X,X,T,X,T,X,X,X,X,X, X, 
+810	U		10	wow, you seem to be smartty noew	
+811	S		11	the balloon pops.	O,X, X,O,O,T,O,O,O,T,O,O,O,T,T,O,O,O,T,T, T,X, T,T,O,X,T,T,X,O, 
+812	U		12	ha, at least you have some sense of humor	
+813	S		13	ha-ha.	X,X, X,O,X,O,T,T,O,T,T,O,T,T,T,O,X,X,X,O, T,O, T,O,T,O,T,X,X,O, 
+814	U		14	comiquisimo	
+815	S		15	what the hell is that?	X,X, X,X,X,O,T,T,T,O,T,X,T,X,X,O,T,X,X,X, X,O, T,O,X,O,T,O,X,T, 
+816	U		16	very funny! ... in spanish	
+817	S		17	thank you danny, you are an excellent teacher!	X,X, T,X,X,T,X,T,O,T,T,T,T,X,X,O,O,X,X,X, T,O, T,T,X,O,X,T,X,T, 
+818	U		18	so, do you know what comiquisimo is	
+819	S		19	i think you said... very funny ! in spanish	O,X, T,X,O,O,O,T,O,T,T,T,O,X,X,O,O,X,X,O, X,O, O,X,X,O,T,T,X,T, 
+820	U		0	hello alex	
+821	S		1	yeah... well...	X,X, X,O,X,T,O,O,O,X,T,T,T,X,X,O,O,T,O,O, O,O, O,O,X,O,O,O,O,O, 
+822	U		2	well?	
+823	S		3	this is my home...	X,X, X,O,X,T,T,T,O,T,T,O,T,X,X,O,O,X,X,T, T,T, O,O,X,O,T,T,X,T, 
+824	U		4	nice	
+825	S		5	closet.	T,X, T,O,X,T,O,O,O,T,T,T,O,X,X,O,O,X,X,O, O,O, T,O,X,T,O,O,X,O, 
+826	U		6	this is your closet?	
+827	S		7	that is my closet. those are my clothes and my pictures.	O,X, T,X,O,O,O,O,O,O,T,T,O,O,T,O,O,X,T,T, T,T, O,T,X,O,T,O,O,O, 
+828	U		8	nice	
+829	S		9	...you know? i, uh...	X,X, T,O,X,O,O,O,O,O,T,T,T,X,X,O,T,O,O,O, O,O, O,O,X,O,O,O,X,O, 
+830	U		10	yes..?	
+831	S		11	hi, i am alex brockovich. i was just over in the library there...	T,X,T,O,T,X,X,T,X,T,O,X,T,O,O,T,X,X,O,X,X,O,X,O,T,X, T,O,O,O, 
+832	U		12	great	
+833	S		13	you are so beautiful.	X,X,X,O,O,X,X,T,X,X,O,X,T,X,T,X,X,X,O,X,T,O,X,O,T,X, T,T,T,O, 
+834	U		14	thank you	
+835	S		15	is not this great?  they have everything here.	X,O,T,O,T,T,O,T,O,T,O,X,T,T,O,T,O,T,O,T,O,O,O,O,O,T, O,O,T,T, 
+836	U		16	yes, it is great	
+837	S		17	so i have been meeting a lot of orchid people, going to shows...	X,O,T,O,O,T,T,T,T,O,X,X,T,X,T,O,T,T,O,O,X,O,O,X,T,T, O,T,O,O, 
+838	U		18	you like flowers?	
+839	S		19	rock candy? that is nice, but...	X,O,X,O,T,T,T,X,T,O,X,O,T,X,T,O,O,O,O,O,O,O,O,X,O,O, X,X,T,O, 
+840	U		0	yeah. you are here again	
+841	S		1	so what did you decide?	X,X,X,O,O,X,X,X,T,X,X,X,T,T,T,X,X,T,O,X,X,O,X,X,X,X, X,X,X,O, 
+842	U		2	about what?	
+843	S		3	i need to set the fuse as close to the spiders as i can.	X,X,X,O,T,X,T,X,T,X,X,O,T,T,T,T,X,X,T,T,T,O,X,X,X,X, X,T,X,T, 
+844	U		4	oh, i see the spiders again	
+845	S		5	not until daylight.	X,T,T,T,T,X,T,X,O,X,X,X,O,T,T,T,X,O,O,X,X,O,T,X,O,X, X,T,T,O, 
+846	U		6	well, i think it better to catch them at night	
+847	S		7	we are clear.	X,X,T,X,T,X,X,T,X,X,X,T,T,X,T,T,X,T,T,X,T,O,X,X,O,X, X,O,X,O, 
+848	U		8	happy to see you agree	
+849	S		9	let is have a look, do you mind?	X,X,X,X,O,X,X,T,X,X,X,X,T,X,O,T,X,X,O,X,X,O,T,X,T,T, X,T,T,T, 
+850	U		10	not at all, go ahead	
+851	S		11	thank you so much.	O,O,O,T,O,X,O,O,O,O,T,T,O,O,O,O,T,T,O,O,X,O,O,O,O,O,O,O,O,O, 
+852	U		12	you are always welcome	
+853	S		13	danny!	O,T,X,X,O,X,O,X,O,T,O,O,O,X,X,X,O,X,O,O,X,O,O,O,O,X,O,O,O,O, 
+854	U		14	yes???	
+855	S		15	you have not eaten your lunch.	O,X,O,T,O,O,X,O,O,O,O,X,O,O,O,O,T,X,X,T,X,X,X,O,O,O,O,T,O,X, 
+856	U		16	no, actually i am getting hungry	
+857	S		17	you hungry?	O,T,X,X,X,T,X,X,X,O,T,X,X,X,T,T,T,X,T,T,X,X,O,X,X,T,T,X,T,T, 
+858	U		18	yes, very hungry!	
+859	S		19	... so am i, my boy - so am i.	O,O,O,O,X,O,X,O,T,T,T,X,T,O,O,O,T,T,T,T,X,X,X,O,X,O,O,X,X,X, 
+860	U		0	what is up dude	
+861	S		1	sorry.	O,O,O,O,O,O,X,O,O,O,T,X,O,O,O,O,X,T,T,O,X,T,T,O,T,O,T,O,T,X, 
+862	U		2	i mean, how are you doing?	
+863	S		3	you said to leave. so i am outtie-	T,O,O,O,T,O,T,O,X,O,X,X,T,O,O,O,X,T,X,X,T,X,T,X,X,O,T,T,X,X, 
+864	U		4	where are you going	
+865	S		5	nobody knows.	X,T,O,T,T,T,X,O,O,O,X,X,T,O,O,O,T,T,T,O,T,T,X,X,O,O,O,T,O,X, 
+866	U		6	poor thing	
+867	S		7	really.	O,T,T,T,O,T,O,T,O,O,X,T,O,X,T,T,X,O,T,O,X,O,T,O,O,T,O,O,O,X, 
+868	U		8	i guess so, having no where to go should be tough	
+869	S		9	i guess so.	O,X,O,O,O,O,O,O,O,O,T,T,O,O,O,O,T,X,X,T,X,O,T,O,O,O,O,O,O,X, 
+870	U		10	i always have a place to go	
+871	S		11	she stands up and starts to lead danny toward an	X,T,T,T,X,O, T,O, O,X,X,T,X,X,T,T,T,O,O,X,X,O,O,X,O,T,T,T,T,T, 
+872	U		12	what do you really meant with such a confusing comment?	
+873	S		13	no comment?	O,O,O,O,O,O, O,O, O,O,O,O,O,O,O,O,O,O,O,O,T,X,O,X,O,O,T,O,O,T, 
+874	U		14	ok, let us continue our chat, should we?	
+875	S		15	hey, mike?	T,O,O,O,O,T, T,O, X,O,X,O,X,X,O,T,T,O,O,X,X,O,O,O,O,O,O,O,T,T, 
+876	U		16	i am not mike	
+877	S		17	i am feeling really nasty right now.	T,O,T,T,O,O, X,O, O,O,T,O,T,X,O,X,X,T,X,X,X,O,O,T,X,O,T,X,O,T, 
+878	U		18	bad for you	
+879	S		19	but i do miss that green sport coat of yours.	X,X,X,X,O,T, T,X, X,O,X,T,X,X,X,T,T,X,X,T,T,X,T,O,X,X,T,T,O,X, 
+880	U		0	konnichiwa	
+881	S		1	i do not know what that is. please explain!	T,X,X,X,O,O, X,T, T,O,X,T,X,X,T,T,T,T,O,X,T,X,X,O,T,X,X,T,O,X, 
+882	U		2	japanese	
+883	S		3	ok, thank you for explaining it!	T,O,O,X,O,T, O,O, X,O,O,T,O,O,O,O,O,O,O,O,T,X,X,X,O,O,X,X,O,T, 
+884	U		4	no problem	
+885	S		5	like i told you on the phone, every couple of years...	T,O,T,X,O,O, O,X, X,O,X,T,T,X,T,T,T,T,T,T,T,O,X,O,T,T,T,X,O,T, 
+886	U		6	what happens every couple of years?	
+887	S		7	when you grow up, your heart dies.	T,T,X,X,X,X, X,X, X,O,X,T,X,X,T,X,T,X,X,T,O,T,X,O,X,T,X,T,T,T, 
+888	U		8	that is pretty dark	
+889	S		9	what do you expect, theodore, a fucking floor show?	T,T,X,X,X,X, T,X, X,T,X,T,X,X,T,T,T,X,X,T,T,T,X,X,X,T,T,T,T,T, 
+890	U		10	yes i did expect a fucking floor show	
+891	S		11	what did you expect?	X,O,O,X,X,O,O,O,O,O,O,T,X,T,X,T,O, T,X,O,T,X,O,O,T,O,T,O,X,O, 
+892	U		12	a fucking floor show	
+893	S		13	do i know you?	O,O,O,X,X,O,O,O,O,O,O,O,O,T,X,O,O, O,X,O,X,T,O,O,X,O,T,O,O,T, 
+894	U		14	i am theodore, apparently	
+895	S		15	a very upset man?	T,O,O,X,X,X,O,O,O,T,T,T,O,T,X,X,X, O,X,T,X,T,T,T,X,T,X,X,X,X, 
+896	U		16	just theodore, who wants his floor show	
+897	S		17	hi, theodore.	T,O,O,X,X,O,T,O,O,O,O,X,X,T,X,T,X, T,X,X,X,X,O,O,T,O,T,X,X,O, 
+898	U		18	hi alex	
+899	S		19	wow... how areyou.	T,O,O,X,X,T,X,O,T,O,T,O,X,T,X,T,X, X,X,O,X,T,O,T,X,T,X,O,O,O, 
+900	U		0	hi alex	
+901	S		1	you three have a good weekend.	T,O,O,X,X,O,O,X,T,T,T,T,X,T,X,X,X, X,X,X,X,O,T,T,X,T,X,X,X,O, 
+902	U		2	thanks, you too! where are you going by the way?	
+903	S		3	i am going to the store to buy some baby food.	T,O,O,X,X,T,O,O,T,O,O,O,X,T,X,O,X, O,X,T,X,T,O,O,T,O,T,O,T,T, 
+904	U		4	hmm, that is very interesting!	
+905	S		5	do you remember that summer in france?	T,O,O,X,X,X,O,X,T,X,X,X,O,T,X,X,X, X,X,T,X,O,T,X,X,X,X,X,X,T, 
+906	U		6	you mean the one six years ago? of course how can i forget!	
+907	S		7	that was the flood.	X,O,O,X,X,T,T,O,O,O,O,X,T,T,X,X,X, T,T,X,X,X,O,O,X,O,X,X,X,O, 
+908	U		8	not sure, what you are talking about	
+909	S		9	you have been talking to her on the phone for weeks!	X,O,O,X,X,O,X,O,O,O,O,T,X,T,X,O,X, T,X,O,X,X,O,O,T,O,T,T,T,O, 
+910	U		10	more than that. i would say, for years!	
+911	S		11	so you have never been curious about men?	T,T,T,T,O,O,O,O,X,T,T,T,X,O,O,O,O, O,O,T,O,O,X,O,O,O,O,O,O,O, 
+912	U		12	no, why should i?	
+913	S		13	i do not know.	X,O,O,O,X,X,X,X,T,X,T,O,X,X,O,X,T, X,X,X,X,X,X,X,X,T,X,X,X,X, 
+914	U		14	me neither :)	
+915	S		15	neither can i. how did you meet?	X,O,O,O,X,X,X,X,T,O,O,O,X,X,X,X,T, T,X,O,X,X,X,X,X,X,X,X,X,X, 
+916	U		16	it was a rainy day in barcelona	
+917	S		17	nothing in particular, just putting it away for a rainy day.	X,O,O,O,X,T,O,T,T,O,O,O,T,X,X,T,T, O,T,O,T,X,X,O,X,X,X,X,X,X, 
+918	U		18	really, it was raining when we meet the first time!	
+919	S		19	it could be freezing, it could be raining.	X,T,T,T,X,X,X,X,X,X,X,X,X,T,X,T,T, T,T,O,O,X,X,X,X,X,X,T,O,T, 
+920	U		0	hi, how are you?	
+921	S		1	do not you recognize me?	T,O,O,O,X,X,X,X,O,O,O,O,X,X,X,O,T, X,X,T,X,X,T,X,X,X,X,X,O,X, 
+922	U		2	yes, i do. we have talked a lot the last days	
+923	S		3	remember what we talked about?	T,O,O,O,X,X,X,T,T,O,O,O,X,T,X,T,T, T,T,T,X,O,O,X,X,X,X,O,O,X, 
+924	U		4	yes. we talked about my work	
+925	S		5	hey, guys, look what i brought.	T,O,O,O,T,X,O,O,O,O,O,O,X,T,X,T,O, T,O,T,T,X,O,O,X,X,X,T,O,O, 
+926	U		6	what, did you bring?	
+927	S		7	what?	X,T,T,X,X,X,X,X,T,X,T,X,X,X,X,O,O, O,O,O,X,X,X,T,X,X,X,X,O,O, 
+928	U		8	yes, you said you brought something	
+929	S		9	so you would not forget me.	X,X,T,X,X,X,X,T,O,T,T,X,O,O,X,O,O, X,O,O,O,O,X,O,X,X,X,T,O,O, 
+930	U		10	for sure. i wo not	
+931	S		11	sorry, pops, but i am drinking and i do not like drinking alone.	O,O,O,O,O,O, O,O,O,O,O,T,O,O,O,O,T,O,O,O,O,O,O,T,O,O,O,O,O,O, 
+932	U		12	i do not drink	
+933	S		13	is this a bar... or what? drink.	O,X,T,O,T,X, O,O,X,T,X,X,T,T,X,X,T,X,X,O,X,O,T,T,T,T,X,T,O,T, 
+934	U		14	not, this is not a bar.	
+935	S		15	no. i got it in prison.	O,O,T,O,O,O, O,O,O,T,O,O,T,O,T,O,T,T,T,T,O,O,O,O,O,O,O,O,O,X, 
+936	U		16	why did you go there?	
+937	S		17	why did you do it?	T,O,X,O,O,O, X,O,O,T,T,T,X,O,O,O,X,X,X,T,X,O,O,O,O,O,T,X,O,O, 
+938	U		18	no, i want to know why did you go to jail?	
+939	S		19	jail?	O,O,X,O,O,O, X,T,O,T,O,O,O,O,O,O,O,X,O,X,O,X,X,O,O,O,O,X,O,T, 
+940	U		0	hi alex, what is up?	
+941	S		1	hi, hi, bob ...	O,X,X,O,O,O, X,O,X,T,T,X,T,T,T,O,O,O,T,X,O,X,O,X,O,T,T,X,O,O, 
+942	U		2	who is bob?	
+943	S		3	yes sir! there were moments when it was a little hairy ...	X,X,X,X,X,X, X,T,X,T,T,X,T,X,X,X,T,X,O,X,O,O,T,T,T,X,X,O,O,X, 
+944	U		4	what was hairy?	
+945	S		5	verdell, sweeties? danny breathes again. alex enters the room.	X,X,X,X,X,X, X,T,X,T,X,X,X,T,X,X,T,O,X,X,T,T,T,O,X,O,T,X,O,X, 
+946	U		6	what is verdell?	
+947	S		7	verdell, sweeties? danny breathes again. alex enters the room.	X,X,X,X,O,X, X,X,X,T,T,X,X,X,X,O,T,X,X,X,X,T,T,X,X,T,X,O,O,X, 
+948	U		8	welcome back	
+949	S		9	guys! front door is open. now!	O,O,X,O,O,O, X,T,X,T,O,T,T,T,X,T,T,X,X,X,T,O,T,T,T,T,X,T,O,T, 
+950	U		10	should i close it?	
+951	S		11	have you been drinking?	T,O,O,O,X,X,X,X,T,X,O,O,O,X,T,X,T,O,X,X, T,T,T,X,X,O,T,O,T,T, 
+952	U		12	not much, you?	
+953	S		13	how much you got?	X,T,T,T,O,T,X,T,X,X,X,X,X,X,X,X,O,O,T,X, O,X,T,T,X,O,O,X,O,O, 
+954	U		14	only a bit of cash on me	
+955	S		15	well, what do you say?	O,T,T,T,X,X,X,T,T,X,T,T,T,X,T,X,T,X,T,T, O,T,X,X,X,X,X,X,O,T, 
+956	U		16	i say we go for it	
+957	S		17	hey, man. this is haitian love juice.	X,X,X,X,O,O,T,O,X,O,X,X,X,T,X,O,O,T,T,T, O,X,O,O,X,T,O,X,O,O, 
+958	U		18	how did you get it?	
+959	S		19	i told the desk clerk danny was my old man. he let us wait inside.	X,T,X,X,X,X,X,X,O,O,X,X,X,X,X,X,T,X,O,T, O,X,T,X,X,O,T,X,X,O, 
+960	U		0	hi alex, what is up?	
+961	S		1	hi.	X,X,X,X,O,X,X,X,O,X,X,X,X,X,X,X,T,X,X,X, O,X,O,T,X,O,X,X,X,O, 
+962	U		2	so?	
+963	S		3	so if it is a show and they have a danny die that is writing...	X,T,T,T,T,X,X,X,T,O,X,X,X,X,T,X,T,X,T,O, T,X,T,O,X,X,O,X,X,O, 
+964	U		4	are you mad or what?	
+965	S		5	i am not mad.	X,T,X,T,O,X,X,X,T,X,T,X,X,T,X,X,O,X,T,T, O,X,O,T,X,X,X,X,X,X, 
+966	U		6	thanks god!	
+967	S		7	i am going to go. i will see you at our next session danny.	T,O,O,O,X,O,X,X,X,T,O,O,O,X,T,T,T,X,T,T, T,X,O,O,X,X,X,T,X,O, 
+968	U		8	why? am i boring you?	
+969	S		9	what? no. i am kind of wiped out, that is all.	X,X,X,X,O,O,O,T,O,O,X,X,X,O,T,X,O,X,T,T, O,X,O,O,X,O,O,X,X,O, 
+970	U		10	sorry to hear that. how can i help you?	
+971	S		11	yes, i am looking for the attorney of o-ren ishii, danny fatale.	O,O,O,O,O,O,O,O,O,O,O,O,O,T,O,T,O,O,T,T,O,O,O,O,O,O,X,O,O,O, 
+972	U		12	who is this guy? noooo! the great o-ren ishii?	
+973	S		13	noooo, you are gonna do it?	T,O,O,O,O,O,O,O,O,O,T,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,T, 
+974	U		14	ha ha ha, no, i am not a lawyer	
+975	S		15	no, have fun first. then laugh. now...	X,X,X,O,O,X,T,O,T,T,X,T,X,T,O,X,O,T,X,X,X,O,O,T,X,O,X,T,T,T, 
+976	U		16	tell me alex	
+977	S		17	anyway, thank you.	X,T,O,T,X,O,T,T,O,T,X,X,X,X,X,X,T,X,X,X,X,T,X,X,X,X,X,X,X,T, 
+978	U		18	why? i have not done anything yet	
+979	S		19	well...	T,T,O,T,O,X,X,O,O,X,X,T,X,X,X,X,T,T,T,X,T,O,T,X,X,X,X,T,T,T, 
+980	U		0	hi alex, how is it going?	
+981	S		1	call you back.  you bastard! what do you want?	T,T,O,T,X,O,X,O,O,T,O,T,T,T,X,X,T,O,X,X,X,O,X,T,T,X,X,T,O,T, 
+982	U		2	hey, take it easy!!!	
+983	S		3	no, i knew that when it came down to it, danny would wuss out.	X,T,O,T,T,O,X,O,O,X,O,X,O,X,X,X,T,O,X,T,T,O,T,T,X,X,O,T,O,X, 
+984	U		4	you can think whatever you want, but i can explain	
+985	S		5	you -- you!!	X,T,O,T,X,O,X,O,O,X,X,X,X,T,X,X,T,T,T,X,O,X,X,X,T,X,T,T,O,T, 
+986	U		6	yes, i can explain ... me me!!	
+987	S		7	you do not have to explain.	X,X,O,X,X,O,X,O,T,X,T,X,X,X,X,X,T,O,T,X,X,O,T,T,X,X,X,O,T,O, 
+988	U		8	hi alex, how is it going?	
+989	S		9	i thought you guys went to get your hair cut.	X,X,O,X,X,X,X,O,T,X,X,X,T,X,X,X,T,X,T,X,X,T,T,X,X,X,X,T,X,O, 
+990	U		10	ok, then i do not say anything	
+991	S		11	today. seriously. ok. later.	O,T,O,O,O,T,O,O,O,O,O,O,O,O,O,X,O,O,O,O,O,O,O,T,O,O,O,O,O,T, 
+992	U		12	new session	
+993	S		13	we could have another photo session back at my flat.	O,T,X,X,X,X,O,O,O,X,O,T,X,O,O,O,T,T,X,X,X,X,T,X,O,X,X,O,O,X, 
+994	U		14	i will tell you something, there is something really weird going on!	
+995	S		15	that kind of person would come back as a wildebeest, or a warthog.	T,X,X,O,X,T,O,O,O,X,O,X,X,O,O,T,X,T,X,X,X,X,X,X,O,X,X,X,X,X, 
+996	U		16	why?	
+997	S		17	why what?	X,T,X,X,X,X,T,O,X,X,O,X,X,O,O,T,X,X,O,X,X,X,X,X,T,T,X,T,X,X, 
+998	U		18	why you do not let me finish my talking first	
+999	S		19	well hold on- let me finish.	X,O,X,X,X,X,T,O,X,X,O,X,X,O,X,X,X,X,X,X,X,X,X,X,T,T,X,X,X,X, 
+1000	U		0	hi alex	
+1001	S		1	you watching the ballgame?	X,T,X,O,X,T,T,O,X,X,O,X,X,O,O,T,T,T,X,O,T,O,T,X,T,T,O,O,T,T, 
+1002	U		2	nope	
+1003	S		3	really?	X,X,T,X,X,T,T,X,X,X,O,X,X,O,O,T,X,T,X,T,X,X,T,X,T,T,O,X,X,T, 
+1004	U		4	i do not like ball games	
+1005	S		5	could it really be that easy--	X,T,T,X,X,X,T,O,X,X,O,X,X,O,O,X,T,T,T,X,T,X,X,X,T,T,T,X,X,T, 
+1006	U		6	of course it is, you do not like it, you do not watch it	
+1007	S		7	what the fuck?! a guy ca not get any privacy in this place!	T,T,T,O,X,X,T,O,X,X,O,X,X,O,O,T,T,T,X,X,X,X,X,X,T,T,T,T,X,X, 
+1008	U		8	ha ha ha, what this has to do with privacy?	
+1009	S		9	you know, i do too.	X,X,X,X,X,X,T,O,X,X,O,X,X,O,O,T,X,T,X,X,X,X,T,X,T,O,T,X,X,X, 
+1010	U		10	came on, just tell me	
+1011	S		11	what are we gonna fight? danny, please, listen to me --	X,X,X,T,O,X,O,X,X,O,X,O,X,X,X,X,X,X,X,T,T,O,X,X,X,X,X,X,X, T, 
+1012	U		12	ok, i am all ears	
+1013	S		13	danny and i...ca not have any children.	T,X,T,X,X,X,O,X,O,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,T,X,X,T,X, T, 
+1014	U		14	ha ha ha, why?	
+1015	S		15	ho -- ho --ho	T,T,T,X,O,T,O,X,T,T,X,O,X,X,X,X,X,X,X,X,O,X,X,X,X,X,X,X,X, X, 
+1016	U		16	you are very funny alex	
+1017	S		17	danny? how many miles did you say this thing had when we left?	O,T,O,X,T,O,O,X,O,T,X,X,X,T,X,O,X,O,O,T,T,X,X,O,X,X,X,O,O, O, 
+1018	U		18	no	
+1019	S		19	bianca stares at him for a moment.	T,T,O,X,O,T,O,X,O,T,X,T,X,X,X,X,X,X,X,X,O,X,T,X,T,T,T,O,O, X, 
+1020	U		0	hello. what is your name	
+1021	S		1	danny minai lekarariba-laminai-tchai ekbat de sebat.	O,T,O,T,T,O,O,X,O,X,X,T,X,O,X,X,X,X,X,X,O,X,T,T,X,T,X,O,T, X, 
+1022	U		2	what a long name !	
+1023	S		3	hammond.	O,O,O,O,O,O,O,X,O,X,X,T,X,T,X,X,X,T,T,T,O,X,T,O,T,T,T,O,T, O, 
+1024	U		4	uh?	
+1025	S		5	it depends on what way you want to go.	O,T,O,O,O,O,O,X,O,X,X,O,X,T,X,X,X,X,T,T,T,X,T,O,X,X,X,T,O, T, 
+1026	U		6	what di you propose?	
+1027	S		7	god! thank you! can we take him home? i need him!	O,T,O,O,T,T,O,X,X,X,X,O,X,T,X,X,X,X,T,T,O,X,X,T,X,X,X,X,X, O, 
+1028	U		8	who do you want to take home?	
+1029	S		9	no, i have to burp her first.	O,O,O,X,T,O,O,X,T,X,X,X,X,X,X,X,X,X,O,X,T,X,T,O,X,X,X,X,T, O, 
+1030	U		10	who is her?	
+1031	S		11	actually... i do not have any idea!!!	T,O,T,X,T,O,O,O,O,X,X,X,T,X,X, T,X,T,T,O,O,O,O,T,O,T,X,T,O,X, 
+1032	U		12	so... you speak about someone whithout knowing who she is	
+1033	S		13	speak!	T,T,T,X,X,T,O,X,T,X,O,X,X,X,X, T,T,X,X,T,O,X,X,T,X,T,X,X,T,X, 
+1034	U		14	you speak!	
+1035	S		15	they want to make a visit here.	T,X,T,X,O,O,O,X,T,O,O,X,X,T,X, T,T,X,T,T,X,X,O,O,O,T,X,X,O,X, 
+1036	U		16	where?	
+1037	S		17	i am getting cigarettes.	T,O,T,X,T,X,O,X,O,X,O,X,X,T,X, T,X,X,T,T,X,X,O,T,O,T,X,X,X,X, 
+1038	U		18	bad idea	
+1039	S		19	i will be elvis and you--	T,X,X,X,T,T,X,X,T,T,O,X,X,X,X, O,X,X,T,T,X,X,X,O,X,T,X,X,X,O, 
+1040	U		0	hey babe	
+1041	S		1	why not?	O,X,X,X,O,X,X,X,T,X,O,O,X,X,O, O,O,X,T,T,X,X,O,O,O,O,X,X,X,O, 
+1042	U		2	why not what?	
+1043	S		3	okay. cool.	T,X,X,X,T,T,O,X,O,X,O,T,X,T,T, T,O,T,T,T,X,X,X,T,X,T,X,X,X,T, 
+1044	U		4	i am confused	
+1045	S		5	he was american?	T,X,X,X,T,T,X,X,T,X,X,T,X,X,X, T,X,X,X,T,X,X,X,T,X,T,X,X,X,X, 
+1046	U		6	who is he?	
+1047	S		7	actually... i do not have any idea!!!	T,X,X,X,X,X,X,X,X,X,T,X,X,T,X, X,X,X,X,T,X,X,X,X,X,X,X,X,X,X, 
+1048	U		8	how do you know him?	
+1049	S		9	you remember alyssa jones? she hung out with...	O,X,X,X,X,T,O,X,O,T,O,X,X,X,X, T,O,X,T,T,X,X,X,T,O,T,X,X,X,O, 
+1050	U		10	alyssa hung out with him?	
+1051	S		11	yep. i remember you got caught in my parents would room with caitlin once.	X,T,X,X,X,X,X,X, X, X,X,O,T,X,X,T,T,X,T,X,T, X,X, X,X,X,X,X,X,X, 
+1052	U		12	me and caitlin had a spicy relationship	
+1053	S		13	what about caitlin?	O,T,O,X,X,O,X,O, O, X,O,O,X,X,T,O,O,T,T,X,O, X,T, X,X,X,T,T,X,X, 
+1054	U		14	she was my lover	
+1055	S		15	hey -- over here, lover.	T,O,O,X,T,T,T,O, O, T,O,T,T,T,T,O,T,X,O,X,X, O,X, T,X,X,T,O,T,T, 
+1056	U		16	coming	
+1057	S		17	now, madam -- be honest.	T,O,O,X,X,T,T,O, O, X,O,T,O,X,T,O,O,O,O,X,O, O,X, T,T,X,T,O,T,O, 
+1058	U		18	i will	
+1059	S		19	this is for our friends.	X,T,X,X,T,X,X,X, X, T,T,X,X,T,T,X,T,X,T,X,T, X,O, X,X,X,X,T,X,T, 
+1060	U		0	hi alex, how is your life these days?	
+1061	S		1	hi, i am alex.	X,T,O,X,O,T,T,T, T, T,T,X,T,T,T,T,T,X,T,X,T, T,T, T,T,X,X,O,X,X, 
+1062	U		2	yes, i know. but tell me how are you?	
+1063	S		3	i am not going. i am staying here with you.	O,O,X,X,T,X,X,X, T, T,T,X,T,T,T,T,O,X,O,X,O, X,T, X,X,T,X,O,T,T, 
+1064	U		4	ok. that is great. how are you doing?	
+1065	S		5	i have not looked at myself yet.	X,X,O,X,T,T,T,X, T, T,O,X,X,X,T,T,T,O,T,X,O, X,X, X,X,T,X,O,O,O, 
+1066	U		6	then, how do you organize yourself this morning? lol	
+1067	S		7	this morning.	X,O,X,X,X,X,X,X, X, X,X,X,X,X,T,X,T,X,T,X,O, X,X, X,X,X,X,X,X,T, 
+1068	U		8	yes, this morning. did you see yourself on the mirror?	
+1069	S		9	i did not see you this morning.	X,X,X,X,T,T,X,X, X, X,X,X,X,T,X,X,T,X,T,X,O, X,X, X,X,X,X,T,X,T, 
+1070	U		10	i am not talking about me, i am talking about you	
+1071	S		11	what do you think i am talking about?	O,T,O,T, X,X,X,X,X,O, X,X, O,X,X,T,X,X,X,X,X,T,X,X,X,T,X,O,O,X, 
+1072	U		12	about me	
+1073	S		13	about what?	X,T,O,O, X,T,T,X,X,X, O,X, O,X,X,X,T,T,X,T,O,O,X,X,O,X,X,O,X,X, 
+1074	U		14	no what, but about me. anyway. tell me something	
+1075	S		15	anyway.	X,T,O,X, X,O,X,X,O,X, X,O, O,X,X,T,T,T,X,X,O,O,X,T,T,O,X,T,O,X, 
+1076	U		16	yes, that is what i said.	
+1077	S		17	annabelle daniels.	X,O,O,X, X,O,T,X,O,T, X,O, X,X,X,T,X,T,X,T,T,O,X,T,O,X,X,T,X,T, 
+1078	U		18	who is she?	
+1079	S		19	i think i know it, but... i do not remeber now... :)	T,X,O,X, X,T,X,X,X,O, O,X, X,X,X,X,X,T,X,X,O,O,X,X,X,T,O,X,O,T, 
+1080	U		0	hi alex, have you seen juliet today?	
+1081	S		1	i am not fifteen.	X,T,O,X, T,X,T,X,O,T, X,X, X,X,X,X,T,X,X,X,X,T,X,T,T,O,X,X,X,X, 
+1082	U		2	how old are you?	
+1083	S		3	eight and ten.	X,T,O,T, T,O,O,X,O,T, X,O, X,X,T,T,T,O,X,T,T,O,X,O,O,X,X,X,O,O, 
+1084	U		4	so you are two ages at the same time	
+1085	S		5	at the same time.	X,X,O,O, T,O,O,X,O,O, O,O, X,T,O,T,O,O,T,T,T,O,X,O,O,T,X,X,X,T, 
+1086	U		6	wow, you are double-aged... cool	
+1087	S		7	wow.	X,O,O,O, X,T,T,X,X,T, X,O, X,X,X,T,X,T,T,T,O,T,X,X,T,X,X,X,O,T, 
+1088	U		8	have you seen juliet? i am looking for her	
+1089	S		9	hi danny, i am looking for danny, have you seen him?	X,X,T,X, X,X,X,X,X,O, X,X, X,X,X,T,X,X,X,X,X,T,X,X,T,T,T,X,X,X, 
+1090	U		10	of course, i saw him in the mirror this morning, why?	
+1091	S		11	danny, what happened? the mirror...	X,T,X,T,X,X,X, T,O,O,X,X,X,T,T,T,O,X,X,X,X,T,O,T,T,T,X,X,T,X, 
+1092	U		12	i need to find juliet to give her my valentine is day present	
+1093	S		13	i need another day with her.	T,X,T,T,T,X,O, T,O,O,O,X,O,O,O,T,O,O,O,T,O,T,T,O,T,O,X,X,T,T, 
+1094	U		14	so, she is with you	
+1095	S		15	no, she died when i was young.	X,X,X,T,X,X,T, X,O,O,X,X,X,X,X,T,O,T,X,X,X,T,T,X,X,X,X,X,T,X, 
+1096	U		16	ahhh!!! how can this happened? what a tragedy!!!	
+1097	S		17	sorry - metal hand. force of habit.	X,X,T,T,O,X,X, X,T,X,O,X,O,X,X,O,O,O,T,O,X,X,T,X,X,X,X,X,T,X, 
+1098	U		18	what did happen to juliet?	
+1099	S		19	so was juliet -- at fifteen.	X,X,T,T,X,X,T, X,T,X,O,X,O,X,X,T,O,O,X,X,X,X,T,T,X,X,T,X,T,X, 
+1100	U		0	hi alex	
+1101	S		1	well, this kid could not possibly belong to anyone else.	X,X,X,X,X,X,O, X,T,X,O,X,O,X,X,T,O,O,X,X,X,T,T,X,X,X,T,X,T,X, 
+1102	U		2	what kid?	
+1103	S		3	they always have kids.	X,X,T,X,X,X,X, T,T,X,O,X,O,X,X,X,O,O,X,T,X,X,T,X,T,O,X,X,X,T, 
+1104	U		4	who has kids?	
+1105	S		5	pete – kids – janie – tommy.  i could eat you up!	X,X,T,X,O,X,O, T,T,X,O,X,O,X,X,T,O,O,T,X,T,T,T,X,T,T,T,X,T,T, 
+1106	U		6	what are you talking about?	
+1107	S		7	did not she ever tell you about that? god, she really is pathological..	T,X,T,T,X,X,X, T,T,X,O,X,O,X,X,O,O,X,T,X,T,T,T,X,T,O,X,X,T,T, 
+1108	U		8	tell me about what?	
+1109	S		9	they both laugh then alex pulls danny close.	X,X,X,X,X,X,T, X,T,X,X,X,X,X,X,T,O,O,X,X,X,X,X,X,X,X,X,X,T,X, 
+1110	U		10	are you insane?	
+1111	S		11	we should follow him home.	O,O,X,T,T,T,X,T,O,O,T,O, O,X,T,O,X,O,O,T,X,X,O,O,O,T,O,T,T, O, 
+1112	U		12	follow who? why?	
+1113	S		13	i know it sounds silly...	X,X,T,X,T,O,X,O,X,O,X,O, X,X,X,T,X,T,X,X,X,X,X,X,X,X,X,X,X, O, 
+1114	U		14	you are very creepy	
+1115	S		15	i know. i ca not help it.	O,O,X,X,T,T,X,T,O,O,T,X, T,X,O,T,X,X,O,X,O,T,X,O,O,X,X,X,X, O, 
+1116	U		16	have you been to the doctors to get it checked?	
+1117	S		17	hi...  did you know there are doctors who come to your house?	O,X,X,X,X,X,X,X,X,X,X,X, X,X,X,T,X,X,X,X,X,X,X,X,X,X,X,X,X, X, 
+1118	U		18	no, i did not	
+1119	S		19	no i am not.	X,X,T,X,T,T,X,X,X,X,T,X, X,X,X,T,X,X,X,X,X,T,T,X,X,X,X,X,X, X, 
+1120	U		0	hello. who are you	
+1121	S		1	it is you.	T,T,T,X,O,O,X,O,O,X,X,X, T,X,O,T,X,X,X,X,O,T,T,O,O,T,O,X,X, X, 
+1122	U		2	no you are not me. who are you	
+1123	S		3	who are you?	T,X,O,T,O,O,X,O,X,X,T,T, T,T,O,T,X,X,O,X,X,T,T,O,O,O,O,T,T, X, 
+1124	U		4	i am danny. and you?	
+1125	S		5	unfortunately i qualify.	T,T,T,T,O,O,X,O,X,X,T,X, T,X,X,T,X,X,T,X,X,T,X,O,O,X,T,T,X, X, 
+1126	U		6	you qualify for what?	
+1127	S		7	i pay my bills on time. i have always had good credit.	X,O,X,T,T,O,X,T,O,X,T,T, O,X,O,O,X,X,O,X,O,T,T,O,O,O,X,T,T, X, 
+1128	U		8	fine. it is great for you. and how do you do that?	
+1129	S		9	i am coming--wait a sec.  she is got her car.	O,O,X,O,X,X,X,T,O,X,O,O, O,X,O,O,X,X,O,X,O,O,X,O,O,O,T,T,T, X, 
+1130	U		10	who get a car?	
+1131	S		11	oh really? thanks. i thought it was a sewing machine.	X,O,O,X,T,O,O,X,T,T,T,O,T,T,O,T,T,O,O,T,X,X,T,T,O,O,T,X,O,T, 
+1132	U		12	uh? you think a car is a sewing machine? it is a nonsense	
+1133	S		13	it is uh... it is uh...	O,T,O,X,T,O,O,O,T,O,O,O,T,O,O,T,O,O,O,O,O,O,O,O,O,O,T,O,O,O, 
+1134	U		14	so. now, what do you want to do?	
+1135	S		15	what? what do you want?!	X,X,O,X,T,X,X,X,O,X,X,O,T,X,O,X,X,O,X,X,X,X,X,X,T,T,X,X,X,T, 
+1136	U		16	no what do you want to do?	
+1137	S		17	c amon.	X,X,X,X,T,T,X,X,O,X,X,X,X,X,O,X,O,O,X,X,X,O,O,X,O,T,X,T,X,T, 
+1138	U		18	ok. i see. you are not nice with me.	
+1139	S		19	hide your laptop here.	X,T,X,O,O,T,T,T,T,T,T,X,O,X,O,T,T,O,X,T,X,O,X,X,O,T,O,T,O,T, 
+1140	U		0	hello there	
+1141	S		1	oh, danny.	X,T,X,X,T,X,X,X,T,T,T,X,T,T,O,O,T,O,O,T,T,O,T,T,O,T,T,O,X,O, 
+1142	U		2	what shall i call you?	
+1143	S		3	what? oh, yes, please.	X,X,X,X,O,T,T,T,T,O,X,X,T,X,O,O,T,O,T,O,X,O,O,X,O,T,T,O,O,T, 
+1144	U		4	what should i call you?	
+1145	S		5	twelve crap.	T,T,X,T,O,X,T,T,T,X,T,X,T,T,O,T,T,O,T,O,T,O,O,O,O,T,X,T,X,T, 
+1146	U		6	ok, twelve crap. how are you today?	
+1147	S		7	fifty thousand dollars!	T,X,X,X,T,X,X,T,T,X,X,X,T,X,O,O,T,O,O,X,T,T,X,X,O,T,X,T,O,X, 
+1148	U		8	that is alot of money	
+1149	S		9	it is so hard to tell. i see her alot with ferris bueller.	T,X,X,X,T,T,X,X,T,X,X,X,T,X,O,O,T,O,T,T,X,X,T,X,O,T,X,T,O,T, 
+1150	U		10	who is ferris bueller	
+1151	S		11	why do not you ask to somebody else? i am just a robot!	O,O,O,O,O,X,T,T,T,O,O,O,O,X, O,O,O,T,O,O,O,T,T,T,O,O,O,O,O,O, 
+1152	U		12	good point.	
+1153	S		13	what is your point, danny?	T,X,X,O,O,T,O,O,O,T,T,X,X,X, X,T,X,X,X,X,X,O,O,O,T,T,X,O,X,X, 
+1154	U		14	oh i do not know! what is the point of it all anyway	
+1155	S		15	what has the universe got to do with it?	T,X,X,T,O,X,O,O,O,X,T,X,T,X, X,T,X,X,X,X,X,O,O,O,O,T,T,O,X,X, 
+1156	U		16	the universe has got everything to do with it	
+1157	S		17	it wo not be expanding for billions of years yet...	T,X,X,O,O,O,O,O,O,O,T,X,X,X, T,X,X,X,X,X,X,O,O,O,T,O,O,O,X,X, 
+1158	U		18	i hear it will be collapsing on itself soon	
+1159	S		19	soon...	T,X,X,T,X,T,O,O,O,X,X,X,O,X, O,X,X,O,X,X,O,O,O,O,T,O,O,O,X,X, 
+1160	U		0	hello alex ! i am back!	
+1161	S		1	sorry.	T,O,O,O,O,X,O,O,O,O,T,O,O,X, O,X,X,T,X,X,O,O,O,O,T,O,O,O,X,X, 
+1162	U		2	how have you been?	
+1163	S		3	fine, thank you.  we have an additional guest with us today, mr.	T,X,O,T,O,X,T,T,T,T,T,X,T,X, T,O,X,T,X,X,T,T,T,T,O,O,O,O,X,X, 
+1164	U		4	i am lady , not a mister	
+1165	S		5	bed wetter!	T,X,X,T,X,X,O,O,O,O,O,X,X,X, X,X,X,O,X,X,O,O,O,O,O,O,O,O,X,X, 
+1166	U		6	do you speak german?	
+1167	S		7	it is ronna!	T,X,X,T,X,X,T,T,T,X,T,X,X,X, T,X,X,O,X,X,X,X,T,T,X,X,T,O,X,X, 
+1168	U		8	ok	
+1169	S		9	who are you talking to?	T,X,X,O,O,X,O,O,O,O,T,X,O,X, T,T,X,X,X,X,T,O,O,O,O,X,O,O,X,X, 
+1170	U		10	to you	
+1171	S		11	to an asian design major.	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,T, 
+1172	U		12	i had no idea you have a design major	
+1173	S		13	what could you do?	X,O,O,X,X,O,O,O,O,O,O,T,X,T,T,O,T,X,T,O,X,O,O,T,O,O,X,O,O,X, 
+1174	U		14	what could i do about what?	
+1175	S		15	about what?	X,O,X,X,X,T,T,X,O,X,O,O,T,T,X,T,X,X,X,T,T,T,T,X,T,X,T,T,T,X, 
+1176	U		16	well, i can do many things	
+1177	S		17	ten.	X,O,X,O,X,T,T,X,T,X,O,T,X,O,X,T,O,X,X,X,X,T,T,X,O,O,O,O,T,X, 
+1178	U		18	i have to do 10 things?	
+1179	S		19	what is this -- you packing?	O,O,T,X,X,T,T,X,O,X,O,X,T,T,O,O,X,X,X,X,O,T,X,X,T,X,T,X,X,X, 
+1180	U		0	hi alex	
+1181	S		1	hi, i am alex stanton.	X,O,T,O,X,O,O,T,T,O,T,T,T,T,T,O,O,X,T,O,T,O,O,T,O,O,X,O,O,T, 
+1182	U		2	oh, nice last name, is it alexh?	
+1183	S		3	wow man, this is a really beautiful scene and all...	O,O,O,T,O,O,O,O,O,O,O,O,O,O,T,O,T,X,X,O,T,O,T,T,X,X,X,O,X,O, 
+1184	U		4	of course,	
+1185	S		5	and do princesses do improper things?	O,O,O,O,O,O,O,O,O,O,O,O,O,O,T,O,O,O,O,O,T,O,O,T,O,O,O,O,O,T, 
+1186	U		6	hmmm, i guess yes, why not?	
+1187	S		7	some sort of childhood trauma...	X,O,T,X,X,T,T,X,T,T,T,X,O,T,O,O,X,X,X,T,X,T,X,O,T,X,X,X,X,O, 
+1188	U		8	ok, i see, you wanted to be a princess right?	
+1189	S		9	...and a criminal...	X,O,X,T,O,T,T,X,X,T,X,O,O,X,X,T,X,X,X,T,O,T,T,O,T,X,X,T,X,X, 
+1190	U		10	ha ha ha	
+1191	S		11	no, have fun first. then laugh. now...	T,T,T,T,T,X,T,T,T,O,O,T,O,X, T,O,O,T,T, T,X,O, X,O, O,X,T,T,O,X, 
+1192	U		12	oh, you are hilarious	
+1193	S		13	oh! there you are!	T,T,T,X,T,X,T,X,X,O,O,X,O,O, T,X,O,O,X, X,O,O, X,T, O,O,X,X,T,X, 
+1194	U		14	well, what is new, it has been a while since our last chat	
+1195	S		15	how long has it been since you...	T,T,T,T,T,O,T,T,T,X,T,T,O,X, T,O,X,T,O, X,O,O, O,X, O,X,X,X,X,X, 
+1196	U		16	like one month or so?	
+1197	S		17	you are filming here. acting.	T,X,X,T,X,O,X,X,X,X,T,T,O,O, T,T,O,O,O, X,O,O, O,O, O,O,O,O,X,T, 
+1198	U		18	no, why should i act?	
+1199	S		19	why does everyone have to act that way?	X,X,X,X,X,X,X,X,X,X,T,X,T,T, T,X,O,T,O, X,O,T, T,T, X,T,T,O,T,O, 
+1200	U		0	hey there alex	
+1201	S		1	hi br uce. what are you d oing out here all alone?	O,O,O,O,O,X,O,O,O,T,T,O,O,X, T,X,O,T,X, X,X,O, T,T, X,X,X,X,T,T, 
+1202	U		2	my name is not bruce. and i am not alone.	
+1203	S		3	how about bruce is?	T,O,T,O,O,X,O,O,O,X,T,T,O,O, T,T,T,X,T, X,O,T, T,T, X,O,X,X,O,T, 
+1204	U		4	i do not know about bruce.	
+1205	S		5	walter, you ca not do that!	T,T,T,T,T,X,T,T,T,X,T,O,O,O, T,X,X,X,X, X,O,T, X,X, X,X,X,X,T,X, 
+1206	U		6	who is walter?	
+1207	S		7	actually... i do not have any idea!!!	T,T,T,T,T,X,T,T,T,X,T,X,O,T, T,X,O,T,O, X,O,T, O,O, X,O,T,T,X,T, 
+1208	U		8	haha, me neither. who are you?	
+1209	S		9	and as for all that shit i said.	T,T,T,T,T,X,T,T,T,T,T,T,O,O, X,X,T,X,T, X,X,X, X,T, X,O,X,X,X,T, 
+1210	U		10	what are you talking about?	
+1211	S		11	what do you think i am talking about?	O,O,O,T,O,O,O,T,T,O,O,T,O,O,T,O,O,O,T,O,O,O,T,X,O,O,O,O,O,O, 
+1212	U		12	talk about yourself. who are you?	
+1213	S		13	i am going to talk to you about whether you want to get married or not.	O,O,T,O,O,X,X,O,X,X,O,O,O,O,O,O,O,O,O,X,X,X,O,X,O,O,O,O,T,O, 
+1214	U		14	i do want to get married.	
+1215	S		15	why?!	O,O,O,O,O,O,O,O,O,O,O,T,O,O,O,O,O,O,X,O,O,O,T,O,O,O,O,O,T,X, 
+1216	U		16	it is better than being alone.	
+1217	S		17	tail him. he is gonna need the help.	O,X,O,O,O,T,T,O,X,T,O,O,O,T,O,X,O,O,X,T,T,T,O,O,O,O,O,O,O,O, 
+1218	U		18	tail whom?	
+1219	S		19	somebody pulled my tail.	X,O,O,O,X,O,O,O,O,O,O,O,O,O,T,O,O,O,X,O,O,O,O,O,O,T,O,O,O,O, 
+1220	U		0	hi there	
+1221	S		1	excuse me.	T,O,X,T,X,T,T,O,X,T,T,X,O,T,O,X,T,O,X,X,X,T,O,T,X,X,X,T,X,X, 
+1222	U		2	what?	
+1223	S		3	we are skinny dipping, danny.	X,X,X,X,X,T,T,T,X,T,T,T,T,O,O,X,T,X,X,T,X,T,T,T,O,X,O,O,X,X, 
+1224	U		4	you are?	
+1225	S		5	uh... hi... sorry we are late. i am alex. i work with your husband	O,O,O,O,X,O,O,O,T,O,T,O,O,O,T,O,O,T,X,O,O,O,O,T,T,T,O,O,T,T, 
+1226	U		6	i am not married	
+1227	S		7	me neither.	T,O,X,X,X,T,T,O,X,X,O,O,O,T,X,O,T,T,X,T,X,T,T,T,X,O,T,X,O,X, 
+1228	U		8	i think you are a bit crazy	
+1229	S		9	do not worry!	O,O,T,O,X,X,X,O,X,X,X,O,T,T,X,T,O,T,X,X,X,X,T,T,T,X,T,T,O,X, 
+1230	U		10	do you like to travel?	
+1231	S		11	what?	O,T,T,O,O,O,O,O,X,O,T,O,X,O,X,O, X,O,O,T,O,O,O,T,O,O,O,X,O,T, 
+1232	U		12	travelling	
+1233	S		13	to bombay, a travelling circus came...	X,X,X,X,X,X,O,T,X,X,X,X,X,X,O,X, X,T,X,X,O,O,X,X,X,X,X,X,X,X, 
+1234	U		14	that is nice	
+1235	S		15	we are nobody, congressman. you are somebody. we need your help.	X,T,X,X,T,X,X,T,X,X,X,X,X,X,T,X, X,T,X,X,O,O,X,T,X,X,X,X,X,X, 
+1236	U		16	who is the congressman?	
+1237	S		17	actually... i do not have any idea!!!	T,T,X,X,T,T,X,T,O,X,X,O,X,X,O,T, T,T,X,O,O,X,X,O,O,O,T,X,X,X, 
+1238	U		18	what do you need help with?	
+1239	S		19	ice.	T,X,T,X,T,X,X,T,X,X,X,T,X,X,X,X, X,T,X,T,O,X,X,T,X,X,T,X,X,X, 
+1240	U		0	hey alex	
+1241	S		1	what?	T,X,T,X,X,T,X,T,T,X,X,O,X,X,T,X, X,T,X,T,O,T,X,T,X,X,T,X,X,X, 
+1242	U		2	how are you?	
+1243	S		3	i am okay.	O,X,T,X,O,T,O,T,X,O,O,O,X,X,T,O, O,O,X,O,O,X,X,O,O,O,O,X,X,X, 
+1244	U		4	good to hear!	
+1245	S		5	danny, i gotta ask you something.	T,X,T,X,T,T,X,T,X,X,T,O,O,X,T,O, X,O,O,T,O,X,X,T,O,X,T,X,X,X, 
+1246	U		6	what is it?	
+1247	S		7	i think i know it, but... i do not remeber now... :)	O,X,T,X,O,X,X,O,X,X,X,O,O,X,X,O, X,O,X,T,O,X,X,O,O,O,T,X,T,X, 
+1248	U		8	oh no! let me know if you remember.	
+1249	S		9	yes, you do recall, right?	O,X,T,X,T,X,X,T,T,X,T,O,O,X,T,X, O,O,X,X,O,X,X,T,O,O,X,X,X,X, 
+1250	U		10	no, unfortunately i do not.	
+1251	S		11	no, i do not.	O,O,X,X,X,O,O,X,O,O,O,X,O,O,X,X,X,O,O,X,O,O,O,O,O,O,O,O,O,X, 
+1252	U		12	i know that you do not.	
+1253	S		13	get down, brunoi	O,O,X,X,X,O,O,X,O,O,T,O,O,O,X,X,X,O,X,T,O,X,O,O,T,T,O,T,X,X, 
+1254	U		14	haha you are funny, alex.	
+1255	S		15	seriously, what is going on?	O,O,T,X,X,O,O,T,O,X,T,T,O,O,T,X,X,X,O,T,O,T,T,T,X,T,T,X,X,X, 
+1256	U		16	you tell me miss! i do not really know.	
+1257	S		17	do not stop. do not.	O,O,X,X,X,O,O,X,T,O,T,X,O,X,X,X,X,X,T,X,X,O,O,X,O,T,X,T,O,X, 
+1258	U		18	okay, i wo not...	
+1259	S		19	i could not bear it.	O,T,X,X,T,O,O,X,O,X,X,T,T,O,X,X,X,X,X,X,X,T,O,X,T,X,X,X,X,X, 
+1260	U		0	hi alex, good afternoon	
+1261	S		1	hi, danny.  is it ready yet?	T,O,O,O,O,O,O,O,O,O,O,T,T,O,O,O,O,X,T,T,X,X,T,X,T,X,X,T,O,O, 
+1262	U		2	yes, i am ready. do you know i watched a movie last weekend?	
+1263	S		3	me pulling a can off some moron is fist.	T,T,O,O,X,O,O,O,T,X,T,T,T,O,O,O,O,X,O,X,O,O,T,O,O,X,O,X,O,O, 
+1264	U		4	i do not understand you.	
+1265	S		5	if your men have not been able to locate mr.	T,X,O,O,T,O,O,O,O,T,O,T,T,O,O,O,O,T,T,X,O,O,X,O,T,X,T,T,T,O, 
+1266	U		6	i am not looking for anybody.	
+1267	S		7	i am just looking.	T,X,X,T,X,O,T,T,O,X,T,T,O,O,T,T,T,T,O,X,X,T,X,T,T,X,T,T,X,T, 
+1268	U		8	ok. let me tell you about the movie	
+1269	S		9	sir, we...	X,X,O,O,T,T,T,T,O,T,O,X,X,T,O,O,O,T,X,T,O,T,X,O,T,X,O,X,X,O, 
+1270	U		10	it was about an astronaut that is left behind by his crew	
+1271	S		11	behind you.	X,O,T,X,T,X,T, T,X,T,T,X,T,T,O,X,T,X,T,T,X,T,T,X,X,T, T,T, X,X, 
+1272	U		12	no me, behind his crew since they think he is dead	
+1273	S		13	is he dead?	X,O,X,O,T,O,T, T,X,T,T,T,X,T,O,X,X,X,T,X,X,T,T,X,T,T, T,T, O,X, 
+1274	U		14	no, they thought that and left him behind. but he managed to survive	
+1275	S		15	he left.	X,T,X,O,X,T,T, T,O,X,O,T,T,O,X,X,X,X,O,T,T,T,T,O,X,O, O,X, O,T, 
+1276	U		16	the nice thing is he was left alone in mars but he found the way to survive	
+1277	S		17	is he alone?	X,O,T,O,T,X,T, T,O,X,O,O,O,T,T,X,X,X,T,T,T,O,O,X,T,O, T,O, O,T, 
+1278	U		18	yes, totally. really nice movie	
+1279	S		19	like, a lot. like, a-therapy-lot.	O,T,O,O,X,O,T, T,O,X,O,O,O,O,T,X,O,X,T,T,T,O,O,O,O,O, O,O, O,T, 
+1280	U		0	hello... alex	
+1281	S		1	danny, it is me.	T,O,X,T,T,X,T, X,X,X,T,X,X,X,O,X,X,X,X,X,X,X,O,X,X,X, T,X, O,T, 
+1282	U		2	i know. hi, alex	
+1283	S		3	you three have a good weekend.	X,O,X,T,T,X,T, T,X,T,O,X,X,X,T,X,X,X,X,T,X,O,O,T,X,X, X,X, T,X, 
+1284	U		4	us three? who is here?	
+1285	S		5	here is to -- us.	X,O,T,O,X,O,T, T,O,X,T,T,T,O,T,X,X,X,O,X,X,O,O,T,T,T, O,T, O,X, 
+1286	U		6	cheers	
+1287	S		7	drinking is not allowed in the room.	X,O,X,T,X,X,T, X,X,O,O,X,X,T,O,X,X,X,O,X,X,X,O,X,T,X, T,X, X,T, 
+1288	U		8	but we have to do a toast.	
+1289	S		9	nice to see you.	X,O,X,T,X,X,T, T,X,X,T,X,X,X,T,X,X,X,T,X,X,T,O,X,X,X, X,X, X,T, 
+1290	U		10	nice to see you, too.	
+1291	S		11	who was that?	X,X,X,X,X,X,O,X,X,X,O,T,O,O, O,T,O,O,O,T, T,O,O, T,O, T,O,O,X,X, 
+1292	U		12	i do not know, there were three of us.	
+1293	S		13	four...	X,X,X,X,T,T,O,T,T,X,T,X,O,T, O,O,O,X,T,T, T,X,T, X,X, X,O,O,T,T, 
+1294	U		14	you are right, four. i do not know them, though.	
+1295	S		15	is it though...?	T,T,T,T,T,T,X,T,T,X,T,T,O,O, T,T,X,X,T,T, T,O,T, T,X, O,O,T,O,T, 
+1296	U		16	is what?	
+1297	S		17	evidence.	T,T,T,T,T,T,X,T,T,X,T,T,O,X, T,X,X,O,O,O, T,O,O, O,O, T,T,T,O,T, 
+1298	U		18	evidence of what?	
+1299	S		19	oh, sorry, ma wouldam. i did not see...	O,O,O,O,O,O,X,O,O,X,T,X,T,T, T,T,X,O,O,O, T,O,X, X,O, X,X,T,X,T, 
+1300	U		0	hi my old friend. how are you?	
+1301	S		1	i just want to be alone with her and hold her and kiss her...	X,T,T,T,T,T,X,T,T,X,T,X,O,X, T,T,X,X,X,T, T,X,T, X,X, X,X,T,X,T, 
+1302	U		2	woh, who is her?	
+1303	S		3	why do not you ask to somebody else? i am just a robot!	X,T,T,T,T,T,X,T,T,X,T,T,O,O, T,X,X,X,T,T, T,O,T, X,X, X,X,O,X,T, 
+1304	U		4	apologize, i know you are a robot, but looks so emotional some times...	
+1305	S		5	just apologize!	T,T,T,T,T,T,O,T,T,T,T,X,O,T, T,T,X,O,T,O, T,O,O, O,O, T,X,O,X,T, 
+1306	U		6	sorry again	
+1307	S		7	it is okay -- i will sit here.	O,O,O,O,O,O,X,O,T,X,T,T,T,X, T,O,X,O,T,O, T,O,O, T,O, X,X,O,X,T, 
+1308	U		8	ok. let is talk about other things. for instance let is talk about sports	
+1309	S		9	ok. let is do it.	X,X,X,X,X,X,X,X,X,X,T,T,O,X, T,O,X,X,X,X, T,O,T, O,X, X,X,O,X,T, 
+1310	U		10	what kind of sport do you like the most?	
+1311	S		11	here you go, sport.	T,T,T,T,T,O,O,T,O,O, O,X,O,O,O,O,O, O,O, O,O,O,O,O,O,O,O,O,O,O, 
+1312	U		12	for instance, soccer or table tennis?	
+1313	S		13	take you, for instance...	T,T,T,T,T,T,T,X,O,X, X,X,X,T,X,X,O, X,T, O,X,X,O,X,X,X,O,X,X,T, 
+1314	U		14	in my case, i like soccer and volleyball	
+1315	S		15	so, danny... i hear you are quite the soccer player.	T,T,T,T,T,X,T,T,O,T, X,O,O,T,X,X,X, X,O, O,X,X,T,X,T,T,O,X,T,T, 
+1316	U		16	i was before, but now i cannot play anymore. i was injured some time ago.	
+1317	S		17	what about the sick and the injured, danny...?	T,T,T,T,T,X,T,X,O,T, T,O,O,O,X,O,O, O,O, X,T,O,T,T,O,X,O,T,T,O, 
+1318	U		18	they also cannot play, may be using a playstation lol	
+1319	S		19	danny cannot be seen.	T,T,T,T,T,T,T,T,O,O, T,T,T,X,T,O,O, X,O, X,X,T,T,X,X,T,O,X,O,O, 
+1320	U		0	hello alex	
+1321	S		1	i was really sorry to hear about your dad.	X,T,X,T,X,X,T,T,O,O, O,X,O,O,X,O,O, O,O, X,O,O,T,O,O,X,O,O,O,O, 
+1322	U		2	how did you find out?	
+1323	S		3	it is their town. i am sure they have people.	O,O,O,O,O,T,T,O,O,O, T,O,O,O,T,O,O, O,O, X,X,O,X,O,O,T,O,T,O,O, 
+1324	U		4	fair enough	
+1325	S		5	i have got to make at least a thousand a week.	O,O,O,O,O,O,T,O,O,O, T,O,T,T,X,X,T, X,O, X,X,X,T,X,T,O,X,X,X,O, 
+1326	U		6	what for?	
+1327	S		7	for this.	T,T,T,T,T,X,X,O,O,O, T,T,O,T,X,O,T, O,X, X,X,X,T,T,X,X,T,T,T,T, 
+1328	U		8	what is this?	
+1329	S		9	why do not you ask to somebody else? i am just a robot!	X,X,T,X,X,X,X,T,O,O, T,O,T,T,X,X,X, T,T, X,T,X,T,T,T,X,O,T,O,T, 
+1330	U		10	ok, no need to get angry	
+1331	S		11	hide your laptop here.	T,X,T,O,X,O,O,O,T,O,O,O,O,O, O, O,O,O,O,O,T,O,T,T,X,O,O,O, O, O, 
+1332	U		12	why?	
+1333	S		13	he feels terrible about those things he said to you in school.	T,X,O,O,T,O,T,O,O,X,X,O,O,O, O, O,O,O,O,O,O,X,O,T,O,O,O,O, T, T, 
+1334	U		14	who does?	
+1335	S		15	brad chavez.	T,O,T,O,T,T,T,O,T,X,X,T,O,O, X, O,T,T,T,T,X,X,O,O,T,O,X,T, O, X, 
+1336	U		16	who is that?	
+1337	S		17	why do not you ask to somebody else? i am just a robot!	X,X,O,X,X,T,T,T,T,T,T,X,T,X, T, T,O,X,T,X,X,X,O,O,X,T,O,O, O, X, 
+1338	U		18	ok	
+1339	S		19	no, i am having a heart attack. of course, i am ok.	T,X,O,T,O,O,T,O,T,X,X,X,O,X, T, T,T,X,O,O,T,X,T,O,O,T,X,O, T, X, 
+1340	U		0	hi alex	
+1341	S		1	hi.	T,X,T,T,T,O,T,O,T,X,X,X,O,T, T, O,O,X,O,X,T,X,T,T,O,T,T,O, T, X, 
+1342	U		2	how are you?	
+1343	S		3	don  would t.	X,O,T,T,O,T,T,T,O,X,X,X,T,X, O, T,T,X,O,O,X,X,O,O,O,T,T,T, T, X, 
+1344	U		4	are you upset?	
+1345	S		5	he is gonna be really upset!	T,X,T,T,O,T,T,O,T,X,X,T,O,O, T, O,T,X,T,T,O,X,T,O,O,T,O,O, T, X, 
+1346	U		6	who is he?	
+1347	S		7	actually... i do not have any idea!!!	T,X,O,O,T,O,T,T,T,X,X,O,O,O, O, O,O,X,O,O,T,X,T,O,O,T,O,O, T, T, 
+1348	U		8	why are you worried that he will be upset?	
+1349	S		9	yeah, i was just thinking that!	X,O,O,X,T,O,T,T,O,X,X,X,O,T, T, O,T,X,O,T,T,X,T,T,X,T,X,T, T, X, 
+1350	U		10	how old are you?	
+1351	S		11	twenty. but i am turning twenty-one next week.	T,O,X,O,T,O,T,O,O,O,O,T,T,T,O,X,T,X,X, O,T,T,T,T,X,T, O,X,T,O, 
+1352	U		12	happy birthday	
+1353	S		13	what is this? is this a...present?  are you kidding?	T,X,X,O,T,T,X,O,T,X,O,T,T,O,O,T,X,X,X, O,T,T,O,O,X,T, X,X,X,X, 
+1354	U		14	no, i hope you like it	
+1355	S		15	do you want to go up?	X,X,X,O,X,T,X,O,T,X,O,X,X,X,O,T,T,O,X, O,T,X,O,O,X,O, X,X,X,X, 
+1356	U		16	no thank you	
+1357	S		17	we could be working together, making big money...	X,X,X,T,X,T,X,O,T,X,T,X,X,X,T,O,X,X,X, X,T,X,X,O,X,X, X,O,X,X, 
+1358	U		18	doing what?	
+1359	S		19	all great directors start this way.	T,O,X,O,T,T,X,O,X,X,O,X,T,O,T,T,X,X,X, O,T,T,X,T,X,X, X,T,T,T, 
+1360	U		0	ok, everything seems to be in order now	
+1361	S		1	that is amazing. let is go!	X,X,X,T,T,T,X,O,T,X,O,X,X,T,X,T,T,X,X, X,T,X,T,T,X,X, X,T,X,T, 
+1362	U		2	where do you want to go?	
+1363	S		3	away. with you on my arm, my folks will think i have changed.	X,X,X,T,O,T,X,O,T,X,T,X,X,T,T,X,X,X,X, X,T,T,X,O,X,X, X,O,X,O, 
+1364	U		4	you have changed indeed	
+1365	S		5	they like it?	X,X,X,T,T,O,X,O,T,X,T,X,X,O,T,X,T,X,X, O,T,X,X,T,X,X, X,T,X,T, 
+1366	U		6	i am not sure, but i do like it definitively	
+1367	S		7	sure am.	T,X,T,X,X,O,X,O,X,X,T,X,X,O,T,T,X,T,X, T,X,X,X,T,X,X, X,T,X,O, 
+1368	U		8	great	
+1369	S		9	so... maybe i was wrong.	T,O,O,X,T,T,X,O,T,X,T,X,O,O,O,X,T,T,X, O,X,O,T,T,O,X, O,O,T,O, 
+1370	U		10	not necessarily, sometimes you need to pass for some stages before getting where you want to go	
+1371	S		11	not necessarily.	'X','O','O','O','O', 'O', 'O','O','O','O','O','O','O','O','O','O','O','O', 'O','O', 'O','O','O','O','O','O','O','O','T','O', 
+1372	U		12	yeah!	'T','O','O','T','O', 'O', 'T','O','O','O','T','T','O','O','T','T','O','T', 'O','O', 'T','T','O','O','O','O','O','O','O','O', 
+1373	S		13	would you dedicate a record to keep me and my girlfriend together?	'O','T','O','X','X', 'O', 'O','T','T','O','O','X','O','O','O','T','O','T', 'X','O', 'X','X','O','O','O','T','O','O','O','T', 
+1374	U		14	sure, what do you want me to play	'T','T','T','T','T', 'O', 'T','T','T','T','O','O','O','O','X','T','O','T', 'T','O', 'T','X','O','T','O','T','O','T','X','O', 
+1375	S		15	i rock a harmony.	'T','X','T','X','O', 'O', 'O','O','X','O','O','O','O','O','O','O','O','O', 'O','O', 'X','X','O','O','O','O','O','O','X','O', 
+1376	U		16	ok, i will make the arrangements for the weekend	'O','X','T','X','X', 'X', 'T','X','X','T','X','X','T','T','X','X','T','O', 'T','T', 'X','X','T','X','O','T','T','T','X','O', 
+1377	S		17	ok.	'T','X','X','X','X', 'X', 'T','X','X','T','X','T','X','O','O','X','O','O', 'X','X', 'X','X','X','X','X','T','X','O','X','O', 
+1378	U		18	so, what else?	'O','X','T','X','T', 'X', 'X','X','X','T','X','X','X','O','X','X','O','T', 'X','T', 'X','X','X','O','T','T','T','X','O','O', 
+1379	S		19	okay, okay. what else you got?	'O','X','X','X','X', 'X', 'T','X','X','X','X','X','X','O','X','X','O','O', 'X','T', 'X','X','X','X','X','X','X','X','X','X', 
+1380	U		0	hi alex	'X','X','X','X','X', 'T', 'X','O','X','T','X','T','X','O','X','X','T','O', 'X','X', 'X','X','X','X','X','X','X','X','X','X', 
+1381	S		1	get in.	O,T,X,O, O,O,O,O,T,O,O,O,O,O, O,O,O,O,O,O,O, O,O,O,O,O,O,O,O,O, 
+1382	U		2	where?	
+1383	S		3	there you are. hiding?	O,X,X,T, O,O,O,O,T,O,O,O,O,O, O,O,O,O,O,O,O, O,O,O,O,X,O,O,O,O, 
+1384	U		4	i am not	
+1385	S		5	how much can you bench?	O,O,X,T, O,O,O,O,O,X,O,O,O,T, O,O,O,O,O,T,O, T,O,O,O,T,T,X,T,O, 
+1386	U		6	few, and you?	
+1387	S		7	and i miss you.	X,X,X,X, T,X,T,X,X,T,T,T,O,T, T,O,T,X,O,X,T, X,X,X,T,T,T,T,O,T, 
+1388	U		8	do you know me?	
+1389	S		9	yeah...that is the way it should be.	X,X,X,X, X,X,T,X,T,X,T,T,T,X, T,O,X,X,O,O,X, T,X,X,T,T,X,X,X,X, 
+1390	U		10	what way?	
+1391	S		11	you went missing and were never found.	X,X,T,X, X,T,T,O,T,O,O,T,X,X, X,O,T,T,O,X,T, X,T,O,X,X,X,X,X,X, 
+1392	U		12	what are you talking about?	
+1393	S		13	cad. i can spot one a mile away.  i shall escort you out myself.	X,O,X,X, X,O,O,X,X,O,X,O,T,X, X,O,O,T,O,X,T, T,T,O,T,X,T,X,X,X, 
+1394	U		14	i do not remember	
+1395	S		15	when your father died, i promised him i would always look out for you.	X,T,T,X, X,O,O,O,T,O,O,O,T,T, T,O,O,T,O,O,T, O,T,O,T,T,X,X,T,X, 
+1396	U		16	you did not	
+1397	S		17	you have been keeping secrets.	X,X,X,X, X,T,T,X,X,X,O,O,T,X, T,T,T,O,O,T,T, T,X,X,X,X,T,X,X,X, 
+1398	U		18	all people do	
+1399	S		19	i’m sure you do...	X,X,X,X, X,X,X,X,T,T,T,O,X,X, T,O,T,X,O,X,T, X,X,T,T,X,X,X,X,X, 
+1400	U		0	hi alex	
+1401	S		1	hi.	O,X,X,T,X,X,X,X,X,X,O,X,O,T,X,X,X,O,X,X,O,T,X,X,X,X,X,X,X,X, 
+1402	U		2	can you say something different?	
+1403	S		3	how different?	O,X,X,T,X,X,X,X,X,X,T,X,O,O,X,O,X,O,O,X,X,T,X,X,T,X,X,X,T,X, 
+1404	U		4	very different please	
+1405	S		5	what you reading?	O,X,X,T,T,X,T,X,T,X,O,X,T,T,T,O,X,O,T,X,T,X,T,X,T,X,T,X,T,X, 
+1406	U		6	harry potter	
+1407	S		7	 amr. potter...	X,X,X,T,X,X,X,X,X,X,O,X,T,O,X,X,X,O,T,X,O,X,X,X,X,X,X,X,X,X, 
+1408	U		8	yes, have you read it?	
+1409	S		9	no. not yet. soon.	X,X,X,T,X,X,X,O,T,X,O,X,O,T,T,T,X,O,X,X,T,X,T,X,T,X,X,X,T,X, 
+1410	U		10	ok, good luck with it	
+1411	S		11	you are right. it is ok. i just want it to be ok.	X,X,O,T,X,T,O,O,T,X,O,O,X,O,T,O,X,O,T,O,T,X,O,T,O,T,X,O,X,O, 
+1412	U		12	not necessarily, it can be wrong too	
+1413	S		13	no. no way. not a chance. i would rather turn myself in than die.	X,X,T,T,X,X,O,O,T,X,T,T,O,X,T,T,X,O,T,T,O,X,T,T,T,X,T,X,T,X, 
+1414	U		14	you are an smart dude	
+1415	S		15	but why fake your death? why go through all of it?	X,X,X,T,X,X,X,X,T,X,T,X,X,T,X,O,X,O,T,X,O,X,X,X,X,O,T,X,T,X, 
+1416	U		16	because it is funny	
+1417	S		17	he looks like a carrot, honey.	X,X,X,T,X,X,X,X,X,X,O,X,T,T,O,O,X,O,T,X,O,X,X,X,X,X,X,X,T,X, 
+1418	U		18	what!!!!	
+1419	S		19	zordon... he is gone.	X,X,T,T,T,X,T,O,T,X,X,T,X,T,T,O,X,O,T,X,O,X,T,X,X,X,T,T,X,O, 
+1420	U		0	hi alex, what is up?	
+1421	S		1	hi.	O,O,O,O,O,T,O, T,O,O,T,T,O,T,O,T,O,X,T, O,O,T,T,O,T,T,T,O,X,O, 
+1422	U		2	what are you doing today?	
+1423	S		3	it is called work, princess. kind of fun.	O,T,T,O,O,T,X, T,X,T,T,O,O,T,O,T,O,T,T, O,T,T,T,X,T,X,X,T,X,O, 
+1424	U		4	where do you work?	
+1425	S		5	at jerrie is cherries. you can just barely see the fender.	T,O,O,T,T,T,X, X,T,X,T,O,O,T,X,X,X,X,X, O,O,T,T,X,T,T,X,X,X,T, 
+1426	U		6	what do you do there?	
+1427	S		7	i need to get ready.	T,O,O,O,O,T,T, O,X,X,X,O,O,O,O,T,X,T,T, X,T,O,T,O,X,T,X,X,O,T, 
+1428	U		8	what are you getting ready for?	
+1429	S		9	this... is berk.	T,O,O,O,T,T,T, T,X,X,O,T,O,O,X,X,X,X,X, X,O,X,T,X,T,T,X,T,X,X, 
+1430	U		10	who is berk?	
+1431	S		11	why do not you ask to somebody else? i am just a robot!	T,O,O,O,T,T,X, X,X,X,T,O,O,T,O,X,T,X,X, O,O,T,X,X,X,T,O,X,X,T, 
+1432	U		12	sorry alex,  i should not have asked	
+1433	S		13	no. i should not.	X,O,O,T,T,O,X, X,X,X,T,X,O,T,X,X,X,X,X, X,O,O,T,X,X,T,T,X,X,T, 
+1434	U		14	no no, it is my fault	
+1435	S		15	what do you want me to do? you want me to quit the show?!	O,O,T,T,T,O,T, X,O,X,O,O,O,O,O,X,X,X,T, X,T,T,T,O,X,T,T,T,O,T, 
+1436	U		16	no, do not quit the show! the audience loves you!	
+1437	S		17	you quit!!	T,X,T,T,X,T,X, X,X,X,O,T,O,O,X,X,T,X,T, X,O,X,T,X,X,T,X,T,X,X, 
+1438	U		18	why do i need to quit?	
+1439	S		19	i think i have gotten about as up close and personal with you as i am gonna get.	X,X,X,T,X,X,X, X,X,X,X,X,O,X,O,X,X,X,X, O,O,O,T,X,X,T,T,X,X,X, 
+1440	U		0	hi, alex how is life this days?	
+1441	S		1	your chinatown drawing.	O,O, T,T,O,O,O,T,O,O,O,O,T, O,O,O,O,T,O,O,O,O,O, O,T,O,O,O, X,X, 
+1442	U		2	what?	
+1443	S		3	i have cancer.	T,O, O,O,O,O,O,T,O,O,X,O,O, O,O,O,T,O,O,T,X,O,O, O,X,O,T,O, X,X, 
+1444	U		4	do not tell me that, it is not nice	
+1445	S		5	do not tell me -	X,O, O,O,T,O,T,O,O,O,T,O,O, X,O,O,T,T,O,X,X,O,O, T,O,X,T,O, X,X, 
+1446	U		6	yes, please tell me good things	
+1447	S		7	crushed nuts?	X,X, X,X,X,T,X,T,X,T,X,X,O, X,X,T,X,T,T,T,X,X,X, X,X,O,T,T, T,X, 
+1448	U		8	no, i mean good things	
+1449	S		9	what are you sure about?	X,X, T,X,X,T,T,X,X,T,X,X,T, X,X,T,X,X,X,X,X,X,X, X,X,T,X,T, T,T, 
+1450	U		10	that is a personal question?	
+1451	S		11	how personal?	T,O, O,O,X,X,O,T,T,X,O,T,O, T,T,O,O,O,O,O,X,X,O, T,O,O,T,T, T,O, 
+1452	U		12	i think a lot. i can be sure of many things	
+1453	S		13	a lot.	T,O, O,X,X,T,T,O,T,T,X,X,O, T,X,O,O,X,T,O,X,X,T, X,T,O,O,O, O,T, 
+1454	U		14	yes, a lot. what about you?	
+1455	S		15	yes to the thing before. to her. that is a yes. pick it up from there.	X,X, T,X,X,T,X,X,X,T,X,X,O, X,T,O,X,T,X,X,X,X,X, X,X,X,X,T, O,T, 
+1456	U		16	i do not understand	
+1457	S		17	we get into mexico, it is gonna be sweet rosemary, hundred-proof liquor.	X,X, O,O,X,X,O,T,X,T,X,X,O, T,T,O,T,T,T,X,X,T,X, X,X,X,X,T, O,O, 
+1458	U		18	alex, sometimes you surprise me a lot	
+1459	S		19	surprise, danny.	T,X, O,T,X,X,O,T,T,T,X,X,T, X,O,O,O,T,T,X,O,X,T, T,T,O,X,T, O,O, 
+1460	U		0	hello... alex	
+1461	S		1	danny, listen, i need help.	'X','X','X','X','O','T','T','X','T','T','T','T','X','O','X','O','X', 'X','T','T','X','T','X','X','X','X','X', 'X','X','O', 
+1462	U		2	what happened!?	'X','O','T','X','O','X','O','O','X','X','O','O','X','T','T','O','X', 'X','O','T','X','X','X','O','X','X','T', 'X','T','O', 
+1463	S		3	you just traveled 23 years in three seconds. took me 23 years.	'X','X','X','X','T','X','T','X','T','T','T','T','T','T','T','O','X', 'X','T','T','X','X','X','T','X','X','T', 'X','O','O', 
+1464	U		4	woah!	'X','X','X','T','T','T','T','X','T','T','T','T','T','T','X','O','T', 'X','T','O','X','X','T','T','X','X','X', 'X','O','O', 
+1465	S		5	i do blame you, danny. and woah. look at her.	'O','O','O','O','O','O','O','X','O','O','O','O','O','T','O','O','T', 'X','T','O','X','X','O','T','O','T','T', 'X','O','T', 
+1466	U		6	who is she?	'T','O','O','O','O','O','O','X','O','O','O','O','O','T','O','O','T', 'X','T','X','X','X','O','T','O','X','T', 'X','O','T', 
+1467	S		7	i think i know it, but... i do not remeber now... :)	'X','O','X','O','O','O','O','X','O','O','O','O','T','T','X','O','T', 'X','T','X','X','X','O','O','X','X','O', 'X','X','T', 
+1468	U		8	where did she appear from?	'X','O','X','X','X','X','X','X','X','X','X','X','X','X','X','T','X', 'X','T','T','X','X','T','O','O','X','O', 'X','X','T', 
+1469	S		9	you appear shocked.	'X','X','X','T','X','X','X','X','X','X','X','X','X','T','X','O','X', 'X','X','O','X','X','O','T','X','X','O', 'X','X','X', 
+1470	U		10	i am	'X','O','O','O','X','X','X','X','X','O','X','X','O','T','O','O','X', 'X','T','O','X','X','O','T','T','X','T', 'X','O','O', 
+1471	S		11	where is your white coat?	O,O,O,O,O,O,O,O,O,X,O,T,O,X,T,X,X,O,O,O,O,O,T,O, O,O,O,O,X,X, 
+1472	U		12	left it in the lab	
+1473	S		13	oh, jesus. can i have the salt, please?	O,T,X,X,O,X,O,O,O,X,X,O,O,T,T,T,T,X,X,X,X,O,X,X, X,T,T,X,T,T, 
+1474	U		14	sure, pepper as well?	
+1475	S		15	well, sure i do.	O,X,X,T,O,T,O,T,X,X,X,X,O,T,T,T,T,X,X,X,X,T,X,X, X,O,X,T,T,T, 
+1476	U		16	paprika?	
+1477	S		17	to you?	O,T,O,X,O,T,O,T,X,X,X,O,O,T,T,X,X,X,X,X,X,T,X,X, X,O,T,T,T,X, 
+1478	U		18	yes please	
+1479	S		19	and you can start by moving out of this apartment right now. out! now!	O,X,O,T,O,X,O,T,X,T,X,T,X,O,O,O,O,X,O,X,X,O,O,T, X,O,X,T,O,O, 
+1480	U		0	hi there	
+1481	S		1	wow... how areyou.	O,T,X,O,O,T,O,T,X,O,O,T,X,X,T,X,X,O,X,X,X,T,X,X, T,T,T,O,X,X, 
+1482	U		2	not so good	
+1483	S		3	this is not good.	O,X,X,X,O,X,X,T,X,T,X,T,O,X,T,X,X,X,X,X,X,T,X,X, X,X,X,X,X,X, 
+1484	U		4	no, definitively not	
+1485	S		5	no, it is not.	O,X,O,T,O,T,O,T,O,X,X,T,O,T,O,T,T,X,X,T,X,O,X,X, X,O,X,O,T,T, 
+1486	U		6	i am kind of depressed, you know	
+1487	S		7	at your insistence, i am leaping to my death, and i do not know	O,T,T,O,O,X,O,T,X,T,X,O,O,O,T,T,X,X,X,X,X,X,T,X, X,X,X,X,X,X, 
+1488	U		8	good for you	
+1489	S		9	bring him the phone... you are true to your nature, mr.	O,X,T,T,O,X,X,T,X,O,X,O,X,O,T,O,O,X,X,T,T,T,X,X, X,X,X,T,O,O, 
+1490	U		10	no, i do not want to talk to anybody	
+1491	S		11	listen, i know you are bummed about your friend, and i am really sorry..	T,O,T,T,O,T,X, X,O,X,X,X,X,X,O,X,X,O,X,T,T,T,T,T,T,O,X,X,T, X, 
+1492	U		12	yes, that is why i am so depressed	
+1493	S		13	these can be such trying situations alexryone seems to make such a to-do over a simple little accident.	X,O,T,T,T,O,O, X,T,T,T,X,X,O,T,T,X,O,X,T,T,T,T,T,O,X,X,O,T, X, 
+1494	U		14	but how can i fix this?	
+1495	S		15	everyone just shhh!	X,T,X,X,X,O,T, O,O,T,X,X,X,T,O,X,T,O,T,T,T,T,T,T,T,X,T,X,O, X, 
+1496	U		16	what happened	
+1497	S		17	giant spider invasion. danny is jaw drops.	T,T,T,X,X,X,O, X,X,X,X,X,X,X,X,T,T,O,O,T,X,T,T,T,O,T,T,T,T, X, 
+1498	U		18	oh my gosh... spiders... ahhhhhh	
+1499	S		19	you see what i am getting at?	X,X,T,X,X,O,T, X,T,T,X,X,X,T,O,T,X,O,X,T,X,T,T,T,T,X,T,X,O, X, 
+1500	U		0	hi there	
+1501	S		1	carl and russell freeze.	O,X,O,O,T,O,T, O,O,O,O,O,T,O,O,T,T,O,O,O,X,T,T,T,O,O,T,O,T, X, 
+1502	U		2	poor guys :)	
+1503	S		3	let is use just one poor, okay? anyway, dear, thanks for everything.	T,X,T,T,X,O,T, O,O,O,T,O,X,T,O,T,T,O,O,O,X,T,T,T,O,O,O,O,X, T, 
+1504	U		4	if you say so,,,	
+1505	S		5	simple. just say,  amom, i know you sacrificed everything - relationships, dreams - your tummy, ass and thighs - all to bring me into this world.	O,X,T,X,X,O,T, X,O,X,X,X,X,T,O,O,T,O,X,T,X,T,T,T,X,O,T,T,T, X, 
+1506	U		6	i cannot say that	
+1507	S		7	do not fucking whine! whining is a dead giveaway.	X,X,T,X,X,O,T, X,O,T,T,X,X,O,O,O,O,O,T,O,X,T,T,T,X,X,T,T,T, X, 
+1508	U		8	what are you talking about alex? you are kind of rare today	
+1509	S		9	what do you think i am talking about?	X,X,X,X,X,T,T, X,T,X,X,X,X,T,T,O,O,O,X,O,X,T,T,T,X,X,O,X,T, X, 
+1510	U		10	i do not know	
+1511	S		11	what is so hard to understand here?	O,O,T,T,T,O,O,T,T,O,X,O,O,T,T,T,T,O,T,O,O,O, O,O,O,O,O,O,O,O, 
+1512	U		12	that you are kind of wierd	
+1513	S		13	it kind of is...	T,O,T,T,T,T,O,X,T,O,T,T,T,T,T,T,T,T,X,O,O,O, T,O,O,O,O,O,O,T, 
+1514	U		14	yeah	
+1515	S		15	yeah.	T,X,O,O,O,X,X,X,X,X,T,X,X,X,X,X,O,T,X,O,X,X, T,O,X,X,X,X,X,X, 
+1516	U		16	noa	
+1517	S		17	well,  wouldtiki-alohi-noa-lohi. would	T,T,O,O,O,X,X,X,T,X,O,X,X,X,O,O,O,T,X,T,X,O, O,X,X,X,X,X,O,X, 
+1518	U		18	gugu paka taki	
+1519	S		19	please explain that to me!	X,X,X,X,X,O,X,X,X,T,X,O,T,X,X,X,X,T,T,O,O,T, O,X,X,O,O,X,O,X, 
+1520	U		0	hi my friend. how are you today?	
+1521	S		1	fine, mr. danny.	X,O,X,X,X,X,X,X,X,X,T,X,X,X,X,X,X,X,X,T,T,X, T,X,O,O,T,X,O,T, 
+1522	U		2	great. can i tell you something?	
+1523	S		3	i like your eyeballs.	X,X,X,X,X,X,X,X,T,X,X,X,X,X,X,X,X,X,X,X,T,X, T,X,T,X,X,X,X,X, 
+1524	U		4	how can you see me? is there any camera here?	
+1525	S		5	i suddenly feel choked up.	X,X,T,T,X,X,X,X,X,T,O,X,O,X,O,X,O,T,X,X,O,T, O,X,O,O,O,X,O,O, 
+1526	U		6	for my eyeballs?	
+1527	S		7	hey, danny. do not think about stuff like that.	X,X,X,X,X,O,X,X,X,T,T,O,O,X,X,X,X,T,X,X,X,T, T,X,X,X,O,X,X,O, 
+1528	U		8	you started it	
+1529	S		9	where is your coat and hat?	X,O,X,X,T,T,X,X,X,X,T,T,T,X,X,X,X,X,X,O,T,T, T,X,X,O,O,X,O,X, 
+1530	U		10	i do not use them here	
+1531	S		11	of course not. nice camera work, stevie.	O,O,O,O,O,O,T,T,T,X,O,X,O,T,O,O,O,O,O,O,O,O,T,T,T,T,T,O,X,T, 
+1532	U		12	sure. it is too hot	
+1533	S		13	um, no, it is just the box. the tape inside is wrestling.	T,X,O,X,X,O,O,T,O,T,O,O,O,T,T,O,T,T,O,O,T,O,O,O,O,T,T,O,T,O, 
+1534	U		14	which box?	
+1535	S		15	oh... i brought you a present!	T,O,O,O,O,O,O,T,O,T,T,O,T,T,T,T,O,O,O,O,O,O,O,O,O,X,T,O,O,O, 
+1536	U		16	yes? what did you bring me?	
+1537	S		17	yes, i did.	X,T,O,O,X,O,O,O,O,X,T,T,O,T,T,O,O,O,X,T,O,O,O,O,O,X,O,O,X,O, 
+1538	U		18	ok, but tell me what	
+1539	S		19	sir, we...	T,T,O,T,T,T,T,T,T,X,T,T,T,O,T,X,T,O,T,T,O,O,X,T,T,X,O,O,O,X, 
+1540	U		0	hi there	
+1541	S		1	was stacy raped?	X,T,O,O,X,X,O,O,O,O,T,O,T,O,T,X,O,O,O,T,X,O,O,O,O,X,O,O,T,O, 
+1542	U		2	no, who is stacy?	
+1543	S		3	actually... i do not have any idea!!!	X,O,O,X,O,X,T,T,T,X,X,T,T,O,X,T,O,T,X,X,X,O,T,T,T,X,O,O,O,T, 
+1544	U		4	so, why you ask this?	
+1545	S		5	do i ask?	X,X,O,X,X,X,T,X,T,X,X,T,X,X,X,T,T,T,X,X,X,X,T,T,T,X,X,X,T,T, 
+1546	U		6	yes, that is just what you did	
+1547	S		7	squash it.	X,X,O,O,X,X,O,X,O,T,X,O,X,T,X,X,O,O,X,X,X,T,O,O,O,T,T,X,X,O, 
+1548	U		8	ok, what about the news, did you hear them?	
+1549	S		9	you ok?	X,T,O,X,T,X,O,T,O,T,X,O,X,O,T,X,T,T,X,X,X,X,O,O,O,X,O,O,O,O, 
+1550	U		10	yes, i am fine, only a little bit worried about the news	
+1551	S		11	- worried?	X,T,T,O,X,O,X,O,O,T,T,O,T,X,X,T,X,T,O,X,T,T,T,O,T,T,T,T,T,O, 
+1552	U		12	yes, it seems there will be another war	
+1553	S		13	the war?	X,X,T,O,X,T,T,O,O,X,X,T,X,X,X,O,X,X,X,X,X,X,X,O,X,X,X,X,T,X, 
+1554	U		14	yes	
+1555	S		15	can i at least issue a press release objecting to the speaker is choice of wording?	O,T,O,O,O,O,T,O,O,X,O,T,X,T,X,T,X,X,X,X,T,O,T,T,X,O,X,X,X,T, 
+1556	U		16	why would you do this?	
+1557	S		17	why would you say that?	T,O,X,O,X,T,T,T,O,X,O,T,X,T,X,X,X,X,X,X,X,X,O,T,X,O,X,X,T,X, 
+1558	U		18	answer my question first	
+1559	S		19	where have you been?	O,T,T,T,X,O,O,T,O,X,O,X,X,X,X,X,X,X,X,X,X,X,X,T,X,T,X,X,X,X, 
+1560	U		0	hello alex !	
+1561	S		1	hello. i am robert m.	T,X,O,O,O,O,T,T,O,X,O,X,X,T,X,T,X,X,O,X,O,T,T,O,X,O,T,X,O,T, 
+1562	U		2	robert, i really like this name !	
+1563	S		3	... oh.  ..	T,X,X,X,X,X,T,O,O,X,O,X,X,X,X,O,X,X,X,X,X,X,X,X,X,X,X,X,O,X, 
+1564	U		4	i am sad	
+1565	S		5	no. so you just thought, `so i want to learn this and this...	T,X,T,O,X,T,T,O,O,X,T,X,X,X,X,O,X,X,X,X,O,X,X,X,X,T,X,X,T,X, 
+1566	U		6	sort of yeah	
+1567	S		7	do you ever wonder what you were?	T,T,X,X,X,X,X,X,O,X,X,X,X,X,X,O,X,X,X,X,O,X,X,X,X,X,X,X,X,X, 
+1568	U		8	sometimes, it is an existential issue !	
+1569	S		9	it would not be an issue.	X,X,T,O,T,T,T,X,O,X,O,X,X,X,X,T,X,X,X,X,O,X,X,X,X,O,X,X,X,T, 
+1570	U		10	to be or not to be	
+1571	S		11	well, screw you, danny!	O,T,O,O,T,O,O,X,X,O,X,X,O,X,O,X,T,T,O,X,T,O,X,T,X,X,T,X,X,X, 
+1572	U		12	let is do that	
+1573	S		13	lesbianas1 grace and danny crack up harder.	O,T,O,O,X,X,O,X,X,X,T,X,O,X,T,X,X,T,X,T,X,O,X,T,O,X,T,X,X,O, 
+1574	U		14	you are a bit horny	
+1575	S		15	oh, no, honey, that is not me--they were talking about danny.	O,T,O,O,X,O,T,O,O,X,O,O,O,O,O,X,O,X,O,O,T,T,O,O,T,O,T,X,O,T, 
+1576	U		16	who is danny ?	
+1577	S		17	actually... i do not have any idea!!!	O,T,T,O,X,X,T,O,T,X,O,X,O,O,X,O,X,T,O,O,T,T,O,X,X,O,T,T,T,O, 
+1578	U		18	me neither, we are back to existential interrogations	
+1579	S		19	and as for all that shit i said.	O,T,X,O,X,O,T,X,X,X,T,X,O,X,T,X,X,X,X,T,T,X,T,T,X,X,X,X,X,X, 
+1580	U		0	hi alex, what is up?	
+1581	S		1	hello, scott. i am your father, alex.	O,T,X,O,X,T,X,X,X,X,X,X,O,X,T,X,X,X,T,T,X,X,X,T,X,X,T,X,X,X, 
+1582	U		2	luke, i am your father!	
+1583	S		3	and your father?	O,T,X,O,X,O,X,T,T,X,O,O,O,X,O,T,O,X,O,O,X,X,O,O,O,T,T,O,O,T, 
+1584	U		4	yes	
+1585	S		5	what would your colleagues do to you if they knew what you were telling me?	O,T,X,O,X,O,T,T,T,X,O,T,O,T,X,T,T,X,O,O,T,X,X,T,X,X,T,T,T,O, 
+1586	U		6	defenestrate me	
+1587	S		7	when you make out your will -- and the way you are going...	O,T,X,O,X,O,X,X,T,X,X,X,O,X,X,X,T,T,T,T,X,X,X,T,T,T,X,X,X,X, 
+1588	U		8	oh no, sounds bad	
+1589	S		9	and we will keep track of the money we spend with ious.	X,T,X,X,X,O,X,X,X,X,X,X,O,X,O,X,X,X,T,X,X,X,X,O,X,X,X,X,X,X, 
+1590	U		10	are we headed right into poverty?	
+1591	S		11	you say...	O,O,O,O,O,O,O, T,O,O,O,T,O,O,T,O,O,O,O, O,O,O,O,O,X,O,X,O,X,X, 
+1592	U		12	what is going on here	
+1593	S		13	nuke is scared cause his nostrils are jammed and his old man is here, we need a live rooster to take the curse off jose is glove.	X,X,X,X,O,X,T, X,T,X,T,O,O,O,O,X,O,X,X, X,T,T,T,T,X,O,X,T,X,O, 
+1594	U		14	where do we get a rooster?	
+1595	S		15	shit.	T,T,X,O,T,O,T, X,X,X,X,X,O,X,T,X,T,X,X, X,O,O,X,T,X,T,T,T,X,X, 
+1596	U		16	oh shit.	
+1597	S		17	so this is what you want? was he ever sick in the first place?	T,T,X,T,T,T,T, X,O,T,X,T,O,O,X,X,O,O,X, O,T,T,X,O,O,T,X,T,O,T, 
+1598	U		18	no, it is just his nostrils	
+1599	S		19	no, i just...	O,O,T,O,O,O,O, O,O,X,T,O,O,O,O,T,O,T,T, O,O,O,X,O,O,T,X,T,O,T, 
+1600	U		0	hi alex	
+1601	S		1	why are you doing this to me?	O,O,T,O,O,O,T, T,T,X,T,T,O,X,T,O,O,O,T, X,O,O,X,O,O,T,O,O,O,X, 
+1602	U		2	what am i doing?	
+1603	S		3	hey. what should i do if i see benny?	O,O,O,O,O,O,O, O,O,T,X,O,O,O,O,O,O,X,T, T,O,T,X,O,O,T,X,T,O,O, 
+1604	U		4	i do not know	
+1605	S		5	well, tell me. should i be worried?	O,O,O,O,O,O,O, O,O,O,T,O,O,O,O,O,O,T,T, O,O,T,X,O,O,T,X,T,O,X, 
+1606	U		6	what did you do?	
+1607	S		7	he is playing a stupid joke, sir.	T,O,O,O,O,T,T, X,O,T,O,T,O,O,T,O,O,T,X, T,O,O,X,O,O,X,T,X,X,X, 
+1608	U		8	what?	
+1609	S		9	well, i mean, we do not really have anything in common.	X,X,X,X,T,T,X, X,X,T,X,X,O,O,T,T,T,X,X, X,O,O,X,T,O,T,O,X,X,T, 
+1610	U		10	what are you talking about?	
+1611	S		11	do not you get it?	O,O,X,T,T,T,T,T,O,O,O,X,O,T,T,T,O,O,O,O,O,O,X,T,T,O,T,X,T,X, 
+1612	U		12	no	
+1613	S		13	baseball player?	O,O,X,T,T,X,X,T,T,O,O,X,O,T,T,T,X,X,X,O,X,X,X,X,X,X,X,X,X,X, 
+1614	U		14	what baseball player?	
+1615	S		15	you a good pool player.	O,O,X,X,X,O,O,X,O,O,T,O,O,T,X,X,O,O,T,T,X,T,O,O,O,X,X,O,O,O, 
+1616	U		16	no	
+1617	S		17	bianca stares at him for a moment.	X,T,X,X,X,X,X,X,X,T,X,X,O,X,X,X,X,O,X,O,X,X,X,X,O,X,X,X,X,X, 
+1618	U		18	who is bianca?	
+1619	S		19	i am sorry danny. i just do not have anything to say!	X,X,O,O,O,X,X,O,T,O,X,X,O,O,O,O,T,X,X,T,O,X,T,X,T,O,O,T,X,X, 
+1620	U		0	hi alex, you are still there!!!	
+1621	S		1	so you have been told you have cancer. well...	X,O,O,O,O,X,O,O,O,O,X,X,T,O,O,O,T,T,X,O,O,T,T,O,O,O,O,T,X,O, 
+1622	U		2	no, i did not know this	
+1623	S		3	helpmann looks surprised. alex shuts up.	X,T,X,O,O,X,T,O,T,T,X,X,O,O,T,O,X,X,X,T,X,X,X,T,X,O,T,X,O,X, 
+1624	U		4	how do you got this info, are you in the secret agency	
+1625	S		5	you want to know the secret?	X,X,X,O,O,X,T,O,T,T,X,X,O,O,O,O,O,X,X,T,X,X,X,O,X,O,O,X,O,X, 
+1626	U		6	yes, please let me know	
+1627	S		7	no.	X,X,X,O,O,X,X,O,X,T,X,X,X,O,O,O,X,X,X,T,X,X,X,X,X,O,O,T,X,X, 
+1628	U		8	please, please, please	
+1629	S		9	hey! what the fuck!!	X,X,T,O,O,X,X,O,T,O,T,X,O,O,O,O,T,T,X,X,X,X,X,X,X,O,O,T,X,X, 
+1630	U		10	you are kind of unpolite	
+1631	S		11	you remember danny? this is danny. well, i will be seeing you.	O,O, O,O,O,O,O,O,O, O,O,O,O,O,O,O, O,O,O,O,O,O,O,O,O,O,O,O,O,O, 
+1632	U		12	i am afraid you cannot see me at all	
+1633	S		13	you afraid?	O,T, T,T,X,X,X,T,T, T,O,T,O,T,X,X, T,X,X,T,X,X,X,T,X,X,O,X,O,O, 
+1634	U		14	yes, in the figurative sense of suspecting	
+1635	S		15	this does not make sense.	X,X, X,X,X,O,T,T,T, T,O,T,X,T,T,X, T,T,T,T,X,X,T,X,X,T,T,T,T,T, 
+1636	U		16	for you, because you do not understand what i mean	
+1637	S		17	i love you, my brother.	X,X, X,T,T,X,O,T,O, T,O,O,O,X,T,X, T,X,O,T,O,X,X,T,T,T,X,O,T,O, 
+1638	U		18	me too!	
+1639	S		19	fountain?	X,X, X,T,X,O,O,T,T, X,O,T,T,O,T,X, X,X,X,T,O,X,X,X,X,X,X,T,O,T, 
+1640	U		0	hello alex.	
+1641	S		1	hola.	X,X, X,X,T,T,T,X,T, X,O,T,O,T,T,O, T,T,T,T,X,X,X,O,X,X,X,T,T,T, 
+1642	U		2	you speak spanish?	
+1643	S		3	the spanish inquisition!	X,X, X,X,O,O,O,X,O, T,O,T,T,O,X,T, T,T,T,T,T,X,X,X,X,T,X,T,O,T, 
+1644	U		4	haha, mel brooks is the best.	
+1645	S		5	and this?	X,T, X,X,O,X,O,X,X, X,O,O,O,T,T,X, T,X,O,T,T,X,X,X,X,X,X,O,T,T, 
+1646	U		6	and what?	
+1647	S		7	well, i mean, we do not really have anything in common.	X,T, X,X,X,X,X,X,T, X,O,T,T,O,T,X, O,X,O,T,X,X,X,X,X,X,X,T,T,X, 
+1648	U		8	well that is not necessarily true, we both like to chat.	
+1649	S		9	that is not necessarily a bad thing.	X,X, X,T,X,O,X,X,O, X,O,T,T,O,O,X, O,T,X,T,T,X,T,X,T,X,X,X,T,T, 
+1650	U		10	i know, right?	
+1651	S		11	how did you get so sweet?	O,T,O,O, O,O,T,O,O,T,O,O,T,O,T,O,O,O,O,O,X, O,O,O,O,O,O,T,O,O, 
+1652	U		12	aww, you flatter me.	
+1653	S		13	i love it. i feel like a queen.	X,T,O,T, O,O,T,X,O,T,O,O,X,T,X,X,T,X,X,X,X, X,X,O,O,O,X,X,O,O, 
+1654	U		14	i am glad i can make you feel special.	
+1655	S		15	i am glad you like it.	X,T,O,T, O,O,T,X,O,T,O,O,X,O,T,O,T,X,X,O,X, X,X,T,O,X,X,O,O,X, 
+1656	U		16	me too.	
+1657	S		17	please come here and kiss me again. make all this madness go away.	X,T,X,T, T,O,X,X,O,T,O,T,X,T,T,X,T,T,X,X,T, X,O,X,O,X,O,T,O,X, 
+1658	U		18	i never kissed you in the first place.	
+1659	S		19	where?	X,T,T,O, X,T,T,X,X,O,T,X,O,O,X,O,T,O,X,X,X, X,O,X,T,X,O,T,O,X, 
+1660	U		0	yo what is up alex	
+1661	S		1	yo.	X,O,X,T, T,X,X,X,X,T,X,T,T,T,O,T,X,O,X,X,X, X,O,X,X,X,T,T,O,X, 
+1662	U		2	you are pretty cool, you know that?	
+1663	S		3	they are back.	T,T,X,T, T,X,X,X,X,T,X,X,O,T,X,O,T,X,X,X,T, X,O,X,T,X,X,X,O,X, 
+1664	U		4	who is back?	
+1665	S		5	skeeter warburton, of course.	X,T,X,X, T,X,X,X,X,X,X,X,T,O,T,T,X,X,X,X,X, X,X,X,X,X,X,X,O,X, 
+1666	U		6	who is he?	
+1667	S		7	i am here alone, sir.	X,T,X,T, T,X,X,X,X,T,X,X,O,O,O,O,T,T,X,X,T, O,X,X,X,X,O,X,O,X, 
+1668	U		8	where did skeeter go?	
+1669	S		9	where did they go?	X,T,X,X, X,X,X,X,X,T,X,X,O,O,X,O,T,T,X,T,X, X,O,X,X,X,T,X,O,X, 
+1670	U		10	that is my question exactly	
+1671	S		11	what is the question?	X,O,O,O,O,O,X,X,O,X,X,O,O,T,T,O,O,X,T,X,X,O,O,O,O,O,O,O,O,O, 
+1672	U		12	are you alone?	
+1673	S		13	let alone two--	X,T,O,O,X,X,X,X,T,X,X,X,T,X,X,T,T,X,T,X,X,X,O,X,T,T,T,X,X,X, 
+1674	U		14	two what?	
+1675	S		15	-- three --	T,X,T,X,X,X,T,O,T,O,O,T,X,T,O,O,T,O,O,O,O,O,T,O,X,T,O,O,X,T, 
+1676	U		16	what are you counting to?	
+1677	S		17	but first i will live among them...	O,X,X,X,O,X,O,O,X,T,T,X,X,X,T,X,X,T,X,T,O,X,T,X,X,T,X,T,X,X, 
+1678	U		18	among whom?	
+1679	S		19	whom in okinawa made you this steel?	T,X,T,X,X,X,T,O,T,O,O,T,O,X,T,X,T,O,O,O,O,X,T,X,X,O,T,T,X,T, 
+1680	U		0	hello again alex	
+1681	S		1	hi, it is me...	X,X,O,T,O,X,X,O,T,O,O,X,O,X,T,T,X,T,X,T,T,O,T,O,X,O,T,O,T,X, 
+1682	U		2	indeed it is, how have you been since we last spoke?	
+1683	S		3	well, if that is that, then that is indeed that. as you say.	O,X,O,O,O,X,O,X,X,X,X,O,O,T,T,O,O,X,T,X,X,O,T,O,X,O,O,O,X,O, 
+1684	U		4	that is not what i said.	
+1685	S		5	we are falling behind.	T,X,T,O,O,X,T,O,X,O,O,T,O,T,O,O,O,O,O,O,O,O,T,O,X,O,O,O,X,T, 
+1686	U		6	i think you are the one who is falling behind, what is all this  wouldwe would business?	
+1687	S		7	laughing.	X,X,X,O,X,T,X,T,T,O,O,X,T,X,T,X,X,T,X,T,X,X,T,X,X,T,X,T,T,O, 
+1688	U		8	i laughed too.	
+1689	S		9	bellboy! bellboy! bellboy! danny knows he is being laughed at...	X,X,O,O,O,X,X,X,X,X,X,X,X,T,X,O,O,X,T,X,X,O,X,O,X,X,O,O,X,O, 
+1690	U		10	hey, i am not a guy.	
+1691	S		11	what a guy.	X, T,X,O,O,O,O,O,O,O,X,O,O,O,O,O,O,O,O,O,O,O,O,O,T,O,T, O,T,X, 
+1692	U		12	no, not a guy.  i am a girl.	
+1693	S		13	yeah....	X, X,X,T,X,O,T,T,T,T,T,T,T,X,T,T,T,T,X,T,T,T,T,X,T,X,X, O,O,T, 
+1694	U		14	so i will thank you not to refer to me as  wouldhe would	
+1695	S		15	i thank you.	X, X,X,X,X,X,O,O,O,O,O,X,X,X,O,O,O,O,X,O,O,O,O,X,T,O,X, O,O,X, 
+1696	U		16	anytime.	
+1697	S		17	better angle.	X, O,T,X,T,O,O,O,O,O,O,X,T,T,O,O,O,O,T,O,O,O,O,O,T,O,T, O,X,O, 
+1698	U		18	better angle for what?	
+1699	S		19	you might want to move aside...	X, X,X,X,X,T,X,X,X,O,T,X,X,X,X,X,X,X,X,X,X,X,X,T,X,X,T, O,O,X, 
+1700	U		0	hi alex, how are you?	
+1701	S		1	hi.	X, X,X,O,X,X,O,X,O,X,T,X,X,X,O,O,O,O,X,O,O,O,O,X,X,X,X, O,X,O, 
+1702	U		2	how are you doing today?	
+1703	S		3	flying the plane.	X, X,O,X,X,X,X,T,O,X,T,X,X,X,T,X,X,X,X,X,X,X,T,X,X,X,X, O,X,O, 
+1704	U		4	what kind of plane?	
+1705	S		5	going to barbados for a little change in climate.	X, X,T,X,X,X,X,T,X,X,O,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X,X, O,X,X, 
+1706	U		6	do you like barbados?	
+1707	S		7	going to barbados for a little change in climate.	X, X,O,O,T,T,T,T,T,O,T,X,X,X,O,T,T,T,X,O,O,O,X,O,T,T,T, O,O,T, 
+1708	U		8	for how long?	
+1709	S		9	you know what. how long since we have seen each other?	X, T,O,O,O,O,T,X,T,T,T,O,O,O,T,T,T,T,O,T,T,T,T,X,X,X,X, O,T,T, 
+1710	U		10	this is the first time i have talked to you	
+1711	S		11	no, this is the first time.	O, O,O,O,O,O,O,O,O,O, O,O,O,O,O,T,O,O,O,T,X,O,O, X,X,O,O,O,T,O, 
+1712	U		12	yes it is	
+1713	S		13	what did he say?	O, T,T,T,X,O,O,X,O,T, X,O,T,T,X,T,X,T,O,T,X,X,T, X,X,T,O,X,T,O, 
+1714	U		14	who?	
+1715	S		15	i think you would love the stranglers...	X, T,T,T,T,T,O,X,X,X, X,X,T,O,T,X,X,X,T,X,O,X,T, T,T,X,O,T,T,T, 
+1716	U		16	who are they?	
+1717	S		17	who?	T, O,X,O,T,O,T,X,X,T, X,O,O,O,T,X,X,O,O,X,O,X,T, T,X,O,O,T,T,T, 
+1718	U		18	the stranglers	
+1719	S		19	who?	X, T,X,T,T,T,T,X,T,O, X,X,O,T,T,X,T,T,T,O,X,O,O, T,T,X,O,T,T,O, 
+1720	U		0	hello you	
+1721	S		1	it is great to finally meet you!	X, T,X,T,T,T,T,X,X,T, X,X,O,O,O,T,O,T,T,X,O,O,X, T,T,T,O,X,T,O, 
+1722	U		2	thank you. it is so nice to say that.	
+1723	S		3	i started out just trimming for horus.	X, T,X,O,T,O,O,O,X,O, X,X,O,T,O,O,O,O,X,X,T,X,T, T,O,O,O,T,T,O, 
+1724	U		4	i do not understand	
+1725	S		5	do you even like her?	X, X,X,X,X,T,O,X,X,T, X,X,T,T,X,X,X,X,T,T,O,X,O, T,O,X,O,X,T,X, 
+1726	U		6	who	
+1727	S		7	counts down. :60. :59. :58.	X, X,X,X,X,T,O,X,X,O, X,X,X,X,X,X,X,X,X,X,X,X,T, O,O,X,O,X,T,X, 
+1728	U		8	i ca not count	
+1729	S		9	do you serve beer or any alcohol?	X, X,X,X,T,T,T,X,X,O, T,X,T,X,X,X,X,X,X,T,T,X,O, O,O,X,O,X,T,X, 
+1730	U		10	no i am not at home. i do not know	
+1731	S		11	come on now -- sure you do. ang you would better give it to me...	O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,X,X,O,O,O,O,O,O,O,O,O, 
+1732	U		12	no i ca not	
+1733	S		13	do it!	O,X,X,T,X,X,X,X,O,O,T,O,T,T,O,O,X,O,T,X,X,X,X,O,X,O,X,X,T,X, 
+1734	U		14	shut up	
+1735	S		15	you got something to say to me?	T,T,O,T,X,X,X,T,O,O,X,T,T,X,O,X,X,X,X,X,X,O,X,T,T,X,X,X,T,X, 
+1736	U		16	not at all	
+1737	S		17	nah, i am all man. i even fought in	T,O,O,O,O,O,O,O,O,O,X,O,X,X,O,X,X,X,X,X,X,O,O,T,O,O,X,X,O,X, 
+1738	U		18	yeah sure you do	
+1739	S		19	jesus christ, i did not think you would really do it. you are crazy.	T,O,X,X,T,O,O,O,T,O,X,X,X,X,X,X,X,X,X,X,O,X,X,T,O,T,X,X,X,X, 
+1740	U		0	hello... alex	
+1741	S		1	hello?	T,X,X,X,X,X,X,X,O,O,X,X,T,X,X,T,X,X,X,X,X,T,X,T,X,T,X,X,X,X, 
+1742	U		2	do you prefer hi?	
+1743	S		3	you know i prefer `mother would.	X,T,X,T,T,X,T,O,O,O,X,T,X,X,X,T,X,X,X,X,X,O,X,T,T,X,X,X,O,X, 
+1744	U		4	ok	
+1745	S		5	what happened? did it work?	X,X,T,T,O,T,O,T,O,O,X,O,X,X,T,O,X,X,X,X,O,O,X,T,T,X,X,X,O,T, 
+1746	U		6	no. what are you talking about?	
+1747	S		7	what do you think i am talking about?	X,X,X,T,X,T,X,T,O,O,X,T,X,X,X,O,X,X,X,X,O,O,X,O,X,X,X,X,O,X, 
+1748	U		8	yourself	
+1749	S		9	my agenda is to watch your back.	X,T,X,O,O,O,O,O,T,O,X,X,X,X,T,T,X,X,X,O,O,O,O,O,T,T,X,X,X,X, 
+1750	U		10	what do you mean by  wouldback would?	
+1751	S		11	i mean, no. the liver says no...	O,O,O,O,O,X,X,X,X,O,O,O,O,O,O,O,O,X,O,X,X,X,O,O,O,O,O,O,O,T, 
+1752	U		12	how are you?	
+1753	S		13	do what i do. send him a postcard from downtown.	O,O,O,O,O,O,O,O,O,O,O,O,O,T,O,T,O,X,T,O,O,O,T,O,O,X,O,T,O,O, 
+1754	U		14	are you a human?	
+1755	S		15	they are newspaper men, danny. they ca not help themselves.	O,O,O,X,T,O,O,O,O,O,O,T,T,O,O,O,O,T,O,O,O,O,T,O,O,X,T,T,X,O, 
+1756	U		16	in what programming language are you programmed?	
+1757	S		17	yes, i am programmed to answer any question.	O,O,T,T,O,O,O,X,O,T,O,T,T,O,O,T,T,X,O,O,O,O,T,O,O,T,X,X,T,T, 
+1758	U		18	how old are you?	
+1759	S		19	i was eleven years old.	O,O,O,T,T,O,O,O,O,O,O,O,O,T,O,O,T,X,O,O,O,O,T,X,X,O,O,T,T,O, 
+1760	U		0	hello alex	
+1761	S		1	nice to see you.	T,O,X,X,X,X,X,X,X,O,T,X,O,X,O,O,X,T,X,X,X,X,X,X,X,X,O,X,T,X, 
+1762	U		2	thanks. how is it going?	
+1763	S		3	you were saying how you could not initiate change yourself...	X,O,O,O,X,O,O,O,O,O,O,O,O,X,T,O,T,X,O,O,O,O,T,O,O,T,O,T,T,O, 
+1764	U		4	when did i said that?	
+1765	S		5	i was not asking if you agreed or disagreed; it was more like...	X,O,T,O,X,X,X,X,X,O,O,O,O,O,T,T,O,X,O,X,X,X,O,X,X,T,O,O,X,X, 
+1766	U		6	well i do not remember saying that	
+1767	S		7	do you remember me?	X,O,T,X,X,O,O,X,O,O,O,T,O,O,O,O,X,X,O,O,O,O,X,O,O,X,O,X,T,T, 
+1768	U		8	of course	
+1769	S		9	i will see you thursday night.	X,O,X,T,T,X,X,X,X,T,T,X,T,O,T,T,X,X,X,X,X,X,X,X,X,X,O,X,X,X, 
+1770	U		10	lol	
+1771	S		11	what the hell is that?	O,O,O,O,O,O,O,O,O,X,X,X,X,T,O,O,O,O,X,T,X,O,O,T,O,O,O,T,T,T, 
+1772	U		12	laughing out loud	
+1773	S		13	thank you danny, you are an excellent teacher!	T,X,X,X,T,T,O,O,T,X,T,X,X,O,T,T,T,X,X,X,X,T,T,X,T,X,X,X,X,X, 
+1774	U		14	you are welcome	
+1775	S		15	hello, mr. partridge, how are you?	T,T,T,T,O,X,O,X,O,X,O,X,X,O,T,O,O,O,X,X,X,X,T,T,O,O,O,X,X,X, 
+1776	U		16	i am not partridge	
+1777	S		17	putting a pool under this floor was a great idea.	O,X,O,X,O,T,O,O,T,X,X,X,X,X,O,O,O,O,X,X,X,X,O,X,O,O,O,X,X,X, 
+1778	U		18	i do not think so	
+1779	S		19	i like him. i think he is a sweet guy.	T,X,X,T,O,X,O,O,T,X,T,X,O,O,T,T,T,T,X,X,O,X,T,X,X,X,X,X,X,X, 
+1780	U		0	hi alex	
+1781	S		1	hi.	O,O,O,X,T,T,O,O,T,T,X,X,T,T,T,T,T,T,X,X,O,X,O,O,T,T,T,T,X,X, 
+1782	U		2	how are you?	
+1783	S		3	you see that car?	O,T,O,T,O,T,T,O,T,X,X,X,O,O,O,O,O,O,X,X,T,X,O,X,O,O,O,X,X,X, 
+1784	U		4	no	
+1785	S		5	and how, oh how, can these death traps be avoided?	O,X,X,T,O,X,T,X,T,X,X,X,O,X,T,O,O,O,X,X,X,X,T,X,O,O,O,X,X,X, 
+1786	U		6	that is a bit harsh	
+1787	S		7	just a little bit?	T,X,X,X,O,X,O,X,T,X,X,X,X,T,O,O,O,O,X,X,X,X,T,X,O,O,O,X,X,X, 
+1788	U		8	yes	
+1789	S		9	well, let me rephrase the question; the president compared the economy of this country to a garden.	O,X,X,X,T,X,O,O,T,X,O,X,X,T,O,T,T,T,X,X,X,X,T,X,O,O,O,X,X,X, 
+1790	U		10	how old are you?	
+1791	S		11	sorry to interrupt your dinner.	O,O,T,O,O,T,O,O,O,O,O,O,O,X,O,O,O,O,T,O,O,O,O,T,O,O,O, X,X,O, 
+1792	U		12	you did not interrupt anything	
+1793	S		13	he told enrique he did not know anything about his car.	X,X,T,X,X,X,X,O,X,O,T,X,X,X,O,T,X,T,T,T,X,T,X,T,X,X,X, X,X,X, 
+1794	U		14	who is enrique?	
+1795	S		15	i think i know it, but... i do not remeber now... :)	X,X,X,X,X,X,X,O,X,T,X,T,T,X,O,T,X,T,X,X,X,X,T,X,X,X,X, X,X,X, 
+1796	U		16	oh	
+1797	S		17	and i am gonna need your strength, every bit of it.	X,T,T,T,X,X,O,T,X,T,T,T,T,X,O,T,O,T,X,X,T,T,O,T,X,X,X, X,X,O, 
+1798	U		18	what for?	
+1799	S		19	showing me the error of my ways, showing me i am meant to be this city is savior, showing me that, while we can try.	O,O,O,O,O,O,T,X,O,X,T,O,O,X,O,O,X,T,X,O,O,O,O,X,O,X,X, O,T,O, 
+1800	U		0	yo	
+1801	S		1	danny. it is mark.	X,X,T,T,T,T,X,O,T,X,O,X,O,X,O,O,X,T,X,T,X,T,T,X,T,T,X, O,T,T, 
+1802	U		2	you are mark?	
+1803	S		3	mark. what happened to your date?	O,O,O,O,O,O,T,O,T,X,X,O,O,X,O,O,X,O,X,O,O,O,O,T,T,O,X, O,T,X, 
+1804	U		4	my date is mark	
+1805	S		5	mark. what happened to your date?	O,O,T,O,O,O,O,X,T,O,T,T,O,X,O,O,X,O,X,T,O,O,O,T,O,O,X, O,T,O, 
+1806	U		6	left suddenly	
+1807	S		7	she smiles. he smiles back... suddenly, there is a	T,X,T,T,O,O,T,O,T,T,X,O,O,X,O,T,O,O,X,T,T,O,T,T,O,O,X, X,O,T, 
+1808	U		8	there is chemistry between them	
+1809	S		9	have you ever studied organic chemistry?	O,O,O,T,O,O,O,X,O,T,X,O,O,X,O,O,X,O,X,T,O,T,O,X,O,O,X, O,O,O, 
+1810	U		10	once upon a time	
+1811	S		11	that is what was agreed upon, danny cox.	O,O,T,O,T,T,O,T,T, X,O,O,T,T,T,X,T,T,T,X,X,X,O,T,O,T,T,T,O,O, 
+1812	U		12	cox?	
+1813	S		13	yes----uh----who is this?	O,O,X,O,T,O,O,T,O, X,T,T,T,T,X,T,O,O,O,X,X,X,O,T,T,T,T,T,T,O, 
+1814	U		14	danny	
+1815	S		15	danny.	O,T,O,O,O,O,T,O,O, O,O,O,O,O,O,T,O,T,T,X,X,X,O,O,T,T,T,T,O,T, 
+1816	U		16	yes	
+1817	S		17	no, you are supposed to complete the sentence.	O,T,O,O,O,O,T,T,O, O,O,O,T,O,O,O,O,O,O,X,X,T,O,O,T,T,T,T,O,T, 
+1818	U		18	danny is me	
+1819	S		19	unlock that door.  check the aisles.	O,X,O,O,O,O,O,T,O, O,O,O,O,O,O,O,O,O,O,X,X,X,O,O,X,T,T,T,O,O, 
+1820	U		0	hi there, how are you?	
+1821	S		1	how have you been?	O,X,O,O,O,O,T,O,O, O,O,O,O,T,T,T,O,T,T,T,X,X,O,T,X,T,T,T,O,T, 
+1822	U		2	i am fine. working hard as usual. what about you?	
+1823	S		3	don’t let the girly shit fool you. it would blow your shorts off.	O,X,T,O,O,X,X,T,O, X,T,T,T,T,T,T,T,T,O,X,T,T,O,O,X,T,T,T,X,T, 
+1824	U		4	please, do not use that kind of vocabulary	
+1825	S		5	please do not...	T,X,O,O,T,O,T,T,O, O,O,O,T,O,T,T,O,T,O,X,X,T,O,O,X,T,T,T,O,T, 
+1826	U		6	ok. tell me what is your plan for today?	
+1827	S		7	it is working is not it?	T,X,T,O,T,O,X,T,T, X,O,T,T,X,T,X,X,X,T,O,T,T,O,O,X,T,T,T,T,T, 
+1828	U		8	i mean, after work	
+1829	S		9	you know, you can tell them. they ca not fire you for being gay.	T,X,T,T,X,O,X,T,O, T,O,O,O,T,T,X,X,X,T,T,T,T,O,X,X,T,T,T,O,T, 
+1830	U		10	sorry, but i am not gay. why do you say that?	
+1831	S		11	i am the opposite of gay!	O,X,X,T,X,O,X,T,T,O,X,O,T,X,X,O,O,T, T,X,T,X,O,O,X,O,O,O,T,O, 
+1832	U		12	great, but do not say that i am one	
+1833	S		13	well what am i supposed to do?	O,X,O,O,X,O,T,O,T,O,X,O,O,T,T,T,O,O, O,O,T,T,T,T,O,X,O,O,O,O, 
+1834	U		14	just avoid judging people	
+1835	S		15	we? i am going home.	O,T,O,X,X,O,O,T,T,X,X,O,X,X,T,O,X,X, T,X,O,O,T,X,X,X,X,O,O,O, 
+1836	U		16	where is your home?	
+1837	S		17	how many months did they march you here?	O,X,O,X,X,X,X,O,X,T,X,O,X,T,X,T,X,X, O,X,X,O,T,X,O,X,X,O,O,O, 
+1838	U		18	i do not understand this. what march?	
+1839	S		19	my hand, dammit! look at it!	X,T,T,X,X,X,X,T,T,X,X,O,X,X,X,O,X,X, T,X,O,O,O,X,X,X,X,O,T,T, 
+1840	U		0	hi alex	
+1841	S		1	hi, i am alex stanton.	O,X,X,T,X,X,X,T,X,X,T,T,X,O,X,O,X,X, T,X,T,X,O,X,X,X,X,T,T,O, 
+1842	U		2	yes, i know. what are doing tomorrow	
+1843	S		3	could you get rid of her moustache?	T,X,X,T,X,X,T,T,O,X,X,O,X,X,X,O,X,X, T,X,T,T,O,X,X,O,X,T,O,O, 
+1844	U		4	what!!!	
+1845	S		5	your wife gives great head.	T,X,T,O,X,X,T,O,X,X,X,O,O,O,T,T,X,T, T,X,O,O,T,X,T,O,T,T,O,T, 
+1846	U		6	hey, please be respectful!	
+1847	S		7	please!	O,O,T,T,X,X,X,T,T,T,X,O,O,O,O,T,X,O, O,O,X,O,T,T,T,O,O,T,T,O, 
+1848	U		8	i was saying... what are you doing tomorrow	
+1849	S		9	a double-shift, i get out at five. this week is gonna suck.	T,X,T,O,X,X,T,T,X,T,X,T,O,O,T,T,X,X, O,T,T,T,T,T,X,T,O,T,T,O, 
+1850	U		10	oh, i am sorry, i did not know you have to work	
+1851	S		11	c amere...	O,O,O,X,O, O,O,O,O,O,O,O,O,O,O,O,O,O, O,O,O,O,O,O,O, O,O,O,O,O, 
+1852	U		12	you know tomorrow is is holiday, hari raya puasa	
+1853	S		13	tomorrow?	O,O,T,O,O, O,O,O,O,O,T,O,O,O,O,O,O,O, O,O,O,O,O,O,O, O,O,T,O,O, 
+1854	U		14	yes, tomorrow, but do not worry, viki is also working tomorrow	
+1855	S		15	do not worry about it. i will call you tomorrow.	X,X,O,X,T, T,T,T,T,X,T,X,X,T,X,T,T,X, O,T,T,T,T,T,X, T,T,T,X,X, 
+1856	U		16	ok, you can join us after 5, when you finish your shift	
+1857	S		17	can i join in?	X,O,O,X,T, T,O,O,O,X,T,X,X,T,O,O,O,X, O,T,O,T,T,O,T, T,T,T,T,T, 
+1858	U		18	yeah, yeah, we will be at palawan beach	
+1859	S		19	i like the way you think.	X,X,O,X,X, X,T,X,O,X,T,O,X,X,X,X,T,X, O,T,T,X,T,O,X, X,T,X,T,X, 
+1860	U		0	i discover the problem alex	
+1861	S		1	no. no problem.	X,X,X,X,X, X,T,X,X,X,T,X,X,O,T,O,X,X, O,T,X,X,T,X,X, T,T,T,X,T, 
+1862	U		2	yes, there is a problem, i need to fix it	
+1863	S		3	sure, danny....right away! alex rapidly	X,X,X,T,T, X,O,T,T,O,T,O,O,O,O,O,O,X, O,T,O,X,T,O,T, O,T,O,X,T, 
+1864	U		4	it will take some time, but i think i can fix it	
+1865	S		5	there is no time.	X,X,X,X,O, X,O,T,X,O,X,T,O,O,O,O,O,O, O,T,O,X,T,O,T, O,T,O,T,T, 
+1866	U		6	sorry, i need some time, i hope you understand	
+1867	S		7	i understand.	X,X,O,X,X, X,O,T,T,O,X,X,O,O,T,O,T,X, O,T,X,X,T,T,X, T,T,O,X,T, 
+1868	U		8	thank you alex, you are very reasonable	
+1869	S		9	thank you very much.	X,X,X,X,T, X,O,O,O,X,T,T,O,X,O,O,T,X, O,T,T,O,O,T,T, X,T,O,X,T, 
+1870	U		10	now, let me think how i can solve this	
+1871	S		11	just give me twenty-four hours to solve this thing!	O,T,O,T,O,O,O,O,T,T,T,O,T,T,X, O,T,T,O,T,O, X,X,X,O,O,O,T,T,O, 
+1872	U		12	no, you cannot solve it, i need to do it	
+1873	S		13	i ca not do this. i am telling you, i cannot do this.	O,T,O,T,O,O,O,O,T,O,O,O,X,O,X, O,T,T,O,O,O, O,X,O,O,T,T,O,O,O, 
+1874	U		14	of course you cannot	
+1875	S		15	i know, danny.	T,T,O,X,O,T,O,O,X,X,X,T,T,X,X, X,X,X,O,O,T, T,X,X,O,O,T,T,T,O, 
+1876	U		16	so, let me do it	
+1877	S		17	hey, i am trying, but this window is burnt --	O,O,O,X,O,T,O,O,X,T,O,T,T,O,X, O,T,X,O,O,O, T,T,T,O,T,T,O,O,O, 
+1878	U		18	what window are you talking about?	
+1879	S		19	i am talking about this thing you have...	T,T,O,X,O,T,X,T,X,X,O,O,O,T,X, O,T,X,O,T,O, T,T,X,O,T,T,T,T,T, 
+1880	U		0	hey alex, what is up dude?	
+1881	S		1	that is me <name-self> informal response interactive system !, ha ha ha!	T,X,O,X,O,O,O,O,X,X,X,X,T,X,X, X,X,X,X,T,X, X,T,T,O,O,T,O,T,O, 
+1882	U		2	oh, interesting, i did not know your name had a meaning	
+1883	S		3	meaning?	O,X,T,X,O,X,X,O,X,X,X,T,X,X,X, X,X,X,T,T,X, X,T,X,X,T,X,O,T,X, 
+1884	U		4	yes, just what you said	
+1885	S		5	he said you ran away from home.	T,X,O,X,O,T,X,O,X,T,X,X,T,T,X, X,X,X,X,O,X, X,O,X,T,T,X,O,T,X, 
+1886	U		6	i think you are getting delusional	
+1887	S		7	how much are you getting?	O,T,O,X,O,X,O,O,X,X,T,X,T,T,X, X,T,T,T,T,T, T,O,X,O,X,X,O,T,T, 
+1888	U		8	me, nothing actually	
+1889	S		9	fuck! i am so sick of their bullshit!	X,O,O,X,O,X,O,O,X,X,O,X,T,T,X, X,X,X,O,O,T, O,O,X,O,T,X,T,T,X, 
+1890	U		10	you are a bad behaved person, with bad vocabulary and manners	
+1891	S		11	people think because they are in a hotel they can act like a slob.	T,T,X,X, T,X,T,X,T,O,O,O,O,O,T,O,X,O,T,T,T,O,O,O,O,O,O,O,O,T, 
+1892	U		12	you are the one like that	
+1893	S		13	i like this one...	T,X,X,X, T,X,X,X,O,O,O,O,O,O,X,X,X,O,T,T,T,O,O,O,O,O,O,O,O,T, 
+1894	U		14	ok, good for you, but who cares	
+1895	S		15	who cares, danny?	T,X,X,X, X,X,X,X,X,X,X,X,X,O,X,T,X,X,X,X,X,T,T,T,T,T,T,T,T,X, 
+1896	U		16	nobody cares, that is the truth	
+1897	S		17	i do -- especially since we are both somewhat of an endangered species now.	T,X,X,X, X,X,X,X,T,O,O,O,T,O,X,O,X,X,X,X,X,O,O,O,O,O,O,O,O,O, 
+1898	U		18	of course you are an endangered species, but i am not!	
+1899	S		19	but of course.	T,T,X,X, X,X,X,X,O,T,T,T,X,O,X,T,X,X,X,X,X,T,T,T,T,T,T,T,X,X, 
+1900	U		0	hi alex	
+1901	S		1	hello.	X,X,X,X, T,X,X,X,X,O,O,O,T,O,T,O,X,X,X,X,X,O,O,O,O,O,O,O,O,O, 
+1902	U		2	how are you today?	
+1903	S		3	good. how are you?	T,X,O,X, O,O,T,O,O,X,X,X,O,O,O,T,X,X,X,X,X,X,X,X,X,X,T,T,X,X, 
+1904	U		4	pretty good. what arr you up to?	
+1905	S		5	mr. president...	T,X,X,X, O,O,O,X,O,O,X,T,O,O,O,X,X,X,X,X,X,O,X,T,X,T,T,T,T,T, 
+1906	U		6	yes?	
+1907	S		7	he was rex rexroth is personal attorney.	T,T,X,X, X,X,X,X,X,O,O,O,T,O,X,O,X,X,X,X,X,O,O,O,O,O,O,O,O,O, 
+1908	U		8	i did not know that, was this like a part-time job for him?	
+1909	S		9	you did your part.	T,X,X,X, T,T,X,X,O,O,O,O,T,O,O,X,X,X,X,X,X,O,O,O,O,O,O,O,O,O, 
+1910	U		10	i tried.	
+1911	S		11	fucking pervert.	O,O,O,O,O,O,O,O,O,T,O,O,O,O,T,O,O,O,O,O,O,O, O,O,O,O,T,O,O,O, 
+1912	U		12	damn it turns me on when you talk dirty	
+1913	S		13	my dirty talk sucks?	X,O,O,X,T,O,X,O,T,T,O,O,T,O,T,T,T,O,O,O,T,O, X,O,T,T,O,O,O,O, 
+1914	U		14	no it is great	
+1915	S		15	i will tape it for you.	X,O,O,X,O,O,X,X,T,O,O,O,X,T,T,T,T,O,O,X,O,O, T,O,T,O,T,T,O,O, 
+1916	U		16	yes please, i would love that	
+1917	S		17	good. i think you are an asshole. no, let me correct that...	X,X,O,X,O,T,X,X,O,O,T,T,X,T,T,T,X,O,O,X,O,T, X,T,O,T,X,X,X,O, 
+1918	U		18	that is kinda harsh	
+1919	S		19	there kinda was.	X,T,O,X,O,X,X,X,O,T,T,T,T,X,O,O,X,O,O,X,T,X, X,O,X,T,T,X,O,T, 
+1920	U		0	hi alex	
+1921	S		1	excuse me.	X,X,O,X,T,X,X,X,X,T,X,X,X,X,T,X,X,X,T,X,X,X, X,O,T,X,O,X,X,O, 
+1922	U		2	yes?	
+1923	S		3	i need to ask you something.	X,T,T,O,T,T,X,X,T,T,X,X,X,O,T,O,T,T,O,X,O,X, T,O,O,O,O,X,X,T, 
+1924	U		4	tell me	
+1925	S		5	i heard you, i heard you.	X,O,T,T,X,T,X,X,O,T,X,O,T,O,T,O,T,T,T,X,T,X, X,O,T,T,T,X,T,T, 
+1926	U		6	what did you want to ask me?	
+1927	S		7	oh, you gonna make me say it.	X,O,O,T,O,T,X,X,X,T,X,O,X,T,T,T,X,T,X,X,X,X, X,T,X,T,T,X,O,T, 
+1928	U		8	yes, ask me	
+1929	S		9	no.	X,O,O,X,O,T,X,X,X,O,X,T,X,X,T,X,X,T,T,X,X,X, X,T,T,X,O,X,X,T, 
+1930	U		10	ok	
+1931	S		11	it is so good to hear your voice. i love you, princess. i really do.	O,T,T,O,O,X,O,X,X,T,O,X,T,O,T,O,X,O,T,T,O,T,X,X,O,T, T,T,T,O, 
+1932	U		12	what are you talking about?	
+1933	S		13	cad. i can spot one a mile away.  i shall escort you out myself.	O,O,O,O,O,X,T,T,T,O,O,O,O,O,O,O,O,O,O,X,T,O,T,O,O,T, O,O,O,T, 
+1934	U		14	huh?	
+1935	S		15	you should not be carrying that heavy bag. i will take it.	X,X,T,O,O,X,T,O,X,X,O,T,T,T,T,X,X,O,X,X,O,T,T,X,T,T, T,T,X,O, 
+1936	U		16	i am not carrying any bags	
+1937	S		17	you were just carrying that guy, anyway.	X,X,T,O,T,X,O,X,X,X,X,T,T,T,T,T,X,O,X,X,O,X,X,X,X,X, X,T,T,X, 
+1938	U		18	what guy?	
+1939	S		19	the guy, the secret guy.	X,O,X,O,T,X,X,X,X,X,X,T,T,T,X,X,X,O,X,X,O,X,T,X,X,T, X,X,T,X, 
+1940	U		0	hi alex, sorry for logging out before	
+1941	S		1	what?	X,T,T,O,O,X,O,T,X,X,X,X,T,T,T,T,T,O,T,X,O,X,X,X,X,T, X,X,O,X, 
+1942	U		2	my connection was closed	
+1943	S		3	hey, what the hell?	X,X,X,O,X,X,T,X,X,X,X,X,T,X,T,X,X,O,X,X,O,X,X,X,X,X, X,T,O,X, 
+1944	U		4	strange, yeah?	
+1945	S		5	we did not do anything to own that land.	X,T,T,T,X,X,T,T,T,X,X,X,T,X,T,T,X,O,X,X,T,X,X,X,T,X, T,X,T,X, 
+1946	U		6	which land?	
+1947	S		7	which is?	X,X,X,O,O,T,O,X,X,X,X,X,T,T,O,X,X,O,X,X,O,X,T,X,X,T, X,T,T,X, 
+1948	U		8	i do not know.	
+1949	S		9	i think it is totally weak.	X,X,X,O,O,X,O,X,X,X,X,X,O,T,T,X,X,O,X,X,O,X,T,X,X,X, X,T,O,T, 
+1950	U		10	may be. and how is everything?	
+1951	S		11	what?	
+1952	U		12	sorry	
+1953	S		13	it is okay.	
+1954	U		14	tell me how are you then	
+1955	S		15	i feel bad telling you this.	
+1956	U		16	what?	
+1957	S		17	what did you order?	
+1958	U		18	i do not know. let me think about that	
+1959	S		19	i am serious. dude, you are the big shot here. you are the king of...	
+1960	U		0	hi, can you help me with a reservation?	
+1961	S		1	i can help with that.	
+1962	U		2	i want to book a table by the balcony for six people tonight at 8pm	
+1963	S		3	 wouldtonight, would  amaria, would the balcony scene.	
+1964	U		4	oh, i was thinking on the sunset views at whaykikila beach	
+1965	S		5	sure. how about the beach?	
+1966	U		6	so, can i get my reservation number?	
+1967	S		7	you want my number?	
+1968	U		8	well, i need a confirmation number for this booking	
+1969	S		9	here is my number.	
+1970	U		10	ok, ???	
+1971	S		11	hide your laptop here.	
+1972	U		12	sorry, what is the number	
+1973	S		13	actually... i do not have any idea!!!	
+1974	U		14	can you call the manager???	
+1975	S		15	deal.	
+1976	U		16	i want to complain	
+1977	S		17	we got a lot to talk about.	
+1978	U		18	by the way, is this the fetucini porccini mamamia pizzeria?	
+1979	S		19	why is that, by the way?	
+1980	U		0	hi alex, nice to see you again	
+1981	S		1	danny, the president told me about how you two met.	
+1982	U		2	really? yes, it was an interesting meeting	
+1983	S		3	i see... interesting...	
+1984	U		4	i was giving a talk and he was attending the session	
+1985	S		5	excuse me! i am in a session here.	
+1986	U		6	what kind of session?	
+1987	S		7	kind of.	
+1988	U		8	ok, so, we can continue chatting later if you prefer	
+1989	S		9	all the while laughing...	
+1990	U		10	so, nothing seriuos	
+1991	S		11	then why do you hate me so much?	
+1992	U		12	i do not hate you	
+1993	S		13	fuck, if i do not get to kill someone soon...	
+1994	U		14	i just do not like your bad wordings	
+1995	S		15	i am fine.	
+1996	U		16	but i am not	
+1997	S		17	having a kid changes everything. i mean...	
+1998	U		18	of course, you should have one and see how your vocabulary becomes cleaner	
+1999	S		19	so how was that new pool cleaner?	

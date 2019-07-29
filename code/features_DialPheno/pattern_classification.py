@@ -1,5 +1,5 @@
 import pandas as pd
-from features_extract import TopicExtractDep
+from featureExtract_dialPheno import TopicExtractDep
 from nltk import ngrams
 from sklearn.feature_extraction.text import TfidfVectorizer
 #from scipy.cluster.hierarchy import dendrogram, linkage
