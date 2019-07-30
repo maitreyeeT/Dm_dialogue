@@ -1,7 +1,7 @@
 import numpy as np
 from gensim.models import KeyedVectors
 from sklearn.preprocessing import LabelEncoder, OneHotEncoder
-from dialog_acts import DialogueActSample
+from dataReductionAndSampling import DialogueActSample
 import pandas as pd
 
 

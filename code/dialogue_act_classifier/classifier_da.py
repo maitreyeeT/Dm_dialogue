@@ -30,9 +30,9 @@ class DaClassifier():
                                       Dropout(.5),
                                       Dense(units=200, activation='relu'),
                                       Dropout(.5),
-                                      Dense(units=26, activation='sigmoid')])
+                                      Dense(units=15, activation='sigmoid')])
 
-        self.transformer = FastICA(n_components=7)
+        self.transformer = FastICA()
 
     #encodes the classes in the dataset, encoding here:we encode the 20 classes into n-1 or 19 classes.
     # Becuase the classes start at 0. (-1 says that first dimnesion is not
@@ -112,9 +112,8 @@ class DaClassifier():
 
 
         defaulr_rm_cmps = 1
-
-        transform = self.pca_transform(self.transformer.fit(self.utt_we),defaulr_rm_cmps)
-        utt_we_x = transform(self.utt_we)
+        self.transformer.fit(self.utt_we)
+        utt_we_x = self.pca_transform(self.utt_we,defaulr_rm_cmps)
 
         idx_train = int(utt_we_x.shape[0] * perc_train)
 
@@ -131,7 +130,7 @@ class DaClassifier():
         data_toClassify = frmtraintest
 
         # We compile it
-        self.classifier.compile(optimizer=Adam(1e-4),
+        self.classifier.compile(optimizer=Adam(2e-5),
                            loss='categorical_crossentropy',
                            metrics=['accuracy'])
         for xytrain in data_toClassify:

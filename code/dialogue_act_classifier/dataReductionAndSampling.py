@@ -8,38 +8,58 @@ class DialogueActSample():
 
     def __init__(self):
         self.filepath = '/home/maitreyee/Development/Dm_develop/code/dialogue_act_classifier/da_annotation3.csv'
-        self.lookups = [('(^.*answer.*$)', 'answer'),('(^.*answe.*$)', 'answer'),
-                        ('(^.*question.*$)', 'question'),
-                        ('(^.*greeting.*$)', 'socialobligation'),('(^.*thanking.*$)', 'socialobligation'),
-                        ('(^.*goodbye.*$)', 'socialobligation'),('(^.*compliment.*$)', 'socialobligation'),
-                        ('(^.*completion.*$)', 'socialobligation'),
-                        ('(^.*turn.*$)', 'turnmanagement'),
-                        ('(^.*suggest.*$)', 'suggest'),
-                        ('(^.*agreement.*$)', 'accept'),('(^.*agree.*$)', 'accept'),
-                        ('(^.*disagreement.*$)', 'reject'),
-                        ('(^.*instruct.*$)', 'instruct'),
-                        ('(^.*inform.*$)', 'inform'),
-                        ('(^.*apology.*$)', 'apology'),('(^.*apologize.*$)', 'apology')
-                      , ('(^.*correct.*$)', 'correction'),('(^.*selfcorrection.*$)', 'correction'),
-                        ('(^.*retraction.*$)', 'correction'),
-                        ('(^.*elicitation.*$)', 'correction'),
-                        ('(^.*decline.*$)', 'reject'),
-                        ('(^.*accept.*$)', 'accept'),
-                        ('(^.*negative.*$)', 'negativefeedback'),('(^.*allonegative.*$)', 'negativefeedback'),
-                        ('(^.*autonegative.*$)', 'negativefeedback'),
-                        ('(^.*allo.*$)', 'feedback'),
-                        ('(^.*auto.*$)', 'feedback'),
-                        ('(^.*address.*$)', 'accept'),
-                        ('(^.*opening.*$)', 'interactionstructuring'),
-                        ('(^.*interaction.*$)', 'interactionstructuring'),
-                        ('(^.*introduction.*$)', 'interactionstructuring'),
-                        ('(^.*selferror)','error'),('(^.*misspeaking)','error'),
-                        ('(^.*retract)','error'),
-                        ('(^.*nan.*$)', 'error'), ('(^.*error.*$)', 'error'),
-                        ('(^.*pausing.*$)', 'stalling'),
-                        ('(^.*stalling.*$)', 'stalling'),
-                        ('(^.*confirm.*$)', 'confirm'),
-                        ('(^.*disconfirm.*$)', 'disconfirm')]
+        self.lookups = [(r'(^.*answer.*$)', 'answer')
+                        ,(r'(^.*answe.*$)', 'answer')
+                        ,(r'(^.*question.*$)', 'question')
+                        ,(r'(^.*greeting.*$)', 'socialobligation')
+                        ,(r'(^.*goodbye.*$)', 'socialobligation')
+                        ,('(^.*greeting.*$)', 'socialobligation')
+                        ,('(^.*thanking.*$)', 'socialobligation')
+                        ,('(^.*goodbye.*$)', 'socialobligation')
+                        ,('(^.*compliment.*$)', 'socialobligation')
+                        ,('(^.*completion.*$)', 'socialobligation')
+                        ,('(^.*congratulation.*$)', 'socialobligation')
+                        ,('(^.*turn.*$)', 'turnmanagement')
+                        ,('(^.*agreement.*$)', 'accept')
+                        ,('(^.*agree.*$)', 'accept')
+                        ,('(^.*inform.*$)', 'inform')
+                        ,('(^.*apology.*$)', 'socialobligation')
+                        ,('(^.*apologize.*$)', 'socialobligation')
+                        ,('(^.*correct.*$)', 'correction')
+                        ,('(^.*selfcorrection.*$)', 'correction')
+                        ,('(^.*retraction.*$)', 'correction')
+                        ,('(^.*elicitation.*$)', 'correction')
+                        ,('(^.*decline.*$)', 'negativefeedback')
+                        ,('(^.*disagreement.*$)', 'negativefeedback')
+                        ,('(^.*disconfirm.*$)', 'negativefeedback')
+                        ,('(^.*disagree.*$)', 'negativefeedback')
+                        ,('(^.*negative.*$)', 'negativefeedback')
+                        ,('(^.*reject.*$)', 'negativefeedback')
+                        ,('(^.*allonegative.*$)', 'negativefeedback')
+                        ,('(^.*autonegative.*$)', 'negativefeedback')
+                        ,('(^.*allopositive.*$)', 'feedback')
+                        ,('(^.*autopositive.*$)', 'feedback')
+                        ,('(^.*auto.*$)', 'feedback')
+                        ,('(^.*opening.*$)', 'interactionstructuring')
+                        ,('(^.*interaction.*$)', 'interactionstructuring')
+                        ,('(^.*introduction.*$)', 'interactionstructuring')
+                        ,('(^.*closing.*$)', 'interactionstructuring')
+                        ,('(^.*complain.*$)', 'contradict')
+                        ,('(^.*selferror)','correction')
+                        ,('(^.*misspeaking)','correction')
+                        ,('(^.*retract)','error')
+                        ,('(^.*nan.*$)', 'error')
+                        ,('(^.*error.*$)', 'error')
+                        ,('(^.*pausing.*$)', 'turnmanagement')
+                        ,('(^.*stalling.*$)', 'turnmanagement')
+                        ,('(^.*confirm.*$)', 'accept')
+                        ,('(^.*promise.*$)', 'commissive')
+                        ,('(^.*offer.*$)', 'commissive')
+                        ,('(^.*address.*$)', 'commissive')
+                        ,('(^.*accept.*$)', 'commissive')
+                        ,('(^.*request.*$)', 'directive')
+                        ,('(^.*instruct.*$)', 'directive')
+                        ,('(^.*suggest.*$)', 'directive')]
 
 
     def readAndconvert_data(self):
