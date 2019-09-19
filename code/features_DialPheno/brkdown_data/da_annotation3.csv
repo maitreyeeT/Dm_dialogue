@@ -46,7 +46,7 @@ i will if you ask me yes or no question i will say yes or no 	p1	p2	 inform
 i will 	p1	p2	selfCorrection 
 okay 	p2	p1	autoPositive 
 uhm 	p1	p2	turnKeep stalling
-if you ask me a more open-ended question i will try to answer the question 	p1	p2	 inform 
+if you ask me a more open-ended question i will try to answer the question 	p1	p2	inform 
 uh 	p1	p2	turnKeep stalling
 i wont always have an answer to your question though 	p1	p2	 inform 
 okay 	p2	p1	autoPositive 
@@ -56,7 +56,7 @@ do you understand the rules 	p1	p2	 propositionalQuestion
 yeah 	p2	p1	 confirm 
 would you like me to repeat anything 	p1	p2	offer
 would you 	p1	p2	selfCorrection 
-no 	p2	p1	 declineOffer 
+no 	p2	p1	declineOffer 
 i think i understood everything 	p2	p1	 inform  
 mh 	p2	p1	turnKeep stalling
 alright 	p1	p2	autoPositive 
@@ -3999,11 +3999,11 @@ just came back from lrec			answer
 why do they have you tied up here?			question
 because this is where i work, i have to be here everyday			answer
 so this is where you work.			clarify
-yeap, what about you, where do you work?			answer
-back in the saddle.			inform
-oh, interesting... and what you do there?			question
+yeap, what about you, where do you work?			answer, question
+back in the saddle.			answer
+oh, interesting... and what you do there?			Stalling, question
 is it?			question
-i do not get it, sorry, still with jetlag, what do you mean?			clarify
+i do not get it, sorry, still with jetlag, what do you mean?			Non-affirmation, clarifying-question
 with your life.			error
 hmmm, no capito			stalling
 and your mother was very beautiful. she must be proud of you.			compliment

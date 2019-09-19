@@ -7,7 +7,7 @@ import re
 class DialogueActSample():
 
     def __init__(self):
-        self.filepath = '/home/maitreyee/Development/Dm_develop/code/dialogue_act_classifier/da_annotation3.csv'
+        self.filepath = '/home/maitreyee/Development/Dm_develop/code/testing_bayesian_AutoEncode/hypoDial_feats1.csv'
         self.lookups = [(r'(^.*answer.*$)', 'answer')
                         ,(r'(^.*answe.*$)', 'answer')
                         ,(r'(^.*question.*$)', 'question')
@@ -64,8 +64,8 @@ class DialogueActSample():
 
     def readAndconvert_data(self):
         dataset = pd.read_csv(self.filepath, sep='\t')
-        dataset['utterance'] = dataset['utterance'].astype(str).str.lower().dropna()
-        dataset['commfunct'] = dataset['communicativefunction'].astype(str)\
+        dataset['utterance'] = dataset['utterances'].astype(str).str.lower().dropna()
+        dataset['commfunct'] = dataset['adv_intj'].astype(str)\
             .str.lower().str.strip().dropna()
         return zip(dataset.utterance,dataset.commfunct)
 
@@ -74,27 +74,25 @@ class DialogueActSample():
         reading = readData
         for uttcomfun in reading:
             utter, commfunct = uttcomfun
-            found = False
-            for lookup_match, lookup_trg in self.lookups:
+           # found = False
+           # for lookup_match, lookup_trg in self.lookups:
                 #print('{} {}'.format(lookup_match, commfunct))
-                if re.match(lookup_match, commfunct):
-                    yield (utter, lookup_trg)
-                    found = True
-                    break
-            if not found:
-                yield (utter, commfunct)
+            #    if re.match(lookup_match, commfunct):
+             #       yield (utter, lookup_trg)
+              #      found = True
+               #     break
+            #if not found:
+            yield (utter, commfunct)
 
 
     def samplingFeatures(self, df):
-        sample_size = 5000
+        sample_size = 50
         sampled_clz = []
         reading_df = df
-        for clz in reading_df.commfunct.unique():
-            print(clz)
-            df_class = reading_df[reading_df['commfunct'] == clz]
+        for clz in reading_df.feats.unique():
+            df_class = reading_df[reading_df['feats'] == clz]
             if len(df_class) <= sample_size:
                 df_class_under = df_class.sample(sample_size, replace=True)
-
             else:
                 df_class_under = df_class.sample(sample_size)
             sampled_clz.append(df_class_under)
@@ -107,12 +105,11 @@ if __name__ == '__main__':
     classifier = DialogueActSample()
 
     read = classifier.readAndconvert_data()
-    modification = pd.DataFrame(classifier.modify_data(read))
-    modification.columns = [['utterance','commfunct']]
+    modification = pd.DataFrame(classifier.modify_data(read),columns=['utterance','feats'])
     modification.to_csv('./cleaned.csv', sep='\t')
     cleaned = pd.read_csv('./cleaned.csv', sep='\t')
     sampled = classifier.samplingFeatures(cleaned)
-    sampled.commfunct.value_counts().plot.bar()
-    import matplotlib.pyplot as plt
-    plt.show()
+  #  sampled.commfunct.value_counts().plot.bar()
+  #  import matplotlib.pyplot as plt
+  #  plt.show()
 

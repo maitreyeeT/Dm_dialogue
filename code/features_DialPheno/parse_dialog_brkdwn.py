@@ -4,7 +4,7 @@ import pprint
 from pandas.io.json import json_normalize
 import glob, os
 
-path_to_json = '/home/maitreyee/Development/Dm_develop/data/DBDC3/dbdc3_revised/en/dev/CIC_115'
+path_to_json = '/home/maitreyee/Development/Dm_develop/data/DBDC3/dbdc3_revised/en/dev/IRIS_100'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
 dfs = []
 mrgd_brkdwn_chts = pd.DataFrame()
@@ -16,7 +16,7 @@ for index, js in enumerate(json_files):
             brkdwn_chts = json_normalize(load_json['turns'])
             try:
                 annotations_data = json_normalize(data=load_json['turns'], record_path=['annotations'],
-                                    meta=['turn-index','speaker','time','annotator-id','utterance'])
+                                    meta=['turn-index','speaker','breakdown','annotator-id','utterance'])
             except:
                 pass
             dfs.append(brkdwn_chts)
@@ -26,6 +26,6 @@ for index, js in enumerate(json_files):
     except ValueError:
         print('decoding json failed')
 
-mrgd_brkdwn_chts.to_csv('brkdown_corpora1.csv', sep = '\t')
+mrgd_brkdwn_chts.to_csv('brkdown_corpora2.csv', sep = '\t')
 
 

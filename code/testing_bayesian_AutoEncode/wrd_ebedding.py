@@ -28,7 +28,7 @@ class DataTransform():
 
     def classesEncod(self ,sampled_data):
         resampled_annotate = sampled_data
-        acts = [str(a).lower().strip() for a in resampled_annotate.commfunct.values]
+        acts = [str(a).lower().strip() for a in resampled_annotate.feats.values]
         classes_int = self.classes_int_encoder.fit_transform(acts).reshape(-1, 1)
         classes = self.classes_encoder.fit_transform(classes_int).toarray()
         return classes
